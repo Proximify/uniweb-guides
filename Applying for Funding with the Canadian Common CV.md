@@ -37,7 +37,7 @@ Once you have downloaded your CCV XML file, you are ready to continue the applic
 
 > **Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.
 
-*    > **Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.`
+* > **Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.`
 
 Now that you have updated your CCV, you may continue with your application as normal on the CCV website. If the funding agency requires that you only submit information going back a set number of years, see the next section on how UNIWeb can apply ‘Submit’ checkmarks on the CCV website for you. 
 
