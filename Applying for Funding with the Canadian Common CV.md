@@ -15,6 +15,7 @@ The process of applying to a funding agency that requires a CCV submission begin
 2. Choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency.
 3. Select the **Export to CCV** option from the right panel
 4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
+
 ---- 
 ## Importing CV information into the CCV website
 Once you have downloaded your CCV XML file, you are ready to continue the application process on the CCV website.
