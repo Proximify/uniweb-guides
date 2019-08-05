@@ -1,4 +1,4 @@
-# Applying for Funding with the Canadian Common CV 2
+# Applying for Funding with the Canadian Common CV 3
  ::/needs intro content/::
 
 ### On this page:
@@ -16,7 +16,7 @@ The process of applying to a funding agency that requires a CCV submission begin
 3. Select the **Export to CCV** option from the right panel
 4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
 
-Test
+
 ---- 
 ## Importing CV information into the CCV website
 Once you have downloaded your CCV XML file, you are ready to continue the application process on the CCV website.
