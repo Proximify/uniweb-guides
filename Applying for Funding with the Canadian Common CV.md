@@ -1,13 +1,17 @@
-# Applying for Funding with the Canadian Common CV 3
+# Applying for Funding with the Canadian Common CV 4
  ::/needs intro content/::
 
 ### On this page:
 - [Exporting CV information from UNIWeb][1]
 - Importing CV information into the CCV website
 - Applying ‘Submit?’ checkmarks
+
 ---- 
+
 ![This is a test image][image-1]
+
 ---- 
+
 ## Exporting CV information from UNIWeb
 The process of applying to a funding agency that requires a CCV submission begins by exporting your CV from UNIWeb into an XML file that can be read by the CCV website. 
 
@@ -16,8 +20,8 @@ The process of applying to a funding agency that requires a CCV submission begin
 3. Select the **Export to CCV** option from the right panel
 4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
 
-
 ---- 
+
 ## Importing CV information into the CCV website
 Once you have downloaded your CCV XML file, you are ready to continue the application process on the CCV website.
 
@@ -34,7 +38,9 @@ Once you have downloaded your CCV XML file, you are ready to continue the applic
 ###### **Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.
 
 Now that you have updated your CCV, you may continue with your application as normal on the CCV website. If the funding agency requires that you only submit information going back a set number of years, see the next section on how UNIWeb can apply ‘Submit’ checkmarks on the CCV website for you. 
+
 ---- 
+
 ## Applying ‘Submit?’ checkmarks
 When you apply for funding, some funding agencies require that you only submit information going back a set number of years. For example, some SSHRC applications require only the last 6 years of publications. 
 
