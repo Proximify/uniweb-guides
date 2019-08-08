@@ -13,6 +13,9 @@ Because both Curriculum Vitae and reports draw information from the same source,
 
 ![][image-3]
 
+![][image-4]
+![][image-5]
+
 ---- 
 ## Downloading your CV and Report files
 1. From your UNIWeb Home page, go to **Curriculum Vitae** 
@@ -76,3 +79,5 @@ You may choose to exclude publications from the downloaded document based on the
 [image-1]:	https://policomm-commpoli.gccollab.ca/conference2018/assets/images/conf-logo-v2.png "Policomm"
 [image-2]:	https://policomm-commpoli.gccollab.ca/conference2018/assets/images/conf-logo-v2.png
 [image-3]:	https://drive.google.com/file/d/1xKW1szq0qEiWd1TsbLlcicejm2ryEcdZ/view?usp=sharing
+[image-4]:	https://github.com/Proximify/uniweb-guides/blob/master/Photos/testimage.png?raw=true
+[image-5]:	https://github.com/Proximify/uniweb-guides/raw/master/Photos/testimage.png
