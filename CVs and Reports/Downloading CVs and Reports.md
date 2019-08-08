@@ -8,6 +8,7 @@ Because both Curriculum Vitae and reports draw information from the same source,
 - [Downloading member CVs and reports][2]
 - [Download Options][3]
 
+![Testing][image-1]
 ---- 
 ## Downloading your CV and Report files
 1. From your UNIWeb Home page, go to **Curriculum Vitae** 
@@ -16,7 +17,7 @@ Because both Curriculum Vitae and reports draw information from the same source,
 4. Optional: configure any other **Download Options** as needed
 5. Click **Download.**
 ---- 
-## Downloading Member CVs and Reports* Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches. 
+## Downloading Member CVs and Reports\* Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
 
 ##### **Before you begin: **this procedure requires an Admin Role with the following permissions:
 ##### - Edit Member Information
@@ -67,3 +68,5 @@ You may choose to exclude publications from the downloaded document based on the
 [1]:	#downloading-your-cv-and-report-files
 [2]:	#downloading-member-cvs-and-reports
 [3]:	#download-options
+
+[image-1]:	https://policomm-commpoli.gccollab.ca/conference2018/assets/images/conf-logo-v2.png "Policomm"
