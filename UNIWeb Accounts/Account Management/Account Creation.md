@@ -32,6 +32,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 1. Click the **Activate my UNIWeb account** link in the body of the email.
 2. Review the Software License terms, and if you agree, **click the “I agree” button** to proceed.
 3. **Create a password** for your new UNIWeb account, and **click the “Submit” button**.
+
 ---- 
 
 ## Creating UNIWeb member accounts manually
@@ -113,7 +114,8 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 4. In the _Invite selected members_ dialog, verify the UNIWeb members that you have selected.
 5. Click **Invite**.
 
-\---- \_ 
+----
+
 ## Sending account activation reminder emails
 
 If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
