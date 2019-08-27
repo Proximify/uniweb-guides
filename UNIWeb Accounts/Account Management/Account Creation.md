@@ -50,7 +50,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 	- Academic Unit
 4. Click **Save**.
 
-###### **Note** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process. 
+###### **Note** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process.
 
 ---- 
 
@@ -73,8 +73,8 @@ To get your member account spreadsheet started, you can download a template spre
 This will download an example spreadsheet that follows the necessary format for creating new UNIWeb accounts in bulk. You can start building your account spreadsheet directly from this template.
 
 The sample spreadsheet includes all of the accepted [member information fields]() that can be used when creating a UNIWeb account spreadsheet. Entries marked with an asterisk are mandatory.
-- First Name* - Middle Name
-- Last Name* - Account Type* - Position Title* - Academic Unit* - Email* - Username 
+- First Name\* - Middle Name
+- Last Name* - Account Type* - Position Title* - Academic Unit* - Email\* - Username 
 - Telephone 
 - Homepage 
 - Office
@@ -113,7 +113,7 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 4. In the _Invite selected members_ dialog, verify the UNIWeb members that you have selected.
 5. Click **Invite**.
 
----- _ 
+---- 
 ## Sending account activation reminder emails
 
 If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
