@@ -74,8 +74,14 @@ To get your member account spreadsheet started, you can download a template spre
 This will download an example spreadsheet that follows the necessary format for creating new UNIWeb accounts in bulk. You can start building your account spreadsheet directly from this template.
 
 The sample spreadsheet includes all of the accepted [member information fields]() that can be used when creating a UNIWeb account spreadsheet. Entries marked with an asterisk are mandatory.
-- First Name\* - Middle Name
-- Last Name* - Account Type* - Position Title* - Academic Unit* - Email\* - Username 
+- First Name* 
+- Middle Name
+- Last Name* 
+- Account Type* 
+- Position Title* 
+- Academic Unit* 
+- Email* 
+- Username 
 - Telephone 
 - Homepage 
 - Office
