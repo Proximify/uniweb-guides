@@ -133,7 +133,7 @@ If you have invited members previously, but they have yet to activate their acco
 7. Click **Invite**.
 
 [1]:	#creating-your-UNIWeb-account-from-your-institutions-UNIWeb-website
-[2]:	##creating-your-UNIWeb-account-from-an-invitation-email
+[2]:	#creating-your-UNIWeb-account-from-an-invitation-email
 [3]:	##creating-UNIWeb-member-accounts-manually
 [4]:	##creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet
 [5]:	##sending-account-activation-emails
