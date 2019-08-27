@@ -9,5 +9,7 @@ You can either begin composing your CV from scratch, using UNIWeb’s intuitive 
 
 ### In this section:
 - Your Curriculum Vitae (CV)
+- Publications
+- Applying for funding with the Canadian Common CV
 - Downloading CVs and Reports
 - Customizing reports, data, and templates in UNIWeb

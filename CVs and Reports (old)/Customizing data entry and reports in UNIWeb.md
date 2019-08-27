@@ -21,6 +21,6 @@ While UNIWeb includes a generic annual activity report template, institutions ma
 For more information on the report design and creation process, download our **Report Design** document, and contact us at **requests@proximify.ca.**
 ---- 
 ## Creating custom input templates
-You can have custom input templates created for your UNIWeb instance to help UNIWeb members update their CVs and fill out reports. These templates can be assigned to an academic unit to allow researchers in that unit to input CV data without being shown other custom data entry fields that are not relevant to their work, or the template can be designed to assist with the data entry of a specific internal report. 
+Simplify the process of updating the UNIWeb CV by designing your own input templates, similar to the CCV input templates for funding competitions. These templates can be assigned to an academic unit to allow researchers in that unit to input data without being affected by data field additions for other units, which can be filtered out by the template. Or the template can be designed to assist with the data entry of a specific internal report. 
 
 Contact us at **requests@proximify.ca** for further information on creating input templates in your institution’s UNIWeb instance.  
