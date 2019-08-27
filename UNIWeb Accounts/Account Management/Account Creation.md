@@ -130,7 +130,7 @@ If you have invited members previously, but they have yet to activate their acco
 4. Click **Unactivated accounts**. UNIWeb will automatically select the members who have received the specified number of account activation emails.
 5. In the right panel, click **Account activation**.
 6. In the _Invite seleted members_ dialog, verify the UNIWeb members that you have selected.
-7. Click **Invite**.
+7. Click **Invite**. 
 
 [1]:	#Creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website
 [2]:	#creating-your-UNIWeb-account-from-an-invitation-email
