@@ -132,14 +132,14 @@ If you have invited members previously, but they have yet to activate their acco
 6. In the _Invite seleted members_ dialog, verify the UNIWeb members that you have selected.
 7. Click **Invite**.
 
-[1]:	#creating-your-UNIWeb-account-from-your-institutions-UNIWeb-website
+[1]:	#creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website
 [2]:	#creating-your-UNIWeb-account-from-an-invitation-email
-[3]:	##creating-UNIWeb-member-accounts-manually
-[4]:	##creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet
-[5]:	##sending-account-activation-emails
-[6]:	##sending-account-activation-reminder-emails
+[3]:	#creating-UNIWeb-member-accounts-manually
+[4]:	#creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet
+[5]:	#sending-account-activation-emails
+[6]:	#sending-account-activation-reminder-emails
 [8]:	####account-type
-[9]:	##member-information-fields
-[10]:	##creating-your-UNIWeb-account-from-an-invitation-email
-[11]:	##member-information-fields
-[12]:	##sending-account-activation-emails
+[9]:	#member-information-fields
+[10]:	#creating-your-UNIWeb-account-from-an-invitation-email
+[11]:	#member-information-fields
+[12]:	#sending-account-activation-emails
