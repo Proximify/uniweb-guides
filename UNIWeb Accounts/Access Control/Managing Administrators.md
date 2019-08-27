@@ -1,4 +1,5 @@
 # Managing Administrators
+
 Within UNIWeb, administrator access can be assigned, modified, and removed by assigning roles to UNIWeb members. Depending on the level of access that they need, UNIWeb members may have multiple administrator roles assigned. If a UNIWeb member has at least one role assigned to them, they are considered an administrator.
 
 ### On this page:
@@ -6,7 +7,10 @@ Within UNIWeb, administrator access can be assigned, modified, and removed by as
 - [Editing administrator access][2]
 - [Removing administrator access][3]
 
+---- 
+
 ## Granting administrator access
+
 Administrator access in UNIWeb is granted through assigning **administrator roles**. If there are no existing administrator roles that include the permissions that you would like to grant, you can first create a new role or edit an existing role to fit.
 
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
@@ -19,7 +23,10 @@ Administrator access in UNIWeb is granted through assigning **administrator role
 4. **Click the checkbox** next to the role(s) that you would like to assign to the selected UNIWeb member.
 5. Click **Save**.
 
+---- 
+
 ## Editing administrator access
+
 You can modify the level of access that a UNIWeb administrator has been granted by adding or removing roles from their administrator profile.
 
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
@@ -33,7 +40,10 @@ You can modify the level of access that a UNIWeb administrator has been granted 
 
 > **Tip:** You can also modify a UNIWeb administrator’s level of access by editing a role that has been assigned to them. This will also affect any other members that have been assigned the same role.
 
+---- 
+
 ## Removing administrator access
+
 You can revoke a UNIWeb member’s administrator access by removing all of the roles from their administrator profile. This will only remove their administrative permissions. This will not remove the user from UNIWeb and their CV data and profile will remain untouched.
 
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
@@ -47,6 +57,6 @@ You can revoke a UNIWeb member’s administrator access by removing all of the r
 
 > **Tip:** Administrator access can also be removed by deleting the roles that have been assigned to them. Doing so will also remove those roles from all other UNIWeb members that have had those roles assigned to them.
 
-[1]:	##granting-administrator-access
-[2]:	##editing-administrator-access
-[3]:	##removing-administrator-access
+[1]:	#granting-administrator-access
+[2]:	#editing-administrator-access
+[3]:	#removing-administrator-access

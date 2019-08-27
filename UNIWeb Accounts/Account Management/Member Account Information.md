@@ -1,4 +1,5 @@
 # Member Account Information
+
 Your member account information serves two important purposes in UNIWeb:
 - Your member account information is displayed at the top of your public profile, allowing other UNIWeb members to contextualize your position within your institution and contact you using methods that you prefer. 
 - Parts of your member account information, like your account type and position title, will affect both your discoverability within UNIWeb and the information fields that are available for you to fill out on your public profile.
@@ -7,7 +8,9 @@ Your member account information serves two important purposes in UNIWeb:
 - [Editing your member account information][1]
 - [Editing the member account information of other UNIWeb members][2]
 - [Member account information fields][3]
+
 ---- 
+
 ## Editing your account information
 1. From your UNIWeb Home page, go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
@@ -15,8 +18,11 @@ Your member account information serves two important purposes in UNIWeb:
 4. Click **Save**
 
 ###### **Note:** As a general UNIWeb member, you can change all of your account information except for your account type, as this field can affect several areas of UNIWeb. If you need to change your account type, contact a system administrator for your academic unit.
+
 ---- 
+
 ## Editing the account information of other UNIWeb members
+
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 ##### - Edit member information
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
@@ -26,7 +32,9 @@ Your member account information serves two important purposes in UNIWeb:
 3. In the centre panel on the UNIWeb member’s profile page, to the right of their name, click **Edit**.
 4. Add to or edit their account information in the entry form as needed.
 5. Click **Save**
+
 ---- 
+
 ## Account information fields
 
 #### First Name
@@ -82,6 +90,6 @@ The UNIWeb member’s office address.
 #### Homepage
 A link to the UNIWeb Member’s primary website outside of UNIWeb. 
 
-[1]:	##editing-your-member-account-information
-[2]:	##editing-the-member-account-information-of-other-UNIWeb-members
-[3]:	##account-information-fields
+[1]:	#editing-your-member-account-information
+[2]:	#editing-the-member-account-information-of-other-UNIWeb-members
+[3]:	#account-information-fields

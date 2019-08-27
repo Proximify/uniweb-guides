@@ -8,7 +8,7 @@
 - [Add a unit type][5]
 - [Academic unit information fields][6]
 
-## Add an Academic Unit Manually
+## Add an academic unit Manually
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
 ##### - Edit academic units
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
@@ -52,7 +52,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 • Columns that UNIWeb does not recognize will cause an error.
 
 ### Uploading your spreadsheet to UNIWeb
-1. From your UNIWeb Administrator page, go to **Academic Units**.
+1. From your UNIWeb Administration page, go to **Academic Units**.
 2. In the right panel, click **Add units from a file**
 3. In the _Add new units_ dialog, click **Choose File**, and locate your academic units spreadsheet on your computer.
 4. Click **Submit**.
@@ -64,7 +64,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 ##### - Edit academic units
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 
-1. From your UNIWeb Administrator page, go to **Academic Units**.
+1. From your UNIWeb Administration page, go to **Academic Units**.
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
 3. Click **Edit** to the right of the _Unit Information_ heading.
 4. Add or edit information in the _Unit Information_ entry form as needed.
@@ -76,7 +76,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 ##### - Edit academic units
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 
-1. From your UNIWeb Administrator page, go to **Academic Units**.
+1. From your UNIWeb Administration page, go to **Academic Units**.
 2. In the centre panel, locate and click on the checkbox to the right of the academic unit(s) that you would like to delete.
 3. In the right panel, click **Delete selected**.
 4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
@@ -119,10 +119,10 @@ The hexadecimal colour value that will represent this academic unit in research 
 #### Default CV Template
 You can select an input template that will be preselected for UNIWeb members affiliated with this academic unit when they access their UNIWeb Curriculum Vitae. They can still select from other options.
 
-[1]:	##add-an-academic-unit-manually
-[2]:	##add-multiple-academic-units-using-a-spreadsheet
-[3]:	##edit-an-academic-unit
-[4]:	##delete-an-academic-unit
-[5]:	##add-a-unit-type
-[6]:	##academic-unit-information-fields
+[1]:	#add-an-academic-unit-manually
+[2]:	#add-multiple-academic-units-using-a-spreadsheet
+[3]:	#edit-an-academic-unit
+[4]:	#delete-an-academic-unit
+[5]:	#add-a-unit-type
+[6]:	#academic-unit-information-fields
 [8]:	https://demo.uniweb.network/members?unit=facofeng

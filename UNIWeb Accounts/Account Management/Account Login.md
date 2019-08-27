@@ -1,5 +1,10 @@
 # Account Login
 
+### On this page:
+- [Logging in to your UNIWeb account][1]
+- [Resetting your UNIWeb password][2]
+- [Sending a password reset email to a UNIWeb member][3]
+
 ## Logging in to your UNIWeb account
 
 1. From your institution’s UNIWeb Network page, click the **Sign in** button on the right side of the navigation bar.
@@ -30,8 +35,12 @@
 ##### - Edit Member Information
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 
-1. From your UNIWeb Administrator page, go to **Members**.
+1. From your UNIWeb Administration page, go to **Members**.
 2. Locate any UNIWeb members to whom you would like to send a password reset email, and**click the checkbox** on the right side of their row. You may only send password reset emails to UNIWeb members within your own Academic Unit and its sub-units.
 3. In the right panel, click **Password reset**.
 4. In the _Reset Password_ dialog, confirm that you have selected the correct UNIWeb members, and click the**Reset passwords** button. The UNIWeb member will receive an email at their account email address with instructions on how to reset their password.
 
+
+[1]:	#logging-in-to-your-UNIWeb-account
+[2]:	#resetting-your-uniweb-password
+[3]:	#sending-a-password-reset-email-to-a-uniweb-member
