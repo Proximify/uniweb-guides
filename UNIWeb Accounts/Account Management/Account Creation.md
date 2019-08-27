@@ -38,7 +38,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## Creating UNIWeb member accounts manually
 
 ##### **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
-- Create new accounts
+##### - Create new accounts
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 
 1. From your UNIWeb Administrator page, go to **Members**.
