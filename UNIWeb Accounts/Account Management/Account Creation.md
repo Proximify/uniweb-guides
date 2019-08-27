@@ -51,7 +51,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 	- Academic Unit
 4. Click **Save**.
 
-###### **Note** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process.
+###### **Note:** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process.
 
 ---- 
 
