@@ -3,13 +3,8 @@
 
 ### On this page:
 - [Exporting CV information from UNIWeb][1]
-- Importing CV information into the CCV website
+- [Importing CV information into the CCV website][2]
 - Applying ‘Submit?’ checkmarks
-
----- 
-
-![This is a test image][image-1]
-
 ---- 
 
 ## Exporting CV information from UNIWeb
@@ -57,12 +52,15 @@ When the CCV website creates a CV draft for your application, it lists all avail
 
 After this process, when you log in to the CCV website and access the funding template for your application, the Submit? checkboxes for the listed CV items will be selected according to the time period that you defined in the steps above. You may continue your funding application on the CCV website as normal.
 
-[1]:	##exporting-cv-information-from-uniweb
-
-[image-1]:	https://policomm-commpoli.gccollab.ca/conference2018/assets/images/conf-logo-v2.png "Test image"
-
-[![Some video](http://img.youtube.com/vi/M64HUIJFTZM/0.jpg)](http://www.youtube.com/watch?v=M64HUIJFTZM)
+[![Some video][image-1]][3]
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/M64HUIJFTZM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+" target="_blank">\<img src="http://img.youtube.com/vi/M64HUIJFTZM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /\></a>
+
+[1]:	##exporting-cv-information-from-uniweb
+[2]:	##importing-cv-information-into-the-ccv-website
+[3]:	http://www.youtube.com/watch?v=M64HUIJFTZM
+
+[image-1]:	http://img.youtube.com/vi/M64HUIJFTZM/0.jpg
