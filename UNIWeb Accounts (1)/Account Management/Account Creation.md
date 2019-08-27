@@ -36,11 +36,11 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 
 ## Creating UNIWeb member accounts manually
 
-<<<<<<< HEAD
+\<\<\<\<\<\<\< HEAD
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 =======
 ##### **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
->>>>>>> 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
+> > > > > > > 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
 ##### - Create new accounts
 ##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 
@@ -54,23 +54,24 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 	- Academic Unit
 4. Click **Save**.
 
-<<<<<<< HEAD
-###### **Note** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process. 
+\<\<\<\<\<\<\< HEAD
+###### **Note** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process.
 =======
-###### **Note:** After following the above procedure, you must [send an account activation email][12] in order for the new UNIWeb member to complete the account activation process.
->>>>>>> 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
+###### **Note:** After following the above procedure, you must [send an account activation email][13] in order for the new UNIWeb member to complete the account activation process.
+> > > > > > > 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
 
 ---- 
 
 ## Creating UNIWeb member accounts in bulk using a spreadsheet
 
 ##### **Before you begin: **this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
-##### - Create new accounts
-##### If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+ - Create new accounts
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 
 From time to time, you may need to add many new member accounts at once. You can create member accounts in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the accounts that you would like to add. UNIWeb will scan the spreadsheet for accounts that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
-To get your member account spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
+> To get your member account spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
+> > 
 
 ### To download a template spreadsheet:
 
@@ -81,19 +82,19 @@ To get your member account spreadsheet started, you can download a template spre
 This will download an example spreadsheet that follows the necessary format for creating new UNIWeb accounts in bulk. You can start building your account spreadsheet directly from this template.
 
 The sample spreadsheet includes all of the accepted [member information fields]() that can be used when creating a UNIWeb account spreadsheet. Entries marked with an asterisk are mandatory.
-<<<<<<< HEAD
-- First Name* - Middle Name
-- Last Name* - Account Type* - Position Title* - Academic Unit* - Email* - Username 
+\<\<\<\<\<\<\< HEAD
+- First Name\* - Middle Name
+- Last Name* - Account Type* - Position Title* - Academic Unit* - Email\* - Username 
 =======
-- First Name* 
+- First Name\* 
 - Middle Name
-- Last Name* 
-- Account Type* 
-- Position Title* 
-- Academic Unit* 
-- Email* 
+- Last Name\* 
+- Account Type\* 
+- Position Title\* 
+- Academic Unit\* 
+- Email\* 
 - Username 
->>>>>>> 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
+> > > > > > > 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
 - Telephone 
 - Homepage 
 - Office
@@ -132,7 +133,7 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 4. In the _Invite selected members_ dialog, verify the UNIWeb members that you have selected.
 5. Click **Invite**.
 
----- _ 
+\---- \_ 
 ## Sending account activation reminder emails
 
 If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
@@ -149,11 +150,11 @@ If you have invited members previously, but they have yet to activate their acco
 6. In the _Invite seleted members_ dialog, verify the UNIWeb members that you have selected.
 7. Click **Invite**.
 
-<<<<<<< HEAD
-[1]:	#Creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website
+\<\<\<\<\<\<\< HEAD
 =======
-[1]:	#creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website
->>>>>>> 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
+> > > > > > > 7ed8ed534e89db7b82fa7ace54631dbdca70d5bc
+
+[1]:	#Creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website
 [2]:	#creating-your-UNIWeb-account-from-an-invitation-email
 [3]:	#creating-UNIWeb-member-accounts-manually
 [4]:	#creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet
@@ -164,3 +165,4 @@ If you have invited members previously, but they have yet to activate their acco
 [10]:	#creating-your-UNIWeb-account-from-an-invitation-email
 [11]:	#member-information-fields
 [12]:	#sending-account-activation-emails
+[13]:	#sending-account-activation-emails
