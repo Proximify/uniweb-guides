@@ -13,7 +13,7 @@
 
 ## Creating your UNIWeb account from an institution’s UNIWeb website
 
-##### Before you begin: If your institution has integrated UNIWeb with an existing single-sign-on system, then an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](). There will be no option to sign up from your institution’s UNIWeb Network page.
+##### **Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, then an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](). There will be no option to sign up from your institution’s UNIWeb Network page.
 
 1.  From your institution’s UNIWeb Network page, click the **Sign up** button on the right side of the navigation bar.
 2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type][8]. Click **Next**.
@@ -27,7 +27,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 
 ## Creating your UNIWeb account from an invitation email
 
-##### Before you begin: you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and have not, please reach out to a system administrator for your institution’s UNIWeb instance.
+##### **Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and have not, please reach out to a system administrator for your institution’s UNIWeb instance.
 
 1. Click the **Activate my UNIWeb account** link in the body of the email.
 2. Review the Software License terms, and if you agree, **click the “I agree” button** to proceed.
