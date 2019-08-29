@@ -2,12 +2,12 @@
 
 ### On this page:
 
-* [Add an academic unit manually](managing-academic-units.md#add-an-academic-unit-manually)
-* [Add multiple academic units using a spreadsheet](managing-academic-units.md#add-multiple-academic-units-using-a-spreadsheet)
-* [Edit an academic unit](managing-academic-units.md#edit-an-academic-unit)
-* [Delete an academic unit](managing-academic-units.md#delete-an-academic-unit)
-* [Add a unit type](managing-academic-units.md#add-a-unit-type)
-* [Academic unit information fields](managing-academic-units.md#academic-unit-information-fields)
+* [Add an academic unit manually](managing-academic-units%20%281%29.md#add-an-academic-unit-manually)
+* [Add multiple academic units using a spreadsheet](managing-academic-units%20%281%29.md#add-multiple-academic-units-using-a-spreadsheet)
+* [Edit an academic unit](managing-academic-units%20%281%29.md#edit-an-academic-unit)
+* [Delete an academic unit](managing-academic-units%20%281%29.md#delete-an-academic-unit)
+* [Add a unit type](managing-academic-units%20%281%29.md#add-a-unit-type)
+* [Academic unit information fields](managing-academic-units%20%281%29.md#academic-unit-information-fields)
 
 ## Add an academic unit Manually
 
@@ -44,7 +44,7 @@ To get your academic unit spreadsheet started, you can download a template sprea
 2. In the right panel, click **Add units from a file**
 3. In the _Add new units_ dialog, click **Download template file**
 
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. Entries marked with an asterisk are mandatory:
+The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units%20%281%29.md) that can be used when creating an academic unit spreadsheet. Entries marked with an asterisk are mandatory:
 
 * Type _- Unit Name_  - Parent Unit \* - French Name
 * URL Name

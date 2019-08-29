@@ -2,24 +2,24 @@
 
 ### On this page:
 
-* [Creating your UNIWeb account from an institution’s UNIWeb website](account-creation.md#Creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website)
-* [Creating your UNIWeb account from an invitation email](account-creation.md#creating-your-UNIWeb-account-from-an-invitation-email)
-* [Creating UNIWeb member accounts manually](account-creation.md#creating-UNIWeb-member-accounts-manually)
-* [Creating UNIWeb member accounts in bulk using a spreadsheet](account-creation.md#creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet)
-* [Sending account activation emails](account-creation.md#sending-account-activation-emails)
-* [Sending account activation reminder emails](account-creation.md#sending-account-activation-reminder-emails)
+* [Creating your UNIWeb account from an institution’s UNIWeb website](account-creation%20%281%29.md#Creating-your-UNIWeb-account-from-an-institutions-UNIWeb-website)
+* [Creating your UNIWeb account from an invitation email](account-creation%20%281%29.md#creating-your-UNIWeb-account-from-an-invitation-email)
+* [Creating UNIWeb member accounts manually](account-creation%20%281%29.md#creating-UNIWeb-member-accounts-manually)
+* [Creating UNIWeb member accounts in bulk using a spreadsheet](account-creation%20%281%29.md#creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet)
+* [Sending account activation emails](account-creation%20%281%29.md#sending-account-activation-emails)
+* [Sending account activation reminder emails](account-creation%20%281%29.md#sending-account-activation-reminder-emails)
 
 ## Creating your UNIWeb account from an institution’s UNIWeb website
 
-> **Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, then an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-creation.md). There will be no option to sign up from your institution’s UNIWeb Network page.
+> **Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, then an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-creation%20%281%29.md). There will be no option to sign up from your institution’s UNIWeb Network page.
 
 1. From your institution’s UNIWeb Network page, click the **Sign up** button on the right side of the navigation bar.
-2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](account-creation.md####account-type). Click **Next**.
-3. Fill out the details of your [membership information](account-creation.md##member-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
+2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](account-creation%20%281%29.md####account-type). Click **Next**.
+3. Fill out the details of your [membership information](account-creation%20%281%29.md##member-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
 5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
 
-Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md#creating-your-UNIWeb-account-from-an-invitation-email) to complete your account creation.
+Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation%20%281%29.md#creating-your-UNIWeb-account-from-an-invitation-email) to complete your account creation.
 
 ## Creating your UNIWeb account from an invitation email
 
@@ -39,7 +39,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 
 1. From your UNIWeb Administration page, go to **Members**.
 2. In the right panel, click the **Add a new member** button.
-3. In the _Add new members_ dialog, fill in the [member information fields](account-creation.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory:
+3. In the _Add new members_ dialog, fill in the [member information fields](account-creation%20%281%29.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory:
    * First Name
    * Last Name
    * Account Type
@@ -69,7 +69,7 @@ To get your member account spreadsheet started, you can download a template spre
 
 This will download an example spreadsheet that follows the necessary format for creating new UNIWeb accounts in bulk. You can start building your account spreadsheet directly from this template.
 
-The sample spreadsheet includes all of the accepted [member information fields](account-creation.md) that can be used when creating a UNIWeb account spreadsheet. Entries marked with an asterisk are mandatory.
+The sample spreadsheet includes all of the accepted [member information fields](account-creation%20%281%29.md) that can be used when creating a UNIWeb account spreadsheet. Entries marked with an asterisk are mandatory.
 
 * First Name\* - Middle Name
 * Last Name _- Account Type_ - Position Title _- Academic Unit_ - Email\* - Username 
@@ -77,7 +77,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
 * Homepage 
 * Office
 
-  Acceptable entries for account type, position title and [academic unit](account-creation.md) are dictated by your institution. 
+  Acceptable entries for account type, position title and [academic unit](account-creation%20%281%29.md) are dictated by your institution. 
 
 ### Spreadsheet tips:
 

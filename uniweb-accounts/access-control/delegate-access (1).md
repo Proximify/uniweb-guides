@@ -4,9 +4,9 @@ UNIWeb users can securely grant other UNIWeb users access to their account in or
 
 ### On this page:
 
-* [Granting Delegate Access](delegate-access.md#granting-delegate-access)
-* [Requesting Delegate Access](delegate-access.md#requesting-delegate-access)
-* [Switching to a delegated account](delegate-access.md#switching-to-a-delegated-account)
+* [Granting Delegate Access](delegate-access%20%281%29.md#granting-delegate-access)
+* [Requesting Delegate Access](delegate-access%20%281%29.md#requesting-delegate-access)
+* [Switching to a delegated account](delegate-access%20%281%29.md#switching-to-a-delegated-account)
 * \[Revoking Delegate Access\]\[4\]
 
 ## Granting Delegate Access

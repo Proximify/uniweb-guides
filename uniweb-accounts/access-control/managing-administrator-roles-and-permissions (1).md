@@ -12,10 +12,10 @@ As the role above applies only to the Health Sciences academic unit, the adminis
 
 ### On this page:
 
-* [Creating Administrator Roles](managing-administrator-roles-and-permissions.md#creating-administrator-roles)
-* [Editing Administrator Roles](managing-administrator-roles-and-permissions.md#editing-administrator-roles)
-* [Deleting Administrator Roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles)
-* [Administrator Permissions](managing-administrator-roles-and-permissions.md#administrator-permissions)
+* [Creating Administrator Roles](managing-administrator-roles-and-permissions%20%281%29.md#creating-administrator-roles)
+* [Editing Administrator Roles](managing-administrator-roles-and-permissions%20%281%29.md#editing-administrator-roles)
+* [Deleting Administrator Roles](managing-administrator-roles-and-permissions%20%281%29.md#deleting-administrator-roles)
+* [Administrator Permissions](managing-administrator-roles-and-permissions%20%281%29.md#administrator-permissions)
 
 ## Creating Administrator Roles
 

@@ -4,7 +4,7 @@ If your tenure at your institution is ending, your institution
 
 ### On this page:
 
-* [Deleting your own UNIWeb account](account-deletion.md#deleting-your-own-uniweb-account)
+* [Deleting your own UNIWeb account](account-deletion%20%281%29.md#deleting-your-own-uniweb-account)
 * \[Deleting a UNIWeb member’s account\]\[2\]
 
 ## Deleting your own UNIWeb account

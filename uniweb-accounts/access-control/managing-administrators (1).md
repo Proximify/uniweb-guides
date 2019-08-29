@@ -4,8 +4,8 @@ Within UNIWeb, administrator access can be assigned, modified, and removed by as
 
 ### On this page:
 
-* [Granting administrator access](managing-administrators.md#granting-administrator-access)
-* [Editing administrator access](managing-administrators.md#editing-administrator-access)
+* [Granting administrator access](managing-administrators%20%281%29.md#granting-administrator-access)
+* [Editing administrator access](managing-administrators%20%281%29.md#editing-administrator-access)
 * \[Removing administrator access\]\[3\]
 
 ## Granting administrator access

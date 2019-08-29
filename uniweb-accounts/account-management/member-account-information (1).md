@@ -7,9 +7,9 @@ Your member account information serves two important purposes in UNIWeb:
 
 ### On this page:
 
-* [Editing your member account information](member-account-information.md#editing-your-member-account-information)
-* [Editing the member account information of other UNIWeb members](member-account-information.md#editing-the-member-account-information-of-other-UNIWeb-members)
-* [Member account information fields](member-account-information.md#account-information-fields)
+* [Editing your member account information](member-account-information%20%281%29.md#editing-your-member-account-information)
+* [Editing the member account information of other UNIWeb members](member-account-information%20%281%29.md#editing-the-member-account-information-of-other-UNIWeb-members)
+* [Member account information fields](member-account-information%20%281%29.md#account-information-fields)
 
 ## Editing your account information
 
@@ -76,11 +76,11 @@ Position titles more specifically categorize roles of UNIWeb members within thei
 This affects certain areas of UNIWeb:
 
 * A user’s position title will affect the sections that are available on their public profile. For example, a professor’s profile will have a section to list the grad students that he or she supervises, whereas a student’s profile will have a section to list their supervisor.
-* Position titles are used throughout UNIWeb for filtering data. For example, narrowing down results in [Research Places](member-account-information.md) to only display doctoral students.
+* Position titles are used throughout UNIWeb for filtering data. For example, narrowing down results in [Research Places](member-account-information%20%281%29.md) to only display doctoral students.
 
 #### Academic Unit
 
-Academic units designate a UNIWeb member’s academic affiliation to a faculty or department. When creating a user’s account, a primary academic affiliation must be indicated. Administrators can also add members to secondary units, called [cross-appointments](member-account-information.md), at a later time.
+Academic units designate a UNIWeb member’s academic affiliation to a faculty or department. When creating a user’s account, a primary academic affiliation must be indicated. Administrators can also add members to secondary units, called [cross-appointments](member-account-information%20%281%29.md), at a later time.
 
 #### Email
 
