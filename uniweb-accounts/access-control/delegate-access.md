@@ -38,9 +38,13 @@ After you click Send, the UNIWeb member will receive a notification informing th
 
 UNIWeb will reload, and you will see the name of the UNIWeb member that you selected at the top right of the navigation bar instead of your own. You can continue to use UNIWeb normally.
 
-**Note: While you are logged in to any delegated account other than your own, you will not have access to any administration privileges that you or the other UNIWeb member may have.**
+{% hint style="danger" %}
+**Note:** While you are logged in to any delegated account other than your own, you will not have access to any administration privileges that you or the other UNIWeb member may have.
+{% endhint %}
 
-#### **Tip:** to return to your own account, follow the same steps above, selecting your own name in the drop down menu.
+{% hint style="info" %}
+**Tip:** To return to your own account, follow the same steps above, selecting your own name in the dropdown menu.
+{% endhint %}
 
 ## Revoking Delegate Access
 
@@ -50,5 +54,5 @@ The UNIWeb member will lose access to your account immediately, and they will be
 
 If you would like to revoke **your own** Delegate Access to another UNIWeb member’s account, perform the following steps: 1. From your UNIWeb Home page, **click on your name** in the top right corner. 2. In the drop down menu that appears, UNIWeb members who have granted you delegate access to their accounts are listed under your account information. Click the **Remove** button next to the name of the UNIWeb member whose account you no longer need to access.
 
-\[4\]: \#revoking-delegate-access
+
 
