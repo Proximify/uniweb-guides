@@ -1,2 +1,0 @@
-# Your Curriculum Vitae \(CV\)
-
