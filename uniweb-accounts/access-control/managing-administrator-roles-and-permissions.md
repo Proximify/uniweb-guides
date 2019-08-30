@@ -1,10 +1,10 @@
 # Managing Administrator Roles and Permissions
 
-UNIWeb administrators are differentiated from general UNIWeb members because they can perform certain tasks within UNIWeb that general users cannot, or would not need to. The ability to perform a particular administrative task is called a _permission_.
+UNIWeb administrators are differentiated from general UNIWeb members because they can perform certain tasks within UNIWeb that general users cannot, or would not need to. The ability to perform a particular administrative task is called a _**permission**_.
 
-Not every UNIWeb administrator will need access to every permission across the entire UNIWeb network; generally, a small number of users will need to have a particular set of permissions to perform administrative tasks within their academic unit. Accordingly, UNIWeb delegates administrator permissions through the creation of administrator _roles_, groupings of permissions that are restricted to a particular academic unit and its sub-units. Roles can be assigned, modified, and removed from multiple UNIWeb members at once.
+Not every UNIWeb administrator will need access to every permission across the entire UNIWeb network. Generally, a small number of users will need to have a particular set of permissions to perform administrative tasks within their academic unit. Accordingly, UNIWeb delegates administrator permissions through the creation of administrator _**roles**_, groupings of permissions that are restricted to a particular academic unit and its sub-units. Roles can be assigned, modified, and removed from multiple UNIWeb members at once.
 
-For example, a department of health sciences may have 3 faculty members that are dedicated to performing administrative tasks within the health sciences academic unit in UNIWeb. These three administrators could be assigned a single role that may include the following settings:
+For example, a department of health sciences may have 3 faculty members that are dedicated to performing administrative tasks within the health sciences academic unit. These three administrators could be assigned a single role that looks like this:
 
 <table>
   <thead>
@@ -31,7 +31,7 @@ For example, a department of health sciences may have 3 faculty members that are
       </td>
     </tr>
   </tbody>
-</table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would only be able to perform those tasks within that academic unit and its sub-units. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
+</table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would _only be able to perform those tasks within the Health Sciences academic unit and its sub-units_. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
 
 #### On this page:
 
@@ -50,12 +50,10 @@ For example, a department of health sciences may have 3 faculty members that are
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
 
-
-
-1. From your UNIWeb Administration page, go to **Access Control**
+1. From your [UNIWeb Administration page](../../introduction/navigating-uniweb/uniweb-sections.md#the-administration-page), go to **Access Control**
 2. Click the **Add role** button in the left panel
 3. In the _New Role_ dialog, type in a **Role name** and select the **Academic Unit** where the new role’s permissions will be applied. You may only create Roles within your own Academic Unit and its sub-units.
-4. Select the **permissions**that you would like to assign to the new role. You may only assign permissions that you have access to within your Academic Unit.
+4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role. You may only assign permissions that you have access to within your Academic Unit.
 5. Click **Save**.
 
 {% hint style="info" %}
@@ -72,23 +70,19 @@ If you have not been assigned a Role with the permissions listed above, and beli
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb Administration page, go to **Access Control**
+1. From your [UNIWeb Administration page](../../introduction/navigating-uniweb/uniweb-sections.md#the-administration-page), go to **Access Control**
 2. In the left panel, locate and **click on the role** that you would like to modify. You may only edit roles within your Academic Unit and its sub-units.
 3. In the role dialog, you can modify the role name, Academic Unit, and select or deselect permissions for the role. You may only assign permissions that you have access to within your Academic Unit.
-4. Select the **permissions** that you would like to assign to the new role
+4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role
 5. Click **Save.**
 
 {% hint style="danger" %}
 **Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
 {% endhint %}
 
-**Tip: Permissions are applied to roles within their specific Academic Unit and all of the child units under it. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the Academic Unit for the role.**
-
 ## Deleting Administrator Roles
 
-Roles cannot be deleted, but their permissions can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
-
-**Note: Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.**
+Roles cannot be deleted, but their [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
@@ -102,6 +96,10 @@ If you have not been assigned a Role with the permissions listed above, and beli
 2. In the left panel, locate and **click on the role** that you would like to modify. **You may only edit roles within your academic unit and its sub-units.**
 3. In the role dialog, deselect all of the role’s assigned permissions.
 4. Click **Save**.
+
+{% hint style="danger" %}
+**Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
+{% endhint %}
 
 ## Administrator Permissions
 
