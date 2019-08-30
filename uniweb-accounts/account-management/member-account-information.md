@@ -40,69 +40,119 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 ## Account information fields
 
-#### First Name
-
-The UNIWeb Member’s first name.
-
-#### Middle Name
-
-The UNIWeb Member’s middle name.
-
-#### Last Name
-
-The UNIWeb Member’s last name.
-
-#### Account Type
-
-Account types broadly categorize the roles of UNIWeb members at their institution. Professors will have different needs than students or lecturers, and so the account type chosen will affect the sections that are displayed on the UNIWeb member’s public profile. For example, a professor’s profile will have a section to list the graduate students that he or she supervises, whereas a graduate student’s profile will have a section to list their supervisor.
-
-The available account types are as follows:
-
-* Administrator
-* Alumnus
-* Doctoral Student
-* Industrial Partner 
-* Invited Professor 
-* Lecturer Librarian 
-* Master’s student
-* Postdoctoral Fellow
-* Professor
-* Research Assistant
-* Research Associate
-* Researcher
-* Teaching associate
-* Webmaster
-
-#### Position Title
-
-Position titles more specifically categorize roles of UNIWeb members within their institutions. A member whose **account type** is Professor may have the **position title** of Assistant, Associate, or Adjunct Professor, for example, though some **account types** only have one **position title** available.
-
-This affects certain areas of UNIWeb:
-
-* A user’s position title will affect the sections that are available on their public profile. For example, a professor’s profile will have a section to list the grad students that he or she supervises, whereas a student’s profile will have a section to list their supervisor.
-* Position titles are used throughout UNIWeb for filtering data. For example, narrowing down results in [Research Places](member-account-information.md) to only display doctoral students.
-
-#### Academic Unit
-
-Academic units designate a UNIWeb member’s academic affiliation to a faculty or department. When creating a user’s account, a primary academic affiliation must be indicated. Administrators can also add members to secondary units, called [cross-appointments](../academic-units/cross-appointments.md), at a later time.
-
-#### Email
-
-The UNIWeb member’s email address.
-
-#### Username
-
-A username that a UNIWeb member can use in lieu of email address when logging in to their UNIWeb account. If a username isn’t filled in when creating a new UNIWeb account, the user’s email is used as their username instead. This cannot be changed later.
-
-#### Telephone
-
-The UNIWeb member’s telephone number.
-
-#### Office
-
-The UNIWeb member’s office address.
-
-#### Homepage
-
-A link to the UNIWeb Member’s primary website outside of UNIWeb.
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Account information field</th>
+      <th style="text-align:left">Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>First Name</b>
+      </td>
+      <td style="text-align:left">The UNIWeb Member&#x2019;s first name.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Middle Name</b>
+      </td>
+      <td style="text-align:left">The UNIWeb Member&#x2019;s middle name.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Last Name</b>
+      </td>
+      <td style="text-align:left">The UNIWeb Member&#x2019;s last name.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Account Type</b>
+      </td>
+      <td style="text-align:left">
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Account types broadly categorize the roles of UNIWeb members at their
+          institution. Professors will have different needs than students or lecturers,
+          and so the account type chosen will affect the sections that are displayed
+          on the UNIWeb member&#x2019;s public profile. For example, a professor&#x2019;s
+          profile will have a section to list the graduate students that he or she
+          supervises, whereas a graduate student&#x2019;s profile will have a section
+          to list their supervisor.</p>
+        <p>The available account types are as follows:</p>
+        <ul>
+          <li>Administrator</li>
+          <li>Alumnus</li>
+          <li>Doctoral Student</li>
+          <li>Industrial Partner</li>
+          <li>Invited Professor</li>
+          <li>Lecturer Librarian</li>
+          <li>Master&#x2019;s student</li>
+          <li>Postdoctoral Fellow</li>
+          <li>Professor</li>
+          <li>Research Assistant</li>
+          <li>Research Associate</li>
+          <li>Researcher</li>
+          <li>Teaching associate</li>
+          <li>Webmaster</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Position Title</b>
+      </td>
+      <td style="text-align:left">
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Position titles more specifically categorize roles of UNIWeb members within
+          their institutions. A member whose <b>account type</b> is Professor may have
+          the <b>position title</b> of Assistant, Associate, or Adjunct Professor,
+          for example, though some <b>account types</b> only have one <b>position title</b> available.</p>
+        <p></p>
+        <p>This affects certain areas of UNIWeb:</p>
+        <p></p>
+        <ul>
+          <li>A user&#x2019;s position title will affect the sections that are available
+            on their public profile. For example, a professor&#x2019;s profile will
+            have a section to list the grad students that he or she supervises, whereas
+            a student&#x2019;s profile will have a section to list their supervisor.</li>
+          <li>Position titles are used throughout UNIWeb for filtering data. For example,
+            narrowing down results in <a href="member-account-information.md">Research Places</a> to
+            only display doctoral students.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Academic Unit</b>
+      </td>
+      <td style="text-align:left"><a href="../academic-units/">Academic units </a>designate a UNIWeb member&#x2019;s
+        academic affiliation to a faculty or department. When creating a user&#x2019;s
+        account, a primary academic affiliation must be indicated. Administrators
+        can also add members to secondary units, called <a href="../academic-units/cross-appointments.md">cross-appointments</a>,
+        at a later time.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Email</b>
+      </td>
+      <td style="text-align:left">The UNIWeb member&#x2019;s email address.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Username</b>
+      </td>
+      <td style="text-align:left">A username that a UNIWeb member can use logging in to their UNIWeb account
+        instead of an email address. If a username isn&#x2019;t filled in when
+        creating a new UNIWeb account, the user&#x2019;s email is used as their
+        username instead. This cannot be changed later.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Homepage</b>
+      </td>
+      <td style="text-align:left">A link to the UNIWeb Member&#x2019;s primary website outside of UNIWeb.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Telephone</b>
+      </td>
+      <td style="text-align:left">The UNIWeb member&#x2019;s telephone number.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Office</b>
+      </td>
+      <td style="text-align:left">The UNIWeb member&#x2019;s office address.</td>
+    </tr>
+  </tbody>
+</table>
