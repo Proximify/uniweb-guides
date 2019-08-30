@@ -103,6 +103,24 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 ## Administrator Permissions
 
+| Permission Name | Permission Function |
+| :--- | :--- |
+| Approve new themes |  |
+| Assign roles to members |  |
+| Create API clients |  |
+| Create new accounts |  |
+| Delete existing accounts |  |
+| Edit academic units |  |
+| Edit equipment information |  |
+| Edit member information |  |
+| Edit roles |  |
+| Edit web articles |  |
+| Receive new theme notifications |  |
+| Receive signup notifications |  |
+| Send email invites |  |
+| Upgrade profile schema |  |
+| View analytics |  |
+
 #### Approve New Themes
 
 Edit, delete or approve **research themes** that have been proposed by UNIWeb members within your Academic Unit.
