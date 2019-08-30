@@ -12,7 +12,7 @@
 ## Creating your UNIWeb account from an institution’s UNIWeb website
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time. 
+**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, then an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account). There will be no option to sign up from your institution’s UNIWeb Network page.
 {% endhint %}
 
 1. From your institution’s UNIWeb Network page, click the **Sign up** button on the right side of the navigation bar.
@@ -26,7 +26,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## Creating your UNIWeb account from an invitation email
 
 {% hint style="warning" %}
-**Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and you have not, please reach out to a system administrator for your institution’s UNIWeb instance.
+**Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and have not, please reach out to a system administrator for your institution’s UNIWeb instance.
 {% endhint %}
 
 1. Click the **Activate my UNIWeb account** link in the body of the email.
@@ -155,7 +155,7 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 
-* Send email invites
+* Create new accounts
 
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
@@ -173,7 +173,7 @@ If you have invited members previously, but they have yet to activate their acco
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 
-* Send email invites
+* Create new accounts
 
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
