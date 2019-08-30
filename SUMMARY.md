@@ -4,7 +4,7 @@
 * [Introduction](introduction/README.md)
   * [Feature Overview](introduction/feature-overview.md)
   * [Navigating UNIWeb](introduction/navigating-uniweb/README.md)
-    * [Navigating UNIWeb](introduction/navigating-uniweb/navigating-uniweb.md)
+    * [UNIWeb Sections](introduction/navigating-uniweb/navigating-uniweb.md)
     * [User Interface](introduction/navigating-uniweb/user-interface.md)
     * [Finding People on UNIWeb](introduction/navigating-uniweb/finding-people-on-uniweb.md)
   * [Supported Browsers](introduction/supported-browsers/README.md)

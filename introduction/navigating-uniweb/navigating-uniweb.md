@@ -1,4 +1,4 @@
-# Navigating UNIWeb
+# UNIWeb Sections
 
 ### On this page:
 
