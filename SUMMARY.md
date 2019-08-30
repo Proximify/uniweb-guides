@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Start Page](README.md)
 * [Introduction](introduction/README.md)
   * [Feature Overview](introduction/feature-overview.md)
   * [Navigating UNIWeb](introduction/navigating-uniweb/README.md)
