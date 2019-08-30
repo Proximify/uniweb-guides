@@ -22,13 +22,15 @@ Your member account information serves two important purposes in UNIWeb:
 
 ## Editing the account information of other UNIWeb members
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
->
-> * Edit member information
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 
-1. From your UNIWeb Administration page, go to **Members**.
+* Edit member information
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+{% endhint %}
+
+1. From your [UNIWeb Administration page](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/introduction/navigating-uniweb/navigating-uniweb#the-administration-page), go to **Members**.
 2. In the centre panel, locate and click on the name of the UNIWeb member whose account information you would like to edit. You will be taken to their profile page.
 3. In the centre panel on the UNIWeb member’s profile page, to the right of their name, click **Edit**.
 4. Add to or edit their account information in the data entry form as needed.

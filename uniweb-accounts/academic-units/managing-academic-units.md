@@ -48,11 +48,11 @@ To get your academic unit spreadsheet started, you can download a template sprea
 2. In the right panel, click **Add units from a file**
 3. In the _Add new units_ dialog, click **Download template file**
 
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example is listed below. Entries marked with an asterisk are mandatory:
+The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. Entries marked with an asterisk are mandatory. An example record is listed below:
 
 | Type\* | Unit Name\* | Parent Unit\* | French Name | URL Name | Homepage | Public | Colour |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Department | Electrical Engineering | Faculty of Science | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng |  | \#F4D5E2 |
+| Department | Electrical Engineering | Faculty of Science | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng | Yes | F4D5E2 |
 
 #### Spreadsheet tips:
 
@@ -69,7 +69,9 @@ The template spreadsheet includes all of the accepted [academic unit information
 3. In the _Add new units_ dialog, click **Choose File**, and locate your academic units spreadsheet on your computer.
 4. Click **Submit**.
 
-**Tip: If you enter a type or parent unit that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any blank fields that are mandatory or columns that UNIWeb does not recognize, you will receive a similar error.**
+{% hint style="info" %}
+**Tip:** If you enter a type or parent unit that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any blank fields that are mandatory or columns that UNIWeb does not recognize, you will receive a similar error.
+{% endhint %}
 
 ## Edit an academic unit
 
@@ -84,7 +86,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 1. From your UNIWeb Administration page, go to **Academic Units**.
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
 3. Click **Edit** to the right of the _Unit Information_ heading.
-4. Add or edit information in the _Unit Information_ data entry form as needed.
+4. Add to or edit the [academic unit information ](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/uniweb-accounts/academic-units/managing-academic-units#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
 5. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 6. Click **Save**.
 
