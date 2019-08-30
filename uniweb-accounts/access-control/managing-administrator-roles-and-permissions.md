@@ -35,7 +35,9 @@ If you have not been assigned a Role with the permissions listed above, and beli
 4. Select the **permissions**that you would like to assign to the new role. You may only assign permissions that you have access to within your Academic Unit.
 5. Click **Save**.
 
-**Tip: The permissions that you assign to a role are applied within the role’s selected Academic Unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the Academic Unit for the role.**
+{% hint style="info" %}
+**Tip:** The permissions that you assign to a role are applied within the role’s selected Academic Unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the Academic Unit for the role.
+{% endhint %}
 
 ## Editing Administrator Roles
 
@@ -65,18 +67,18 @@ Roles cannot be deleted, but their permissions can be revoked. Roles that do not
 
 **Note: Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.**
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
->
-> * Edit Roles
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+
+* Edit Roles
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
 
 1. From your UNIWeb Administration page, go to **Access Control**
-2. In the left panel, locate and**click on the role** that you would like to modify. You may only edit roles within your Academic Unit and its sub-units.
+2. In the left panel, locate and **click on the role** that you would like to modify. **You may only edit roles within your academic unit and its sub-units.**
 3. In the role dialog, deselect all of the role’s assigned permissions.
 4. Click **Save**.
-
-**Tip: Permissions are applied to roles within their specific Academic Unit and all of the child units under it. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the Academic Unit for the role.**
 
 ## Administrator Permissions
 
