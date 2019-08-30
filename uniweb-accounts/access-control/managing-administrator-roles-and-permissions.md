@@ -105,81 +105,21 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 | Permission Name | Permission Function |
 | :--- | :--- |
-| Approve new themes |  |
-| Assign roles to members |  |
-| Create API clients |  |
-| Create new accounts |  |
-| Delete existing accounts |  |
-| Edit academic units |  |
-| Edit equipment information |  |
-| Edit member information |  |
-| Edit roles |  |
-| Edit web articles |  |
-| Receive new theme notifications |  |
-| Receive signup notifications |  |
-| Send email invites |  |
-| Upgrade profile schema |  |
-| View analytics |  |
+| **Approve new themes** | Edit, delete or approve [**research themes**](../../networking-on-uniweb/research-themes/managing-research-themes.md) that have been proposed by UNIWeb members within your Academic Unit. |
+| **Assign roles to members** | \*\*\*\*[**Assign roles**](managing-administrators.md) to grant other UNIWeb members **administrator access** to your Academic Unit or its sub-units. |
+| **Create API clients** | Grant other software systems secure read/write access to information stored by UNIWeb. See [**API Access**](../../uniweb-support-docs/api-access/) for more information. |
+| **Create new accounts** | \*\*\*\*[**Create**](../account-management/account-creation.md#creating-uniweb-member-accounts-manually) ****UNIWeb member accounts. |
+| **Delete existing accounts** | \*\*\*\*[**Delete**](../account-management/account-deletion.md#deleting-a-uniweb-members-account) ****UNIWeb member accounts. |
+| **Edit academic units** | Create, edit or delete [**academic units**](../academic-units/managing-academic-units.md#create-an-academic-unit-manually) and [**unit types**](../academic-units/managing-academic-units.md#add-a-unit-type). |
+| **Edit equipment information** | Create, edit or delete **equipment / resource profiles**. |
+| **Edit member information** | \*\*\*\*[**Edit the public profile data of UNIWeb members**](../../networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile) in your academic unit, **view their CV information**, and [**generate CVs and Reports**](../../your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md#downloading-member-cvs-and-reports) on their behalf. |
+| **Edit roles** | Add, edit or delete [**administrator roles**](managing-administrator-roles-and-permissions.md). |
+| **Edit web articles** | Add, edit or delete **web articles**. |
+| **Receive new theme notifications** | Get automatic emails whenever a new [**research theme**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) is created by a UNIWeb member in your Academic Unit. |
+| **Receive signup notifications** | Get automatic emails whenever a new UNIWeb member completes the [**UNIWeb signup process**](../account-management/account-creation.md). |
+| **Send email invites** | Invite users to join the UNIWeb network by [**sending account sign-up invitations**](../account-management/account-creation.md#sending-account-activation-emails) ****and **reminder emails**. |
+| **Upgrade profile schema** | Accept requests to update profile schemas. |
+| **View analytics** | View and download **Academic Metrics** data from an Academic Unit. |
 
-#### Approve New Themes
-
-Edit, delete or approve **research themes** that have been proposed by UNIWeb members within your Academic Unit.
-
-#### Assign Roles to Members
-
-Assign roles to grant other UNIWeb members **Administrator access** to your Academic Unit or its sub-units.
-
-#### Create API Clients
-
-Grant other software systems secure read/write access to information stored by UNIWeb. See **API Access** for more information.
-
-#### Create New Accounts
-
-Create **UNIWeb member accounts**.
-
-#### Delete Existing Accounts
-
-Delete **UNIWeb member accounts**.
-
-#### Edit Academic Units
-
-Add, edit or delete **Academic Units** and **unit types**.
-
-#### Edit Equipment Information
-
-Add, edit or delete **equipment / resource profiles**.
-
-#### Edit Member Information
-
-Edit the public profile data of UNIWeb members in your Academic Unit, view their CV information, and **generate CVs and Reports** on their behalf.
-
-#### Edit Roles
-
-Add, edit or delete **Administrator Roles**.
-
-#### Edit web articles
-
-Add, edit or delete **custom web articles**.
-
-#### Receive new theme notifications
-
-Get automatic emails whenever a new **research theme** is created by a UNIWeb member in your Academic Unit.
-
-#### Receive signup notifications
-
-Get automatic emails whenever a new UNIWeb member completes the **UNIWeb signup process**.
-
-#### Send Email Invites
-
-Invite users to join the UNIWeb network by **sending account sign-up invitations**.
-
-#### Upgrade profile schema
-
-Accept requests to update profile schemas from this user.
-
-#### View Analytics
-
-View and download **Academic Metrics** data from an Academic Unit.
-
-\[5\]: \#\#administrator-permissions
+#### 
 
