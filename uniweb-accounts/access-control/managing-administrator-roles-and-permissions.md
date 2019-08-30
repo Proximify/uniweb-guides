@@ -6,9 +6,32 @@ Not every UNIWeb administrator will need access to every permission across the e
 
 For example, a department of health sciences may have 3 faculty members that are dedicated to performing administrative tasks within the health sciences academic unit in UNIWeb. These three administrators could be assigned a single role that may include the following settings:
 
-**Role Name:** Health Sciences Administrator **Academic Unit:** Health Sciences **Permissions:** • Approve New Themes • Assign Roles to Members • Create New Accounts • Delete Existing Accounts • Edit Member Information • Send Email Invites • View Analytics
-
-As the role above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would only be able to perform the tasks indicated in role’s permissions within that academic unit and its sub-units. If the role above is modified, the modifications will be applied to all three administrator accounts at the same time.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Role Name</th>
+      <th style="text-align:left">Academic Unit</th>
+      <th style="text-align:left">Permissions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Health Sciences Administrator</td>
+      <td style="text-align:left">Health Sciences</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Approve new themes</li>
+          <li>Assign roles to members</li>
+          <li>Create new accounts</li>
+          <li>Delete existing accounts</li>
+          <li>Edit member information</li>
+          <li>Send email invites</li>
+          <li>View analytics</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would only be able to perform those tasks within that academic unit and its sub-units. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
 
 #### On this page:
 
