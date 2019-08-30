@@ -1,4 +1,4 @@
-# Member Account Information
+# Editing Account Information
 
 Your member account information serves two important purposes in UNIWeb:
 

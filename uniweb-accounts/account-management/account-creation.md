@@ -12,10 +12,10 @@
 ## Creating your UNIWeb account from an institution’s UNIWeb website
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, then an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account). There will be no option to sign up from your institution’s UNIWeb Network page.
+**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time. 
 {% endhint %}
 
-1. From your institution’s UNIWeb Network page, click the **Sign up** button on the right side of the navigation bar.
+1. From your institution’s [UNIWeb Network](../../introduction/navigating-uniweb/uniweb-sections.md#the-network-page) page, click the **Sign up** button on the right side of the navigation bar.
 2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**.
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
@@ -26,7 +26,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## Creating your UNIWeb account from an invitation email
 
 {% hint style="warning" %}
-**Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and have not, please reach out to a system administrator for your institution’s UNIWeb instance.
+**Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and you have not, please reach out to a system administrator for your institution’s UNIWeb instance.
 {% endhint %}
 
 1. Click the **Activate my UNIWeb account** link in the body of the email.
@@ -155,7 +155,7 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 
-* Create new accounts
+* Send email invites
 
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
@@ -173,7 +173,7 @@ If you have invited members previously, but they have yet to activate their acco
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
 
-* Create new accounts
+* Send email invites
 
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
