@@ -37,7 +37,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 >
 >   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 
-1. From your UNIWeb Administration page, go to **Members**.
+1. From your [UNIWeb Administration page](../../introduction/navigating-uniweb/uniweb-sections.md#the-administration-page), go to **Members**.
 2. In the right panel, click the **Add a new member** button.
 3. In the _Add new members_ dialog, fill in the [member information fields](account-creation.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory:
    * First Name
