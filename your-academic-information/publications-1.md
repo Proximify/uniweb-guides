@@ -2,8 +2,8 @@
 
 ### On this page:
 
-* [Adding publications manually](publications.md#adding-publications-manually)
-* [Importing publications](publications.md#importing-publications)
+* [Adding publications manually](publications-1.md#adding-publications-manually)
+* [Importing publications](publications-1.md#importing-publications)
 * \[Deleting publications\]\[3\]
 
 ## Adding publications manually
