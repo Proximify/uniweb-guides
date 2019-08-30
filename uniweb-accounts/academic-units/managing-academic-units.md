@@ -9,13 +9,15 @@
 * [Add a unit type](managing-academic-units.md#add-a-unit-type)
 * [Academic unit information fields](managing-academic-units.md#academic-unit-information-fields)
 
-## Add an academic unit Manually
+## Create an academic unit Manually
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
->
-> * Edit academic units
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+
+* Edit academic units
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
 
 1. From your UNIWeb Administrator page, go to **Academic Units**.
 2. In the right panel, click the **Add a new unit** button.
@@ -26,15 +28,17 @@
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 5. Click **Save**.
 
-## Add multiple academic units using a spreadsheet
+## Create multiple academic units using a spreadsheet
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
->
-> * Edit academic units
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
->
-> When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+
+* Edit academic units
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
+{% endhint %}
+
+When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
 To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
 
@@ -44,17 +48,19 @@ To get your academic unit spreadsheet started, you can download a template sprea
 2. In the right panel, click **Add units from a file**
 3. In the _Add new units_ dialog, click **Download template file**
 
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. Entries marked with an asterisk are mandatory:
+The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example is listed below. Entries marked with an asterisk are mandatory:
 
-* Type _- Unit Name_  - Parent Unit \* - French Name
-* URL Name
-* Homepage
-* Public
-* Colour
+| Type\* | Unit Name\* | Parent Unit\* | French Name | URL Name | Homepage | Public | Colour |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Department | Electrical Engineering | Faculty of Science | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng |  | \#F4D5E2 |
 
-### Spreadsheet tips:
+#### Spreadsheet tips:
 
-• The order of the columns does not matter • Each row corresponds to one academic unit • Empty rows are ignored • If a row provides the same unit name of an existing academic unit in the system, the row will be ignored \(this is how UNIWeb screens for duplicate entries\) • Columns that UNIWeb does not recognize will cause an error.
+* The order of the columns does not matter.
+* Each row corresponds to one academic unit. 
+* Empty rows are ignored 
+* If a row provides the same unit name of an existing academic unit in the system, the row will be ignored \(this is how UNIWeb screens for duplicate entries\).
+* Columns that UNIWeb does not recognize will cause an error.
 
 ### Uploading your spreadsheet to UNIWeb
 
@@ -67,11 +73,13 @@ The template spreadsheet includes all of the accepted [academic unit information
 
 ## Edit an academic unit
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
->
-> * Edit academic units
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+
+* Edit academic units
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
 
 1. From your UNIWeb Administration page, go to **Academic Units**.
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
@@ -82,11 +90,13 @@ The template spreadsheet includes all of the accepted [academic unit information
 
 ## Delete an academic unit
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
->
-> * Edit academic units
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+
+* Edit academic units
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
 
 1. From your UNIWeb Administration page, go to **Academic Units**.
 2. In the centre panel, locate and click on the checkbox to the right of the academic unit\(s\) that you would like to delete.
@@ -94,15 +104,19 @@ The template spreadsheet includes all of the accepted [academic unit information
 4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
 5. Click **Delete**.
 
-**Note: If there are any UNIWeb members who have the academic unit that you are trying to delete listed as their primary academic unit, you will first need to assign those members to other academic units, otherwise UNIWeb will not allow you to delete that academic unit.**
+{% hint style="danger" %}
+**Note:** If there are any UNIWeb members who have the academic unit that you are trying to delete listed as their primary academic unit, you will first need to assign those members to other academic units, otherwise UNIWeb will not allow you to delete that academic unit.
+{% endhint %}
 
 ## Add a unit type
 
-> **Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
->
-> * Edit academic units
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+
+* Edit academic units
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
 
 _Unit types_ categorize academic units, and serve to make searching and filtering for particular academic units easier.
 
@@ -124,7 +138,7 @@ The higher level unit that contains this unit. For example, the Faculty of Engin
 
 #### URL Name
 
-You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as faculty-of-engineering, and it would appear in UNIWeb as \[[https://www.uniweb.network/members?unit=faculty-of-engineering\]\[8](https://www.uniweb.network/members?unit=faculty-of-engineering][8)\].
+You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as **faculty-of-engineering**, and it would appear in UNIWeb as https://www.uniweb.network/members?unit=**faculty-of-engineering** .
 
 #### Homepage
 
@@ -141,6 +155,4 @@ The hexadecimal colour value that will represent this academic unit in research 
 #### Default CV Template
 
 You can select an input template that will be preselected for UNIWeb members affiliated with this academic unit when they access their UNIWeb Curriculum Vitae. They can still select from other options.
-
-\[8\]: [https://demo.uniweb.network/members?unit=facofeng](https://demo.uniweb.network/members?unit=facofeng)
 
