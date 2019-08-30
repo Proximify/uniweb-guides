@@ -126,35 +126,14 @@ A unit type is the category of an academic unit. Common unit types are faculty, 
 
 ## Academic unit information fields
 
-#### Name
-
-The name of the academic unit.
-
-#### Type
-
-The academic unit’s unit type.
-
-#### Parent Unit
-
-The higher level unit that contains this unit. For example, the Faculty of Engineering would contain the Department of Electrical Engineering. The Faculty of Engineering is considered the parent unit.
-
-#### URL Name
-
-You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as **faculty-of-engineering**, and it would appear in UNIWeb as https://www.uniweb.network/members?unit=**faculty-of-engineering** .
-
-#### Homepage
-
-A link to the main website for this academic unit - it can be a website that is external from UNIWeb. This webpage will be linked through the academic unit’s name on its dedicated page in the Members section of UNIWeb.
-
-#### Public Visibility
-
-Whether you would like this academic unit to appear in the public version of your UNIWeb network. If this checkbox is deselected, the academic unit will only be visible to members who are logged in to the UNIWeb network.
-
-#### Colour
-
-The hexadecimal colour value that will represent this academic unit in research connection maps. If you do not define a colour value for an academic unit, it will inherit the colour of its parent unit.
-
-#### Default CV Template
-
-You can select an input template that will be preselected for UNIWeb members affiliated with this academic unit when they access their UNIWeb Curriculum Vitae. They can still select from other options.
+| Data entry field | Purpose |
+| :--- | :--- |
+| **Name** | The name of the academic unit. |
+| **Type** | The academic unit’s unit type. |
+| **Parent Unit** | The higher level unit that contains this unit. For example, if a **Faculty of Engineering** academic unit contains the **Department of Electrical Engineering** academic unit, the Faculty of Engineering is considered the parent unit. |
+| **URL Name** | You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as **faculty-of-engineering**, and it would appear in UNIWeb as https://www.uniweb.network/members?unit=**faculty-of-engineering** . |
+| **Homepage** | A link to the main website for this academic unit - it can be a website that is external from UNIWeb. This webpage will be linked through the academic unit’s name on its dedicated page in the Members section of UNIWeb. |
+| **Public Visibility** | Whether you would like this academic unit to appear in the public version of your UNIWeb network. If this checkbox is deselected, the academic unit will only be visible to members who are logged in to the UNIWeb network. |
+| **Colour** | The hexadecimal colour value that will represent this academic unit in research connection maps. If you do not define a colour value for an academic unit, it will inherit the colour of its parent unit. |
+| **Default CV Template** | You can select an input template that will be preselected for UNIWeb members affiliated with this academic unit when they access their [UNIWeb Curriculum Vitae](../../your-academic-information/cvs-and-reports/your-uniweb-curriculum-vitae-cv.md). They can still select from other options. |
 
