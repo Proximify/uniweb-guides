@@ -5,7 +5,7 @@ Your member account information serves two important purposes in UNIWeb:
 * Your member account information is displayed at the top of your public profile, allowing other UNIWeb members to contextualize your position within your institution and contact you using methods that you prefer. 
 * Parts of your member account information, like your account type and position title, will affect both your discoverability within UNIWeb and the information fields that are available for you to fill out on your public profile.
 
-### On this page:
+#### On this page:
 
 * [Editing your member account information](member-account-information.md#editing-your-member-account-information)
 * [Editing the member account information of other UNIWeb members](member-account-information.md#editing-the-member-account-information-of-other-UNIWeb-members)
@@ -13,12 +13,14 @@ Your member account information serves two important purposes in UNIWeb:
 
 ## Editing your account information
 
-1. From your UNIWeb Home page, go to **Profile**.
+1. From your [UNIWeb Home page](../../introduction/navigating-uniweb/uniweb-sections.md#the-home-page), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Add to or edit your account information in the data entry form as needed.
 4. Click **Save**
 
-**Note: As a general UNIWeb member, you can change all of your account information except for your account type, as this field can affect several areas of UNIWeb. If you need to change your account type, contact a system administrator for your academic unit.**
+{% hint style="danger" %}
+**Note:** As a general UNIWeb member, you can change all of your account information except for your account type, as this field can affect several areas of UNIWeb. If you need to change your account type, contact a system administrator for your academic unit.
+{% endhint %}
 
 ## Editing the account information of other UNIWeb members
 
@@ -82,7 +84,7 @@ This affects certain areas of UNIWeb:
 
 #### Academic Unit
 
-Academic units designate a UNIWeb member’s academic affiliation to a faculty or department. When creating a user’s account, a primary academic affiliation must be indicated. Administrators can also add members to secondary units, called [cross-appointments](member-account-information.md), at a later time.
+Academic units designate a UNIWeb member’s academic affiliation to a faculty or department. When creating a user’s account, a primary academic affiliation must be indicated. Administrators can also add members to secondary units, called [cross-appointments](../academic-units/cross-appointments.md), at a later time.
 
 #### Email
 

@@ -1,6 +1,6 @@
 # Account Deletion
 
-### On this page:
+#### On this page:
 
 * [Deleting your own UNIWeb account](account-deletion.md#deleting-your-own-uniweb-account)
 * [Deleting a UNIWeb member’s account](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/uniweb-accounts/account-management/account-deletion#deleting-a-uniweb-members-account)
@@ -26,5 +26,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 3. In the right panel, click **Delete Selected**.
 4. In the _Delete selected members_ dialog, confirm that you have selected the correct UNIWeb member\(s\), and click **Delete**.
 
-#### **Note:** deleting a UNIWeb member’s account will not delete the research themes, articles, resources, or groups that they have created, but those assets will no longer display an owner or author if that account has been deleted.
+{% hint style="danger" %}
+**Note:** deleting a UNIWeb member’s account will not delete the research themes, articles, resources, or groups that they have created, but those assets will no longer display an owner or author if that account has been deleted.
+{% endhint %}
 

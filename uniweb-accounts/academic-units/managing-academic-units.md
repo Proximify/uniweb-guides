@@ -1,6 +1,6 @@
 # Managing Academic Units
 
-### On this page:
+#### On this page:
 
 * [Add an academic unit manually](managing-academic-units.md#add-an-academic-unit-manually)
 * [Add multiple academic units using a spreadsheet](managing-academic-units.md#add-multiple-academic-units-using-a-spreadsheet)
