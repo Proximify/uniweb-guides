@@ -44,7 +44,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 4. Click **Save**.
 
 {% hint style="info" %}
-**Tip:** You can also modify a UNIWeb administrator’s level of access by editing a role that has been assigned to them. This will also affect any other members that have been assigned the same role.
+**Tip:** You can also modify a UNIWeb administrator’s level of access by [editing a role](managing-administrator-roles-and-permissions.md#editing-administrator-roles) that has been assigned to them. This will affect any other members that have been assigned the same role.
 {% endhint %}
 
 ## Removing administrator access
@@ -65,6 +65,6 @@ If you have not been assigned a Role with the permissions listed above, and beli
 4. Click **Save**.
 
 {% hint style="info" %}
-**Tip:** Administrator access can also be removed by deleting the roles that have been assigned to them. Doing so will also remove those roles from all other UNIWeb members that have had those roles assigned to them.
+**Tip:** Administrator access can also be removed by [deleting the roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles) that have been assigned to them. Doing so will also remove those roles from all other UNIWeb members that have had those roles assigned to them.
 {% endhint %}
 

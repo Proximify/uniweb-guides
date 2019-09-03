@@ -45,12 +45,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Members**.
 2. In the right panel, click the **Add a new member** button.
-3. In the _Add new members_ dialog, fill in the [member information fields](account-creation.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory:
-   * First Name
-   * Last Name
-   * Account Type
-   * Position Title
-   * Academic Unit
+3. In the _Add new members_ dialog, fill in the [member information fields](account-creation.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
 4. Click **Save**.
 
 {% hint style="danger" %}
@@ -148,9 +143,9 @@ If you have not been assigned a Role with the permissions listed above, and beli
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Members**.
-2. Locate the UNIWeb member\(s\) to whom you would like to send an account activation email, and **click the checkbox** on the side side of their row.
+2. Locate the UNIWeb member\(s\) to whom you would like to send an account activation email, and **click the checkbox** on the right side of their row.
 3. In the right panel, click **Account activation**.
-4. In the _Invite selected members_ dialog, verify the UNIWeb members that you have selected.
+4. In the _Invite selected members_ dialog, verify that you have selected the correct UNIWeb member\(s\).
 5. Click **Invite**.
 
 ## Sending account activation reminder emails

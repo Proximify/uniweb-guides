@@ -35,7 +35,7 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 5. Click **Save**.
 
 {% hint style="info" %}
-**Tip:** if you’re trying to find a particular entry to edit, you can search for it using Command+F in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
+**Tip:** if you’re trying to find a particular entry to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
 {% endhint %}
 
 ## Deleting a record from your curriculum vitae
@@ -45,7 +45,7 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 3. At the bottom right of the data entry form, click **Delete**.
 
 {% hint style="info" %}
-**Tip:** if you’re trying to find a particular entry to edit, you can search for it using Command+F in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
+**Tip:** if you’re trying to find a particular entry to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
 {% endhint %}
 
 ## Curriculum Vitae Sections

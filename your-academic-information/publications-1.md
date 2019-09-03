@@ -4,7 +4,7 @@
 
 * [Adding publications manually](publications-1.md#adding-publications-manually)
 * [Importing publications](publications-1.md#importing-publications)
-* \[Deleting publications\]\[3\]
+* [Deleting publications](publications-1.md#deleting-publications)
 
 ## Adding publications manually
 
@@ -14,15 +14,21 @@
 4. Add or edit information in the data entry form as needed.
 5. Click **Save**.
 
-**Note:Because the information that you enter will likely be used to create an exported report, or will be included in a future funding application, it’s best to be as thorough as possible as you create new records to avoid having to fill in the blanks later.**
+{% hint style="success" %}
+**Best practice:** Because the information that you enter will likely be used to create an exported report, or will be included in a future funding application, it’s best to be as thorough as possible as you create new records to avoid having to fill in the blanks later.
+{% endhint %}
 
-#### **Tip:** if you’re trying to find a particular publication record to edit, you can search for it using **Command+F** in your web browser while on the Publications page. Your publications are all displayed on a single page, and so all of your records are searchable at once.
+{% hint style="info" %}
+**Tip:** if you’re trying to find a particular record to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Publications page. Your publications are displayed on a single page, and so all of your publications are searchable at once.
+{% endhint %}
 
 ## Importing publications
 
 UNIWeb can import publications from using XML files from EndNote, BibTex, and Google Scholar, and by using PubMed’s PMIDs.
 
-#### **Tip:** UNIWeb automatically detects and disregards duplicates, and so you don’t need to worry about sorting new and already-imported publications yourself.
+{% hint style="info" %}
+**Tip:** UNIWeb automatically detects and disregards duplicates, and so you don’t need to worry about tracking which publications you have already imported.
+{% endhint %}
 
 1. From your UNIWeb Home page, go to **Publications**.
 2. Click **Import Publications** in the right panel.
@@ -34,11 +40,11 @@ UNIWeb can import publications from using XML files from EndNote, BibTex, and Go
 
 ## Deleting publications
 
-1. From your UNIWeb Home page, go to **Publications.**
+1. From your [UNIWeb Home](../introduction/feature-overview/navigating-uniweb.md#the-home-page) page, go to **Publications.**
 2. Locate the publication record that you would like to delete, and click the **Edit** button to the right of the record.
 3. At the bottom right of the data entry form, click **Delete**.
 
-#### **Tip:** if you’re trying to find a particular publication to delete, you can search for it using **Command+F** in your web browser while on the Publications page. Your publications are all displayed on a single page, and so all of your records are searchable at once.
-
-\[3\]: \#deleting-publications
+{% hint style="info" %}
+**Tip:** if you’re trying to find a particular record to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Publications page. Your publications are displayed on a single page, and so all of your publications are searchable at once.
+{% endhint %}
 
