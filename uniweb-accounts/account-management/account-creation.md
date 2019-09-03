@@ -12,11 +12,11 @@
 ## Creating your UNIWeb account from an institution’s UNIWeb website
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time. 
+**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
 {% endhint %}
 
 1. From your institution’s [UNIWeb Network](../../introduction/feature-overview/navigating-uniweb.md#the-network-page) page, click the **Sign up** button on the right side of the navigation bar.
-2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**.
+2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**. ![](../../.gitbook/assets/screen-shot-2019-08-29-at-11.53.04-am.png) 
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
 5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
@@ -81,46 +81,35 @@ This will download an example spreadsheet that follows the necessary format for 
 
 The sample spreadsheet includes all of the accepted [member information fields](account-creation.md) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
+| First Name\* | Middle Name | Last Name\* | Account Type\* | Position Title\* | Academic Unit\* | Email\* | Username | Telephone | Homepage | Office |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">First Name*</th>
-      <th style="text-align:left">Middle Name</th>
-      <th style="text-align:left">Last Name*</th>
-      <th style="text-align:left">Account Type*</th>
-      <th style="text-align:left">Position Title*</th>
-      <th style="text-align:left">Academic Unit*</th>
-      <th style="text-align:left">Email*</th>
-      <th style="text-align:left">Username</th>
-      <th style="text-align:left">Telephone</th>
-      <th style="text-align:left">Homepage</th>
-      <th style="text-align:left">Office</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Alexander</td>
-      <td style="text-align:left">Graham</td>
-      <td style="text-align:left">Bell</td>
-      <td style="text-align:left">Professor</td>
-      <td style="text-align:left">Associate Professor</td>
-      <td style="text-align:left">Electrical Engineering</td>
-      <td style="text-align:left">agbell@proximify.ca</td>
-      <td style="text-align:left">bell024</td>
-      <td style="text-align:left">613-555-5555</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Alexander_Graham_Bell">https://en.wikipedia.org/wiki/Alexander_Graham_Bell</a>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left">Alexander</th>
+      <th style="text-align:left">Graham</th>
+      <th style="text-align:left">Bell</th>
+      <th style="text-align:left">Professor</th>
+      <th style="text-align:left">Associate Professor</th>
+      <th style="text-align:left">Electrical Engineering</th>
+      <th style="text-align:left">agbell@proximify.ca</th>
+      <th style="text-align:left">bell024</th>
+      <th style="text-align:left">613-555-5555</th>
+      <th style="text-align:left"><a href="https://en.wikipedia.org/wiki/Alexander_Graham_Bell">https://en.wikipedia.org/wiki/Alexander_Graham_Bell</a>
+      </th>
+      <th style="text-align:left">
         <p>1105 Beinn Bhreagh Rd, Baddeck, NS</p>
         <p>B0E 1B0</p>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>* First Name\* 
-* Middle Name
-* Last Name\* __
+  </thead>
+  <tbody></tbody>
+</table>* Middle Name
+* Last Name\* \_\_
 * Account Type\* 
-* Position Title\* __
+* Position Title\* \_\_
 * Academic Unit\*
 * Email\* 
 * Username 
