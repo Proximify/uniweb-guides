@@ -17,7 +17,7 @@
 
 1. From your institution’s [UNIWeb Network](../../introduction/feature-overview/navigating-uniweb.md#the-network-page) page, click the **Sign up** button on the right side of the navigation bar.
 2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**. 
-    ![](../../.gitbook/assets/architectural-design-architecture-buildings-2078774.jpg) {: width=150 height=100}
+    ![](../../.gitbook/assets/architectural-design-architecture-buildings-2078774.jpg =150X100)
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
 5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
