@@ -8,13 +8,22 @@ The most important difference between a primary and secondary unit is that the p
 
 See our article on Member Account Information to learn how to change a UNIWeb member’s primary academic unit.
 
-### **Tip:** You can see which of the members of your unit have cross appointments. Pick a member and hold your mouse over their academic unit. A small pop-up window will appear with the list of all the units that member belongs to.
+Tip: You can see which of the members of your unit have cross appointments. Pick a member and hold your mouse over their academic unit. A small pop-up window will appear with the list of all the units that member belongs to.
 
-## Add  a cross-appointment to your UNIWeb account
+## Add a cross-appointment to your UNIWeb account
 
 ## Add cross-appointments to other UNIWeb accounts
 
-Users can add their cross appointments themselves, or administrators can add cross-appointments to their units. To add a member to a secondary unit, you need to have two administrative permissions, 1. Editing Members, and 2. Editing Units . Click the name of the unit that is getting the cross-appointee. This opens up a page for editing and making changes to the unit. Look for ‘Cross-appointees”. Click Add.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an [Administrator Role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+
+* Edit academic units
+* Edit member information
+
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
+
+Click the name of the unit that is getting the cross-appointee. This opens up a page for editing and making changes to the unit. Look for ‘Cross-appointees”. Click Add.
 
 Administrators make cross appointments by selecting the name of the appointee. Choose the individual you wish to add to your unit. Click Save.
 
@@ -25,6 +34,15 @@ The user will see the cross appointment on their profile page. If UNIWeb finds t
 In the case where the user has to confirm the appointment the new cross appointee will be listed on the Unit info page under ‘Cross appointees’ with a Pending tag next to their name, to show that the member has yet to confirm their appointment. UNIWeb will send the user a notification in their UNIWeb account that they have received this appointment. If they deny, the ‘Pending’ tag will switch to Denied. If the member confirms the appointment, the tag will disappear altogether.
 
 ## Remove other members from a cross-appointment
+
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an [Administrator Role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+
+* Edit academic units
+* Edit member information
+
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+{% endhint %}
 
 Removing a member from a cross-appointment also takes away the administrative access to their data through that unit. Administrators can remove cross-appointments by selecting the unit, and scrolling to the list of cross appointees. Click the Edit button on the right. Here you will see the same page as for adding members. Click Delete in order to remove the cross-appointment.
 

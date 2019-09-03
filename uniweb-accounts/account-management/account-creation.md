@@ -107,7 +107,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
   </thead>
   <tbody></tbody>
 </table>* Account Type\* 
-* Position Title\* \_\_
+* Position Title\*
 * Academic Unit\*
 * Email\* 
 * Username 
