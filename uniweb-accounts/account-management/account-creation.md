@@ -16,13 +16,12 @@
 {% endhint %}
 
 1. From your institution’s [UNIWeb Network](../../introduction/feature-overview/navigating-uniweb.md#the-network-page) page, click the **Sign up** button on the right side of the navigation bar.
-2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**. 
-    ![](../../.gitbook/assets/screen-shot-2019-08-29-at-11.53.04-am.png) 
+2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**. ![](../../.gitbook/assets/architectural-design-architecture-buildings-2078774.jpg) 
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
 5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
 
-Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md##creating-your-UNIWeb-account-from-an-invitation-email) to complete your account creation.
+Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md##creating-your-UNIWeb-account-from-an-invitation-email) to complete your account creation. 
 
 ## Creating your UNIWeb account from an invitation email
 
@@ -107,8 +106,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
     </tr>
   </thead>
   <tbody></tbody>
-</table>* Middle Name
-* Last Name\* \_\_
+</table>* Last Name\* \_\_
 * Account Type\* 
 * Position Title\* \_\_
 * Academic Unit\*
