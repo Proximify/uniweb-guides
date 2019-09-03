@@ -21,14 +21,14 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 2. In the Utilities dropdown menu, click **Export CV XML**.
 3. In the _Captcha_ dialog, click the **“I’m not a robot”** checkbox.
 4. Click **Export**. The CV XML file will appear in your downloads folder.
-5. From your [UNIWeb Home page](../introduction/navigating-uniweb/uniweb-sections.md#the-home-page), go to Curriculum Vitae.
+5. From your [UNIWeb Home page](../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to Curriculum Vitae.
 6. Click **Import from CCV** in the right panel.
 7. Click **Choose file**, and select the XML file that you downloaded from the CCV website.
 8. Click **Import**, and when the file is finished uploading, click **Done**. 
 
 ## Populating your curriculum vitae manually
 
-1. From your [UNIWeb Home page](../introduction/navigating-uniweb/uniweb-sections.md#the-home-page), go to **Curriculum Vitae**.
+1. From your [UNIWeb Home page](../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Curriculum Vitae**.
 2. Locate the CV section where you would like to create a new record. You can **click on a section listed in the left panel** to navigate directly to that section.
 3. In the centre panel, click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing record to modify it.
 4. Add or edit information in the data entry form as needed.
@@ -40,7 +40,7 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 
 ## Deleting a record from your curriculum vitae
 
-1. From your [UNIWeb Home page](../introduction/navigating-uniweb/uniweb-sections.md#the-home-page), go to **Curriculum Vitae**.
+1. From your [UNIWeb Home page](../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Curriculum Vitae**.
 2. Locate the CV record that you would like to delete, and click the **Edit** button to the right of the record.
 3. At the bottom right of the data entry form, click **Delete**.
 

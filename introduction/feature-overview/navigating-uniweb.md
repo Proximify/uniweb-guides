@@ -1,10 +1,10 @@
-# UNIWeb Sections
+# Navigating UNIWeb
 
 ### On this page:
 
-* [The Home Page](uniweb-sections.md#the-home-page)
-* [The Network Page](uniweb-sections.md#the-network-page)
-* [The Members Page](uniweb-sections.md#the-members-page)
+* [The Home Page](navigating-uniweb.md#the-home-page)
+* [The Network Page](navigating-uniweb.md#the-network-page)
+* [The Members Page](navigating-uniweb.md#the-members-page)
 * [The Administration Page](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/introduction/navigating-uniweb/navigating-uniweb#the-administration-page)
 
 ## The Home Page

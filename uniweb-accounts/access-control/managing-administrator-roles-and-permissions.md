@@ -51,7 +51,7 @@ For example, a department of health sciences may have 3 faculty members that are
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../introduction/navigating-uniweb/uniweb-sections.md#the-administration-page), go to **Access Control**
+1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**
 2. Click the **Add role** button in the left panel
 3. In the _New Role_ dialog, type in a **Role name** and select the **Academic Unit** where the new role’s permissions will be applied. You may only create Roles within your own Academic Unit and its sub-units.
 4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role. You may only assign permissions that you have access to within your Academic Unit.
@@ -71,7 +71,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../introduction/navigating-uniweb/uniweb-sections.md#the-administration-page), go to **Access Control**
+1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**
 2. In the left panel, locate and **click on the role** that you would like to modify. You may only edit roles within your Academic Unit and its sub-units.
 3. In the role dialog, you can modify the role name, Academic Unit, and select or deselect permissions for the role. You may only assign permissions that you have access to within your Academic Unit.
 4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role
