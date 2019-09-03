@@ -19,7 +19,7 @@
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb Administrator page, go to **Academic Units**.
+1. From your UNIWeb Administrator page, go to **Academic Units**. ![](../../.gitbook/assets/screen-shot-2019-08-27-at-11.15.00-am.png) 
 2. In the right panel, click the **Add a new unit** button.
 3. In the _Add a new unit_ dialog, fill in the academic unit information form. Fields that are marked with an asterisk are mandatory:
    * Name
@@ -38,7 +38,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
 {% endhint %}
 
-When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
+When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates. ![](../../.gitbook/assets/screen-shot-2019-08-27-at-11.15.00-am.png) 
 
 To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
 
