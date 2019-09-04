@@ -39,7 +39,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ### Creating an academic unit spreadsheet
 
-To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
+To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb's requirements.
 
 {% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an Academic Unit spreadsheet template" %}
 
