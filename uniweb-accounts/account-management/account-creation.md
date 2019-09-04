@@ -64,15 +64,11 @@ From time to time, you may need to add many new member accounts at once. You can
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-To get your member account spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
+### Creating a UNIWeb member account spreadsheet:
 
-### To download a template spreadsheet:
+To get your member account spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb's requirements.
 
-1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to Members
-2. In the right panel, click **Add members from a file**
-3. In the _Add new members_ dialog, click **Download template file**
-
-This will download an example spreadsheet that follows the necessary format for creating new UNIWeb accounts in bulk. You can start building your account spreadsheet directly from this template.
+{% file src="../../.gitbook/assets/accounts\_creation\_templates.zip" caption="Download a member account template spreadsheet" %}
 
 The sample spreadsheet includes all of the accepted [member information fields](account-creation.md) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
@@ -101,16 +97,8 @@ The sample spreadsheet includes all of the accepted [member information fields](
     </tr>
   </thead>
   <tbody></tbody>
-</table>* Account Type\* 
-* Position Title\*
-* Academic Unit\*
-* Email\* 
-* Username 
-* Telephone 
-* Homepage 
-* Office
-
-#### Spreadsheet tips:
+</table>{% hint style="success" %}
+#### Best practices for your spreadsheet:
 
 * The order of the columns does not matter
 * Each row corresponds to one member account
@@ -118,6 +106,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
 * If a row provides the same email address of an existing user in the system, the row is ignored \(this is how UNIWeb screens for duplicate entries\)
 * Columns that UNIWeb does not recognize will cause an error.
 * Acceptable entries for **account type, position title** and **academic unit** are dictated by your institution. 
+{% endhint %}
 
 ### Uploading your spreadsheet to UNIWeb
 

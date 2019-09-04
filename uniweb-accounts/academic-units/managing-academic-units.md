@@ -43,7 +43,7 @@ To get your academic unit spreadsheet started, you can download a template sprea
 
 {% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an Academic Unit spreadsheet template" %}
 
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example record is listed below; entries marked with an asterisk are mandatory:
+The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
 | Type\* | Unit Name\* | Parent Unit\* | French Name | URL Name | Homepage | Public | Colour |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
