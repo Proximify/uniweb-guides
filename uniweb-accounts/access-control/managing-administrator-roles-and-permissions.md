@@ -44,11 +44,11 @@ For example, a department of health sciences may have 3 faculty members that are
 ## Creating Administrator Roles
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions:
 
 * Edit Roles
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**
@@ -58,17 +58,17 @@ If you have not been assigned a Role with the permissions listed above, and beli
 5. Click **Save**.
 
 {% hint style="info" %}
-**Tip:** The permissions that you assign to a role are applied within the role’s selected Academic Unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the Academic Unit for the role.
+**Tip:** The permissions that you assign to a role are applied within the role’s selected academic unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the academic unit for the role.
 {% endhint %}
 
 ## Editing Administrator Roles
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s Academic Unit that includes the following permissions:
 
 * Edit Roles
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**
@@ -86,11 +86,11 @@ If you have not been assigned a Role with the permissions listed above, and beli
 Roles cannot be deleted, but their [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions:
 
 * Edit Roles
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your UNIWeb Administration page, go to **Access Control**

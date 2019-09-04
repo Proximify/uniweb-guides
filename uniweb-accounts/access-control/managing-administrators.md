@@ -13,11 +13,11 @@ Within UNIWeb, administrator access can be assigned, modified, and removed by as
 Administrator access in UNIWeb is granted through assigning **administrator roles**. If there are no existing administrator roles that include the permissions that you would like to grant, you can first create a new role or edit an existing role to fit.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions: 
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions: 
 
 * Assign roles to members
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**. 
@@ -31,11 +31,11 @@ If you have not been assigned a Role with the permissions listed above, and beli
 You can modify the level of access that a UNIWeb administrator has been granted by adding or removing roles from their administrator profile.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions:
 
 * Assign roles to members
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**. 
@@ -52,11 +52,11 @@ If you have not been assigned a Role with the permissions listed above, and beli
 You can revoke a UNIWeb member’s administrator access by removing all of the roles from their administrator profile. This will only remove their administrative permissions. This will not remove the user from UNIWeb and their CV data and profile will remain untouched.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions:
 
 * Assign roles to members
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Access Control**. 

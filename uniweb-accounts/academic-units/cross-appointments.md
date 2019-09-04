@@ -15,7 +15,7 @@ Tip: You can see which of the members of your unit have cross appointments. Pick
 ## Add cross-appointments to other UNIWeb accounts
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [Administrator Role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Before you begin:** this procedure requires an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit academic units
 * Edit member information
@@ -36,7 +36,7 @@ In the case where the user has to confirm the appointment the new cross appointe
 ## Remove other members from a cross-appointment
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [Administrator Role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Before you begin:** this procedure requires an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit academic units
 * Edit member information

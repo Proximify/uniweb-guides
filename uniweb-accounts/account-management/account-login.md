@@ -35,15 +35,15 @@
 {% hint style="warning" %}
 **Before you begin:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, you must reset member passwords through your institution’s SSO system.
 
-This procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+This procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s Academic Unit that includes the following permissions:
 
 * Edit Member Information
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page), go to **Members**.
-2. Locate any UNIWeb members to whom you would like to send a password reset email, and **click the checkbox** on the right side of their row. You may only send password reset emails to UNIWeb members within your own Academic Unit and its sub-units.
+2. Locate any UNIWeb members to whom you would like to send a password reset email, and **click the checkbox** on the right side of their row. You may only send password reset emails to UNIWeb members within your own academic unit and its sub-units.
 3. In the right panel, click **Password reset**.
 4. In the _Reset Password_ dialog, confirm that you have selected the correct UNIWeb members, and click the**Reset passwords** button. The UNIWeb member will receive an email at their account email address with instructions on how to reset their password.
 
