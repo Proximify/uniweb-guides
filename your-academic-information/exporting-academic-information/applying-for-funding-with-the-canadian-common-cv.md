@@ -1,10 +1,10 @@
 # Applying for Funding with the Canadian Common CV
 
-### On this page:
+#### On this page:
 
 * [Exporting CV information from UNIWeb](applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
 * [Importing CV information into the CCV website](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-CCV-website)
-* \[Applying ‘Submit?’ checkmarks\]\[3\]
+* [Applying ‘Submit?’ checkmarks](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks)
 
 ## Exporting CV information from UNIWeb
 
@@ -19,7 +19,9 @@ The process of applying to a funding agency that requires a CCV submission begin
 
 Once you have downloaded your CCV XML file, you are ready to continue the application process on the CCV website.
 
-> **Before you begin:** Ensure that you have the CCV website open in only one active tab, as any other open tabs may overwrite your changes with outdated information.
+{% hint style="warning" %}
+**Before you begin:** Ensure that you have the CCV website open in only one active tab, as any other open tabs may overwrite your changes with outdated information.
+{% endhint %}
 
 1. Log in to the CCV website.
 2. Navigate to **Utilities**, and click **Import XML CCV**. 
@@ -29,9 +31,11 @@ Once you have downloaded your CCV XML file, you are ready to continue the applic
 6. Once the information loads, click **Select all**.
 7. Click **Import**.
 
-#### **Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.
+{% hint style="danger" %}
+**Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.
+{% endhint %}
 
-Now that you have updated your CCV, you may continue with your application as normal on the CCV website. If the funding agency requires that you only submit information going back a set number of years, see the next section on how UNIWeb can apply ‘Submit’ checkmarks on the CCV website for you.
+Now that you have updated your CCV, you may continue with your application as normal on the CCV website. If the funding agency requires that you only submit information going back a set number of years, see the next section on how UNIWeb can [apply ‘Submit’ checkmarks on the CCV website for you](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks).
 
 ## Applying ‘Submit?’ checkmarks
 
@@ -39,7 +43,9 @@ When you apply for funding, some funding agencies require that you only submit i
 
 When the CCV website creates a CV draft for your application, it lists all available CV items that are relevant to the application and selects all available items by default. Normally, you must deselect the Submit? checkbox for each publication that falls outside of the funding agency’s required time period. UNIWeb can automatically deselect all of these items for you.
 
-> **Before you begin:** Ensure that you are logged out of the CCV website, and close all instances of the CCV website that you have open in other tabs. Any other open tabs may overwrite your changes with outdated information.
+{% hint style="warning" %}
+**Before you begin:** Ensure that you are logged out of the CCV website, and close all instances of the CCV website that you have open in other tabs. Any other open tabs may overwrite your changes with outdated information.
+{% endhint %}
 
 1. From your UNIWeb Home page, go to **Curriculum Vitae**.
 2. Click **Apply “submit” checkmarks** in the right panel.
@@ -49,6 +55,4 @@ When the CCV website creates a CV draft for your application, it lists all avail
 6. Click **Apply on CCV**.
 
 After this process, when you log in to the CCV website and access the funding template for your application, the Submit? checkboxes for the listed CV items will be selected according to the time period that you defined in the steps above. You may continue your funding application on the CCV website as normal.
-
-\[3\]: \#applying-submit-checkmarks
 

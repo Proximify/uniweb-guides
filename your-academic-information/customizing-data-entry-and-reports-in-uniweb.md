@@ -2,17 +2,19 @@
 
 UNIWeb comes with generic annual report and CV template that has options that can be set at download, your academic unit or institution may want to offer more options to users. Duplicate your existing report guidelines in UNIWeb, or design an entirely new report to take advantage of the existing report guidelines in UNIWeb, or design an entirely new report to take advantage of the advanced calculations and data presentation that UNIWeb Reports can perform. Request a quote from Proximify by emailing requests@proximify.ca.
 
-### On this page:
+#### On this page:
 
 * [Customizing UNIWeb’s data entry forms](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-fields)
 * [Creating custom report templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-report-templates)
-* \[Creating custom input templates\]\[3\]
+* [Creating custom input templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-input-templates)
 
 ## Customizing UNIWeb’s data entry forms
 
 By default, UNIWeb’s data entry forms are matched with those of the Canadian Common CV, but the data fields in UNIWeb can be expanded to collect data beyond what is required by the CCV if needed.
 
-#### **Note:** Adding new data fields or sections does not affect the interactions between UNIWeb and the CCV. Accordingly, CCV-standard data entry fields cannot be removed from UNIWeb, or reordered or otherwise modified.
+{% hint style="danger" %}
+**Note:** Adding new data fields or sections does not affect the interactions between UNIWeb and the CCV. Accordingly, CCV-standard data entry fields cannot be removed from UNIWeb, or reordered or otherwise modified.
+{% endhint %}
 
 Contact us at **requests@proximify.ca** for further information on creating custom data entry fields in your institution’s UNIWeb instance.
 
@@ -35,6 +37,4 @@ For more information on the report design and creation process, download our **R
 You can have custom input templates created for your UNIWeb instance to help UNIWeb members update their CVs and fill out reports. These templates can be assigned to an academic unit to allow researchers in that unit to input CV data without being shown other custom data entry fields that are not relevant to their work, or the template can be designed to assist with the data entry of a specific internal report.
 
 Contact us at **requests@proximify.ca** for further information on creating input templates in your institution’s UNIWeb instance.
-
-\[3\]: \#creating-custom-input-templates
 
