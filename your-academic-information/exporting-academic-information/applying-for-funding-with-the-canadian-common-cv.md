@@ -23,7 +23,7 @@ Once you have downloaded your CCV XML file, you are ready to continue the applic
 **Before you begin:** Ensure that you have the CCV website open in only one active tab, as any other open tabs may overwrite your changes with outdated information.
 {% endhint %}
 
-1. Log in to the CCV website.
+1. Log in to the [CCV website](https://ccv-cvc.ca).
 2. Navigate to **Utilities**, and click **Import XML CCV**. 
 3. Click **Choose file** and attach the CCV XML file that you downloaded from UNIWeb.
 4. Click the **“I’m not a robot”** Captcha checkbox.
@@ -54,5 +54,5 @@ When the CCV website creates a CV draft for your application, it lists all avail
 5. Optional: uncheck any sections that you would like UNIWeb to ignore.
 6. Click **Apply on CCV**.
 
-After this process, when you log in to the CCV website and access the funding template for your application, the Submit? checkboxes for the listed CV items will be selected according to the time period that you defined in the steps above. You may continue your funding application on the CCV website as normal.
+After this process, when you [log in to the CCV website](https://ccv-cvc.ca) and access the funding template for your application, the Submit? checkboxes for the listed CV items will be selected according to the time period that you defined in the steps above. You may continue your funding application on the CCV website as normal.
 
