@@ -12,14 +12,14 @@
 ## Create an academic unit Manually
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit academic units
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb Administrator page, go to **Academic Units**. ![](../../.gitbook/assets/screen-shot-2019-08-27-at-11.15.00-am.png) 
+1. From your [UNIWeb Administrator](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
 2. In the right panel, click the **Add a new unit** button.
 3. In the _Add a new unit_ dialog, fill in the academic unit information form. Fields that are marked with an asterisk are mandatory:
    * Name
@@ -31,14 +31,14 @@ If you have not been assigned a Role with the permissions listed above, and beli
 ## Create multiple academic units using a spreadsheet
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit academic units
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
 {% endhint %}
 
-When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates. ![](../../.gitbook/assets/screen-shot-2019-08-27-at-11.15.00-am.png) 
+When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates. 
 
 To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
 
@@ -64,7 +64,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 
 ### Uploading your spreadsheet to UNIWeb
 
-1. From your UNIWeb Administration page, go to **Academic Units**.
+1. From your [UNIWeb Administration](../access-control/managing-administrator-roles-and-permissions.md) page, go to **Academic Units**.
 2. In the right panel, click **Add units from a file**
 3. In the _Add new units_ dialog, click **Choose File**, and locate your academic units spreadsheet on your computer.
 4. Click **Submit**.
@@ -76,14 +76,14 @@ The template spreadsheet includes all of the accepted [academic unit information
 ## Edit an academic unit
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit academic units
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb Administration page, go to **Academic Units**.
+1. From your [UNIWeb Administration](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
 3. Click **Edit** to the right of the _Unit Information_ heading.
 4. Add to or edit the [academic unit information ](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/uniweb-accounts/academic-units/managing-academic-units#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
@@ -93,14 +93,14 @@ If you have not been assigned a Role with the permissions listed above, and beli
 ## Delete an academic unit
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit academic units
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb Administration page, go to **Academic Units**.
+1. From your [UNIWeb Administration](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
 2. In the centre panel, locate and click on the checkbox to the right of the academic unit\(s\) that you would like to delete.
 3. In the right panel, click **Delete selected**.
 4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
@@ -113,11 +113,11 @@ If you have not been assigned a Role with the permissions listed above, and beli
 ## Add a unit type
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit academic units
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 _Unit types_ categorize academic units, and serve to make searching and filtering for particular academic units easier.
