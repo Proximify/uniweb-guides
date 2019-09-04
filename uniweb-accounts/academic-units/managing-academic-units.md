@@ -21,14 +21,13 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 1. From your [UNIWeb Administrator](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
 2. In the right panel, click the **Add a new unit** button.
-3. In the _Add a new unit_ dialog, fill in the academic unit information form. Fields that are marked with an asterisk are mandatory:
-   * Name
-   * Type
-   * URL Name
+3. In the _Add a new unit_ dialog, **fill in the** [**academic unit information**](managing-academic-units.md#academic-unit-information-fields) **data entry form**. Fields that are marked with an asterisk are mandatory.
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 5. Click **Save**.
 
 ## Create multiple academic units using a spreadsheet
+
+When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -38,29 +37,27 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
 {% endhint %}
 
-When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates. 
+### Creating an academic unit spreadsheet
 
 To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb to read and understand.
 
-### To download a template spreadsheet:
+{% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an Academic Unit spreadsheet template" %}
 
-1. From your UNIWeb Administration page, go to **Academic Units**.
-2. In the right panel, click **Add units from a file**
-3. In the _Add new units_ dialog, click **Download template file**
-
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. Entries marked with an asterisk are mandatory. An example record is listed below:
+The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example record is listed below; entries marked with an asterisk are mandatory:
 
 | Type\* | Unit Name\* | Parent Unit\* | French Name | URL Name | Homepage | Public | Colour |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Department | Electrical Engineering | Faculty of Science | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng | Yes | F4D5E2 |
 
-#### Spreadsheet tips:
+{% hint style="success" %}
+**Best practices for building your spreadsheet:**
 
 * The order of the columns does not matter.
 * Each row corresponds to one academic unit. 
 * Empty rows are ignored 
 * If a row provides the same unit name of an existing academic unit in the system, the row will be ignored \(this is how UNIWeb screens for duplicate entries\).
 * Columns that UNIWeb does not recognize will cause an error.
+{% endhint %}
 
 ### Uploading your spreadsheet to UNIWeb
 
@@ -112,6 +109,10 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ## Add a unit type
 
+_Unit types_ categorize academic units, and serve to make searching and filtering for particular academic units easier.
+
+A unit type is the category of an academic unit. Common unit types are faculty, department or office, but you also have the option to add new types.
+
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
@@ -120,9 +121,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-_Unit types_ categorize academic units, and serve to make searching and filtering for particular academic units easier.
-
-A unit type is the category of an academic unit. Common unit types are faculty, department or office, but you also have the option to add new types. To add a unit type, select the Add Unit Type option from the right-hand menu. Here you can enter your new unit type and it will become an available option across the network.
+ To add a unit type, select the Add Unit Type option from the right-hand menu. Here you can enter your new unit type and it will become an available option across the network.
 
 ## Academic unit information fields
 
