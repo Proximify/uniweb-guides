@@ -59,7 +59,7 @@ If you would like to revoke **another UNIWeb member’s** Delegate Access to you
 
 If you would like to revoke **your own** Delegate Access to another UNIWeb member’s account, perform the following steps: 
 
-1. From your UNIWeb Home page, **click on your name** in the top right corner. 
+1. From your [UNIWeb Home page](../../introduction/feature-overview/navigating-uniweb.md#the-home-page), **click on your name** in the top right corner. 
 2. In the drop down menu that appears, UNIWeb members who have granted you delegate access to their accounts are listed under your account information. Click the **Remove** button next to the name of the UNIWeb member whose account you no longer need to access.
 
 
