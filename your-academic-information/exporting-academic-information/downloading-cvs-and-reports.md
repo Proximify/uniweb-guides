@@ -8,7 +8,7 @@ Because both Curriculum Vitae and reports draw information from the same r
 
 * [Downloading your CVs and Report files](downloading-cvs-and-reports.md#downloading-your-cv-and-report-files)
 * [Downloading member CVs and reports](downloading-cvs-and-reports.md#downloading-member-cvs-and-reports)
-* \[Download Options\]\[3\]
+* [Download Options](downloading-cvs-and-reports.md#download-options)
 
 ## Downloading your CV and Report files
 
@@ -41,37 +41,85 @@ Network administrators can download the academic CVs and reports of other UNIWeb
 
 Download Options allow you to adjust the content of the CV or report that you are downloading. Depending on the Document Type selected, some of the Download Options below may not be available for adjustment.
 
-#### Document Type
-
-The template that will be used to arrange your data into a downloaded document; either a CV or a custom report. Every instance of UNIWeb includes a generic Academic CV Document Type that may have been customized by your institution to fit their branding. However, your institution may also choose to include their own custom report templates. For information specific to your institution’s custom reports, please contact your system administrator.
-
-#### Faculty
-
-Certain Document Types may have different formatting rules and may handle information differently depending on the .
-
-#### Layout Sections
-
-The sections of information that make up the selected Document Type. All sections are selected by default, but you may deselect individual sections to omit them from the downloaded document.
-
-#### Years Back
-
-The extent of time that you would like your downloaded document to include. Lifetime \(default\): The downloaded document will include all available information from your account that is relevant to the selected Document Type - past, present, and future. Number of years selected, End Date left blank: The downloaded document will include all available information from your account that is relevant to the selected Document Type, starting from the selected number of years back from the date of download, and including future entries. Number of years selected, End Date selected: The downloaded document will include all available information from your account that is relevant to the selected Document Type, starting from the selected number of years back from the selected End Date, and ending at the selected End Date.
-
-#### End Date
-
-This option is only visible when a number of years is chosen in the Years Back field, rather than the default Lifetime selection. If an End Date is specified, it will be used to determine both the start and end date for the range of years as selected in the Years Back field. If an End Date is not specified, UNIWeb will use the date of your download request as the start date for the range of years as selected in the Years Back field, and will include all relevant information dated through the present and into the future in the downloaded document.
-
-#### File Format
-
-The format of the downloaded document. Available choices may differ depending on the Document Type, but may include .pdf, .doc, or .html.
-
-#### Citation Style
-
-The citation standard that will be used to list publications within the downloaded document. Choices may include APA \(6th Edition\), Chicago \(16th Edition\), or MLA \(7th Edition\).
-
-#### Filter
-
-You may choose to exclude publications from the downloaded document based on their publication status. By default, publications of all statuses are included in the downloaded document.
-
-\[3\]: \#download-options
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Download Option</th>
+      <th style="text-align:left">Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Document Type</td>
+      <td style="text-align:left">The template that will be used to arrange your data into a downloaded
+        document; either a CV or a custom report. Every instance of UNIWeb includes
+        a generic Academic CV Document Type that may have been customized by your
+        institution to fit their branding. However, your institution may also choose
+        to include their own custom report templates. For information specific
+        to your institution&#x2019;s custom reports, please contact your system
+        administrator.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Faculty</td>
+      <td style="text-align:left">Certain Document Types may have different formatting rules and may handle
+        information differently depending on the .</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Layout Sections</td>
+      <td style="text-align:left">The sections of information that make up the selected Document Type. All
+        sections are selected by default, but you may deselect individual sections
+        to omit them from the downloaded document.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Years Back</td>
+      <td style="text-align:left">
+        <p>The extent of time that you would like your downloaded document to include:</p>
+        <p></p>
+        <ul>
+          <li><b>Lifetime (default):</b> The downloaded document will include all available
+            information from your account that is relevant to the selected Document
+            Type - past, present, and future.</li>
+          <li></li>
+          <li><b>A number of years back is specified, End Date left blank: </b>The downloaded
+            document will include all available information from your account that
+            is relevant to the selected Document Type, starting from the selected number
+            of years back from the date of download, and including future entries.</li>
+          <li></li>
+          <li><b>A number of years back is specified, End Date selected: </b>The downloaded
+            document will include all available information from your account that
+            is relevant to the selected Document Type, starting from the selected number
+            of years back from the selected End Date, and ending at the selected End
+            Date.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">End Date</td>
+      <td style="text-align:left">This option is only visible when a number of years is chosen in the Years
+        Back field, rather than the default Lifetime selection. If an End Date
+        is specified, it will be used to determine both the start and end date
+        for the range of years as selected in the Years Back field. If an End Date
+        is not specified, UNIWeb will use the date of your download request as
+        the start date for the range of years as selected in the Years Back field,
+        and will include all relevant information dated through the present and
+        into the future in the downloaded document.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">File Format</td>
+      <td style="text-align:left">The format of the downloaded document. Available choices may differ depending
+        on the Document Type, but may include .pdf, .doc, or .html.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Citation Style</td>
+      <td style="text-align:left">The citation standard that will be used to list publications within the
+        downloaded document. Choices may include APA (6th Edition), Chicago (16th
+        Edition), or MLA (7th Edition).</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Filter</td>
+      <td style="text-align:left">You may choose to exclude publications from the downloaded document based
+        on their publication status. By default, publications of all statuses are
+        included in the downloaded document.</td>
+    </tr>
+  </tbody>
+</table>
