@@ -25,11 +25,11 @@ Your member account information serves two important purposes in UNIWeb:
 ## Editing the account information of other UNIWeb members
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an Administrator Role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit member information
 
-If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task within your Academic Unit, please contact your system administrator.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/introduction/navigating-uniweb/navigating-uniweb#the-administration-page), go to **Members**.
