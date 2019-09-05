@@ -10,13 +10,13 @@ Parent units are composed of smaller _**sub-units**_.
 
 Regardless of their position in the institution's hierarchy, academic units are categorized by their _**unit type**_ -  faculties, departments, programs, offices, or otherwise.
 
-Accordingly, each academic unit has a **name**, a **unit type** and a **parental unit**. See the following example:
+Accordingly, each academic unit has a **name**, a **unit type** and a **parent unit**. See the following example:
 
-| Unit Name | Unit Type | Parent Unit |
-| :--- | :--- | :--- |
-| Visual Arts | Department | Faculty of Arts |
-| Faculty of Arts | Faculty | UNIWeb University |
-| UNIWeb University | University | \[no parent\] |
+|  | Unit Name | Unit Type | Parent Unit |
+| :--- | :--- | :--- | :--- |
+| 1 | Visual Arts | Department | Faculty of Arts |
+| 2 | Faculty of Arts | Faculty | UNIWeb University |
+| 3 | UNIWeb University | University | \[no parent\] |
 
 #### In this section:
 
