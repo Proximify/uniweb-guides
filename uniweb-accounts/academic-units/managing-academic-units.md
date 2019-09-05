@@ -12,11 +12,13 @@
 ## Create an academic unit Manually
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
 
 * Edit academic units
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+**With this set of permissions, a user may create new academic units only within the academic unit associated with their administrator role.**
+
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
 {% endhint %}
 
 1. From your [UNIWeb Administrator](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
@@ -30,9 +32,11 @@ If you have not been assigned a role with the permissions listed above, and beli
 When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
 
 * Edit academic units
+
+**With this set of permissions, a user may create new academic units only within the academic unit associated with their administrator role.**
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
 {% endhint %}
@@ -41,7 +45,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb's requirements.
 
-{% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an Academic Unit spreadsheet template" %}
+{% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an academic unit spreadsheet template" %}
 
 The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
@@ -109,9 +113,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ## Add a unit type
 
-_Unit types_ categorize academic units, and serve to make searching and filtering for particular academic units easier.
-
-A unit type is the category of an academic unit. Common unit types are faculty, department or office, but you also have the option to add new types.
+_**Unit types**_ categorize academic units, and serve to make searching and filtering for particular academic units easier. Common unit types are **faculty, department** or **office**, but you also have the option to add new types as needed by your institution.
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
