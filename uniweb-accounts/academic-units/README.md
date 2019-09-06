@@ -1,24 +1,22 @@
 # Academic Units
 
+### What is an academic unit?
+
 Academic institutions are organized into various administrative bodies, such as faculties, departments, offices, and programs. Generally, these administrative bodies, or _**academic units**_, exist in a hierarchical structure. For instance, a **Faculty** of Arts may include **departments** for humanities, fine arts, and languages. These departments may in turn be composed of various **programs,** for classical studies, music, and English literature, respectively. Each of these administrative bodies, from the faculty level down to the individual program, is an academic unit. 
 
-In UNIWeb, this hierarchy of academic units defines the structure of the network. This hierarchy begins with the institution itself - the top-level academic unit - which breaks down into smaller academic units, and these academic units may themselves break down into smaller academic units. To help illustrate this hierarchy, UNIWeb may refer to academic units differently depending on their relationship with to other units:
+![](../../.gitbook/assets/frame-2.png)
 
-Smaller academic units are nested into a _**parent unit**_. 
+### How are academic units reflected in UNIWeb?
 
-Parent units are composed of smaller _**sub-units**_.
+In UNIWeb, the hierarchy of academic units defines the overall structure of the network, and **organizes the institution's members and administrators**. Every UNIWeb member has a primary appointment to an academic unit, which will affect where other UNIWeb members can find them within the network, especially in search results and in areas like the [Members page](../../introduction/feature-overview/navigating-uniweb.md#the-members-page) and [Research Clusters](../../networking-on-uniweb/research-clusters/), which allow users to filter by academic unit.
 
-Regardless of their position in the institution's hierarchy, academic units are categorized by their _**unit type**_ -  faculties, departments, programs, offices, or otherwise.
+Academic units also serve to restrict the scope of [UNIWeb administrator roles](../access-control/managing-administrator-roles-and-permissions.md). Administrators may only perform administrative tasks such as accessing member data, downloading reports, and helping members reset their passwords within the academic unit that is assigned to their role, and within that academic unit's sub-units.
 
-Accordingly, each academic unit has a **name**, a **unit type** and a **parent unit**. See the following example:
+As some UNIWeb users may have appointments or commitments within departments or faculties outside of their primary academic unit, these members can list themselves in secondary academic units through [**cross appointments**](cross-appointments.md), allowing administrators with the permissions over the secondary unit to treat the cross-appointee as a full member of that unit.
 
-|  | Unit Name | Unit Type | Parent Unit |
-| :--- | :--- | :--- | :--- |
-| 1 | Visual Arts | Department | Faculty of Arts |
-| 2 | Faculty of Arts | Faculty | UNIWeb University |
-| 3 | UNIWeb University | University | \[no parent\] |
+Every institution's hierarchy of academic units is unique, and so academic units can be created, edited, and deleted in UNIWeb as necessary to reflect the structure of your institution as it grows.
 
-#### In this section:
+### In this section:
 
 * [Managing Academic Units](managing-academic-units.md)
 * [Cross-Appointments](cross-appointments.md)

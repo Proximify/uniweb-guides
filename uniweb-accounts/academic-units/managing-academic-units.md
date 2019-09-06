@@ -1,5 +1,24 @@
 # Managing Academic Units
 
+In UNIWeb, the hierarchy of academic units defines the overall structure of the network. This hierarchy begins with the institution itself - the top-level academic unit - which breaks down into smaller academic units, and these academic units may themselves break down into smaller academic units. To help illustrate this hierarchy, UNIWeb refers to academic units differently depending on their relationship to other units:
+
+Smaller academic units are nested into a _**parent unit**_. 
+
+Parent units are composed of smaller _**sub-units**_.
+
+Regardless of their position in the institution's hierarchy, academic units are categorized by their _**unit type:**_ faculties, departments, programs, offices, or any other classification as required by the institution.
+
+Accordingly, every academic unit has a **name**, a **unit type** and a **parent unit**. See the following example:
+
+|  | Unit Name | Unit Type | Parent Unit |
+| :--- | :--- | :--- | :--- |
+| 1 | Theatre | Program | Department of Fine Arts |
+| 2 | Department of Fine Arts | Department | Faculty of Arts |
+| 3 | Faculty of Arts | Faculty | UNIWeb University |
+| 4 | UNIWeb University | University | \[no parent\] |
+
+Every institution's structure of academic units is unique, and so academic units can be created, edited, and deleted as necessary to reflect 
+
 #### On this page:
 
 * [Add an academic unit manually](managing-academic-units.md#add-an-academic-unit-manually)
