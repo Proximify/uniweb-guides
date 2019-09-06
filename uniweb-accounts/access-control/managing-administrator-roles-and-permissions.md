@@ -2,7 +2,7 @@
 
 UNIWeb administrators are differentiated from general UNIWeb members because they can perform certain tasks within UNIWeb that general users cannot, or would not need to. The ability to perform a particular administrative task is called a [_**permission**_](managing-administrator-roles-and-permissions.md#administrator-permissions).
 
-Not every UNIWeb administrator will need access to every permission across the entire UNIWeb network. Generally, a small number of users will need to have a particular set of permissions to perform administrative tasks within their academic unit. Accordingly, UNIWeb delegates administrator permissions through the creation of administrator _**roles**_, groupings of permissions that are restricted to a particular academic unit and its sub-units. Roles can be assigned, modified, and removed from multiple UNIWeb members at once.
+Not every UNIWeb administrator will need access to every permission across the entire UNIWeb network. Generally, a small number of users will need to have a particular set of permissions to perform administrative tasks within their academic unit. Accordingly, UNIWeb delegates administrator permissions through the creation of administrator _**roles**_, groupings of permissions that are restricted to a particular [academic unit](../academic-units/) and its sub-units. Roles can be assigned, modified, and removed from multiple UNIWeb members at once.
 
 For example, a department of health sciences may have 3 faculty members that are dedicated to performing administrative tasks within the health sciences academic unit. These three administrators could be assigned a single role that looks like this:
 
