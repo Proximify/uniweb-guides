@@ -132,7 +132,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ## Add a unit type
 
-_**Unit types**_ categorize academic units, and serve to make searching and filtering for particular academic units easier. Common unit types are **faculty, department** or **office**, but you also have the option to add new types as needed by your institution.
+_**Unit types**_ categorize academic units, and serve to make searching and filtering for particular academic units easier. Common unit types are **faculty**, **department**, ****or **office**, but you can add new unit types as needed to properly reflect the structure of your institution.
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -142,7 +142,11 @@ _**Unit types**_ categorize academic units, and serve to make searching and filt
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
- To add a unit type, select the Add Unit Type option from the right-hand menu. Here you can enter your new unit type and it will become an available option across the network.
+1. From your [UNIWeb Administration](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
+2. In the right panel, click **Add a unit type**.
+3. In the _Create and academic unit type_ dialog, enter a name for your new academic unit type.
+4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry field to add the unit type name in a second language. 
+5. Click **Save**.
 
 ## Academic unit information fields
 
