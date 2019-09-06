@@ -17,12 +17,12 @@ Accordingly, every academic unit has a **name**, a **unit type** and a **parent 
 | 3 | Faculty of Arts | Faculty | UNIWeb University |
 | 4 | UNIWeb University | University | \[no parent\] |
 
-Every institution's structure of academic units is unique, and so academic units can be created, edited, and deleted as necessary to reflect 
+Every institution's hierarchy of academic units is unique, and so academic units and unit types can be created, edited, and deleted in UNIWeb as necessary to reflect the structure of your institution as it grows.
 
 #### On this page:
 
-* [Add an academic unit manually](managing-academic-units.md#add-an-academic-unit-manually)
-* [Add multiple academic units using a spreadsheet](managing-academic-units.md#add-multiple-academic-units-using-a-spreadsheet)
+* [Create an academic unit manually](managing-academic-units.md#add-an-academic-unit-manually)
+* [Create multiple academic units using a spreadsheet](managing-academic-units.md#add-multiple-academic-units-using-a-spreadsheet)
 * [Edit an academic unit](managing-academic-units.md#edit-an-academic-unit)
 * [Delete an academic unit](managing-academic-units.md#delete-an-academic-unit)
 * [Add a unit type](managing-academic-units.md#add-a-unit-type)
