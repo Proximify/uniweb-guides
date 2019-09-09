@@ -53,9 +53,12 @@ If your administrator permissions do not extend to the UNIWeb member's primary u
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-Removing a member from a cross-appointment also takes away the administrative access to their data through that unit. Administrators can remove cross-appointments by selecting the unit, and scrolling to the list of cross appointees. Click the Edit button on the right. Here you will see the same page as for adding members. Click Delete in order to remove the cross-appointment.
+1. From your [UNIWeb Administrator](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
+2. In the centre panel, locate and click on the academic unit from which you would like to remove a cross-appointee.
+3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Edit** button to the right of the member you would like to remove.
+4. In the _Cross Appointees_ page, click **Delete**.
 
-Notifications are also used when an admin adds a user as a cross-appointee, in the case where the admin does not have permissions to the unit that they are appointing the user to. The user will be notified in this case to confirm the cross appointment.
-
-The notification will either ask the user to confirm or deny a change \(such as a request for delegation\) or simply make the user aware of a change \(A user removing themselves as a delegate\), which can simply be dismissed when read.
+{% hint style="danger" %}
+**Note:** removing a member from a cross-appointment will take away administrative access to their data for administrators in that unit.
+{% endhint %}
 
