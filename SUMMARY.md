@@ -33,7 +33,6 @@
     * [Profile Sections](networking-on-uniweb/your-public-profile/profile-sections.md)
     * [Hiding your email address from your Public Profile](networking-on-uniweb/your-public-profile/hiding-your-email-address-from-your-public-profile.md)
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
-    * [Research Themes](networking-on-uniweb/research-themes/research-themes.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Increasing discoverability with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
   * [Research Places](networking-on-uniweb/research-places/README.md)
