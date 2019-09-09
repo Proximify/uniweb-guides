@@ -1,6 +1,4 @@
-# Increasing discoverability with Research Themes
-
-::content needed::
+# Increasing Discoverability with Research Themes
 
 ### On this page:
 
