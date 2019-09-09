@@ -29,7 +29,6 @@
   * [Customizing data entry and reports in UNIWeb](your-academic-information/customizing-data-entry-and-reports-in-uniweb.md)
 * [Networking on UNIWeb](networking-on-uniweb/README.md)
   * [Your Public Profile](networking-on-uniweb/your-public-profile/README.md)
-    * [Your Public Profile](networking-on-uniweb/your-public-profile/your-public-profile.md)
     * [Filling out your Public Profile](networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md)
     * [Profile Sections](networking-on-uniweb/your-public-profile/profile-sections.md)
     * [Hiding your email address from your Public Profile](networking-on-uniweb/your-public-profile/hiding-your-email-address-from-your-public-profile.md)
