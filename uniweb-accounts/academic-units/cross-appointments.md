@@ -1,16 +1,25 @@
 # Managing Cross-Appointments
 
-When a new member is created, they are given a primary academic unit affiliation. This along with their position title, defines their relationship and rank within the institution.
+When a new member is created, they are given a primary academic unit affiliation. This, along with their position title, defines their relationship and rank within the institution.
 
-Members can be associated with secondary units as well, called cross-appointments. Cross-appointments reflect the real-world appointments of that user to faculties and departments outside of their primary unit, while also allowing administrators with the permissions over the secondary unit to access the member’s data, download reports, help the user reset their password, and otherwise treat the cross-appointee as a primary member of that unit.
+Members can be associated with secondary units as well, called _**cross-appointments**_. Cross-appointments reflect the real-world appointments of that user to faculties and departments outside of their primary unit, while also allowing administrators with the permissions over the secondary unit to access the member’s data, download reports, help the user reset their password, and otherwise treat the cross-appointee as a primary member of that unit.
 
-The most important difference between a primary and secondary unit is that the primary unit is displayed at the very top of the members profile page, next to their name and title, while secondary units are listed lower on their public profile, under Cross Appointments. A single UNIWeb member can have only one primary academic unit, but may have multiple cross-appointments.
+You can find a UNIWeb member's primary unit at the very top of their profile page, next to their name and title, while their cross appointments are listed lower on their public profile, in the **Current Appointments** section. A single UNIWeb member can have only one primary academic unit, but may have multiple secondary units listed as cross-appointments.
 
-See our article on Member Account Information to learn how to change a UNIWeb member’s primary academic unit.
+UNIWeb members can add or remove their own cross appointments as necessary through their public profile, but only administrators can change a UNIWeb member's primary academic unit. See our article on [Editing Account Information](../account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members) to learn how to change a UNIWeb member’s primary academic unit.
 
-Tip: You can see which of the members of your unit have cross appointments. Pick a member and hold your mouse over their academic unit. A small pop-up window will appear with the list of all the units that member belongs to.
+#### On this page:
+
+* [Add a cross-appointment to your own UNIWeb account](cross-appointments.md#add-a-cross-appointment-to-your-uniweb-account)
+* [Add a cross-appointment to another UNIWeb member's account](cross-appointments.md#add-cross-appointments-to-other-uniweb-accounts)
+* [Remove cross-appointments from another UNIWeb member's account](cross-appointments.md#remove-other-members-from-a-cross-appointment)
 
 ## Add a cross-appointment to your UNIWeb account
+
+1. From your [UNIWeb Home page](../../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Profile**.
+2. In the centre panel, navigate to the **Current Appointments** section, and click the **Add button** to the right of the section title.
+3. Add or edit information in the _Current Appointments_ data entry form as needed.
+4. Click **Save.**
 
 ## Add cross-appointments to other UNIWeb accounts
 
@@ -32,6 +41,10 @@ UNIWeb determines the most efficient way to handle the cross-appointment based o
 The user will see the cross appointment on their profile page. If UNIWeb finds that the administrator’s permissions do not include the unit that the member is a part of, then UNIWeb will have the user being cross appointed confirm the appointment. UNIWeb will send them a notification within their UNIWeb account. The notification will state that ‘X’ administrator wants to appoint the user to ‘Y’ unit. Then the user can confirm or deny the appointment. As soon as they have confirmed the appointment, it will appear on their profile page.
 
 In the case where the user has to confirm the appointment the new cross appointee will be listed on the Unit info page under ‘Cross appointees’ with a Pending tag next to their name, to show that the member has yet to confirm their appointment. UNIWeb will send the user a notification in their UNIWeb account that they have received this appointment. If they deny, the ‘Pending’ tag will switch to Denied. If the member confirms the appointment, the tag will disappear altogether.
+
+{% hint style="info" %}
+**Tip:** You can see which of members of your unit have cross appointments. Pick a member and hold your mouse over their academic unit. A small pop-up window will appear with the list of all the units that member belongs to.
+{% endhint %}
 
 ## Remove other members from a cross-appointment
 
