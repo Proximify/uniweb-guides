@@ -5,7 +5,6 @@
   * [Feature Overview](introduction/feature-overview/README.md)
     * [Navigating UNIWeb](introduction/feature-overview/navigating-uniweb.md)
     * [User Interface](introduction/feature-overview/user-interface.md)
-    * [Finding People on UNIWeb](introduction/feature-overview/finding-people-on-uniweb.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
