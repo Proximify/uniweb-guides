@@ -32,7 +32,7 @@ For example, a department of health sciences may have 3 faculty members that are
       </td>
     </tr>
   </tbody>
-</table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would _only be able to perform those tasks within the Health Sciences academic unit and its sub-units_. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
+</table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would _**only be able to perform those tasks within the Health Sciences academic unit and its sub-units**_. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
 
 #### On this page:
 
