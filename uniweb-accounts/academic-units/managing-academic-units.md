@@ -6,7 +6,7 @@ Smaller academic units are nested into a _**parent unit**_.
 
 Parent units are composed of smaller _**sub-units**_.
 
-Regardless of their position in the institution's hierarchy, academic units are further categorized by their _**unit type:**_ faculties, departments, programs, offices, or any other classification as required by the institution.
+Regardless of their position in the institution's hierarchy, academic units are categorized by their _**unit type:**_ faculties, departments, programs, offices, or any other classification as required by the institution.
 
 Accordingly, every academic unit has a **name**, a **unit type** and a **parent unit**. See the following example:
 
