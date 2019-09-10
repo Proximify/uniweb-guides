@@ -6,8 +6,8 @@ If you cannot find a Research Theme within your institution’s listings, you ca
 
 * [Creating new Research Themes](managing-research-themes.md#creating-new-research-themes)
 * [Approving Research Themes](managing-research-themes.md#approving-research-themes)
-* Editing Research Themes
-* Deleting Research Themes
+* [Editing Research Themes](managing-research-themes.md#editing-research-themes)
+* [Deleting Research Themes](managing-research-themes.md#deleting-research-themes)
 
 ## Creating new Research Themes
 
@@ -40,7 +40,36 @@ On the Research Themes page, you will see a list of themes proposed by your user
 
 ## Editing Research Themes
 
+Once a Research Theme has been created, you can edit its name in English or French, and you can change its parent theme.
 
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an administrator role with the following permissions:
+
+* Approve new themes
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
+
+1. From your [UNIWeb Administration](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Themes**. 
+2. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
+3. In the theme details screen, edit the theme information as needed.
+4. Click **Save**, or **Approve**, if the theme has not yet been approved.
 
 ## Deleting Research Themes
+
+Over time, certain Research Rhemes may no longer be necessary, or may become redundant with the addition and growth of other Research Themes around it. 
+
+Because Research Themes can be [tagged](increasing-discoverability-with-research-themes.md) and referenced in so many different areas of UNIWeb, deleting a Research Theme outright could negatively impact the discoverability of certain resources. To counteract this, UNIWeb allows you to delete a Research Theme by **merging it with its parent theme**. Anything that has been tagged with the deleted research theme will automatically be tagged with its parent theme instead, and **the deleted theme's children will continue to exist** as children of the deleted theme's parent without otherwise disrupting the heirarchy of themes.
+
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an administrator role with the following permissions:
+
+* Approve new themes
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
+
+1. From your [UNIWeb Administration](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Themes**. 
+2. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
+3. In the theme details screen, click **Delete by merging into parent theme**.
 
