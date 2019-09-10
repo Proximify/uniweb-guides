@@ -10,7 +10,7 @@ Academic units also serve to set boundaries for [UNIWeb administrator access](..
 
 As some UNIWeb users may hold positions within departments or faculties outside of their primary academic unit, these members can list themselves in secondary academic units through [**cross appointments**](cross-appointments.md), allowing administrators with the permissions over the secondary unit to treat the cross-appointee as a full member of that unit.
 
-Every institution's hierarchy of academic units is unique, and so academic units can be created, edited, rearranged, and deleted in UNIWeb as necessary to reflect structure of your institution as it grows over time.
+Every institution's hierarchy of academic units is unique, and so academic units can be [**created, edited, rearranged, and deleted**](cross-appointments.md) in UNIWeb as necessary to reflect structure of your institution as it grows over time.
 
 ### In this section:
 
