@@ -24,7 +24,7 @@
 
 ## Tagging your Publications with Research Themes
 
-## UNIWeb gives you the option to tag one, or many, of your publications with a research interest. Other users will then be able to locate this publication by research interest and it will appear on your UNIWeb profile.
+UNIWeb gives you the option to tag one, or many, of your publications with a research interest. Other users will then be able to locate this publication by research interest and it will appear on your UNIWeb profile.
 
 ## Tagging your Research Places with Research Themes
 
