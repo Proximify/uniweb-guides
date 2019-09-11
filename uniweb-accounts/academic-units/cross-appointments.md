@@ -16,6 +16,8 @@ UNIWeb members can add or remove their own cross appointments as necessary throu
 
 ## Adding a cross-appointment to your UNIWeb account
 
+You can add a cross-appointment to your own UNIWeb account to reflect any appointments outside of your main academic unit. Cross-appointments are listed and managed in your [profile](../../networking-on-uniweb/your-public-profile/), under the _Current Appointments_ heading.
+
 1. From your [UNIWeb Home page](../../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the centre panel, navigate to the **Current Appointments** section, and click the **Add button** to the right of the section title.
 3. Add or edit information in the _Current Appointments_ data entry form as needed.
@@ -23,8 +25,10 @@ UNIWeb members can add or remove their own cross appointments as necessary throu
 
 ## Adding cross-appointees to academic units
 
+As an administrator, you can add a UNIWeb member to your academic unit as a cross-appointee. This will add a secondary academic unit to their account, and will allow administrators in the cross-appointed unit to perform administrative tasks on behalf of the cross-appointee.
+
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)**within the academic unit that will receive a new cross-appointee**. The administrator role must include the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Before you begin:** to add a UNIWeb member to a secondary academic unit, you must have an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)**within that secondary academic unit**. The administrator role must include the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit academic units
 * Edit member information
