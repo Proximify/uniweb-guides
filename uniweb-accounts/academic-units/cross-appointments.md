@@ -1,4 +1,4 @@
-# Managing Cross-Appointments
+# Cross-Appointments
 
 When a new member is created, they are given a primary academic unit affiliation. This, along with their position title, defines their relationship and rank within the institution.
 

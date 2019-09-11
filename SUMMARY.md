@@ -13,7 +13,7 @@
     * [Account Deletion](uniweb-accounts/account-management/account-deletion.md)
   * [Academic Units](uniweb-accounts/academic-units/README.md)
     * [Managing Academic Units](uniweb-accounts/academic-units/managing-academic-units.md)
-    * [Managing Cross-Appointments](uniweb-accounts/academic-units/cross-appointments.md)
+    * [Cross-Appointments](uniweb-accounts/academic-units/cross-appointments.md)
   * [Access Control](uniweb-accounts/access-control/README.md)
     * [Managing Administrator Roles and Permissions](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md)
     * [Managing Administrators](uniweb-accounts/access-control/managing-administrators.md)
