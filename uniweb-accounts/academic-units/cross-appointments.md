@@ -42,9 +42,9 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. In the _Cross Appointees_ page, in the Member drop-down list, locate and click on the UNIWeb member whom you would like to add as a cross-appointee.
 5. Click **Save**.
 
-If you have permissions over **both** of the units involved in the cross appointment \(the UNIWeb member's primary unit, and the unit to which you have added them as a cross-appointee\), UNIWeb will permit the appointment immediately.
+If you have permissions over **both** of the academic units involved in the cross appointment \(the UNIWeb member's primary unit, and the secondary unit to which you have added them as a cross-appointee\), UNIWeb will permit the appointment immediately.
 
-If your administrator permissions do not extend to the UNIWeb member's primary unit, UNIWeb will send them a notification within their UNIWeb account to confirm or deny the appointment.Tthe new cross appointee will be listed on the Unit info page under ‘Cross appointees’ with a Pending tag next to their name, to show that the member has yet to confirm their appointment. As soon as they have confirmed the appointment, it will appear on their profile page.
+If you do not have an administrator role in the UNIWeb member's primary unit, UNIWeb will ask them to confirm or deny the appointment. The new cross appointee will be listed on the academic unit's administration page under ‘Cross-appointees’ with a _Pending_ tag next to their name, to show that the member has yet to confirm their appointment. If they confirm the appointment, the _Pending_ tag will be removed, and the cross-appointment will appear on the cross-appointee's profile page, in the _Current Appointments_ section.
 
 ## Removing cross-appointees from academic units
 
