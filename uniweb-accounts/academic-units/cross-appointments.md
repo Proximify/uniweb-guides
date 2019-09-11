@@ -56,6 +56,8 @@ If you do not have an administrator role in the UNIWeb member's primary unit, UN
 
 ## Removing cross-appointees from academic units
 
+As an administrator, you can remove a cross-appointee from your academic unit. This will remove the secondary academic unit from their account, and **will remove administrative access to their data for administrators in the secondary unit.**
+
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
@@ -69,8 +71,4 @@ If you have not been assigned a role with the permissions listed above, and beli
 2. In the centre panel, locate and click on the academic unit from which you would like to remove a cross-appointee.
 3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Edit** button to the right of the member you would like to remove.
 4. In the _Cross Appointees_ page, click **Delete**.
-
-{% hint style="danger" %}
-**Note:** removing a member from a cross-appointment will take away administrative access to their data for administrators in that unit.
-{% endhint %}
 
