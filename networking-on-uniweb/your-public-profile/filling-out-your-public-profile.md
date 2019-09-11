@@ -7,7 +7,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 * [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-own-public-profile)
 * [Filling out your Public Profile manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
-* Profile Sections
+* [Profile Sections](filling-out-your-public-profile.md#profile-sections)
 
 ## Viewing your Public Profile
 
@@ -18,8 +18,8 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 ## Filling out your Public Profile manually
 
 1. From your UNIWeb Home page, go to **Profile**.
-2. Click on the **Section** that you would like to edit in the left panel to navigate directly to that Section in the centre panel.
-3. Click the **Add** button to the right of the Section title to add a new record, or click the **Edit** button to the right of an existing Section record to modify it.
+2. In the centre panel, navigate to the [**profile section**](filling-out-your-public-profile.md#profile-sections) ****where you would like to create a new record. You can click on the sectio name in the left panel to navigate directly to that section.
+3. Click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing section record to modify it.
 4. Add or edit information in the data entry form as needed.
 5. Click **Save**
 
@@ -62,4 +62,6 @@ As long as you have been assigned an administrator role within the subject’s a
 {% hint style="danger" %}
 **Note:** this procedure will not give you access to edit the UNIWeb member’s curriculum vitae information directly. If you would like to edit the information in a particular user’s curriculum vitae, see our article on [requesting delegate access to another UNIWeb member’s account](../../uniweb-accounts/access-control/delegate-access.md#requesting-delegate-access).
 {% endhint %}
+
+## Profile Sections
 
