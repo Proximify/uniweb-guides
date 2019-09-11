@@ -11,8 +11,8 @@
 1. From your institution’s [UNIWeb Network](../../introduction/feature-overview/navigating-uniweb.md#the-network-page) page, click the **Sign in** button on the right side of the navigation bar.
 2. In the Sign in drop-down menu, enter your UNIWeb username and password.
 
-{% hint style="danger" %}
-**Note:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, clicking the Sign in button will redirect you to your institution’s SSO login page to complete the login process. You will be redirected into your UNIWeb account when you have authenticated via your institution’s SSO system.
+{% hint style="info" %}
+**Tip:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, clicking the Sign in button will redirect you to your institution’s SSO login page to complete the login process. You will be redirected into your UNIWeb account when you have authenticated via your institution’s SSO system.
 {% endhint %}
 
 ## Resetting your UNIWeb account password
