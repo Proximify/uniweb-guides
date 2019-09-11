@@ -1,4 +1,4 @@
-# Editing Account Information
+# Account Information
 
 Your member account information serves two important purposes in UNIWeb:
 
@@ -9,7 +9,7 @@ Your member account information serves two important purposes in UNIWeb:
 
 * [Editing your member account information](member-account-information.md#editing-your-member-account-information)
 * [Editing the member account information of other UNIWeb members](member-account-information.md#editing-the-member-account-information-of-other-UNIWeb-members)
-* [Member account information fields](member-account-information.md#account-information-fields)
+* [Account information fields](member-account-information.md#account-information-fields)
 
 ## Editing your account information
 
@@ -75,7 +75,9 @@ If you have not been assigned a role with the permissions listed above, and beli
           profile will have a section to list the graduate students that he or she
           supervises, whereas a graduate student&#x2019;s profile will have a section
           to list their supervisor.</p>
+        <p></p>
         <p>The available account types are as follows:</p>
+        <p></p>
         <ul>
           <li>Administrator</li>
           <li>Alumnus</li>
