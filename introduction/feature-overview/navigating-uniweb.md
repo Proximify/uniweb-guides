@@ -9,11 +9,19 @@
 
 ## The Home Page
 
+![](../../.gitbook/assets/screenshots-copy-10.png)
+
 ## The Network Page
+
+![](../../.gitbook/assets/screenshots-copy-13.png)
 
 ## The Members Page
 
+![](../../.gitbook/assets/screenshots-copy-9.png)
+
 ## The Administration Page
+
+![](../../.gitbook/assets/screenshots-copy-14.png)
 
 The Administration Page has six main sections, as listed below, but you will only see the sections that correspond to the permissions that you have been granted through the administrator roles that were assigned to you. If you feel that you need access to one of the sections below to perform administrative tasks for your academic unit, please contact a system administrator.
 
