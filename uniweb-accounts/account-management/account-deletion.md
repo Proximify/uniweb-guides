@@ -21,7 +21,7 @@ Deleting members from your UNIWeb network will immediately revoke their access t
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Members**.
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Members**.
 2. In the centre panel, click the checkbox to the right of the UNIWeb member\(s\) whose accounts you would like to delete.
 3. In the right panel, click **Delete Selected**.
 4. In the _Delete selected members_ dialog, confirm that you have selected the correct UNIWeb member\(s\), and click **Delete**.

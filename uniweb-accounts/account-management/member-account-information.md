@@ -13,7 +13,7 @@ Your member account information serves two important purposes in UNIWeb:
 
 ## Editing your account information
 
-1. From your [UNIWeb Home page](../../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Add to or edit your account information in the data entry form as needed.
 4. Click **Save**

@@ -19,14 +19,14 @@ UNIWeb members can add or remove their own cross appointments as necessary throu
 
 You can add a cross-appointment to your own UNIWeb account to reflect any appointments outside of your main academic unit. Cross-appointments are listed and managed in your [profile](../../networking-on-uniweb/your-public-profile/), under the _Current Appointments_ heading.
 
-1. From your [UNIWeb Home page](../../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the centre panel, navigate to the **Current Appointments** section, and click the **Add button** to the right of the section title.
 3. Add or edit information in the _Current Appointments_ data entry form as needed.
 4. Click **Save.**
 
 ## Editing or deleting a cross appointment from your UNIWeb account
 
-1. From your [UNIWeb Home page](../../introduction/feature-overview/navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the centre panel, navigate to the **Current Appointments** section, and click the **Edit button** next to the cross-appointment you would like to modify.
 3. Edit information in the _Current Appointments_ data entry form as needed.
 4. Click **Save** to save your changes, or **Delete** to remove the cross-appointment from your account**.**
@@ -44,7 +44,7 @@ As an administrator, you can add a UNIWeb member to your academic unit as a cros
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administrator](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
+1. From your [UNIWeb Administrator](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
 2. In the centre panel, locate and click on the academic unit to which you would like to add a member as a cross-appointee.
 3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Add** button to the right of the section title.
 4. In the _Cross Appointees_ page, in the Member drop-down list, locate and click on the UNIWeb member whom you would like to add as a cross-appointee.
@@ -67,7 +67,7 @@ As an administrator, you can remove a cross-appointee from your academic unit. T
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administrator](../../introduction/feature-overview/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
+1. From your [UNIWeb Administrator](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
 2. In the centre panel, locate and click on the academic unit from which you would like to remove a cross-appointee.
 3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Edit** button to the right of the member you would like to remove.
 4. In the _Cross Appointees_ page, click **Delete**.

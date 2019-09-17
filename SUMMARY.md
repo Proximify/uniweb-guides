@@ -1,10 +1,9 @@
 # Table of contents
 
 * [Start Page](README.md)
-* [Introduction](introduction/README.md)
-  * [Feature Overview](introduction/feature-overview/README.md)
-    * [Navigating UNIWeb](introduction/feature-overview/navigating-uniweb.md)
-    * [User Interface](introduction/feature-overview/user-interface.md)
+* [Feature Overview](introduction/README.md)
+  * [Navigating UNIWeb](introduction/navigating-uniweb.md)
+  * [User Interface](introduction/user-interface.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
