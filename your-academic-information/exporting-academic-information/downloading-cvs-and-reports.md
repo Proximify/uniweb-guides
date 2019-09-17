@@ -2,26 +2,26 @@
 
 Using UNIWeb, you can easily generate fully-formatted academic documents using the information in your [UNIWeb Curriculum Vitae](../your-uniweb-curriculum-vitae-cv.md). While UNIWeb includes document templates such as a generic CV and an annual activity report, your institution may offer [custom templates](../../api-access/customizing-data-entry-and-reports-in-uniweb.md) for documents that reflect your department or faculty’s content and formatting requirements.
 
-### On this page:
+#### On this page:
 
-* [Downloading your CV and report files](downloading-cvs-and-reports.md#downloading-your-cv-and-report-files)
-* [Downloading CV and report files for other UNIWeb members](downloading-cvs-and-reports.md#downloading-cv-and-report-files-for-other-uniweb-members)
+* [Downloading your own CV and report files](downloading-cvs-and-reports.md#downloading-your-cv-and-report-files)
+* [Downloading the CV and report files of other UNIWeb members](downloading-cvs-and-reports.md#downloading-cv-and-report-files-for-other-uniweb-members)
 * [Download Options](downloading-cvs-and-reports.md#download-options)
 
-## Downloading your CV and report files
+## Downloading your own CV and report files
 
 1. From your [UNIWeb Home](../../introduction/feature-overview/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae** 
 2. Click **Download As...** in the right panel.
 3. Select the **Document Type** that you would like to download
-4. Optional: configure any other **Download Options** as needed
+4. Optional: configure any [**Download Options**](downloading-cvs-and-reports.md#download-options) as needed
 5. Click **Download.**
 
-## Downloading CV and report files for other UNIWeb members
+## Downloading the CV and report files of other UNIWeb members
 
 Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject's academic unit that includes the following permissions:
+**Before you begin:** to perform this procedure, you must have an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject's academic unit that includes the following permissions:
 
 * Edit Member Information
 
