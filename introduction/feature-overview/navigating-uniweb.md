@@ -17,7 +17,7 @@
 
 ## The Members Page
 
-![](../../.gitbook/assets/screenshots-copy-9.png)
+![](../../.gitbook/assets/screenshots-copy-15.png)
 
 ## The Administration Page
 
