@@ -20,12 +20,6 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 
 Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
 
-> **Before you begin:** this procedure requires an Admin Role with the following permissions:
->
-> * Edit Member Information
->
->   If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
-
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) with the following permissions:
 
