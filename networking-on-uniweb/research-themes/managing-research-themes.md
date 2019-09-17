@@ -1,6 +1,6 @@
 # Managing Research Themes
 
-If you cannot find a Research Theme within your institution’s listings, you can propose a new Research Theme to be added. The new Research Theme will be displayed on your profile after it has been approved by a UNIWeb member who has been assigned an administrator role for the relevant faculty.
+If you cannot find a particular Research Theme within your institution’s listings, you can propose it to your institution's UNIWeb administration team. The new Research Theme will be made available to you and your institution at large after it has been approved by an administrator.
 
 ### On this page:
 
@@ -24,7 +24,7 @@ Any new Research Themes that you add must be approved by a UNIWeb member who has
 ## Approving Research Themes
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role with the following permissions:
+**Before you begin:** this procedure requires an administrator role in any academic unit that includes the following permissions:
 
 * Approve new themes
 
@@ -62,7 +62,7 @@ Over time, certain Research Rhemes may no longer be necessary, or may become red
 Because Research Themes can be [tagged](increasing-discoverability-with-research-themes.md) and referenced in so many different areas of UNIWeb, deleting a Research Theme outright could negatively impact the discoverability of certain resources. To counteract this, UNIWeb allows you to delete a Research Theme by **merging it with its parent theme**. Anything that has been tagged with the deleted research theme will automatically be tagged with its parent theme instead, and **the deleted theme's children will continue to exist** as children of the deleted theme's parent without otherwise disrupting the heirarchy of themes.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role with the following permissions:
+**Before you begin:** this procedure requires an administrator role in any academic unit that includes the following permissions:
 
 * Approve new themes
 
