@@ -10,7 +10,7 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 
 ## Downloading your CV and report files
 
-1. From your UNIWeb Home page, go to **Curriculum Vitae** 
+1. From your [UNIWeb Home](../../introduction/feature-overview/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae** 
 2. Click **Download As...** in the right panel.
 3. Select the **Document Type** that you would like to download
 4. Optional: configure any other **Download Options** as needed
@@ -21,7 +21,7 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) with the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject's academic unit that includes the following permissions:
 
 * Edit Member Information
 
