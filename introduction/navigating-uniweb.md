@@ -9,11 +9,24 @@
 
 ## The Home Page
 
+The Home Page is a dashboard combining specialized sections where you can populate and maintain your account information, profile and curriculum vitae. The Home page also includes tools to create and manage new Groups and Resources.
+
 ![](../.gitbook/assets/screenshots-copy-10.png)
+
+The Home page has seven main sections, as listed below:
 
 #### Profile
 
+The Profile section allows you to create a public profile on UNIWeb, in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage your UNIWeb account information and change your password from 
 
+From the Profile section, you can:
+
+* [Fill out your public profile](../networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
+* [Create new Research Themes](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
+* Add publications to your public profile
+* Add Research Places to your public profile
+* [Edit your account information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
+* Change your account password
 
 #### Connections
 
