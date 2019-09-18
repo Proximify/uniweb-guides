@@ -30,15 +30,22 @@ From the Profile section, you can:
 
 #### Connections
 
-
+The Connections section allows you to browse your connections to other UNIWeb members, based on your position title,  your academic unit, and the research themes that you have added to your profile.
 
 #### Curriculum Vitae
 
+The Curriculum Vitae section allows you to populate your academic CV, which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
 
+From the Curriculum Vitae section, you can:
+
+* Populate your Curriculum Vitae manually
+* Import information from the Canadian Common CV
+* Export information to the Canadian Common CV
+* Download your Curriculum Vitae and report documents
 
 #### Publications
 
-
+The Publications section allows you to list 
 
 #### Groups
 
