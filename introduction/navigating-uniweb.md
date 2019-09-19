@@ -55,13 +55,15 @@ From the Publications section, you can:
 
 ### Groups
 
-
+The Groups section allows you to quickly access the Research Groups that you've joined, and create and manage new Research Groups.
 
 ### Resources
 
-
+The Resources section allows you to create and manage your Equipment Profiles within your UNIWeb network. 
 
 ### Tutorials
+
+In the Tutorials section, you can find support documentation, frequently-asked-questions, and videos to help you get the most out of UNIWeb.
 
 ## The Network Page
 
