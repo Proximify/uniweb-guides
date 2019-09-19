@@ -15,7 +15,7 @@ The Home Page is a dashboard combining specialized sections where you can popula
 
 The Home page has seven main sections, as listed below:
 
-#### Profile
+### Profile
 
 The Profile section allows you to create a public profile on UNIWeb, in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage your UNIWeb account information and change your password from 
 
@@ -28,11 +28,11 @@ From the Profile section, you can:
 * [Edit your account information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
 * Change your account password
 
-#### Connections
+### Connections
 
 The Connections section allows you to browse your connections to other UNIWeb members, based on your position title,  your academic unit, and the research themes that you have added to your profile.
 
-#### Curriculum Vitae
+### Curriculum Vitae
 
 The Curriculum Vitae section allows you to populate your academic CV, which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
 
@@ -43,19 +43,19 @@ From the Curriculum Vitae section, you can:
 * Export information to the Canadian Common CV
 * Download your Curriculum Vitae and report documents
 
-#### Publications
+### Publications
 
 The Publications section allows you to list 
 
-#### Groups
+### Groups
 
 
 
-#### Resources
+### Resources
 
 
 
-#### Tutorials
+### Tutorials
 
 ## The Network Page
 
@@ -73,7 +73,7 @@ The Administration Page is a dashboard combining specialized sections where UNIW
 
 The Administration Page has seven main sections, as listed below. You will only see the sections that correspond to the permissions that you have been granted through the [administrator roles](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that were assigned to you. If you feel that you need access to one of the sections below to perform administrative tasks for your academic unit, please contact a system administrator.
 
-#### Members
+### Members
 
 The Members section of UNIWeb provides a full list of your network’s users, along with tools for account management and communication.
 
@@ -87,9 +87,9 @@ From the Administration &gt; Members section, you can:
 * [Download other members’ CV and report files](../your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
 * [Populate other members’ public profiles](../networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 
-#### Web Articles
+### Web Articles
 
-#### Research Themes
+### Research Themes
 
 The Research Themes section provides an overview of your UNIWeb instance’s Research Themes and the structure of their hierarchy.
 
@@ -99,25 +99,25 @@ From the Research Themes section, you can:
 * [Edit research themes](../networking-on-uniweb/research-themes/managing-research-themes.md#editing-research-themes)
 * [Delete research themes](../networking-on-uniweb/research-themes/managing-research-themes.md#deleting-research-themes)
 
-#### Academic Metrics
+### Academic Metrics
 
 Visualize statistical information about members. Create lists and reports.
 
-#### Academic Units
+### Academic Units
 
 The Academic Units Edit the profile of academic units.
 
-#### Access Control
+### Access Control
 
 Manage access roles and control member permissions.
 
-#### API Access
+### API Access
 
 Create and edit API client credentials.
 
-#### Data Reports and Templates
+### Data Reports and Templates
 
 
 
-#### Account Sync
+### Account Sync
 
