@@ -38,14 +38,20 @@ The Curriculum Vitae section allows you to populate your academic CV, which you 
 
 From the Curriculum Vitae section, you can:
 
-* Populate your Curriculum Vitae manually
-* Import information from the Canadian Common CV
-* Export information to the Canadian Common CV
-* Download your Curriculum Vitae and report documents
+* [Populate your Curriculum Vitae manually](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
+* [Import information from the Canadian Common CV](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
+* [Export information to the Canadian Common CV](../your-academic-information/exporting-academic-information/applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
+* [Download your Curriculum Vitae and report documents](../your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files)
 
 ### Publications
 
-The Publications section allows you to list 
+The Publications section offers a dedicated area to create records of your academic publications, in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
+
+From the Publications section, you can:
+
+* [Create, edit, and delete publication records](../your-academic-information/publications-1.md#adding-publications-manually)
+* [Tag publications with research interests to include them in your profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
+* Search for and remove duplicate publication records
 
 ### Groups
 
