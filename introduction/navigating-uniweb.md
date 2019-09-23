@@ -13,7 +13,7 @@ The Home Page  is a dashboard combining specialized sections where you can popul
 
 ![](../.gitbook/assets/screenshots-copy-10.png)
 
-The Home page has seven main sections, as listed below:
+The Home page has seven sections, as listed below:
 
 ### Profile
 
