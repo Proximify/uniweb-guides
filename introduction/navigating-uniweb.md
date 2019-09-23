@@ -121,11 +121,11 @@ Manage access roles and control member permissions.
 
 ### API Access
 
-Create and edit API client credentials.
+The API Access section allows you to manage UNIWeb's integrations with third-party services.
 
-### Data Reports and Templates
+### Data and Report Templates
 
-
+The Data Reports and Templates section allows you to view the sets of mapping rules, called _schemas_, that generate UNIWeb's data entry forms and tell UNIWeb what information to include when generating CV and report documents. Generally, if a UNIWeb user indicates that their CV or report document is missing some information, cross-referencing that report's schema will show why a certain record was not included in the exported file.
 
 ### Account Sync
 
