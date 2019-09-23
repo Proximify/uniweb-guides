@@ -26,6 +26,7 @@ From the Profile section, you can:
 * [Add publications to your public profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 * Add Research Places to your public profile
 * [Edit your account information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
+* [Join a secondary academic unit \(cross appointment\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
 * Change your account password
 
 ### Connections
@@ -77,9 +78,9 @@ In the Tutorials section, you can find support documentation, frequently-asked-q
 
 The Administration Page is a dashboard combining specialized sections where UNIWeb administrators can perform various administrative tasks. The Administration Page will only be available to you if you have been assigned an administrator role.
 
-![](../.gitbook/assets/screenshots-copy-14.png)
+![](../.gitbook/assets/screenshots-copy-14%20%281%29.png)
 
-The Administration Page has seven main sections, as listed below. You will only see the sections that correspond to the permissions that you have been granted through the [administrator roles](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that were assigned to you. If you feel that you need access to one of the sections below to perform administrative tasks for your academic unit, please contact a system administrator.
+The Administration Page has eight main sections, as listed below. You will only see the sections that correspond to the permissions that you have been granted through the [administrator roles](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that were assigned to you. If you feel that you need access to one of the sections below to perform administrative tasks for your academic unit, please contact a system administrator.
 
 ### Members
 
@@ -97,6 +98,8 @@ From the Administration &gt; Members section, you can:
 
 ### Web Articles
 
+
+
 ### Research Themes
 
 The Research Themes section provides an overview of your UNIWeb instance’s Research Themes and the structure of their hierarchy.
@@ -113,11 +116,24 @@ Visualize statistical information about members. Create lists and reports.
 
 ### Academic Units
 
-The Academic Units Edit the profile of academic units.
+The Academic Units section provides an overview of your institution's academic units as they are organized in UNIWeb. 
+
+From the Academic Units section, you can:
+
+* [Create, edit, and delete academic units](../uniweb-accounts/academic-units/managing-academic-units.md#create-an-academic-unit-manually)
+* [Change how academic units are nested and organized](../uniweb-accounts/academic-units/managing-academic-units.md#edit-an-academic-unit)
+* [Create different types of academic units](../uniweb-accounts/academic-units/managing-academic-units.md#add-a-unit-type)
+* [Add and remove UNIWeb members from secondary academic units \(cross-appointments\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-cross-appointees-to-academic-units)
 
 ### Access Control
 
-Manage access roles and control member permissions.
+The Access Control section allows you to define the administrator roles that dictate which users have the ability to perform administrative tasks within your UNIWeb instance, and allows you to assign those roles to your peers as necessary.
+
+From the Access Control section, you can:
+
+* [Create, edit, and delete administrator roles](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md#creating-administrator-roles)
+* [Assign administrator roles to UNIWeb members](../uniweb-accounts/access-control/managing-administrators.md#granting-administrator-access)
+* [Remove administrator roles from UNIWeb members](../uniweb-accounts/access-control/managing-administrators.md#removing-administrator-access)
 
 ### API Access
 
@@ -126,6 +142,4 @@ The API Access section allows you to manage UNIWeb's integrations with third-par
 ### Data and Report Templates
 
 The Data Reports and Templates section allows you to view the sets of mapping rules, called _schemas_, that generate UNIWeb's data entry forms and tell UNIWeb what information to include when generating CV and report documents. Generally, if a UNIWeb user indicates that their CV or report document is missing some information, cross-referencing that report's schema will show why a certain record was not included in the exported file.
-
-### Account Sync
 
