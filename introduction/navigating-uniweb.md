@@ -98,7 +98,7 @@ From the Administration &gt; Members section, you can:
 
 ### Web Articles
 
-
+The Web Articles section allows you to create web articles that are displayed on the [UNIWeb Network](navigating-uniweb.md#the-network-page) page, in the newsfeed.
 
 ### Research Themes
 
