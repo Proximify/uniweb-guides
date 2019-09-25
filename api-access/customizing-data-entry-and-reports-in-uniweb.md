@@ -30,7 +30,7 @@ While UNIWeb includes a generic annual activity report template, institutions ma
 * A **mapping**  document that indicates which UNIWeb CV fields should be used to populate the report with information, and where the information should be presented in the report. Data in the report can be arranged in any order—it is not constrained by where it appears in the UNIWeb CV.
 * Any **formulas** that should be applied to the data. The most common examples of this are lifetime summaries, such as of funding, publications, or students graduated. UNIWeb Report takes the raw data and can perform the necessary calculations in order to make the data meaningful to reviewers.
 
-For more information on the report design and creation process, download our **Report Design** document, and contact us at **requests@proximify.ca.**
+For more information on the report design and creation process, contact us at **requests@proximify.ca.**
 
 ## Creating custom input templates
 
