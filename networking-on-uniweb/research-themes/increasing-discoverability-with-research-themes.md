@@ -26,6 +26,8 @@
 
 UNIWeb gives you the option to tag one, or many, of your publications with a research interest. Other users will then be able to locate this publication by research interest and it will appear on your UNIWeb profile.
 
+To begin, navigate to the Publications page or the Publications section of your CV. Select your desired publication or publications and choose Add Tags from the right-hand menu. You will be presented with a list of research interests that you have already applied elsewhere in UNIWeb. However, you also have the option to add new research interests from your network’s list. To remove a tag, simply select your desired publication or publications and then choose Remove Tags from the right-hand menu and follow the same process.
+
 ## Tagging your Research Places with Research Themes
 
 By tagging your research places with interests, you will increase your visibility on the Research Places page and will allow your colleagues to find you based on your research interests.
