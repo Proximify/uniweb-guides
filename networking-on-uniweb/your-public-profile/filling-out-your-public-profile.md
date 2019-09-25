@@ -65,8 +65,6 @@ As long as you have been assigned an administrator role within the subject’s a
 
 ## Profile Sections
 
-## Profile Sections
-
 Your profile is divided into sections of content which are listed in the left panel for quick navigation. Certain sections may or may not be present on your profile depending on your [account type and position title](../../uniweb-accounts/account-management/member-account-information.md#account-information-fields) - for instance, if you're a graduate student, your profile will not include a section to list students under your supervision. 
 
 UNIWeb includes the following sections by default, but your institution may have requested the addition of custom sections. For information on sections that are not listed below, please contact your system administrator.
@@ -75,12 +73,12 @@ UNIWeb includes the following sections by default, but your institution may have
 | :--- | :--- | :--- |
 | **Membership Information** | \*\*\*\* | All |
 | **Research Themes** | \*\*\*\* | All |
-| **Research Description** | \*\*\*\* | All |
-| **Current Appointments** | \*\*\*\* | All |
-| **Affiliations** | \*\*\*\* | All |
-| **Current Teaching** | \*\*\*\* | \*\*\*\* |
-| **Office Hours** | \*\*\*\* | \*\*\*\* |
-| **Selected Degrees** | \*\*\*\* | \*\*\*\* |
+| **Research Description** | Describe the research work that you perform throughout your academic roles and cross appointments at your institution. | All |
+| **Current Appointments** | List any [cross-appointments](../../uniweb-accounts/academic-units/cross-appointments.md) you have outside of the main academic role that is listed in your [account information](../../uniweb-accounts/account-management/member-account-information.md). You may specify a title, academic unit, and any additional information about the appointment. | All |
+| **Affiliations** | Describe any positions held or affiliations with organizations outside of your institution, past or present. | All |
+| **Current Teaching** | List any courses that you are currently teaching at your institution. You may also list your office hours per course. | \*\*\*\* |
+| **Office Hours** | List your schedule and locations for your office hours. | \*\*\*\* |
+| **Selected Degrees** | List any degrees that you have earned throughout your career. | \*\*\*\* |
 | **Biography** | \*\*\*\* | \*\*\*\* |
 | **Research Places** | \*\*\*\* | \*\*\*\* |
 | **Alternative Contact Information** | \*\*\*\* | \*\*\*\* |
