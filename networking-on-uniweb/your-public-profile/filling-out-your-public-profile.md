@@ -69,51 +69,137 @@ Your profile is divided into sections of content which are listed in the left pa
 
 UNIWeb includes the following sections by default, but your institution may have requested the addition of custom sections. For information on sections that are not listed below, please contact your system administrator.
 
-| Profile Section | Function | Account Types |
-| :--- | :--- | :--- |
-| **Membership Information** | \*\*\*\* | All |
-| **Research Themes** | \*\*\*\* | All |
-| **Research Description** | Describe the research work that you perform throughout your academic roles and cross appointments at your institution. | All |
-| **Current Appointments** | List any [cross-appointments](../../uniweb-accounts/academic-units/cross-appointments.md) you have outside of the main academic role that is listed in your [account information](../../uniweb-accounts/account-management/member-account-information.md). You may specify a title, academic unit, and any additional information about the appointment. | All |
-| **Affiliations** | Describe any positions held or affiliations with organizations outside of your institution, past or present. | All |
-| **Current Teaching** | List any courses that you are currently teaching at your institution. You may also list your office hours per course. | \*\*\*\* |
-| **Office Hours** | List your schedule and locations for your office hours. | \*\*\*\* |
-| **Selected Degrees** | List any degrees that you have earned throughout your career. | \*\*\*\* |
-| **Biography** | \*\*\*\* | \*\*\*\* |
-| **Research Places** | \*\*\*\* | \*\*\*\* |
-| **Alternative Contact Information** | \*\*\*\* | \*\*\*\* |
-| **Media Links** | \*\*\*\* | \*\*\*\* |
-| **Selected Publications** |  |  |
-
-### Membership Information
-
-### Research Themes
-
-### Research Description
-
-### Cross-Appointments
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Profile Section</th>
+      <th style="text-align:left">Function</th>
+      <th style="text-align:left">Account Types</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Membership Information</b>
+      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Research Themes</b>
+      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Research Description</b>
+      </td>
+      <td style="text-align:left">Describe the research work that you perform throughout your academic roles
+        and cross appointments at your institution.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Appointments</b>
+      </td>
+      <td style="text-align:left">List any <a href="../../uniweb-accounts/academic-units/cross-appointments.md">cross-appointments</a> you
+        have outside of the main academic role that is listed in your <a href="../../uniweb-accounts/account-management/member-account-information.md">account information</a>.
+        You may specify a title, academic unit, and any additional information
+        about the appointment.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Affiliations</b>
+      </td>
+      <td style="text-align:left">Describe any positions held or affiliations with organizations outside
+        of your institution, past or present.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Teaching</b>
+      </td>
+      <td style="text-align:left">List any courses that you are currently teaching at your institution.
+        You may also list your office hours per course.</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Office Hours</b>
+      </td>
+      <td style="text-align:left">List your schedule and locations for your office hours.</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Selected Degrees</b>
+      </td>
+      <td style="text-align:left">List any degrees that you have earned throughout your career.</td>
+      <td
+      style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Biography</b>
+      </td>
+      <td style="text-align:left">Describe yourself, your academic background, and your role at your institution.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Research Places</b>
+      </td>
+      <td style="text-align:left">List any areas around the world where you conduct research. These research
+        places are shown on your profile, and also on a world map in the <a href="../research-places/">Research Places</a> page.</td>
+      <td
+      style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Alternative Contact Information</b>
+      </td>
+      <td style="text-align:left">List any alternative contact information outside of the email address
+        and phone number listed in your membership information.</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Media Links</b>
+      </td>
+      <td style="text-align:left">
+        <p>Embed links to media outside of UNIWeb that you would like to display
+          on your profile. Links may be come from a variety of sources:</p>
+        <p></p>
+        <ul>
+          <li>Academia.edu</li>
+          <li>Facebook</li>
+          <li>Google+</li>
+          <li>LinkedIn</li>
+          <li>Medium</li>
+          <li>Mendeley</li>
+          <li>ORCID</li>
+          <li>Pinterest</li>
+          <li>Quora</li>
+          <li>ResearchGate</li>
+          <li>Tumblr</li>
+          <li>Twitter</li>
+          <li>YouTube</li>
+        </ul>
+      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Selected Publications</b>
+      </td>
+      <td style="text-align:left">List any of your publications that you would like to display on your public
+        profile. Publications are listed here automatically when you <a href="../research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes">tag them with a Research Theme</a>.</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>### 
 
 Adding Secondary Units to your account To create a cross-appointment to a secondary unit, go to your profile and click Add next to Current Appointments. Select the academic unit using the drop-down. A title is optional. Additional information describing the appointment or related information is also optional. Click Save. The appointment will appear on your public profile page. Administrators of that academic unit will also have access to your CV information for reports and metrics.
 
-### Affiliations
-
-### Current Teaching
-
-### Office Hours
-
-### Selected Degrees
-
-### Biography
-
-### Research Places
+### 
 
 When you add or edit a research place, UNIWeb gives you the option to tag it with a research interest. To find your desired interest from your network’s list, you can either scroll through the list or you can begin entering the name in the search field and UNIWeb will refine your results.
 
 On your profile page, there is a section titled Research Places. This allows you to define a location where you have conducted a research activity. You begin by entering an address. Then, you can add a description, choose a type of research activity and even tag your location with research interests. You can optionally specify a start and end date. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
 
-### Alternative Contact Information
-
-### Media Links
+### 
 
 ### Selected Publications
 
