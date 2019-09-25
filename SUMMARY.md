@@ -8,7 +8,7 @@
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
     * [Account Login](uniweb-accounts/account-management/account-login.md)
-    * [Account Information](uniweb-accounts/account-management/member-account-information.md)
+    * [Membership Information](uniweb-accounts/account-management/member-account-information.md)
     * [Account Deletion](uniweb-accounts/account-management/account-deletion.md)
   * [Academic Units](uniweb-accounts/academic-units/README.md)
     * [Managing Academic Units](uniweb-accounts/academic-units/managing-academic-units.md)

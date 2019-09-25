@@ -1,17 +1,17 @@
-# Account Information
+# Membership Information
 
-Your member account information serves two important purposes in UNIWeb:
+Your membership information serves two important purposes in UNIWeb:
 
-* Your member account information is displayed at the top of your public profile, allowing other UNIWeb members to contextualize your position within your institution and contact you using methods that you prefer. 
-* Parts of your member account information, like your account type and position title, will affect both your discoverability within UNIWeb and the information fields that are available for you to fill out on your public profile.
+* Your membership information is displayed at the top of your public profile, allowing other UNIWeb members to contextualize your position within your institution and contact you using methods that you prefer. 
+* Parts of your membership information, like your account type and position title, will affect both your discoverability within UNIWeb and the information fields that are available for you to fill out on your public profile.
 
 #### On this page:
 
-* [Editing your member account information](member-account-information.md#editing-your-member-account-information)
-* [Editing the member account information of other UNIWeb members](member-account-information.md#editing-the-member-account-information-of-other-UNIWeb-members)
-* [Account information fields](member-account-information.md#account-information-fields)
+* [Editing your membership information](member-account-information.md#editing-your-member-account-information)
+* [Editing the membership information of other UNIWeb members](member-account-information.md#editing-the-member-account-information-of-other-UNIWeb-members)
+* [Membership information fields](member-account-information.md#account-information-fields)
 
-## Editing your account information
+## Editing your membership information
 
 1. From your [UNIWeb Home page](../../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
@@ -22,7 +22,7 @@ Your member account information serves two important purposes in UNIWeb:
 **Note:** As a general UNIWeb member, you can change all of your account information except for your account type, as this field can affect several areas of UNIWeb. If you need to change your account type, contact a system administrator for your academic unit.
 {% endhint %}
 
-## Editing the account information of other UNIWeb members
+## Editing the membership information of other UNIWeb members
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -38,7 +38,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. Add to or edit their account information in the data entry form as needed.
 5. Click **Save**
 
-## Account information fields
+## Membership information fields
 
 <table>
   <thead>

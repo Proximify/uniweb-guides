@@ -17,7 +17,7 @@ The Home page has seven sections, as listed below:
 
 ### Profile
 
-The Profile section allows you to create a public profile on UNIWeb, in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage your UNIWeb account information and change your password from 
+The Profile section allows you to create a public profile on UNIWeb, in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage parts of your UNIWeb account and membership information.
 
 From the Profile section, you can:
 
@@ -25,7 +25,7 @@ From the Profile section, you can:
 * [Create new Research Themes](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
 * [Add publications to your public profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 * Add Research Places to your public profile
-* [Edit your account information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
+* [Edit your membership information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
 * [Join a secondary academic unit \(cross appointment\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
 * Change your account password
 
@@ -93,7 +93,7 @@ The Members section of UNIWeb provides a full list of your network’s users, al
 From the Administration &gt; Members section, you can:
 
 * [Create new member accounts](../uniweb-accounts/account-management/account-creation.md#creating-uniweb-member-accounts-manually)
-* [Edit member information](../uniweb-accounts/account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members)
+* [Edit membership information for other members](../uniweb-accounts/account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members)
 * [Delete member accounts](../uniweb-accounts/account-management/account-deletion.md#deleting-a-uniweb-members-account)
 * [Send password reset emails](../uniweb-accounts/account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
 * [Send account invitation and reminder emails](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
