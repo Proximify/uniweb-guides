@@ -19,7 +19,7 @@
 
 1. From your UNIWeb Home page, go to Profile. 
 2. In the Research Themes section, click Edit.
-3. Review your current list of selected Research Themes on the right side of the centre panel. Click the X to the right of any Research Theme to remove it. 
+3. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. Click the X to the right of any Research Theme to remove it. 
 4. Click Save.
 
 ## Tagging your Publications with Research Themes
