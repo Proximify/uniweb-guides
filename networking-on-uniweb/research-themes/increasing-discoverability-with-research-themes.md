@@ -1,4 +1,4 @@
-# Tagging with Research Themes to increase Discoverability
+# Tagging with Research Themes to Increase Discoverability
 
 ### On this page:
 
