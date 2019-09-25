@@ -6,7 +6,7 @@ Like academic units, Research themes are nested, meaning that parent themes are 
 
 ![](../../.gitbook/assets/frame-2.1.png)
 
-Every UNIWeb network comes with an extensive, pre-defined list of research themes sourced directly from the Canadian Common CV. No two institutions are exactly alike in their research interests, however, and so you also have the option to [add additional research themes](managing-research-themes.md#creating-new-research-themes) if the standard list doesn't include a particular interest that you'd like to list. 
+Every UNIWeb network comes with an extensive, pre-defined list of research themes sourced directly from the Canadian Common CV. No two institutions are exactly alike in their research interests, however, and so you also have the option to [add additional research themes](managing-research-themes.md#creating-new-research-themes) if the standard list doesn't include a particular interest that you'd like to use. 
 
 ### In this section:
 
