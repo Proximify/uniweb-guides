@@ -70,9 +70,13 @@ In the Tutorials section, you can find support documentation, frequently-asked-q
 
 ![](../.gitbook/assets/screenshots-copy-13.png)
 
+The Network page is the main landing page of your UNIWeb network, and is the first page that visitors will see upon accessing the network. In addition to your network's [newsfeed](../networking-on-uniweb/web-articles/), the Network page includes quick access to the public areas of your UNIWeb network, including Research Clusters, the Members page, Research Platforms, Research Groups, and Research Places.
+
 ## The Members Page
 
 ![](../.gitbook/assets/screenshots-copy-15.png)
+
+The Members page is a full, publicly-accessible list of the members of your UNIWeb network. Members can be filtered by academic unit in the left panel, and by academic title on the right. Clicking on a member will lead to their [public profile](../networking-on-uniweb/your-public-profile/).
 
 ## The Administration Page
 
