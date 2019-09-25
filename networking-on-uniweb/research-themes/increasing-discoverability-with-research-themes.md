@@ -1,4 +1,4 @@
-# Increasing Discoverability with Research Themes
+# Tagging with Research Themes to increase Discoverability
 
 ### On this page:
 
@@ -6,6 +6,8 @@
 * Removing Research Themes from your Public Profile
 * Tagging your Publications with Research Themes
 * Tagging your Research Places with Research Themes
+* Tagging Resources with Research Themes
+* Tagging Groups with Research Themes
 
 ## Adding Research Themes to your Public Profile
 
@@ -31,4 +33,12 @@ To begin, navigate to the Publications page or the Publications section of your 
 ## Tagging your Research Places with Research Themes
 
 By tagging your research places with interests, you will increase your visibility on the Research Places page and will allow your colleagues to find you based on your research interests.
+
+## Tagging Resources with Research Themes
+
+
+
+## Tagging Groups with Research Themes
+
+
 
