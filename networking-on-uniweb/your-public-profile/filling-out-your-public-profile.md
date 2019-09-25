@@ -81,7 +81,8 @@ UNIWeb includes the following sections by default, but your institution may have
     <tr>
       <td style="text-align:left"><b>Membership Information</b>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">Your <a href="../../uniweb-accounts/account-management/member-account-information.md#editing-your-membership-information">membership information</a> is
+        listed here, along with your profile picture.</td>
       <td style="text-align:left">All</td>
     </tr>
     <tr>
