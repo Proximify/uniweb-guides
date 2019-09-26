@@ -1,5 +1,9 @@
 # Managing Research Places
 
+On your profile page, there is a section titled Research Places. This allows you to define a location where you have conducted a research activity. You begin by entering an address. Then, you can add a description, choose a type of research activity and even tag your location with research interests. You can optionally specify a start and end date. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
+
+When you add or edit a research place, UNIWeb gives you the option to tag it with a research interest. To find your desired interest from your network’s list, you can either scroll through the list or you can begin entering the name in the search field and UNIWeb will refine your results.
+
 ## Add a new research place
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**.
