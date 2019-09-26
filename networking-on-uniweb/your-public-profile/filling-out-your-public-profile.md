@@ -124,27 +124,50 @@ UNIWeb includes the following sections by default, but your institution may have
       </td>
       <td style="text-align:left">List any courses that you are currently teaching at your institution.
         You may also list your office hours per course.</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Office Hours</b>
       </td>
       <td style="text-align:left">List your schedule and locations for your office hours.</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Selected Degrees</b>
       </td>
       <td style="text-align:left">List any degrees that you have earned throughout your career.</td>
       <td
-      style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Biography</b>
       </td>
       <td style="text-align:left">Describe yourself, your academic background, and your role at your institution.</td>
       <td
-      style="text-align:left"></td>
+      style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Academic Supervisors</b>
+      </td>
+      <td style="text-align:left">List the professor(s) who are currently supervising your academic research.</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>Masters Student</li>
+          <li>Doctoral Student</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Supervision</b>
+      </td>
+      <td style="text-align:left">List the student(s) whose academic research you are currently supervising.</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>Professor</li>
+        </ul>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Research Places</b>
@@ -152,14 +175,14 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left">List any areas around the world where you conduct research. These research
         places are shown on your profile, and also on a world map in the <a href="../research-places/">Research Places</a> page.</td>
       <td
-      style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alternative Contact Information</b>
       </td>
       <td style="text-align:left">List any alternative contact information outside of the email address
         and phone number listed in your membership information.</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Media Links</b>
@@ -184,7 +207,7 @@ UNIWeb includes the following sections by default, but your institution may have
           <li>YouTube</li>
         </ul>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Selected Publications</b>
@@ -192,7 +215,7 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left">List any of your publications that you would like to display on your public
         profile. Publications are listed here automatically when you <a href="../research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes">tag them with a Research Theme</a>.</td>
       <td
-      style="text-align:left"></td>
+      style="text-align:left">All</td>
     </tr>
   </tbody>
 </table>### 
