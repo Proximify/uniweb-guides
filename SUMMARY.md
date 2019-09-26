@@ -35,7 +35,7 @@
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes to Increase Discoverability](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
   * [Research Places](networking-on-uniweb/research-places/README.md)
-    * [Research Places](networking-on-uniweb/research-places/research-places.md)
+    * [Managing Research Places](networking-on-uniweb/research-places/research-places.md)
   * [Equipment Profiles \(Resources\)](networking-on-uniweb/equipment-profiles-resources/README.md)
     * [Managing Equipment Profiles](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
     * [Equipment Profiles \(Resources\)](networking-on-uniweb/equipment-profiles-resources/equipment-profiles-resources.md)

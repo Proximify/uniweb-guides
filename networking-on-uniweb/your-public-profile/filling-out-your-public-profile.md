@@ -18,10 +18,10 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 ## Filling out your Public Profile manually
 
 1. From your UNIWeb Home page, go to **Profile**.
-2. In the centre panel, navigate to the [**profile section**](filling-out-your-public-profile.md#profile-sections) ****where you would like to create a new record. You can click on the sectio name in the left panel to navigate directly to that section.
+2. In the centre panel, navigate to the [**profile section**](filling-out-your-public-profile.md#profile-sections) ****where you would like to create a new record. You can click on the section name in the left panel to navigate directly to that section.
 3. Click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing section record to modify it.
 4. Add or edit information in the data entry form as needed.
-5. Click **Save**
+5. Click **Save.**
 
 ## Filling out your Public Profile automatically using your CV
 
