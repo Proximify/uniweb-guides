@@ -2,14 +2,15 @@
 
 ### On this page:
 
-* [Adding Research Themes to your Public Profile](increasing-discoverability-with-research-themes.md#adding-research-themes-to-your-public-profile)
-* [Removing Research Themes from your Public Profile](increasing-discoverability-with-research-themes.md#removing-research-themes-from-your-public-profile)
+* [Tagging your public profile with Research Themes](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes)
 * [Tagging your Publications with Research Themes](increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 * [Tagging your Research Places with Research Themes](increasing-discoverability-with-research-themes.md#tagging-your-research-places-with-research-themes)
 * [Tagging Resources with Research Themes](increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes)
 * [Tagging Groups with Research Themes](increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes)
 
-## Adding Research Themes to your Public Profile
+## Tagging your public profile with Research Themes
+
+### Adding Research Themes to your Public Profile
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
 2. In the Research Themes section, click **Edit**.
@@ -17,7 +18,7 @@
 4. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. You may click and drag them to reorder how they are displayed on your profile. 
 5. Click **Save**.
 
-## Removing Research Themes from your Public Profile
+### Removing Research Themes from your Public Profile
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
 2. In the Research Themes section, click **Edit**.
@@ -26,7 +27,7 @@
 
 ## Tagging your Publications with Research Themes
 
-You can tag one or many of your publications with a Research Theme. Once a publication has been tagged with a Research Theme, it will be displayed on your[ public profile](../your-public-profile/), and in the [Research Cluster](../research-clusters-1.md) and search results for that Research theme. 
+You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../your-public-profile/), and in the [Research Cluster](../research-clusters-1.md) and search results for that Research theme. 
 
 ### Adding tags to your publications
 
