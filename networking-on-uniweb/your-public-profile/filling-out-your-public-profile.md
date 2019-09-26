@@ -20,7 +20,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 1. From your UNIWeb Home page, go to **Profile**.
 2. In the centre panel, navigate to the [**profile section**](filling-out-your-public-profile.md#profile-sections) ****where you would like to create a new record. You can click on the section name in the left panel to navigate directly to that section.
 3. Click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing section record to modify it.
-4. Add or edit information in the data entry form as needed.
+4. Add or edit information in the data entry form as needed. Fields marked with an asterisk \(\*\) are mandatory.
 5. Click **Save.**
 
 ## Filling out your Public Profile automatically using your CV
@@ -86,9 +86,14 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left">All</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Research Themes</b>
+      <td style="text-align:left"><b>Research Interests</b>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">Add <a href="../research-themes/">Research Themes</a> to your profile that
+        describe the scope of your work at your institution, as well as your general
+        research interests. By adding themes here, your profile will be included
+        in <a href="../research-clusters-1.md">Research Clusters</a> and search results
+        for those themes, and will create connections with your peers that you
+        can find in your connection map.</td>
       <td style="text-align:left">All</td>
     </tr>
     <tr>
