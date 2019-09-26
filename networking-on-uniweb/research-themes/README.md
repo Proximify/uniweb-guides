@@ -13,5 +13,5 @@ Every UNIWeb network comes with an extensive, pre-defined list of Research Theme
 ### In this section:
 
 * [Managing Research Themes](managing-research-themes.md)
-* [Tagging with Research Themes to Increase Discoverability](increasing-discoverability-with-research-themes.md)
+* [Tagging with Research Themes](increasing-discoverability-with-research-themes.md)
 
