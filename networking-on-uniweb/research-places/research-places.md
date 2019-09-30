@@ -26,3 +26,8 @@ When you add or edit a research place, UNIWeb gives you the option to tag it wit
 
 ## Delete a research place
 
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**.
+2. In the centre panel, navigate to the Research Places section. You can click on Research Places in the left panel to navigate directly to that section.
+3. Click the **Edit** button to the right of the Research Places record that you would like to modify.
+4. Under the data entry form, click **Delete.**
+
