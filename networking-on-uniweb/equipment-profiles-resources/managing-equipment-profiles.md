@@ -1,4 +1,25 @@
-# Managing Equipment Profiles
+# Managing Resources
 
-On this page: Creating an Equipment Profile Editing an Equipment Profile Profile Sections Deleting an Equipment Profile
+#### On this page: 
+
+* Creating a Resource 
+* Editing a Resource
+* Deleting a Resource
+* Resource Profile Sections 
+
+## Creating a Resource
+
+
+
+## Editing a Resource
+
+
+
+## Deleting a Resource
+
+
+
+## Resource Profile Sections
+
+
 
