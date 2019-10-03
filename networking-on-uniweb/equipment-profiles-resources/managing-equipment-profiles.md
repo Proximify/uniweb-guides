@@ -2,10 +2,10 @@
 
 #### On this page: 
 
-* Creating a Resource 
-* Editing a Resource
-* Deleting a Resource
-* Resource Profile Sections 
+* [Creating a Resource](managing-equipment-profiles.md#creating-a-resource) 
+* [Editing a Resource](managing-equipment-profiles.md#editing-a-resource)
+* [Deleting a Resource](managing-equipment-profiles.md#deleting-a-resource)
+* Resource Information
 
 ## Creating a Resource
 
@@ -30,7 +30,7 @@
 3. In the right panel, click **Delete Profile**.
 4. In the **Delete profile** dialog, click the **Yes** button to confirm that you would like to delete the selected resource.
 
-## Resource Profile Sections
+## Resource Information
 
 ### Resource Information
 
@@ -68,9 +68,9 @@
       <td style="text-align:left">
         <p>The kind of resource that you are listing:</p>
         <ul>
-          <li>Equipment -</li>
-          <li>Expertise -</li>
-          <li>Service -</li>
+          <li>Equipment - a set of machinery designed for a specific task</li>
+          <li>Expertise - your ability to consult on a specific topic</li>
+          <li>Service - a specific performed service</li>
         </ul>
       </td>
     </tr>
@@ -102,7 +102,7 @@
   </tbody>
 </table>### Resource Profile Sections
 
-| Profile Section | Function |
+| Profile Section | Purpose |
 | :--- | :--- |
 | Description |  |
 | Specifications |  |
@@ -114,7 +114,7 @@
 | Research Facility information |  |
 | Alternative Contact Information |  |
 | Members |  |
-| Keyboards |  |
+| Keywords |  |
 
 
 
