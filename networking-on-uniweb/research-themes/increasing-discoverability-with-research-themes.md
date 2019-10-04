@@ -55,7 +55,22 @@ You can tag one or many of your publications with Research Themes. Once a public
 
 ## Tagging your Research Places with Research Themes
 
-By tagging your research places with interests, you will increase your visibility on the Research Places page and will allow your colleagues to find you based on your research interests.
+By tagging your research places with Research Themes, you are increasing the number of keywords that visitors can use to find your Research Place in search results or by filtering on the Map page. Your Research Place will also be displayed in the Research Cluster corresponding to the tagged Research Theme.
+
+### Adding tags to your Research Places
+
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
+2. Navigate to the Research Places section, and **click the Edit button** to the right of the Research Place that you would like to tag.
+3. In the data entry form for the selected Research Place, **click the Add button** to the right of the Research Themes heading.
+4. In the Research Themes dialog, select a research theme from the drop-down menu.
+5. Click **Save**.
+
+### Removing tags from your Research Places
+
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
+2. Navigate to the Research Places section, and **click the Edit button** to the right of the Research Place that you would like to untag.
+3. In the data entry form for the selected Research Place, **click the Edit button** to the right of the Research Theme that you would like to remove.
+4. In the Research Themes dialog, click **Delete.**
 
 ## Tagging Resources with Research Themes
 
