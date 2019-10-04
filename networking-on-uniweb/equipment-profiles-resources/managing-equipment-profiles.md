@@ -136,8 +136,8 @@ The prospective new owner will receive a notification that you have requested th
 | Specifications |  |
 | Terms of Use |  |
 | Locations |  |
-| Availability |  |
-| Research Themes |  |
+| Availability | List the days of the week and the times on those days when the Resource is available for use. You can also indicate whether there is an operator on site to help with use of the resource during those times. |
+| Research Themes | Tag your Resource with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
 | Sectors of Application |  |
 | Research Facility Information | Add the name and URL for the research facility that houses or manages the resource. |
 | Alternative Contact Information | Add any alternative email addresses or telephone numbers that can be used to inquire about making use of the Resource. |
