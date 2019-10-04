@@ -2,10 +2,35 @@
 
 #### On this page: 
 
-* [Creating a Resource](../equipment-profiles-resources/managing-equipment-profiles.md#creating-a-resource) 
-* [Editing a Resource](../equipment-profiles-resources/managing-equipment-profiles.md#editing-a-resource)
-* [Deleting a Resource](../equipment-profiles-resources/managing-equipment-profiles.md#deleting-a-resource)
-* [Create a backup of a Resource](../equipment-profiles-resources/managing-equipment-profiles.md#create-a-backup-of-a-resource)
-* [Transfer ownership of a Resource](../equipment-profiles-resources/managing-equipment-profiles.md#transfer-ownership-of-a-resource)
-* [Resource Information](../equipment-profiles-resources/managing-equipment-profiles.md#resource-information)
+* [Creating a Group](groups.md#creating-a-group)
+* [Editing a Group](groups.md#editing-a-group)
+* [Deleting a Group](groups.md#deleting-a-group)
+* [Managing Group members](groups.md#managing-group-members)
+* [Transferring ownership of a Group](groups.md#transferring-ownership-of-a-group)
+* [Creating a backup of a Group](groups.md#creating-a-backup-of-a-group)
+* [Group Profile Information](groups.md#group-profile-information)
+
+## Creating a Group
+
+## Editing a Group
+
+## Deleting a Group
+
+## Managing Group Members
+
+### Adding Group administrators
+
+### Removing Group administrators
+
+### Hiding Group members
+
+### Removing members from a Group
+
+## Transferring ownership of a Group
+
+## Creating a backup of a Group
+
+## Group Profile Information
+
+
 

@@ -5,9 +5,9 @@
 * [Creating a Resource](managing-equipment-profiles.md#creating-a-resource) 
 * [Editing a Resource](managing-equipment-profiles.md#editing-a-resource)
 * [Deleting a Resource](managing-equipment-profiles.md#deleting-a-resource)
-* [Create a backup of a Resource](managing-equipment-profiles.md#create-a-backup-of-a-resource)
-* [Transfer ownership of a Resource](managing-equipment-profiles.md#transfer-ownership-of-a-resource)
-* [Resource Information](managing-equipment-profiles.md#resource-information)
+* [Transferring ownership of a Resource](managing-equipment-profiles.md#transfer-ownership-of-a-resource)
+* [Creating a backup of a Resource](managing-equipment-profiles.md#create-a-backup-of-a-resource)
+* [Resource Profile Information](managing-equipment-profiles.md#resource-information)
 
 ## Creating a Resource
 
@@ -33,16 +33,7 @@
 4. In the right panel, click **Delete Profile**.
 5. In the **Delete profile** dialog, click the **Yes** button to confirm that you would like to delete the selected Resource.
 
-## Create a backup of a Resource
-
-1. From your UNIWeb Home page, go to **Resources**.
-2. In the centre panel, locate and **click on the Resource** that you would like to create a backup of. This will take you to the public profile of that Resource.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
-4. In the right panel, click **Make a backup copy**.
-
-UNIWeb will download a backup copy of the Resource to your computer as a JSON file.
-
-## Transfer ownership of a Resource
+## Transferring ownership of a Resource
 
 1. From your UNIWeb Home page, go to **Resources**.
 2. In the centre panel, locate and **click on the Resource** that you would like to transfer to a new owner. This will take you to the public profile of that Resource.
@@ -57,7 +48,16 @@ The prospective new owner will receive a notification that you have requested th
 **Note:** if you do not have an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes permission to edit Resource profiles, you will lose any ability to edit the Resource profile once the new owner has accepted the transfer.
 {% endhint %}
 
-## Resource Information
+## Creating a backup of a Resource
+
+1. From your UNIWeb Home page, go to **Resources**.
+2. In the centre panel, locate and **click on the Resource** that you would like to create a backup of. This will take you to the public profile of that Resource.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
+4. In the right panel, click **Make a backup copy**.
+
+UNIWeb will download a backup copy of the Resource to your computer as a JSON file.
+
+## Resource Profile Information
 
 ### Resource General Information
 
