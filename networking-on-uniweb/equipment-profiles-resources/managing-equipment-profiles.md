@@ -139,10 +139,10 @@ The prospective new owner will receive a notification that you have requested th
 | Availability |  |
 | Research Themes |  |
 | Sectors of Application |  |
-| Research Facility information |  |
-| Alternative Contact Information |  |
-| Members |  |
-| Keywords |  |
+| Research Facility Information | Add the name and URL for the research facility that houses or manages the resource. |
+| Alternative Contact Information | Add any alternative email addresses or telephone numbers that can be used to inquire about making use of the Resource. |
+| Members | Manage which UNIWeb members can find and view this resource within your institution's UNIWeb network. This section is only available if you have chosen the **Members** option, under **Visibility** in the Resource's General Information. |
+| Keywords | Add keywords that pertain to the Resource or its subject matter. This will increase its discoverability in search results. |
 
 
 
