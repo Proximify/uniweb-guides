@@ -22,7 +22,7 @@
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
 2. In the Research Themes section, click **Edit**.
-3. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. Click the X to the right of any Research Theme to remove it. 
+3. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. Click the **X** to the right of any Research Theme to remove it. 
 4. Click **Save**.
 
 ## Tagging your Publications with Research Themes
@@ -76,6 +76,8 @@ By tagging your research places with Research Themes, you are increasing the num
 
 By tagging your research places with Research Themes, you are increasing the number of keywords that visitors can use to find your Research Place in search results or by filtering on the Resources page. Your Resource will also be displayed in the Research Cluster corresponding to the tagged Research Theme.
 
+### Adding tags to your Resources
+
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Resources**.
 2. In the centre panel, locate and **click on the Resource** that you would like to tag. This will take you to the public profile of that Resource.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
@@ -84,7 +86,18 @@ By tagging your research places with Research Themes, you are increasing the num
 6. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. You may click and drag them to reorder how they are displayed on your Resource's profile page. 
 7. Click **Save.**
 
+### **Removing tags from your Resources**
+
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Resources**.
+2. In the centre panel, locate and **click on the Resource** that you would like to tag. This will take you to the public profile of that Resource.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
+4. In the centre panel, navigate to the Research Themes section, and click the **Edit** button to the right of the section heading.
+5. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. Click the **X** to the right of any Research Theme to remove it. 
+6. Click **Save**.
+
 ## Tagging Groups with Research Themes
+
+### Adding tags to your Groups
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to tag. This will take you to the public profile of that Resource.
@@ -93,4 +106,14 @@ By tagging your research places with Research Themes, you are increasing the num
 5. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel, and **click the checkbox** next to any Research Themes that you would like to tag to your Group. Research Themes that you have previously added will be checked off already.
 6. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. You may click and drag them to reorder how they are displayed on your Group's profile page. 
 7. Click **Save.**
+
+### Removing tags from your Groups
+
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** that you would like to tag. This will take you to the public profile of that Resource.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Group.
+4. In the centre panel, navigate to the Research Themes section, and click the **Edit** button to the right of the section heading.
+5. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel, and **click the checkbox** next to any Research Themes that you would like to tag to your Group. Research Themes that you have previously added will be checked off already.
+6. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. Click the **X** to the right of any Research Theme to remove it. 
+7. Click **Save**.
 
