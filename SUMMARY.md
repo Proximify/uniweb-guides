@@ -41,7 +41,7 @@
     * [Finding Resources in UNIWeb](networking-on-uniweb/equipment-profiles-resources/using-equipment-profiles.md)
   * [Research Clusters](networking-on-uniweb/research-clusters-1.md)
   * [Groups](networking-on-uniweb/groups/README.md)
-    * [Groups](networking-on-uniweb/groups/groups.md)
+    * [Managing Groups](networking-on-uniweb/groups/groups.md)
   * [Web Articles](networking-on-uniweb/web-articles/README.md)
     * [Web Articles](networking-on-uniweb/web-articles/web-articles.md)
 * [Academic Metrics](academic-metrics/README.md)
