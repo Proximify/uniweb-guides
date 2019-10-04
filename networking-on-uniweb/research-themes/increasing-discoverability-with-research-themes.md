@@ -27,7 +27,7 @@
 
 ## Tagging your Publications with Research Themes
 
-You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../your-public-profile/), and in the [Research Cluster](../research-clusters-1.md) and search results for that Research theme. 
+You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../your-public-profile/), and in the [Research Cluster](../research-clusters-1.md) corresponding to that Research Theme. 
 
 ### Adding tags to your publications
 
@@ -74,9 +74,23 @@ By tagging your research places with Research Themes, you are increasing the num
 
 ## Tagging Resources with Research Themes
 
+By tagging your research places with Research Themes, you are increasing the number of keywords that visitors can use to find your Research Place in search results or by filtering on the Resources page. Your Resource will also be displayed in the Research Cluster corresponding to the tagged Research Theme.
 
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Resources**.
+2. In the centre panel, locate and **click on the Resource** that you would like to tag. This will take you to the public profile of that Resource.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
+4. In the centre panel, navigate to the Research Themes section, and click the **Edit** button to the right of the section heading.
+5. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel, and **click the checkbox** next to any Research Themes that you would like to tag to your Resource. Research Themes that you have previously added will be checked off already.
+6. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. You may click and drag them to reorder how they are displayed on your Resource's profile page. 
+7. Click **Save.**
 
 ## Tagging Groups with Research Themes
 
-
+1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** that you would like to tag. This will take you to the public profile of that Resource.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Group.
+4. In the centre panel, navigate to the Research Themes section, and click the **Edit** button to the right of the section heading.
+5. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel, and **click the checkbox** next to any Research Themes that you would like to tag to your Group. Research Themes that you have previously added will be checked off already.
+6. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. You may click and drag them to reorder how they are displayed on your Group's profile page. 
+7. Click **Save.**
 
