@@ -130,15 +130,17 @@ The prospective new owner will receive a notification that you have requested th
   </tbody>
 </table>### Resource Profile Sections
 
+You can use the sections of a Resource's profile page to give more in-depth information pertaining to the Resource itself, how it is meant to be used, and under what terms it is available for use. If you leave a section blank, it will not be visible to visitors on the Resource's profile page.
+
 | Profile Section | Purpose |
 | :--- | :--- |
-| Description | Provide a general description of the Resource, along with any information for visitors to better understand its purpose and under what terms it is available for use. |
+| Description | Provide a general description of the Resource, along with any information for visitors to better understand its purpose. |
 | Specifications | Describe any technical aspects of the Resource as necessary. You can attach files for visitors to download for more information. |
 | Terms of Use | Indicate whether the Resource is **available by collaboration**, or is available through a **service fee**. You may list service rates, if applicable, and you can attach files or forms that visitors can download for more information. |
 | Locations | List the location\(s\) where the Resource is available. Locations will be added to the Map screen. |
 | Availability | List the days of the week and the times on those days when the Resource is available for use. You can also indicate whether there is an operator on site to help with use of the resource during those times. |
 | Research Themes | Tag your Resource with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
-| Sectors of Application |  |
+| Sectors of Application | From a drop-down list of available selections, select a sector that best describes the research field that the Resource is designed to help with. |
 | Research Facility Information | Add the name and URL for the research facility that houses or manages the resource. |
 | Alternative Contact Information | Add any alternative email addresses or telephone numbers that can be used to inquire about making use of the Resource. |
 | Members | Manage which UNIWeb members can find and view this resource within your institution's UNIWeb network. This section is only available if you have chosen the **Members** option, under **Visibility** in the Resource's General Information. |
