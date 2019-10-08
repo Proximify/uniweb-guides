@@ -26,9 +26,9 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 7. Click **Choose file**, and select the XML file that you downloaded from the CCV website.
 8. Click **Import**, and when the file is finished uploading, click **Done**. 
 
-### How UNIWeb handles imports and duplicates
+### How UNIWeb handles future imports and duplicates
 
-You can reimport information to your UNIWeb CV from the CCV website after you have already created entries in UNIWeb. UNIWeb 
+You can reimport information to your UNIWeb CV from the CCV website after you have already created entries in UNIWeb. UNIWeb checks each record on import to ensure that it does not create duplicate entries.
 
 | Existing UNIWeb CV | Imported XML | Result |
 | :--- | :--- | :--- |
