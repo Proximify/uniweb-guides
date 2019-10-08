@@ -22,33 +22,158 @@
 1. From your UNIWeb Home page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
-4. In the centre panel, navigate to the [profile section](groups.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](groups.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
+4. In the centre panel, navigate to the [group profile section](groups.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](groups.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
 5. Add or edit information in the data entry form for the corresponding Group profile section as needed.
 6. Click **Save.**
 
 ## Deleting a Group
 
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
+3. In the centre panel, under the Group's main heading, click **Menu**. 
+4. In the dropdown menu, click **Delete Group**.
+5. In the **Delete Group** dialog, click **Save.**
+
 ## Managing Group members
+
+### Adding Group members
+
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** where you would like to add a member.
+3. In the centre panel, under the Group's main heading, click **Menu**. 
+4. In the dropdown menu, click **Add members**.
+5. In the **Add group member** select the UNIWeb member that you would like to add to your group, and click **Add.**
 
 ### Adding Group administrators
 
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** where you would like to add an administrator.
+3. In the centre panel, under the Group's main heading, click **Members**. 
+4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Add to Administrators**.
+5. In the **Add to Administrators** dialog, click **Yes**.
+
 ### Removing Group administrators
 
-### Hiding Group members
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** where you would like to remove an administrator.
+3. In the centre panel, under the Group's main heading, click **Members**. 
+4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Remove from Administrators**.
+5. In the **Remove group admin** dialog, click **Yes**.
+
+### Hiding and unhiding Group members
+
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** where you would like to hide a member.
+3. In the centre panel, under the Group's main heading, click **Members**. 
+4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Hide membership**.
+5. In the **Hide membership?** dialog, click **Yes**.
+
+The group member will be hidden from the members list for visitors to the group, but will remain visible to group administrators, with a \[hidden\] tag next to their name.
+
+{% hint style="info" %}
+Tip: to unhide group members who were previously hidden, repeat the steps above, but click the **Show membership** button, which replaces the **Hide membership** button on hidden members.
+{% endhint %}
 
 ### Removing members from a Group
 
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** where you would like to remove a member. This will take you to the public profile of that Group.
+3. In the centre panel, under the Group's main heading, click **Members**. 
+4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Remove from group**.
+5. In the **Remove group member** dialog, click **Yes**.
+
 ## Transferring ownership of a Group
 
+{% hint style="warning" %}
+**Before you begin:** you must be the owner of a Group in order to transfer ownership of that Group to another UNIWeb member.
+{% endhint %}
+
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** that you would like to transfer to a new owner.
+3. In the centre panel, under the Group's main heading, click **Members**. 
+4. Under Members, hover your cursor over your own name, and in the tooltip menu that appears, click **Transfer ownership**.
+5. In the **Transfer Ownership** dialog, click **Yes**.
+
 ## Creating a backup of a Group
+
+1. From your UNIWeb Home page, go to **Groups**.
+2. In the centre panel, locate and **click on the Group** that you would like to create a backup of. This will take you to the public profile of that Group.
+3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
+4. In the right panel, click **Make a backup copy**.
+
+UNIWeb will download a backup copy of the Group to your computer as a JSON file.
 
 ## Group Profile Information
 
 ### Group General Information
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Data Field</b>
+      </th>
+      <th style="text-align:left"><b>Purpose</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Group Name*</b>
+      </td>
+      <td style="text-align:left">A name for your Group, as you would like it to appear in UNIWeb for visitors
+        to find.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Visibility*</b>
+      </td>
+      <td style="text-align:left">
+        <p>The scope to which you would like to make this Group available to UNIWeb
+          visitors:</p>
+        <ul>
+          <li><b>Public:</b> the Group will be visible to all UNIWeb visitors, whether
+            or not they are members. The group&apos;s profile will list it as <b>Public</b> in
+            the main heading.</li>
+          <li><b>Network: </b>the Group will be visible only to your institution&apos;s
+            UNIWeb members, when they are logged in. The group&apos;s profile will
+            list it as <b>Closed</b> in the main heading.</li>
+          <li><b>Members: </b>the Group will be visible only to its members. The group&apos;s
+            profile will list it as <b>Private</b> in the main heading.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Homepage</b>
+      </td>
+      <td style="text-align:left">An associated external website that has further information on the Group.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Group Type</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Partnership project</li>
+          <li>Research group</li>
+          <li>Research lab</li>
+          <li>Research project</li>
+          <li>Study group</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Group Photo</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>### Group Profile Sections
 
+You can use the sections of a Group's profile page to give more in-depth information pertaining to the Group itself. If you leave a section blank, it will not be visible to visitors on the Resource's profile page.
 
-### Group Profile Sections
-
-
+| **Profile Section** | **Purpose** |
+| :--- | :--- |
+| **Group Description** | Provide a general description of the Group, along with any information for visitors to better understand its purpose. |
+| **Research Interests** | Tag your Group with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
+| **Research Places** |  |
+| **Partners and Collaborators** |  |
+| **Resources** | Add any [Resources](../equipment-profiles-resources/) that belong to or are managed or administered by your Group. |
 
