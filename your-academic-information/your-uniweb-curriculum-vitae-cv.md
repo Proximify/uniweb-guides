@@ -1,10 +1,10 @@
 # Managing Your UNIWeb Curriculum Vitae \(CV\)
 
-Your curriculum vitae \(CV\) is the cornerstone of your UNIWeb account. You can use your UNIWeb CV to prepare for funding competitions, complete annual reports, and create a public profile for yourself. Your institution can use your CV data to maintain institutional websites, calculate metrics, and produce annual reports on your faculty’s performance.
+Your curriculum vitae \(CV\) is the cornerstone of your UNIWeb account. You can use your UNIWeb CV to [prepare for funding competitions](exporting-academic-information/applying-for-funding-with-the-canadian-common-cv.md), complete [annual reports](exporting-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files), and create a [public profile](../networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv) for yourself. Your institution can use your CV data to maintain institutional websites, calculate metrics, and produce annual reports on your faculty’s performance.
 
-By default, you are the only person who can edit your UNIWeb CV information. While certain administrators may have permission to view your CV data, there are no administrator privileges to modify user CV information. You may allow other users to edit your CV information by granting them delegate access to your account.
+By default, you are the only person who can edit your UNIWeb CV information. While certain administrators may have permission to view your CV data, there are no administrator privileges to modify user CV information. You may allow other users to edit your CV information by granting them [delegate access](../uniweb-accounts/access-control/delegate-access.md#granting-delegate-access) to your account.
 
-As you populate your UNIWeb CV, you can either add new entries from scratch, using UNIWeb’s intuitive interface, or you can import data into UNIWeb from your Canadian Common CV \(CCV\) account.
+As you populate your UNIWeb CV, you can either add new entries from scratch, or you can import data into UNIWeb from your Canadian Common CV \(CCV\) account.
 
 #### On this page:
 
