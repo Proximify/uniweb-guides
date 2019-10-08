@@ -7,15 +7,17 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 * [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-own-public-profile)
 * [Filling out your Public Profile manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
+* [Hiding information from your public profile](filling-out-your-public-profile.md#hiding-information-from-your-public-profile)
+* [Filling out another UNIWeb member's public profile](filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 * [Profile Sections](filling-out-your-public-profile.md#profile-sections)
 
-## Viewing your Public Profile
+## Viewing your public profile
 
 1. From your[ UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
 2. Click **Public Profile** in the right panel.
 3. To return, click **Edit Profile** in the right panel.
 
-## Filling out your Public Profile manually
+## Filling out your public profile manually
 
 1. From your UNIWeb Home page, go to **Profile**.
 2. In the centre panel, navigate to the [**profile section**](filling-out-your-public-profile.md#profile-sections) ****where you would like to create a new record. You can click on the section name in the left panel to navigate directly to that section.
@@ -23,7 +25,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 4. Add or edit information in the data entry form as needed. Fields marked with an asterisk \(\*\) are mandatory.
 5. Click **Save.**
 
-## Filling out your Public Profile automatically using your CV
+## Filling out your public profile automatically using your CV
 
 1. From your UNIWeb Home page, go to **Profile**. 
 2. Click **Fill from CV** in the right panel
@@ -44,7 +46,9 @@ The profile sections that can be populated using CV information are as follows:
 **Tip:** You can edit any profile information as needed - edits you make to your profile page won’t affect the information stored in your CV.
 {% endhint %}
 
-## Filling out another UNIWeb member’s Public Profile
+## Hiding information from your public profile
+
+## Filling out another UNIWeb member’s public profile
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:

@@ -7,5 +7,5 @@ The content that you choose to display on your public profile is what sets your 
 ### In this section:
 
 * [Filling out your Public Profile](filling-out-your-public-profile.md)
-* [Hiding your email address from your Public Profile](hiding-your-email-address-from-your-public-profile.md)
+* [Hiding your email address from your Public Profile]()
 

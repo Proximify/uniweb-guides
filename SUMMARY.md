@@ -30,7 +30,6 @@
   * [Your Public Profile](networking-on-uniweb/your-public-profile/README.md)
     * [Filling out your Public Profile](networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md)
     * [Creating and Restoring Profile Backups](networking-on-uniweb/your-public-profile/creating-and-restoring-profile-backups.md)
-    * [Hiding your email address from your Public Profile](networking-on-uniweb/your-public-profile/hiding-your-email-address-from-your-public-profile.md)
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
