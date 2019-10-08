@@ -28,7 +28,7 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 
 ### How UNIWeb handles future imports and duplicates
 
-You can reimport information to your UNIWeb CV from the CCV website after you have already created entries in UNIWeb. UNIWeb checks each record on import to ensure that it does not create duplicate entries.
+You can reimport information to your UNIWeb CV from the CCV website after you have already created entries in UNIWeb. UNIWeb checks each record on import to ensure that it does not create duplicate entries, and when you click Import, will tell you what changes will occur, as per the examples below:
 
 | Existing UNIWeb CV | Imported XML | Result |
 | :--- | :--- | :--- |
@@ -36,6 +36,10 @@ You can reimport information to your UNIWeb CV from the CCV website after you ha
 | Record B | \[No Match\] | UNIWeb **deletes** its copy of Record B |
 | Record C | Record C \(modified\) | UNIWeb **replaces** Record C with the modified entry in the XML import. |
 | \[No Match\] | Record D | UNIWeb **imports** Record D |
+
+{% hint style="danger" %}
+**Note:** because UNIWeb will replace records where the imported copies have been modified, it is important to note that the CCV does not always capture as much information as UNIWeb in each record. Notably, **the CCV does not capture month and date information**, and **the CCV does not capture any custom fields that your institution has requested**, and so any information entered into these fields **may be lost** if they are replaced by modified copies from the CCV website.
+{% endhint %}
 
 ## Populating your curriculum vitae manually
 
