@@ -64,18 +64,22 @@ UNIWeb will download a backup copy of the Resource to your computer as a JSON fi
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Data Field</th>
-      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left"><b>Data Field</b>
+      </th>
+      <th style="text-align:left"><b>Purpose</b>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Resource Name*</td>
+      <td style="text-align:left"><b>Resource Name*</b>
+      </td>
       <td style="text-align:left">A name for the Resource that you are listing, as you would like it to
         appear in UNIWeb for visitors to find.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Visibility*</td>
+      <td style="text-align:left"><b>Visibility*</b>
+      </td>
       <td style="text-align:left">
         <p>The scope to which you would like to make this Resource available to UNIWeb
           visitors:</p>
@@ -91,7 +95,8 @@ UNIWeb will download a backup copy of the Resource to your computer as a JSON fi
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Platform Type*</td>
+      <td style="text-align:left"><b>Platform Type*</b>
+      </td>
       <td style="text-align:left">
         <p>The kind of Resource that you are listing:</p>
         <ul>
@@ -102,29 +107,35 @@ UNIWeb will download a backup copy of the Resource to your computer as a JSON fi
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Manufacturer</td>
+      <td style="text-align:left"><b>Manufacturer</b>
+      </td>
       <td style="text-align:left">The manufacturer of the equipment that you are listing.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Model</td>
+      <td style="text-align:left"><b>Model</b>
+      </td>
       <td style="text-align:left">The model code or number of the equipment that you are listing.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Year Purchased</td>
+      <td style="text-align:left"><b>Year Purchased</b>
+      </td>
       <td style="text-align:left">The year that the Resource was purchased.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Year Manufactured</td>
+      <td style="text-align:left"><b>Year Manufactured</b>
+      </td>
       <td style="text-align:left">The year that the Resource was manufactured.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Contact Number</td>
+      <td style="text-align:left"><b>Contact Number</b>
+      </td>
       <td style="text-align:left">The phone number that visitors should call if they would like to use your
         listed Resource. This will be displayed in the <b>About the owner</b> section
         in the right panel.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Homepage</td>
+      <td style="text-align:left"><b>Homepage</b>
+      </td>
       <td style="text-align:left">An associated external website that has further information on the Resource.</td>
     </tr>
   </tbody>
@@ -132,19 +143,19 @@ UNIWeb will download a backup copy of the Resource to your computer as a JSON fi
 
 You can use the sections of a Resource's profile page to give more in-depth information pertaining to the Resource itself, how it is meant to be used, and under what terms it is available for use. If you leave a section blank, it will not be visible to visitors on the Resource's profile page.
 
-| Profile Section | Purpose |
+| **Profile Section** | **Purpose** |
 | :--- | :--- |
-| Description | Provide a general description of the Resource, along with any information for visitors to better understand its purpose. |
-| Specifications | Describe any technical aspects of the Resource as necessary. You can attach files for visitors to download for more information. |
-| Terms of Use | Indicate whether the Resource is **available by collaboration**, or is available through a **service fee**. You may list service rates, if applicable, and you can attach files or forms that visitors can download for more information. |
-| Locations | List the location\(s\) where the Resource is available. Locations will be added to the Map screen. |
-| Availability | List the days of the week and the times on those days when the Resource is available for use. You can also indicate whether there is an operator on site to help with use of the resource during those times. |
-| Research Themes | Tag your Resource with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
-| Sectors of Application | From a drop-down list of available selections, select a sector that best describes the research field that the Resource is designed to help with. |
-| Research Facility Information | Add the name and URL for the research facility that houses or manages the resource. |
-| Alternative Contact Information | Add any alternative email addresses or telephone numbers that can be used to inquire about making use of the Resource. |
-| Members | Manage which UNIWeb members can find and view this resource within your institution's UNIWeb network. This section is only available if you have chosen the **Members** option, under **Visibility** in the Resource's General Information. |
-| Keywords | Add keywords that pertain to the Resource or its subject matter. This will increase its discoverability in search results. |
+| **Description** | Provide a general description of the Resource, along with any information for visitors to better understand its purpose. |
+| **Specifications** | Describe any technical aspects of the Resource as necessary. You can attach files for visitors to download for more information. |
+| **Terms of Use** | Indicate whether the Resource is **available by collaboration**, or is available through a **service fee**. You may list service rates, if applicable, and you can attach files or forms that visitors can download for more information. |
+| **Locations** | List the location\(s\) where the Resource is available. Locations will be added to the Map screen. |
+| **Availability** | List the days of the week and the times on those days when the Resource is available for use. You can also indicate whether there is an operator on site to help with use of the resource during those times. |
+| **Research Themes** | Tag your Resource with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
+| **Sectors of Application** | From a drop-down list of available selections, select a sector that best describes the research field that the Resource is designed to help with. |
+| **Research Facility Information** | Add the name and URL for the research facility that houses or manages the resource. |
+| **Alternative Contact Information** | Add any alternative email addresses or telephone numbers that can be used to inquire about making use of the Resource. |
+| **Members** | Manage which UNIWeb members can find and view this resource within your institution's UNIWeb network. This section is only available if you have chosen the **Members** option, under **Visibility** in the Resource's General Information. |
+| **Keywords** | Add keywords that pertain to the Resource or its subject matter. This will increase its discoverability in search results. |
 
 
 
