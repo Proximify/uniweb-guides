@@ -60,7 +60,7 @@ The Groups section allows you to quickly access the Research Groups that you've 
 
 ### Resources
 
-The Resources section allows you to create and manage your Equipment Profiles within your UNIWeb network. 
+The Resources section allows you to create and manage your the Resources that you have made available within your UNIWeb network. 
 
 ### Tutorials
 
