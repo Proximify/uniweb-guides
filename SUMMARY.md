@@ -37,7 +37,7 @@
   * [Research Clusters](networking-on-uniweb/research-clusters-1.md)
   * [Research Places](networking-on-uniweb/research-places/README.md)
     * [Managing Research Places](networking-on-uniweb/research-places/research-places.md)
-  * [Equipment Profiles \(Resources\)](networking-on-uniweb/equipment-profiles-resources/README.md)
+  * [Resources](networking-on-uniweb/equipment-profiles-resources/README.md)
     * [Managing Resources](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
     * [Finding Resources in UNIWeb](networking-on-uniweb/equipment-profiles-resources/using-equipment-profiles.md)
   * [Groups](networking-on-uniweb/groups/README.md)

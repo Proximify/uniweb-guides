@@ -1,2 +1,2 @@
-# Equipment Profiles \(Resources\)
+# Resources
 
