@@ -1,10 +1,13 @@
-# Applying for Funding with the Canadian Common CV
+# Exporting to the Canadian Common CV
 
 #### On this page:
 
+* [Choosing a Funding Template](applying-for-funding-with-the-canadian-common-cv.md#choosing-a-funding-template)
 * [Exporting CV information from UNIWeb](applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
 * [Importing CV information into the CCV website](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-CCV-website)
 * [Applying ‘Submit?’ checkmarks](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks)
+
+## Choosing a Funding Template
 
 ## Exporting CV information from UNIWeb
 
@@ -44,7 +47,7 @@ When you apply for funding, some funding agencies require that you only submit i
 When the CCV website creates a CV draft for your application, it lists all available CV items that are relevant to the application and selects all available items by default. Normally, you must deselect the Submit? checkbox for each publication that falls outside of the funding agency’s required time period. UNIWeb can automatically deselect all of these items for you.
 
 {% hint style="warning" %}
-**Before you begin:** Ensure that you are logged out of the CCV website, and close all instances of the CCV website that you have open in other tabs. Any other open tabs may overwrite your changes with outdated information.
+**Before you begin:** Ensure that you are **logged out** of the CCV website, and close all instances of the CCV website that you have open in other tabs. Any other open tabs may overwrite your changes with outdated information.
 {% endhint %}
 
 1. From your UNIWeb Home page, go to **Curriculum Vitae**.

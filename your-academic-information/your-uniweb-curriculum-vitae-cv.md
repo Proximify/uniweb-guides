@@ -26,6 +26,15 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 7. Click **Choose file**, and select the XML file that you downloaded from the CCV website.
 8. Click **Import**, and when the file is finished uploading, click **Done**. 
 
+### How UNIWeb handles imports and duplicates
+
+| Existing UNIWeb CV | Imported XML | Result |
+| :--- | :--- | :--- |
+| Entry A | Entry A \(identical\) | UNIWeb ignores identical entries and will not create duplicates |
+| Entry B | Entry B \(modified\) | UNIWeb replaces Entry B with the modified entry in the XML import |
+| Entry C | \[No Match\] | UNIWeb deletes Entry C |
+| \[No Match\] | Entry D | UNIWeb imports Entry D |
+
 ## Populating your curriculum vitae manually
 
 1. From your [UNIWeb Home page](../introduction/navigating-uniweb.md#the-home-page), go to **Curriculum Vitae**.

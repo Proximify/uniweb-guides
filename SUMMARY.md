@@ -24,7 +24,7 @@
   * [Publications](your-academic-information/publications-1.md)
   * [Creating and Restoring Backups of Your UNIWeb Curriculum Vitae](your-academic-information/creating-and-restoring-backups-of-your-uniweb-curriculum-vitae.md)
   * [Exporting Academic Information](your-academic-information/exporting-academic-information/README.md)
-    * [Applying for Funding with the Canadian Common CV](your-academic-information/exporting-academic-information/applying-for-funding-with-the-canadian-common-cv.md)
+    * [Exporting to the Canadian Common CV](your-academic-information/exporting-academic-information/applying-for-funding-with-the-canadian-common-cv.md)
     * [Downloading CVs and Reports](your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md)
 * [Networking on UNIWeb](networking-on-uniweb/README.md)
   * [Your Public Profile](networking-on-uniweb/your-public-profile/README.md)
