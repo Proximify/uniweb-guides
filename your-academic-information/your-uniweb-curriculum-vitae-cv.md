@@ -30,10 +30,10 @@ To import your CV information from the Canadian Common CV \(CCV\) website, you m
 
 | Existing UNIWeb CV | Imported XML | Result |
 | :--- | :--- | :--- |
-| Entry A | Entry A \(identical\) | UNIWeb ignores identical entries and will not create duplicates |
-| Entry B | Entry B \(modified\) | UNIWeb replaces Entry B with the modified entry in the XML import |
-| Entry C | \[No Match\] | UNIWeb deletes Entry C |
-| \[No Match\] | Entry D | UNIWeb imports Entry D |
+| Entry A | Entry A \(identical\) | UNIWeb **ignores** identical entries and will not create duplicates |
+| Entry B | \[No Match\] | UNIWeb **deletes** its copy of Entry B |
+| Entry C | Entry C \(modified\) | UNIWeb **replaces** Entry C with the modified entry in the XML import. |
+| \[No Match\] | Entry D | UNIWeb **imports** Entry D |
 
 ## Populating your curriculum vitae manually
 
