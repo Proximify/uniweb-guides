@@ -65,6 +65,6 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. Click **Save**.
 
 {% hint style="info" %}
-**Tip:** Administrator access can also be removed by [deleting the roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles) that have been assigned to them. Doing so will also remove those roles from all other UNIWeb members that have had those roles assigned to them.
+**Tip:** you can also remove a member's administrator access by [deleting the roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles) that have been assigned to them. Doing so will also remove those roles from all other UNIWeb members that have had those roles assigned to them.
 {% endhint %}
 
