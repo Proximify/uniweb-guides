@@ -7,7 +7,7 @@ UNIWeb users can securely grant other UNIWeb users access to their account in or
 * [Granting Delegate Access](delegate-access.md#granting-delegate-access)
 * [Requesting Delegate Access](delegate-access.md#requesting-delegate-access)
 * [Switching to a delegated account](delegate-access.md#switching-to-a-delegated-account)
-* [Revoking Delegate Access](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnUMwib1WyPfXT1XZ04/primary/uniweb-accounts/access-control/delegate-access#revoking-delegate-access)
+* [Revoking Delegate Access](delegate-access.md#revoking-delegate-access)
 
 ## Granting Delegate Access
 
