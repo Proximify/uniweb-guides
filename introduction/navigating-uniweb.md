@@ -9,7 +9,7 @@
 
 ## The Home Page
 
-The Home Page  is a dashboard combining specialized sections where you can populate and maintain your account information, profile and curriculum vitae. The Home page also includes tools to create and manage new Groups and Resources. It is the first screen that you will see when you log in to your UNIWeb account.
+The Home Page is a dashboard combining specialized sections where you can populate and maintain your account information, profile and curriculum vitae. The Home page also includes tools to create and manage new Groups and Resources. It is the first screen that you will see when you log in to your UNIWeb account.
 
 ![](../.gitbook/assets/screenshots-copy-10.png)
 
