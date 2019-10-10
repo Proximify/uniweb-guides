@@ -26,15 +26,29 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ### Add a section
 
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
+4. In the left panel, click the **Add article section** button.
+5. Add some [content](web-articles.md#article-section-content-options) for your new section in the section data entry form.
+6. Click **Save.**
+
 ### Edit a section
+
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
+4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](../groups/groups.md#group-general-information) by clicking the **Edit** button to the right of the article title.
+5. Add or edit [section content](web-articles.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
+6. Click **Save.**
 
 ### Delete a section
 
-1. From your UNIWeb Home page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
-3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
-4. In the centre panel, navigate to the [group profile section](../groups/groups.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](../groups/groups.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
-5. Add or edit information in the data entry form for the corresponding Group profile section as needed.
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
+4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](../groups/groups.md#group-general-information) by clicking the **Edit** button to the right of the article title.
+5. Add or edit [section content](web-articles.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
 6. Click **Save.**
 
 ### Edit an article's general information
@@ -104,7 +118,7 @@ If you have not been assigned a role with the permissions listed above, and beli
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### Article section options
+</table>### Article section content options
 
 | Section Option | Purpose |
 | :--- | :--- |
