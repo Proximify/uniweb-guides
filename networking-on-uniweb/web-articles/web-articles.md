@@ -1,7 +1,5 @@
 # Web Articles
 
-
-
 * [Creating an article](web-articles.md#creating-a-group)
 * [Editing an article](web-articles.md#editing-a-group)
 * [Deleting an article](web-articles.md)
@@ -31,6 +29,15 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
+
+### Changing an article's general information
+
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
+4. Click the **Edit** button to the right of the article title.
+5. Modify the article's general information in the data entry form as needed.
+6. Click **Save.**
 
 ### Add a section
 
