@@ -162,7 +162,9 @@ UNIWeb will download a backup copy of the Group to your computer as a JSON file.
     <tr>
       <td style="text-align:left"><b>Group Photo</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">A photo that portrays your group or its role within your institution.
+        It will be displayed as a banner at the top of the centre panel on your
+        group&apos;s profile.</td>
     </tr>
   </tbody>
 </table>### Group Profile Sections
@@ -173,7 +175,7 @@ You can use the sections of a Group's profile page to give more in-depth informa
 | :--- | :--- |
 | **Group Description** | Provide a general description of the Group, along with any information for visitors to better understand its purpose. |
 | **Research Interests** | Tag your Group with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
-| **Research Places** |  |
-| **Partners and Collaborators** |  |
+| **Research Places** | Add any locations where your group operates. These [Research Places](../research-places/) will be displayed on the Map page for visitors or group members to whom the group is visible. |
+| **Partners and Collaborators** | List any people or organizations, within or outside of your institution, with whom your group collaborates. |
 | **Resources** | Add any [Resources](../equipment-profiles-resources/) that belong to or are managed or administered by your Group. |
 
