@@ -15,7 +15,7 @@ If you cannot find a particular Research Theme within your institution’s listi
 2. Navigate to the **Research Interests** section, and click **Edit**.
 3. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel. Identify the most relevant parent Research Theme for the theme that you would like to add. Ensure that the parent Research Theme is expanded to display any of its existing child themes.
 4. Rest your cursor on the parent Research Theme that you have chosen, and click on the **pen icon** that appears to the right of it.
-5. In the _Edit research theme_ dialog, type the name of the new child theme that you would like to create. If you need to create any child themes under this new theme you are creating, you can do so by typing them in the same text box, separating each of them with “&gt;”. 
+5. In the _Edit research theme_ dialog, type the name of the new child theme that you would like to create.
 6. **Optional:** if necessary, click the **multilingual** toggle next to the text box to add your new theme in a second language. 
 7. Click **Save** 
 
@@ -24,7 +24,7 @@ Any new Research Themes that you add must be approved by a UNIWeb member who has
 ## Approving Research Themes
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role in any academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
 
 * Approve new themes
 
@@ -43,7 +43,7 @@ On the Research Themes page, you will see a list of themes proposed by your user
 Once a Research Theme has been created, you can edit its name in English or French, and you can change its parent theme.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role with the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) with the following permissions:
 
 * Approve new themes
 
@@ -62,7 +62,7 @@ Over time, certain Research Rhemes may no longer be necessary, or may become red
 Because Research Themes can be [tagged](increasing-discoverability-with-research-themes.md) and referenced in so many different areas of UNIWeb, deleting a Research Theme outright could negatively impact the discoverability of certain resources. To counteract this, UNIWeb allows you to delete a Research Theme by **merging it with its parent theme**. Anything that has been tagged with the deleted research theme will automatically be tagged with its parent theme instead, and **the deleted theme's children will continue to exist** as children of the deleted theme's parent without otherwise disrupting the heirarchy of themes.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role in any academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
 
 * Approve new themes
 
