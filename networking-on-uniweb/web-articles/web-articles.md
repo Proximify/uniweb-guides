@@ -16,12 +16,20 @@
 
 ## Editing an article
 
+### Add a section
+
+### Edit a section
+
+### Delete a section
+
 1. From your UNIWeb Home page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
 4. In the centre panel, navigate to the [group profile section](../groups/groups.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](../groups/groups.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
 5. Add or edit information in the data entry form for the corresponding Group profile section as needed.
 6. Click **Save.**
+
+### Edit an article's general information
 
 ## Deleting an article
 
@@ -32,6 +40,8 @@
 5. In the **Delete Group** dialog, click **Save.**
 
 ## Web Article Information
+
+### Article general information
 
 <table>
   <thead>
@@ -78,4 +88,20 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
+</table>### Article section options
+
+| Section Option | Purpose |
+| :--- | :--- |
+| **Title** | A header for your new article section. |
+| **Header size** | Choose the hierarchical header size for your section title. UNIWeb supports 5 header sizes, ranging from 2-6, with 6 being the smallest, and 2 being the largest and most important. Size 1 is reserved for the main article title. |
+| **Text** | The main text content of your new article section. This field supports rich text, and so you can format the content however you would like, including bold and italics, bulleted lists, indenting, and hyperlinks. |
+| **Inset image** |  |
+| **Inset media URL** |  |
+| **Inset caption** |  |
+| **Layout** |  |
+| **Remote content URL** |  |
+| **Ignore markdown title** |  |
+| **Markdown content** |  |
+
+
+
