@@ -38,7 +38,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](../groups/groups.md#group-general-information) by clicking the **Edit** button to the right of the article title.
+4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](../groups/groups.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
 5. Add or edit [section content](web-articles.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
 6. Click **Save.**
 
@@ -47,11 +47,8 @@ If you have not been assigned a role with the permissions listed above, and beli
 1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](../groups/groups.md#group-general-information) by clicking the **Edit** button to the right of the article title.
-5. Add or edit [section content](web-articles.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
-6. Click **Save.**
-
-### Edit an article's general information
+4. In the centre panel, navigate to the article section that you would like to delete. Click the **Edit** button to the right of the section heading.
+5. In the section data entry form, click **Delete**.
 
 ## Deleting an article
 
@@ -63,11 +60,11 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb Home page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
-3. In the centre panel, under the Group's main heading, click **Menu**. 
-4. In the dropdown menu, click **Delete Group**.
-5. In the **Delete Group** dialog, click **Save.**
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, locate and **click on the article** that you would like to delete. This will take you to the public profile of that article.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
+4. In the right panel, click **Delete Profile**.
+5. In the **Delete profile** dialog, click **Yes**.
 
 ## Web Article Information
 
