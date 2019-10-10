@@ -9,9 +9,17 @@
 
 ## Creating an article
 
-1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
-2. In the centre panel, click **Add Group**.
-3. In the Add group dialog, enter the Group's [**general information**](../groups/groups.md#group-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+
+* Edit web articles
+
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
+
+1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, click **Add article**.
+3. In the Add article dialog, enter the article's [**general information**](web-articles.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
 ## Editing an article
@@ -32,6 +40,14 @@
 ### Edit an article's general information
 
 ## Deleting an article
+
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+
+* Edit web articles
+
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
 
 1. From your UNIWeb Home page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
