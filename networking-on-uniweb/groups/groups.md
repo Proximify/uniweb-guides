@@ -150,6 +150,9 @@ UNIWeb will download a backup copy of the Group to your computer as a JSON file.
       <td style="text-align:left"><b>Group Type</b>
       </td>
       <td style="text-align:left">
+        <p>Categorize your group by its broad purpose. Group types are available
+          as filters on the Groups page, and can be used to help visitors find the
+          kinds of groups that they are looking for.</p>
         <ul>
           <li>Partnership project</li>
           <li>Research group</li>
