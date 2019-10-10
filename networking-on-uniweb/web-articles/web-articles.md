@@ -24,6 +24,14 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ## Editing an article
 
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+
+* Edit web articles
+
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
+
 ### Add a section
 
 1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
@@ -112,7 +120,19 @@ If you have not been assigned a role with the permissions listed above, and beli
     <tr>
       <td style="text-align:left"><b>Category*</b>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>The kind of article that you are writing. These selections are filtering
+          options on the News page in UNIWeb, and they affect where your article
+          is listed in other parts of your UNIWeb network:</p>
+        <ul>
+          <li><b>News</b> articles are featured within the Newsfeed on your UNIWeb&apos;s
+            <a
+            href="../../introduction/navigating-uniweb.md#the-network-page">Network page</a>.</li>
+          <li><b>Institutional</b> articles are featured on the <a href="../../introduction/navigating-uniweb.md#the-network-page">Network page</a>,
+            under <em>More Options</em>.</li>
+          <li><b>Tutorial</b> articles are listed on your UNIWeb&apos;s Help page</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>### Article section content options
