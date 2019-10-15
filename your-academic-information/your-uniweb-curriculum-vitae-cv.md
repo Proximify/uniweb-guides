@@ -38,7 +38,7 @@ You can reimport information to your UNIWeb CV from the CCV website after you ha
 | \[No Match\] | Record D | UNIWeb **imports** Record D |
 
 {% hint style="danger" %}
-**Note:** because UNIWeb will replace records where the imported copies have been modified, it is important to note that the CCV does not always capture as much information as UNIWeb in each record. Notably, **the CCV does not capture month and date information**, and **the CCV does not capture any custom fields that your institution has requested** within certain sections, and so any information entered into these fields **may be lost** if they are replaced by modified copies from the CCV website.
+**Note:** because UNIWeb will replace records where the imported copies have been modified, it is important to note that the CCV does not always capture as much information as UNIWeb in each record. Notably, **the CCV does not capture month and date information**, and **the CCV does not capture any custom fields that your institution has requested** within certain sections, and so any information entered into these fields **may be lost** if they are replaced by copies that were modified on the CCV website.
 {% endhint %}
 
 ## Populating your curriculum vitae manually
