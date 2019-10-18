@@ -1,6 +1,6 @@
 # Web Articles
 
-Web articles can be created and managed
+Web articles are not categorized by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network.
 
 * [Creating an article](web-articles.md#creating-a-group)
 * [Editing an article](web-articles.md#editing-a-group)
