@@ -1,4 +1,12 @@
-# Web Articles
+# Managing Web Articles
+
+Like Groups and Resources, each Web Article is structured around a public-facing profile page and a private profile editor. A web article’s public profile page includes all of its content, broken down into sections, and the private profile editor, where the web article’s general information can be modified, and sections of content can be added, edited, or removed as needed.
+
+A section of content can contain three main components:
+
+* one **heading** for the new section
+* a section of **body content** \(this can be as long as you’d like\)
+* one piece of **media** - an image or video, for example \(with a caption\)
 
 Web articles are not categorized by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network.
 

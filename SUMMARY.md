@@ -42,7 +42,7 @@
   * [Groups](networking-on-uniweb/groups/README.md)
     * [Managing Groups](networking-on-uniweb/groups/groups.md)
   * [Web Articles](networking-on-uniweb/web-articles/README.md)
-    * [Web Articles](networking-on-uniweb/web-articles/web-articles.md)
+    * [Managing Web Articles](networking-on-uniweb/web-articles/web-articles.md)
 * [Academic Metrics](academic-metrics/README.md)
   * [Academic Metrics](academic-metrics/academic-metrics.md)
 * [Customizing UNIWeb](api-access/README.md)
