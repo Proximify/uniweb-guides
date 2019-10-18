@@ -1,14 +1,18 @@
 # Managing Web Articles
 
-Like Groups and Resources, each Web Article is structured around a public-facing profile page and a private profile editor. A web article’s public profile page includes all of its content, broken down into sections, and the private profile editor, where the web article’s general information can be modified, and sections of content can be added, edited, or removed as needed.
+Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
 
-A section of content can contain three main components:
+Every web article has public profile page, which includes all of its content, divided into sections, and a private profile editor, where the web article’s general settings can be modified, and sections of content can be added, edited, or removed as needed.
+
+Each section of content can contain three \(optional\) main components:
 
 * one **heading** for the new section
-* a section of **body content** \(this can be as long as you’d like\)
-* one piece of **media** - an image or video, for example \(with a caption\)
+* one section of **body content** \(this can be as long as you’d like\)
+* one piece of **media** - an image or video, for example - with a caption 
 
-Web articles are not categorized by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network.
+Because each section can only include one of each of the above components, you may need to [create a new section](web-articles.md#add-a-section) in order to continue the body text after inserting an image
+
+On this page:
 
 * [Creating an article](web-articles.md#creating-a-group)
 * [Editing an article](web-articles.md#editing-a-group)
@@ -27,7 +31,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, click **Add article**.
-3. In the Add article dialog, enter the article's [**general information**](web-articles.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
+3. In the Add article dialog, enter the article's [**general settings**](web-articles.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
 ## Editing an article
@@ -40,7 +44,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-### Changing an article's general information
+### Changing an article's general settings
 
 1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
@@ -93,7 +97,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ## Web Article Information
 
-### Article general information
+### Article general settings
 
 <table>
   <thead>
@@ -163,9 +167,6 @@ If you have not been assigned a role with the permissions listed above, and beli
 | **Inset media URL** |  |
 | **Inset caption** |  |
 | **Layout** |  |
-| **Remote content URL** |  |
-| **Ignore markdown title** |  |
-| **Markdown content** |  |
 
 
 
