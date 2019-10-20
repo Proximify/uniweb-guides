@@ -7,7 +7,7 @@ Every web article has public profile page, which includes all of its content, di
 Each section of content can contain three \(optional\) main components:
 
 * one **heading** for the new section
-* one section of **body content** \(this can be as long as you’d like\)
+* one section of **body text content** \(this can be as long as you’d like\)
 * one piece of **media** - an image or video, for example - with a caption 
 
 Because each section can only include one of each of the above components, you may need to [create a new section](web-articles.md#add-a-section) in order to continue the body text after inserting an image
