@@ -1,18 +1,12 @@
 # Web Articles
 
-Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles-1.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
+Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. In addition to a dedicated News page, Web articles are featured prominently on your institution's [UNIWeb Network](../introduction/navigating-uniweb.md#the-network-page) page, the first page that members and visitors see when accessing UNIWeb.
+
+Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles-1.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
 
 Every web article has public profile page, which includes all of its content, divided into sections, and a private profile editor, where the web article’s general settings can be modified, and sections of content can be added, edited, or removed as needed.
 
-Each section of content can contain three \(optional\) main components:
-
-* one **heading** for the new section
-* one section of **body text content** \(this can be as long as you’d like\)
-* one piece of **media** - an image or video, for example - with a caption 
-
-Because each section can only include one of each of the above components, you may need to [create a new section](web-articles-1.md#add-a-section) in order to continue the body text after inserting an image
-
-On this page:
+#### On this page:
 
 * [Creating an article](web-articles-1.md#creating-a-group)
 * [Editing an article](web-articles-1.md#editing-a-group)
@@ -37,11 +31,23 @@ If you have not been assigned a role with the permissions listed above, and beli
 ## Editing an article
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Before you begin:** the following procedures require an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
 
 * Edit web articles
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
+
+Each article has [general settings](web-articles-1.md#article-general-settings) that govern the article's title, subtitle, publishing date, visibility, and category - these parameters can be set when the article is created and [edited](web-articles-1.md#changing-an-articles-general-settings) as needed. 
+
+The article's main body content is divided into sections, and each section can contain three \(optional\) main components:
+
+* one **heading** for the new section
+* one section of **body text content** \(this can be as long as you’d like\)
+* one piece of embedded **media** - an image or video, for example - with a caption 
+
+{% hint style="info" %}
+**Tip:** because each section can only include one of each of the above components, you may need to [create a new section](web-articles-1.md#add-a-section) in order to continue the body text after inserting an image, or multiple sections, each with one image, to create a list of consecutive photos, for example.
 {% endhint %}
 
 ### Changing an article's general settings
