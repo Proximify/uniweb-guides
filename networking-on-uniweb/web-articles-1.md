@@ -161,18 +161,74 @@ If you have not been assigned a role with the permissions listed above, and beli
         </ul>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>Cover Image</b>
+      </td>
+      <td style="text-align:left">Upload an image to act as an overhead banner that will appear above your
+        article&apos;s title.</td>
+    </tr>
   </tbody>
 </table>### Article section content options
 
-| Section Option | Purpose |
-| :--- | :--- |
-| **Title** | A header for your new article section. |
-| **Header size** | Choose the hierarchical header size for your section title. UNIWeb supports 5 header sizes, ranging from 2-6, with 6 being the smallest, and 2 being the largest and most important. Size 1 is reserved for the main article title. |
-| **Text** | The main text content of your new article section. This field supports rich text, and so you can format the content however you would like, including bold and italics, bulleted lists, indenting, and hyperlinks. |
-| **Inset image** |  |
-| **Inset media URL** |  |
-| **Inset caption** |  |
-| **Layout** |  |
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Section Option</th>
+      <th style="text-align:left">Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Title</b>
+      </td>
+      <td style="text-align:left">A header for your new article section.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Header size</b>
+      </td>
+      <td style="text-align:left">Choose the hierarchical header size for your section title. UNIWeb supports
+        5 header sizes, ranging from 2-6, with 6 being the smallest, and 2 being
+        the largest and most important. Size 1 is reserved for the main article
+        title.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Text</b>
+      </td>
+      <td style="text-align:left">The main text content of your new article section. This field supports
+        rich text, and so you can format the content however you would like, including
+        bold and italics, bulleted lists, indenting, and hyperlinks.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Inset image</b>
+      </td>
+      <td style="text-align:left">Upload an image to display in your section. <b>Note that each section can have one video or image, but not both.</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Inset media URL</b>
+      </td>
+      <td style="text-align:left">Paste a URL for an video that has been uploaded to Youtube, Vimeo, or
+        other video hosting services.<b> Note that each section can have one video or image, but not both.</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Inset caption</b>
+      </td>
+      <td style="text-align:left">Write a caption for your embedded video or image.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Layout</b>
+      </td>
+      <td style="text-align:left">
+        <p>Choose where in the section you would like your video or image to appear:</p>
+        <ul>
+          <li>Media before text</li>
+          <li>Media after text</li>
+          <li>Media on the left (text will wrap around)</li>
+          <li>Media on the right (text will wrap around)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
