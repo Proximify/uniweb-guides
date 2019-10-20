@@ -11,12 +11,14 @@ As you populate your UNIWeb CV, you can either add new entries from scratch, or 
 * [Importing from the Canadian Common CV](your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
 * [Populating your curriculum vitae manually](your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
 * [Deleting curriculum vitae entries](your-uniweb-curriculum-vitae-cv.md#deleting-curriculum-vitae-entries)
-* Creating and restoring CV backups
+* [Creating and restoring CV backups](your-uniweb-curriculum-vitae-cv.md#creating-and-restoring-cv-backups)
 * [Curriculum vitae sections](your-uniweb-curriculum-vitae-cv.md#curriculum-vitae-sections)
 
 ## Importing from the Canadian Common CV
 
 To import your CV information from the Canadian Common CV \(CCV\) website, you must first download that information from your CCV account into an XML file, which you will then upload into UNIWeb.
+
+![](../.gitbook/assets/screencast-2019-10-20-13-05-31.gif)
 
 1. From your [CCV account homepage](https://ccv-cvc.ca), click **Utilities** in the navigation bar.
 2. In the Utilities dropdown menu, click **Export CV XML**.
@@ -90,7 +92,7 @@ A backup of your CV information will be downloaded as a JSON file.
 4. In the centre panel, click **Choose file**, and browse your computer for your backup JSON file.
 5. Click **Restore**, and after the restore process is complete, click **Done**.
 
-Clicking Done will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
+Clicking **Done** will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
 
 ## Curriculum Vitae Sections
 
