@@ -1,6 +1,6 @@
-# Filling out your Public Profile
+# Your Public Profile
 
-UNIWeb includes intuitive tools to quickly add new information to your Public Profile as needed. Getting started is easy - if you have already [populated your Curriculum Vitae](../../your-academic-information/your-uniweb-curriculum-vitae-cv.md), you can use that information to automatically fill out certain sections of your Public Profile.
+UNIWeb includes intuitive tools to quickly add new information to your Public Profile as needed. Getting started is easy - if you have already [populated your Curriculum Vitae](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), you can use that information to automatically fill out certain sections of your Public Profile.
 
 ### On this page:
 
@@ -9,11 +9,12 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 * [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
 * [Hiding information from your public profile](filling-out-your-public-profile.md#hiding-information-from-your-public-profile)
 * [Filling out another UNIWeb member's public profile](filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
+* [Creating and restoring a backup of your profile](filling-out-your-public-profile.md#creating-and-restoring-a-backup-of-your-profile)
 * [Profile Sections](filling-out-your-public-profile.md#profile-sections)
 
 ## Viewing your public profile
 
-1. From your[ UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
+1. From your[ UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
 2. Click **Public Profile** in the right panel.
 3. To return, click **Edit Profile** in the right panel.
 
@@ -51,25 +52,51 @@ The profile sections that can be populated using CV information are as follows:
 ## Filling out another UNIWeb member’s public profile
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Edit Member Information
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Members**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Members**.
 2. Locate the UNIWeb member whose profile you would like to edit, and **click on their name**.
 
 As long as you have been assigned an administrator role within the subject’s academic unit that includes the Edit Member Information permission, you will be taken to an editable version of the UNIWeb member’s public profile. You can [edit their profile information manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually) as you would you own, or [import information from their curriculum vitae](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv).
 
 {% hint style="danger" %}
-**Note:** this procedure will not give you access to edit the UNIWeb member’s curriculum vitae information directly. If you would like to edit the information in a particular user’s curriculum vitae, see our article on [requesting delegate access to another UNIWeb member’s account](../../uniweb-accounts/access-control/delegate-access.md#requesting-delegate-access).
+**Note:** this procedure will not give you access to edit the UNIWeb member’s curriculum vitae information directly. If you would like to edit the information in a particular user’s curriculum vitae, see our article on [requesting delegate access to another UNIWeb member’s account](../uniweb-accounts/access-control/delegate-access.md#requesting-delegate-access).
 {% endhint %}
+
+## Creating and restoring a backup of your profile
+
+Your profile is your public showcase of your work within your UNIWeb network, and so it is a living document that will grow with you through the course of your career. Because you will be regularly updating your profile, it's important to take regular backups so that you can restore your information in the event that something is accidentally deleted or modified incorrectly.
+
+### Creating a backup of your profile
+
+1. From your [UNIWeb Home page](../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
+2. In the right panel, click **Create/restore backups**.
+3. In the right panel, click **Download a UNIWeb profile backup**.
+
+A backup of your profile information will be downloaded as a JSON file. 
+
+{% hint style="success" %}
+**Best practice:** it's always best to keep more than one copy of a backup, in multiple places that you trust to hold your information securely - a personal or work computer, cloud service, etc.
+{% endhint %}
+
+### Restoring a backup of your profile
+
+1. From your [UNIWeb Home page](../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
+2. In the right panel, click **Create/restore backups**.
+3. In the right panel, click **Restore from a file**.
+4. In the centre panel, click **Choose file**, and browse your computer for your backup JSON file.
+5. Click **Restore**, and after the restore process is complete, click **Done**.
+
+Clicking **Done** will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
 
 ## Profile Sections
 
-Your profile is divided into sections of content which are listed in the left panel for quick navigation. Certain sections may or may not be present on your profile depending on your [account type and position title](../../uniweb-accounts/account-management/member-account-information.md#account-information-fields) - for instance, the Academic Supervision section is only available to members with Professor as their Account Type. 
+Your profile is divided into sections of content which are listed in the left panel for quick navigation. Certain sections may or may not be present on your profile depending on your [account type and position title](../uniweb-accounts/account-management/member-account-information.md#account-information-fields) - for instance, the Academic Supervision section is only available to members with Professor as their Account Type. 
 
 UNIWeb includes the following sections by default, but your institution may have requested the addition of custom sections with their own Account Type associations. For information on sections that are not listed below, please contact your UNIWeb system administrator.
 
@@ -85,17 +112,17 @@ UNIWeb includes the following sections by default, but your institution may have
     <tr>
       <td style="text-align:left"><b>Membership Information</b>
       </td>
-      <td style="text-align:left">Your <a href="../../uniweb-accounts/account-management/member-account-information.md#editing-your-membership-information">membership information</a> is
+      <td style="text-align:left">Your <a href="../uniweb-accounts/account-management/member-account-information.md#editing-your-membership-information">membership information</a> is
         listed here, along with your profile picture.</td>
       <td style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Research Interests</b>
       </td>
-      <td style="text-align:left">Add <a href="../research-themes/">Research Themes</a> to your profile that
+      <td style="text-align:left">Add <a href="research-themes/">Research Themes</a> to your profile that
         describe the scope of your work at your institution, as well as your general
         research interests. By adding themes here, your profile will be included
-        in <a href="../research-clusters-1.md">Research Clusters</a> and search results
+        in <a href="research-clusters-1.md">Research Clusters</a> and search results
         for those themes, and will create connections with your peers that you
         can find in your connection map.</td>
       <td style="text-align:left">All</td>
@@ -110,8 +137,8 @@ UNIWeb includes the following sections by default, but your institution may have
     <tr>
       <td style="text-align:left"><b>Current Appointments</b>
       </td>
-      <td style="text-align:left">List any <a href="../../uniweb-accounts/academic-units/cross-appointments.md">cross-appointments</a> you
-        have outside of the main academic role that is listed in your <a href="../../uniweb-accounts/account-management/member-account-information.md">account information</a>.
+      <td style="text-align:left">List any <a href="../uniweb-accounts/academic-units/cross-appointments.md">cross-appointments</a> you
+        have outside of the main academic role that is listed in your <a href="../uniweb-accounts/account-management/member-account-information.md">account information</a>.
         You may specify a title, academic unit, and any additional information
         about the appointment.</td>
       <td style="text-align:left">All</td>
@@ -177,7 +204,7 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left"><b>Research Places</b>
       </td>
       <td style="text-align:left">List any areas around the world where you conduct research. These research
-        places are shown on your profile, and also on a world map in the <a href="../research-places/">Research Places</a> page.</td>
+        places are shown on your profile, and also on a world map in the <a href="research-places/">Research Places</a> page.</td>
       <td
       style="text-align:left">All</td>
     </tr>
@@ -217,7 +244,7 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left"><b>Selected Publications</b>
       </td>
       <td style="text-align:left">List any of your publications that you would like to display on your public
-        profile. Publications are listed here automatically when you <a href="../research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes">tag them with a Research Theme</a>.</td>
+        profile. Publications are listed here automatically when you <a href="research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes">tag them with a Research Theme</a>.</td>
       <td
       style="text-align:left">All</td>
     </tr>

@@ -50,7 +50,7 @@ The article's main body content is divided into sections, and each section can c
 **Tip:** because each section can only include one of each of the above components, you may need to [create a new section](web-articles-1.md#add-a-section) in order to continue the body text after inserting an image, or multiple sections, each with one image, to create a list of consecutive photos, for example.
 {% endhint %}
 
-### Changing an article's general settings
+### Change an article's general settings
 
 1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
@@ -75,6 +75,17 @@ The article's main body content is divided into sections, and each section can c
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](groups/groups.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
 5. Add or edit [section content](web-articles-1.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
+6. Click **Save.** 
+
+### Change an article's thumbnail image
+
+Your article's thumbnail image will appear in the article preview - on the News page and in the Web Articles section of your UNIWeb Administration page. 
+
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
+3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
+4. In the right panel, under **Article thumbnail**, click on the thumbnail image.
+5. Click Choose file and select and image to upload. You can click the Modify Crop button to adjust how the image will appear in the predefined square crop for the thumbnail.
 6. Click **Save.**
 
 ### Delete a section

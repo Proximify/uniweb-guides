@@ -21,7 +21,7 @@ The Profile section allows you to create a public profile on UNIWeb, in order to
 
 From the Profile section, you can:
 
-* [Fill out your public profile](../networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
+* [Fill out your public profile](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Create new Research Themes](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
 * [Add publications to your public profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 * Add Research Places to your public profile
@@ -76,7 +76,7 @@ The Network page is the main landing page of your UNIWeb network, and is the fir
 
 ![](../.gitbook/assets/screenshots-copy-15.png)
 
-The Members page is a full, publicly-accessible list of the members of your UNIWeb network. Members can be filtered by academic unit in the left panel, and by academic title on the right. Clicking on a member will lead to their [public profile](../networking-on-uniweb/your-public-profile/).
+The Members page is a full, publicly-accessible list of the members of your UNIWeb network. Members can be filtered by academic unit in the left panel, and by academic title on the right. Clicking on a member will lead to their [public profile]().
 
 ## The Administration Page
 
@@ -98,7 +98,7 @@ From the Administration &gt; Members section, you can:
 * [Send password reset emails](../uniweb-accounts/account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
 * [Send account invitation and reminder emails](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
 * [Download other members’ CV and report files](../your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
-* [Populate other members’ public profiles](../networking-on-uniweb/your-public-profile/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
+* [Populate other members’ public profiles](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 
 ### Web Articles
 
