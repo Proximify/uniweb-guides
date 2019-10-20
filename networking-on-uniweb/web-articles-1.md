@@ -1,6 +1,6 @@
-# Managing Web Articles
+# Web Articles
 
-Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
+Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles-1.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
 
 Every web article has public profile page, which includes all of its content, divided into sections, and a private profile editor, where the web article’s general settings can be modified, and sections of content can be added, edited, or removed as needed.
 
@@ -10,34 +10,34 @@ Each section of content can contain three \(optional\) main components:
 * one section of **body text content** \(this can be as long as you’d like\)
 * one piece of **media** - an image or video, for example - with a caption 
 
-Because each section can only include one of each of the above components, you may need to [create a new section](web-articles.md#add-a-section) in order to continue the body text after inserting an image
+Because each section can only include one of each of the above components, you may need to [create a new section](web-articles-1.md#add-a-section) in order to continue the body text after inserting an image
 
 On this page:
 
-* [Creating an article](web-articles.md#creating-a-group)
-* [Editing an article](web-articles.md#editing-a-group)
-* [Deleting an article](web-articles.md)
-* [Web Article Information](web-articles.md#web-article-information)
+* [Creating an article](web-articles-1.md#creating-a-group)
+* [Editing an article](web-articles-1.md#editing-a-group)
+* [Deleting an article](web-articles-1.md)
+* [Web Article Information](web-articles-1.md#web-article-information)
 
 ## Creating an article
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
 
 * Edit web articles
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, click **Add article**.
-3. In the Add article dialog, enter the article's [**general settings**](web-articles.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
+3. In the Add article dialog, enter the article's [**general settings**](web-articles-1.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
 ## Editing an article
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
 
 * Edit web articles
 
@@ -46,7 +46,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ### Changing an article's general settings
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. Click the **Edit** button to the right of the article title.
@@ -55,25 +55,25 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ### Add a section
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the left panel, click the **Add article section** button.
-5. Add some [content](web-articles.md#article-section-content-options) for your new section in the section data entry form.
+5. Add some [content](web-articles-1.md#article-section-content-options) for your new section in the section data entry form.
 6. Click **Save.**
 
 ### Edit a section
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](../groups/groups.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
-5. Add or edit [section content](web-articles.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
+4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](groups/groups.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
+5. Add or edit [section content](web-articles-1.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
 6. Click **Save.**
 
 ### Delete a section
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the centre panel, navigate to the article section that you would like to delete. Click the **Edit** button to the right of the section heading.
@@ -82,14 +82,14 @@ If you have not been assigned a role with the permissions listed above, and beli
 ## Deleting an article
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
 
 * Edit web articles
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Web Articles**.
 2. In the centre panel, locate and **click on the article** that you would like to delete. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the right panel, click **Delete Profile**.
@@ -148,8 +148,8 @@ If you have not been assigned a role with the permissions listed above, and beli
         <ul>
           <li><b>News</b> articles are featured within the Newsfeed on your UNIWeb&apos;s
             <a
-            href="../../introduction/navigating-uniweb.md#the-network-page">Network page</a>.</li>
-          <li><b>Institutional</b> articles are featured on the <a href="../../introduction/navigating-uniweb.md#the-network-page">Network page</a>,
+            href="../introduction/navigating-uniweb.md#the-network-page">Network page</a>.</li>
+          <li><b>Institutional</b> articles are featured on the <a href="../introduction/navigating-uniweb.md#the-network-page">Network page</a>,
             under <em>More Options</em>.</li>
           <li><b>Tutorial</b> articles are listed on your UNIWeb&apos;s Help page</li>
         </ul>
