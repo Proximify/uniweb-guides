@@ -2,7 +2,7 @@
 
 ## Welcome to the UNIWeb Help Centre!
 
-Choose a subject chapter below, or browse topics within chapters on the left side of the page. If you're looking for help on a particular topic, you can search the help centre using the search tool at the top right of the page.
+To get started, choose a chapter below, or browse through topics within chapters on the left side of the page. If you're looking for help on a specific topic, you can search the help centre using the search tool at the top right of the page.
 
 ### Feature Overview
 
