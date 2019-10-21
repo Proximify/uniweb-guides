@@ -75,7 +75,7 @@ The article's main body content is divided into sections, and each section can c
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](groups/groups.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
 5. Add or edit [section content](web-articles-1.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
-6. Click **Save.** 
+6. Click **Save.**
 
 ### Change an article's thumbnail image
 
