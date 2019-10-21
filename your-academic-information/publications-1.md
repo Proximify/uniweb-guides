@@ -1,5 +1,9 @@
 # Publications
 
+Through various sources such as journal articles, books, book chapters, dissertations, and newspaper and magazine articles, your publications make up the bulk of the contributions listed on your academic CV. 
+
+UNIWeb offers streamlined data entry forms to create records of your publications as per Canadian Common CV standards, but you can also import records of your publications directly from various sources that may already have them listed, such as PubMed, EndNote, BibTex, and Google Scholar.
+
 ### On this page:
 
 * [Adding publications manually](publications-1.md#adding-publications-manually)
