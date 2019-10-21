@@ -27,7 +27,7 @@ From the Profile section, you can:
 * [Add Research Places to your public profile](../networking-on-uniweb/research-places-1.md)
 * [Edit your membership information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
 * [Join a secondary academic unit \(cross appointment\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
-* Change your account password
+* [Change your account password](../uniweb-accounts/account-management/account-login.md#updating-your-uniweb-account-password)
 
 ### Connections
 
@@ -102,11 +102,11 @@ From the Administration &gt; Members section, you can:
 
 ### Web Articles
 
-The Web Articles section allows you to create web articles that are displayed on the [UNIWeb Network](navigating-uniweb.md#the-network-page) page, in the newsfeed.
+The Web Articles section allows you to [create web articles](../networking-on-uniweb/web-articles-1.md) that are displayed on the [UNIWeb Network](navigating-uniweb.md#the-network-page) page, in the newsfeed.
 
 ### Research Themes
 
-The Research Themes section provides an overview of your UNIWeb instance’s Research Themes and the structure of their hierarchy.
+The Research Themes section provides an overview of your UNIWeb instance’s [Research Themes](../networking-on-uniweb/research-themes/) and the structure of their hierarchy.
 
 From the Research Themes section, you can:
 
