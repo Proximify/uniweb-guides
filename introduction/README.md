@@ -1,6 +1,8 @@
-# Feature Overview
+# UNIWeb Overview
 
-UNIWeb is a research productivity software designed to increase the productivity of both staff and faculty members at research institutions. This enterprise level solution provides a secure and private network for researchers to connect, collaborate and compile their academic information. UNIWeb networks are overseen and managed by their administrators. As an administrator, you have the ability to add, edit and delete members, to control access to the network and to manage research themes and academic units. You also have the ability to collect and compile metrics for your faculties, departments and institution. This guide will provide you with an overview of UNIWeb’s administration capabilities as well as detailed steps for conducting typical administration tasks. UNIWeb is proudly developed in Ottawa by Proximify. For any questions not covered by this manual, please contact support@proximify.ca.
+Whereas subsequent chapters deal with how to perform tasks in UNIWeb, organized by subject, this chapter focuses on how UNIWeb itself is organized, and how its structure helps facilitate the specific tasks that are described further on in this help centre.
+
+
 
 
 
