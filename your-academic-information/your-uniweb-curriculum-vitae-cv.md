@@ -102,14 +102,14 @@ UNIWeb’s Curriculum Vitae include all of the standard sections of the Canadian
 | :--- | :--- |
 | **Personal Information** | Information about the person that facilitates identification, including name, date of birth, and sex. |
 | **Education** | Collection of information records that, in combination, represent the full and up-to-date history of the person's education. |
-| **Recognitions** | \*\*\*\* |
-| **User Profile** | \*\*\*\* |
+| **Recognitions** | Any awards and citations that you have received over the course of oyur academic career |
+| **User Profile** | Your biographical information and research interests. |
 | **Employment** | Collection of information records that, in combination, represent the full and up-to-date history of the person's employment. |
-| **Research Funding History** | \*\*\*\* |
-| **Activities** | Services that the person contributed to. |
+| **Research Funding History** | A timeline of your funding sources throughout your career |
+| **Activities** | Services, including teaching, supervisory, and community and volunteer activities, that you have contributed to. |
 | **Memberships** | Services contributed as part of a group elected or appointed to perform such services but not directly related to the person's research activities. |
-| **Most Significant Contributions** | \*\*\*\* |
-| **Contributions** | The things you have done as part of your career. This includes your [**Publications**](publications-1.md)**.** |
+| **Most Significant Contributions** | A spotlight on the most significant achievements of your academic career and their impact. |
+| **Contributions** | Things, including presentations, [publications](publications-1.md), interviews, patents, etc, that you have carried out as part of your career.  |
 
 
 
