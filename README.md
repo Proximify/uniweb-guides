@@ -8,7 +8,7 @@ Choose a subject chapter below, or browse topics within chapters on the left sid
 
 ### Feature Overview
 
-Get a broad overview of the different parts of UNIWeb come together to create a powerful a
+Get a broad overview of how the different parts of UNIWeb fit together, and how different areas of the tool serve different 
 
 ### UNIWeb Accounts
 

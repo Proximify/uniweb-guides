@@ -15,7 +15,11 @@
 **Tip:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, clicking the Sign in button will redirect you to your institution’s SSO login page to complete the login process. You will be redirected into your UNIWeb account when you have authenticated via your institution’s SSO system.
 {% endhint %}
 
-## Resetting your UNIWeb account password
+## Changing your UNIWeb account password
+
+If you've forgotten your UNIWeb password and cannot log in, you can send a rescue email to your UNIWeb account email address. If you can log in normally, but would like to [change your password to something new](account-login.md#updating-your-uniweb-account-password), you can do so within your UNIWeb account without having to send a rescue email.
+
+### Resetting your UNIWeb account password if you've forgotten it
 
 {% hint style="warning" %}
 **Before you begin:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, you must reset your password through your institution’s SSO system.
@@ -29,6 +33,13 @@
 {% hint style="danger" %}
 **Note:** For your security, the link enclosed within the **Request to reset UNIWeb password** email will expire after three hours.
 {% endhint %}
+
+### Updating your UNIWeb account password
+
+1. From your [UNIWeb Home ](../../introduction/navigating-uniweb.md#the-home-page)page, go to **Profile**.
+2. In the right panel, click **Change password**.
+3. To validate your account access, **enter your current password** in the first data entry field, and then **create and confirm a new password** in the next two data entry fields.
+4. Click **Submit**.
 
 ## Sending a password reset email to a UNIWeb member
 

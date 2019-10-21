@@ -24,7 +24,7 @@ From the Profile section, you can:
 * [Fill out your public profile](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Create new Research Themes](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
 * [Add publications to your public profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
-* Add Research Places to your public profile
+* [Add Research Places to your public profile](../networking-on-uniweb/research-places-1.md)
 * [Edit your membership information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
 * [Join a secondary academic unit \(cross appointment\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
 * Change your account password
@@ -56,11 +56,11 @@ From the Publications section, you can:
 
 ### Groups
 
-The Groups section allows you to quickly access the Research Groups that you've joined, and create and manage new Research Groups.
+The Groups section allows you to quickly access the [Research Groups](../networking-on-uniweb/groups-1.md) that you've joined, and create and manage new Research Groups.
 
 ### Resources
 
-The Resources section allows you to create and manage your the Resources that you have made available within your UNIWeb network. 
+The Resources section allows you to create and manage your the [Resources](../networking-on-uniweb/equipment-profiles-resources/) that you have made available within your UNIWeb network. 
 
 ### Tutorials
 
@@ -70,7 +70,7 @@ In the Tutorials section, you can find support documentation, frequently-asked-q
 
 ![](../.gitbook/assets/screenshots-copy-13.png)
 
-The Network page is the main landing page of your UNIWeb network, and is the first page that visitors will see upon accessing the network. In addition to your network's [newsfeed](../networking-on-uniweb/web-articles-1.md), the Network page includes quick access to the public areas of your UNIWeb network, including [Research Clusters](), the Members page,[ Resources](../networking-on-uniweb/equipment-profiles-resources/), [Groups](../networking-on-uniweb/groups-1.md), and [Research Places]().
+The Network page is the main landing page of your UNIWeb network, and is the first page that visitors will see upon accessing the network. In addition to your network's [newsfeed](../networking-on-uniweb/web-articles-1.md), the Network page includes quick access to the public areas of your UNIWeb network, including Research Clusters, the Members page,[ Resources](../networking-on-uniweb/equipment-profiles-resources/), [Groups](../networking-on-uniweb/groups-1.md), and [Research Places](../networking-on-uniweb/research-places-1.md).
 
 ## The Members Page
 
