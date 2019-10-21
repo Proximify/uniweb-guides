@@ -60,7 +60,6 @@ From the Publications section, you can:
 
 * [Create, edit, and delete publication records](../your-academic-information/publications-1.md#adding-publications-manually)
 * [Tag publications with research interests to include them in your profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
-* Search for and remove duplicate publication records
 
 ### Groups
 
