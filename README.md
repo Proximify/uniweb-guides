@@ -28,3 +28,15 @@ Managing your professional academic information is just one part of what makes U
 
 {% page-ref page="networking-on-uniweb/" %}
 
+### Academic Metrics
+
+Administrators, UNIWeb can help you keep a finger on the pulse of your academic unit - learn how to use UNIWeb's metrics tools to gain various insights on how your academic unit is performing overall. UNIWeb offers robust visualization tools, as well as the ability to download raw data in spreadsheet form so that you can visualize your academic unit's data however you like best.
+
+{% page-ref page="academic-metrics.md" %}
+
+### Customizing UNIWeb
+
+No two research institutions are exactly alike, and so UNIWeb doesn't need to be a one-size-fits-all solution. UNIWeb is a white-label service that can be customized extensively to meet the needs of its users. Explore some of the possibilities here.
+
+{% page-ref page="customizing-data-entry-and-reports-in-uniweb.md" %}
+
