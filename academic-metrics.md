@@ -32,7 +32,7 @@ Using preset visualization tools, UNIWeb can help you organize this infromation 
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb [Administration](introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
+1. From your UNIWeb [Administration](navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
 2. Preset metric options are tiled in the centre panel of the Metrics section. **Click on a metrics category** that you would like to explore, and then **click on a specific metric** within that category. UNIWeb will generate a report of your selected metric.
 3. In the right panel, configure any [**filtering options**](academic-metrics.md#filtering-options)**, graphing style** \(if applicable\), or **citation style** \(if applicable\).
 4. **Optional:** You can download the data contained on a preset academic metrics page by clicking the **Excel file** or **Word file** buttons under the **Download As** heading in the right panel**.**
@@ -57,7 +57,7 @@ If you want access to raw metrics data in order to perform your own metrics, you
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb [Administration](introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
+1. From your UNIWeb [Administration](navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
 2. In the centre panel, click **Custom Metrics**.
 3. In the **Download Metrics and an Excel file** page, configure any ****[**download options**](academic-metrics.md#download-options)**.**
 4. Click **Download**.
@@ -88,7 +88,7 @@ At certain institutions, from time to time, administrators may be required to su
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb [Administration](introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
+1. From your UNIWeb [Administration](navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
 2. In the right panel, click **Download publication lists**.
 3. In the **Download publications as a Word file** page, configure any ****[**download options**](academic-metrics.md#download-options)**.**
 4. Click **Download**.

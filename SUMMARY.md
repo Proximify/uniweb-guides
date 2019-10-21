@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Welcome to the UNIWeb Help Centre!](README.md)
-* [UNIWeb Overview](introduction/README.md)
-  * [UNIWeb's Main Areas](introduction/navigating-uniweb.md)
+* [UNIWeb's Main Areas](navigating-uniweb.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)

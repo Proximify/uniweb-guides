@@ -12,7 +12,7 @@
 
 ## Creating a Group
 
-1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb.md#the-home-page) page, go to **Groups**.
 2. In the centre panel, click **Add Group**.
 3. In the Add group dialog, enter the Group's [**general information**](groups-1.md#group-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**

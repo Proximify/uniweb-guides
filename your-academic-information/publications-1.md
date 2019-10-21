@@ -44,7 +44,7 @@ UNIWeb can import publications from using XML files from EndNote, BibTex, and Go
 
 ## Deleting publications
 
-1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Publications.**
+1. From your [UNIWeb Home](../navigating-uniweb.md#the-home-page) page, go to **Publications.**
 2. Locate the publication record that you would like to delete, and click the **Edit** button to the right of the record.
 3. At the bottom right of the data entry form, click **Delete**.
 

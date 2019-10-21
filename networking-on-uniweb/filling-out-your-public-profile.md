@@ -14,7 +14,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 
 ## Viewing your public profile
 
-1. From your[ UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**. 
+1. From your[ UNIWeb Home](../navigating-uniweb.md#the-home-page) page, go to **Profile**. 
 2. Click **Public Profile** in the right panel.
 3. To return, click **Edit Profile** in the right panel.
 
@@ -59,7 +59,7 @@ The profile sections that can be populated using CV information are as follows:
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Members**.
+1. From your [UNIWeb Administration](../navigating-uniweb.md#the-administration-page) page, go to **Members**.
 2. Locate the UNIWeb member whose profile you would like to edit, and **click on their name**.
 
 As long as you have been assigned an administrator role within the subject’s academic unit that includes the Edit Member Information permission, you will be taken to an editable version of the UNIWeb member’s public profile. You can [edit their profile information manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually) as you would you own, or [import information from their curriculum vitae](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv).
@@ -74,7 +74,7 @@ Your profile is your public showcase of your work within your UNIWeb network, an
 
 ### Creating a backup of your profile
 
-1. From your [UNIWeb Home page](../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the right panel, click **Create/restore backups**.
 3. In the right panel, click **Download a UNIWeb profile backup**.
 
@@ -86,7 +86,7 @@ A backup of your profile information will be downloaded as a JSON file.
 
 ### Restoring a backup of your profile
 
-1. From your [UNIWeb Home page](../introduction/navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../navigating-uniweb.md#the-home-page), go to **Profile**.
 2. In the right panel, click **Create/restore backups**.
 3. In the right panel, click **Restore from a file**.
 4. In the centre panel, click **Choose file**, and browse your computer for your backup JSON file.

@@ -40,7 +40,7 @@ Every institution's hierarchy of academic units is unique, and so academic units
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
 {% endhint %}
 
-1. From your [UNIWeb Administrator](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
+1. From your [UNIWeb Administrator](../../navigating-uniweb.md#the-administration-page) page, go to **Academic Units**. 
 2. In the right panel, click the **Add a new unit** button.
 3. In the _Add a new unit_ dialog, **fill in the** [**academic unit information**](managing-academic-units.md#academic-unit-information-fields) **data entry form**. Fields that are marked with an asterisk are mandatory.
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
@@ -103,7 +103,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
+1. From your [UNIWeb Administration](../../navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
 3. Click **Edit** to the right of the _Unit Information_ heading.
 4. Add to or edit the [academic unit information ](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/uniweb-accounts/academic-units/managing-academic-units#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
@@ -120,7 +120,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
+1. From your [UNIWeb Administration](../../navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
 2. In the centre panel, locate and click on the checkbox to the right of the academic unit\(s\) that you would like to delete.
 3. In the right panel, click **Delete selected**.
 4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
@@ -142,7 +142,7 @@ _**Unit types**_ categorize academic units, and serve to make searching and filt
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
+1. From your [UNIWeb Administration](../../navigating-uniweb.md#the-administration-page) page, go to **Academic Units**.
 2. In the right panel, click **Add a unit type**.
 3. In the _Create and academic unit type_ dialog, enter a name for your new academic unit type.
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry field to add the unit type name in a second language. 

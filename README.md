@@ -8,7 +8,7 @@ To get started, choose a chapter below, or browse through topics within chapters
 
 Get a broad overview of how the different parts of UNIWeb fit together, and how different areas of UNIWeb are referenced within these help guides.
 
-{% page-ref page="introduction/" %}
+{% page-ref page="navigating-uniweb.md" %}
 
 ### UNIWeb Accounts
 
