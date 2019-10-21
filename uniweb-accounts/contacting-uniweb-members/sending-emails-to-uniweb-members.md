@@ -1,4 +1,0 @@
-# Sending emails to UNIWeb members
-
-2.7. Send a Generic Message You may need to contact all, or many, of your network’s members. To do this, choose the desired member, or members, by selecting the checkbox to the right of their row. Then choose the Generic Message option from the right-hand menu \(see ➂ in Figure 2\). This will produce an email window with several options. You can select either UNIWeb or yourself as the sender and you can also choose to send it to only your selected members, or to all members of your network. 2.8. Check Send Status When you send a large number of emails simultaneously, it can take several minutes for them to be processed. This provides a status window letting you know which emails have yet to be sent \(see ➂ in Figure 2\).
-
