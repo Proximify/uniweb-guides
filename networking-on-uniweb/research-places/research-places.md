@@ -1,10 +1,19 @@
 # Managing Research Places
 
-On your profile page, there is a section titled Research Places. This allows you to define a location where you have conducted a research activity. You begin by entering an address. Then, you can add a description, choose a type of research activity and even tag your location with research interests. You can optionally specify a start and end date. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
+On your [profile page](../filling-out-your-public-profile.md#filling-out-your-public-profile-manually), there is a section titled Research Places. This section allows you to define a location where you are now, or have in the past conducted a research activity. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
 
 When you add or edit a research place, UNIWeb gives you the option to tag it with a research interest. To find your desired interest from your network’s list, you can either scroll through the list or you can begin entering the name in the search field and UNIWeb will refine your results.
 
-## Add a new research place
+#### On this page:
+
+* [Browsing research places](research-places.md#browsing-research-places)
+* [Adding a new research place](research-places.md#adding-a-new-research-place)
+* [Editing a research place](research-places.md#editing-a-research-place)
+* [Deleting a research place](research-places.md#deleting-a-research-place)
+
+## Browsing Research Places
+
+## Adding a new research place
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**.
 2. In the centre panel, navigate to the Research Places section. You can click on Research Places in the left panel to navigate directly to that section.
@@ -16,7 +25,7 @@ When you add or edit a research place, UNIWeb gives you the option to tag it wit
 **Best practice:** Adding a [Research Theme](../research-themes/) will increase the Research Place's discoverability by including it within [Research Clusters](../research-clusters-1.md) and search results for that theme.
 {% endhint %}
 
-## Edit a research place
+## Editing a research place
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**.
 2. In the centre panel, navigate to the Research Places section. You can click on Research Places in the left panel to navigate directly to that section.
@@ -24,7 +33,7 @@ When you add or edit a research place, UNIWeb gives you the option to tag it wit
 4. Edit the information in the data entry form as needed. Fields marked with an asterisk \(\*\) are mandatory.
 5. Click **Save.**
 
-## Delete a research place
+## Deleting a research place
 
 1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Profile**.
 2. In the centre panel, navigate to the Research Places section. You can click on Research Places in the left panel to navigate directly to that section.

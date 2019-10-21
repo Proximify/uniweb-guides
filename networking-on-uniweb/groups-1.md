@@ -1,20 +1,20 @@
-# Managing Groups
+# Groups
 
 #### On this page: 
 
-* [Creating a Group](groups.md#creating-a-group)
-* [Editing a Group](groups.md#editing-a-group)
-* [Deleting a Group](groups.md#deleting-a-group)
-* [Managing Group members](groups.md#managing-group-members)
-* [Transferring ownership of a Group](groups.md#transferring-ownership-of-a-group)
-* [Creating a backup of a Group](groups.md#creating-a-backup-of-a-group)
-* [Group Profile Information](groups.md#group-profile-information)
+* [Creating a Group](groups-1.md#creating-a-group)
+* [Editing a Group](groups-1.md#editing-a-group)
+* [Deleting a Group](groups-1.md#deleting-a-group)
+* [Managing Group members](groups-1.md#managing-group-members)
+* [Transferring ownership of a Group](groups-1.md#transferring-ownership-of-a-group)
+* [Creating a backup of a Group](groups-1.md#creating-a-backup-of-a-group)
+* [Group Profile Information](groups-1.md#group-profile-information)
 
 ## Creating a Group
 
-1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
+1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Groups**.
 2. In the centre panel, click **Add Group**.
-3. In the Add group dialog, enter the Group's [**general information**](groups.md#group-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
+3. In the Add group dialog, enter the Group's [**general information**](groups-1.md#group-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
 ## Editing a Group
@@ -22,7 +22,7 @@
 1. From your UNIWeb Home page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
-4. In the centre panel, navigate to the [group profile section](groups.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](groups.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
+4. In the centre panel, navigate to the [group profile section](groups-1.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](groups-1.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
 5. Add or edit information in the data entry form for the corresponding Group profile section as needed.
 6. Click **Save.**
 
@@ -177,8 +177,8 @@ You can use the sections of a Group's profile page to give more in-depth informa
 | **Profile Section** | **Purpose** |
 | :--- | :--- |
 | **Group Description** | Provide a general description of the Group, along with any information for visitors to better understand its purpose. |
-| **Research Interests** | Tag your Group with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster](../research-clusters-1.md) corresponding to the tagged Research Theme. |
-| **Research Places** | Add any locations where your group operates. These [Research Places](../research-places/) will be displayed on the Map page for visitors or group members to whom the group is visible. |
+| **Research Interests** | Tag your Group with [Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster](research-clusters-1.md) corresponding to the tagged Research Theme. |
+| **Research Places** | Add any locations where your group operates. These [Research Places](research-places/) will be displayed on the Map page for visitors or group members to whom the group is visible. |
 | **Partners and Collaborators** | List any people or organizations, within or outside of your institution, with whom your group collaborates. |
-| **Resources** | Add any [Resources](../equipment-profiles-resources/) that belong to or are managed or administered by your Group. |
+| **Resources** | Add any [Resources](equipment-profiles-resources/) that belong to or are managed or administered by your Group. |
 
