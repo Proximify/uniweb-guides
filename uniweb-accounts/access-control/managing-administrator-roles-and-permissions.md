@@ -34,6 +34,8 @@ For example, a department of health sciences may have 3 faculty members that are
   </tbody>
 </table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would _**only be able to perform those tasks within the Health Sciences academic unit and its sub-units**_. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
 
+When your institution sets up their network, the Proximify team will create your first administrator accounts. As an administrator, it is your responsibility to create and assign roles to future users.
+
 #### On this page:
 
 * [Creating Administrator Roles](managing-administrator-roles-and-permissions.md#creating-administrator-roles)

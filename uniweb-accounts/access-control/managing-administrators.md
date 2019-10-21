@@ -2,6 +2,8 @@
 
 Within UNIWeb, administrator access can be assigned, modified, and removed by assigning roles to UNIWeb members. Depending on the level of access that they need, UNIWeb members may have multiple administrator roles assigned. If a UNIWeb member has at least one role assigned to them, they are considered an administrator.
 
+When your institution sets up their network, the Proximify team will create your first administrator accounts. As an administrator, it is your responsibility to create and assign roles to future users.
+
 #### On this page:
 
 * [Granting administrator access](managing-administrators.md#granting-administrator-access)
