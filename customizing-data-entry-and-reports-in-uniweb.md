@@ -1,6 +1,8 @@
-# Customizing data entry and reports in UNIWeb
+# Customizing UNIWeb
 
-UNIWeb comes with generic annual report and CV template that has options that can be set at download, your academic unit or institution may want to offer more options to users. Duplicate your existing report guidelines in UNIWeb, or design an entirely new report to take advantage of the existing report guidelines in UNIWeb, or design an entirely new report to take advantage of the advanced calculations and data presentation that UNIWeb Reports can perform. Request a quote from Proximify by emailing requests@proximify.ca.
+UNIWeb is a white-label product that can be customized extensively to meet the specific needs of the institution using it. While the general branding and aesthetics of the user interface will be set to the institution's preferences at time of installation, UNIWeb's functionality can also be further extended to [capture information in the UNIWeb CV](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms) that is not a default part of the Canadian Common CV. 
+
+Additionally, while UNIWeb comes with a generic annual report and CV template that has options that can be set at download, your academic unit or institution may want to offer more options to users. Your faculty can adjust the existing report templates in UNIWeb, or design an entirely new report to take advantage of the advanced calculations and data presentation that UNIWeb Reports can perform.
 
 #### On this page:
 

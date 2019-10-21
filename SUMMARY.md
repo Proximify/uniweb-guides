@@ -2,7 +2,7 @@
 
 * [Start Page](README.md)
 * [Feature Overview](introduction/README.md)
-  * [Navigating UNIWeb](introduction/navigating-uniweb.md)
+  * [UNIWeb's Main Areas](introduction/navigating-uniweb.md)
   * [User Interface](introduction/user-interface.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
@@ -40,7 +40,5 @@
   * [Web Articles](networking-on-uniweb/web-articles-1.md)
 * [Academic Metrics](academic-metrics/README.md)
   * [Academic Metrics](academic-metrics/academic-metrics.md)
-* [Customizing UNIWeb](api-access/README.md)
-  * [Customizing data entry and reports in UNIWeb](api-access/customizing-data-entry-and-reports-in-uniweb.md)
-  * [API Access](api-access/api-access-1.md)
+* [Customizing UNIWeb](customizing-data-entry-and-reports-in-uniweb.md)
 
