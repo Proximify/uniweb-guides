@@ -41,8 +41,8 @@ From the Curriculum Vitae section, you can:
 
 * [Populate your Curriculum Vitae manually](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
 * [Import information from the Canadian Common CV](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
-* [Export information to the Canadian Common CV](../your-academic-information/exporting-academic-information/applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
-* [Download your Curriculum Vitae and report documents](../your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files)
+* [Export information to the Canadian Common CV](../your-academic-information/applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
+* [Download your Curriculum Vitae and report documents](../your-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files)
 
 ### Publications
 
@@ -97,7 +97,7 @@ From the Administration &gt; Members section, you can:
 * [Delete member accounts](../uniweb-accounts/account-management/account-deletion.md#deleting-a-uniweb-members-account)
 * [Send password reset emails](../uniweb-accounts/account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
 * [Send account invitation and reminder emails](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
-* [Download other members’ CV and report files](../your-academic-information/exporting-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
+* [Download other members’ CV and report files](../your-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
 * [Populate other members’ public profiles](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 
 ### Web Articles

@@ -1,6 +1,6 @@
 # Downloading CVs and Reports
 
-Using UNIWeb, you can easily generate fully-formatted academic documents using the information in your [UNIWeb Curriculum Vitae](../your-uniweb-curriculum-vitae-cv.md). While UNIWeb includes document templates such as a generic CV and an annual activity report, your institution may offer [custom templates](../../customizing-data-entry-and-reports-in-uniweb.md) for documents that reflect your department or faculty’s content and formatting requirements.
+Using UNIWeb, you can easily generate fully-formatted academic documents using the information in your [UNIWeb Curriculum Vitae](your-uniweb-curriculum-vitae-cv.md). While UNIWeb includes document templates such as a generic CV and an annual activity report, your institution may offer [custom templates](../customizing-data-entry-and-reports-in-uniweb.md) for documents that reflect your department or faculty’s content and formatting requirements.
 
 #### On this page:
 
@@ -10,7 +10,7 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 
 ## Downloading your CV and generating report files
 
-1. From your [UNIWeb Home](../../introduction/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae** 
+1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae** 
 2. Click **Download As...** in the right panel.
 3. Select the **Document Type** that you would like to download
 4. Optional: configure any [**Download Options**](downloading-cvs-and-reports.md#download-options) as needed
@@ -21,14 +21,14 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
 
 {% hint style="warning" %}
-**Before you begin:** to perform this procedure, you must have an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject's academic unit that includes the following permissions:
+**Before you begin:** to perform this procedure, you must have an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject's academic unit that includes the following permissions:
 
 * Edit Member Information
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../introduction/navigating-uniweb.md#the-administration-page) page, go to **Members** 
+1. From your [UNIWeb Administration](../introduction/navigating-uniweb.md#the-administration-page) page, go to **Members** 
 2. Click the checkboxes to the right of the UNIWeb members whose reports or CVs you would like to download.
 3. Click **Generate CVs and Reports** in the right panel.
 4. Select the [**Document Type**](downloading-cvs-and-reports.md#download-options) that you would like to download
