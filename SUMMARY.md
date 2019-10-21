@@ -26,7 +26,7 @@
   * [Downloading CVs and Reports](your-academic-information/downloading-cvs-and-reports.md)
 * [Networking on UNIWeb](networking-on-uniweb/README.md)
   * [Your Public Profile](networking-on-uniweb/filling-out-your-public-profile.md)
-  * [Research Themes](networking-on-uniweb/research-themes/README.md)
+  * [Research Themes and Clusters](networking-on-uniweb/research-themes/README.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
   * [Research Places](networking-on-uniweb/research-places-1.md)

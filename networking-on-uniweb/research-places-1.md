@@ -2,7 +2,7 @@
 
 Academic institutions seldom operate out of a single location or city. Members of a single institution may operate in various locations across the globe. For the sake of collaboration or for ongoing research, it can be extremely valuable to know which researchers are operating in a certain area, what research has previously been performed in certain areas, or when searching for researchers who have expertise in a specific region.
 
-UNIWeb offers a powerful way to visualize the geographical scope of your institution's reach through research places and the Map page. 
+UNIWeb offers a powerful way to visualize the geographical scope of your institution's reach through research places and the Map page. Using information entered on your public profile, UNIWeb 
 
 .On your [profile page](filling-out-your-public-profile.md#filling-out-your-public-profile-manually), there is a section titled Research Places. This section allows you to define a location where you are now, or have in the past conducted a research activity. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
 
