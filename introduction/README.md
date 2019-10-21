@@ -4,7 +4,6 @@ Whereas subsequent chapters cover how to perform tasks in UNIWeb organized by su
 
 ## In this chapter:
 
-* [UNIWeb's User Interface](user-interface.md)
 * [UNIWeb's Main Areas](navigating-uniweb.md)
 
 

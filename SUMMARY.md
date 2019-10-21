@@ -2,7 +2,6 @@
 
 * [Welcome to the UNIWeb Help Centre!](README.md)
 * [UNIWeb Overview](introduction/README.md)
-  * [UNIWeb's User Interface](introduction/user-interface.md)
   * [UNIWeb's Main Areas](introduction/navigating-uniweb.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
