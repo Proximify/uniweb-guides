@@ -122,9 +122,9 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left">Add <a href="research-themes/">Research Themes</a> to your profile that
         describe the scope of your work at your institution, as well as your general
         research interests. By adding themes here, your profile will be included
-        in <a href="research-clusters-1.md">Research Clusters</a> and search results
-        for those themes, and will create connections with your peers that you
-        can find in your connection map.</td>
+        in <a href>Research Clusters</a> and search results for those themes, and
+        will create connections with your peers that you can find in your connection
+        map.</td>
       <td style="text-align:left">All</td>
     </tr>
     <tr>

@@ -177,7 +177,7 @@ You can use the sections of a Group's profile page to give more in-depth informa
 | **Profile Section** | **Purpose** |
 | :--- | :--- |
 | **Group Description** | Provide a general description of the Group, along with any information for visitors to better understand its purpose. |
-| **Research Interests** | Tag your Group with [Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster](research-clusters-1.md) corresponding to the tagged Research Theme. |
+| **Research Interests** | Tag your Group with [Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster]() corresponding to the tagged Research Theme. |
 | **Research Places** | Add any locations where your group operates. These [Research Places]() will be displayed on the Map page for visitors or group members to whom the group is visible. |
 | **Partners and Collaborators** | List any people or organizations, within or outside of your institution, with whom your group collaborates. |
 | **Resources** | Add any [Resources](equipment-profiles-resources/) that belong to or are managed or administered by your Group. |

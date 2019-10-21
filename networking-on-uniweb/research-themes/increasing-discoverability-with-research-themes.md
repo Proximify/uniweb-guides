@@ -27,7 +27,7 @@
 
 ## Tagging your Publications with Research Themes
 
-You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../filling-out-your-public-profile.md), and in the [Research Cluster](../research-clusters-1.md) corresponding to that Research Theme. 
+You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../filling-out-your-public-profile.md), and in the [Research Cluster]() corresponding to that Research Theme. 
 
 ### Adding tags to your publications
 
@@ -50,7 +50,7 @@ You can tag one or many of your publications with Research Themes. Once a public
 5. Click **Remove labels**.
 
 {% hint style="danger" %}
-**Note:** Removing Research Theme tags from publications will immediately remove them from the search results and [Research Clusters](../research-clusters-1.md) that correspond to those Research Themes. Publications will remain listed on your [public profile](../filling-out-your-public-profile.md) as long as they are still tagged with at least one Research Theme.
+**Note:** Removing Research Theme tags from publications will immediately remove them from the search results and [Research Clusters]() that correspond to those Research Themes. Publications will remain listed on your [public profile](../filling-out-your-public-profile.md) as long as they are still tagged with at least one Research Theme.
 {% endhint %}
 
 ## Tagging your Research Places with Research Themes
