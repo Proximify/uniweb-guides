@@ -13,19 +13,6 @@ UNIWeb automatically keeps track of the CV requirements for funding agencies tha
 * [Importing CV information into the CCV website](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-CCV-website)
 * [Applying ‘Submit?’ checkmarks](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks)
 
-## Choosing a Funding Template
-
-Although the Canadian Common CV is treated as a standard set of information to apply for funding via multiple funding agencies, many agencies differ in which parts of the CCV are most relevant to the funding opportunities that they offer. 
-
-UNIWeb automatically keeps track of the CV requirements for funding agencies that operate through the Canadian Common CV, and creates input guides that can help you ensure that you've entered all of your CV information properly and completely as per that agencie's standards.
-
-Before you export your information to the CCV website, it's advisable to set a funding template that corresponds to the agency offering the funding opportunity that you're applying to, following the steps below:
-
-1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae**
-2. In the right panel, Choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency.
-3. Select the **Export to CCV** option from the right panel
-4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
-
 ## Exporting CV information from UNIWeb
 
 1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae**
