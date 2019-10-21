@@ -2,7 +2,7 @@
 
 Whereas [academic units](../../uniweb-accounts/academic-units/) organize UNIWeb members by the real administrative bodies that make up their institution, Research Themes serve to connect UNIWeb members across the boundaries of academic units, based on their research interests and the topics that inform their academic work. 
 
-Research themes act like **keywords** that may be [_tagged_](increasing-discoverability-with-research-themes.md) onto various items in UNIWeb. Once an item is tagged, it will appear in [Research Clusters](../research-clusters-1.md) and search results across the network. Through Research Theme tagging, you can broadcast yourself, your research, and your publications to your institution, and discover peers who have been working on research in similar themes, even if they're in completely different departments.
+Research Themes act like **keywords** that may be [_tagged_](increasing-discoverability-with-research-themes.md) onto various items in UNIWeb. Once an item is tagged, it will appear in [Research Clusters](../research-clusters-1.md) and search results across the network. Through Research Theme tagging, you can broadcast yourself, your research, and your publications to your institution, and discover peers who have been working on research in similar themes, even if they're in completely different departments.
 
 Like academic units, Research Themes are nested, meaning that parent themes are broken down into smaller themes that are more specific. This means that while academic units and Research Themes might share some overlap in naming, it's important to remember that academic units describe departments and faculties, and Research Themes describe topics and fields of study.
 
