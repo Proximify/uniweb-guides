@@ -27,7 +27,7 @@
 
 ## Tagging your Publications with Research Themes
 
-You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](), and in the [Research Cluster](../research-clusters-1.md) corresponding to that Research Theme. 
+You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../filling-out-your-public-profile.md), and in the [Research Cluster](../research-clusters-1.md) corresponding to that Research Theme. 
 
 ### Adding tags to your publications
 
@@ -50,7 +50,7 @@ You can tag one or many of your publications with Research Themes. Once a public
 5. Click **Remove labels**.
 
 {% hint style="danger" %}
-**Note:** Removing Research Theme tags from publications will immediately remove them from the search results and [Research Clusters](../research-clusters-1.md) that correspond to those Research Themes. Publications will remain listed on your [public profile]() as long as they are still tagged with at least one Research Theme.
+**Note:** Removing Research Theme tags from publications will immediately remove them from the search results and [Research Clusters](../research-clusters-1.md) that correspond to those Research Themes. Publications will remain listed on your [public profile](../filling-out-your-public-profile.md) as long as they are still tagged with at least one Research Theme.
 {% endhint %}
 
 ## Tagging your Research Places with Research Themes
@@ -74,7 +74,7 @@ By tagging your research places with Research Themes, you are increasing the num
 
 ## Tagging Resources with Research Themes
 
-By tagging your research places with Research Themes, you are increasing the number of keywords that visitors can use to find your Research Place in search results or by filtering on the Resources page. Your Resource will also be displayed in the Research Cluster corresponding to the tagged Research Theme.
+By tagging your [Resources](../equipment-profiles-resources/) with Research Themes, you are increasing the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the Research Cluster corresponding to the tagged Research Theme.
 
 ### Adding tags to your Resources
 
@@ -96,6 +96,8 @@ By tagging your research places with Research Themes, you are increasing the num
 6. Click **Save**.
 
 ## Tagging Groups with Research Themes
+
+By tagging your [Group](../groups-1.md) with Research Themes, you are increasing the number of keywords that visitors can use to find your groups in search results or by filtering on the Groups page. Your group will also be displayed in the Research Cluster corresponding to the tagged Group.
 
 ### Adding tags to your Groups
 
