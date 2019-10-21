@@ -1,6 +1,4 @@
-# Start Page
-
-## Welcome to the UNIWeb Help Centre!
+# Welcome to the UNIWeb Help Centre!
 
 To get started, choose a chapter below, or browse through topics within chapters on the left side of the page. If you're looking for help on a specific topic, you can search the help centre using the search tool at the top right of the page.
 

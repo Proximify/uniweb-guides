@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Start Page](README.md)
+* [Welcome to the UNIWeb Help Centre!](README.md)
 * [Feature Overview](introduction/README.md)
   * [UNIWeb's Main Areas](introduction/navigating-uniweb.md)
   * [UNIWeb's User Interface](introduction/user-interface.md)
