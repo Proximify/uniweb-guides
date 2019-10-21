@@ -8,7 +8,7 @@ An academic CV can become a very lengthy document over the length of a career. T
 
 Because the UNIWeb is a web-based application, you can access your CV data at any time, from any web browser. There is nothing to download or install and your CV information will always be up-to-date.
 
-## In this section:
+## In this chapter:
 
 * [Managing your UNIWeb Curriculum Vitae \(CV\)](your-uniweb-curriculum-vitae-cv.md)
 * [Publications](publications-1.md)
