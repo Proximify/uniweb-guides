@@ -4,7 +4,7 @@ UNIWeb provides a secure and private network for researchers to connect, collabo
 
 Administrators are differentiated from general UNIWeb members because they can perform certain tasks within UNIWeb that general users cannot, or would not need to. The ability to perform a particular administrative task is called a [_**permission**_](managing-administrator-roles-and-permissions.md#administrator-permissions).
 
-Administrator access is granted and managed through assigning bundles of permissions, called [_**roles**_](managing-administrator-roles-and-permissions.md#creating-administrator-roles), which are restricted to an academic unit. This ensures that administrators have access to user information only where it is necessary for them to perform adminsitrative tasks. When your institution sets up their network, the Proximify team will create your first administrator accounts. As an administrator, it is your responsibility to assign roles to future users.
+Administrator access is granted and managed through assigning bundles of permissions, called [_**roles**_](managing-administrator-roles-and-permissions.md#creating-administrator-roles), which are restricted to an academic unit. This ensures that administrators have access to user information only where it is necessary for them to perform adminsitrative tasks. When your institution sets up their network, the Proximify team will create your first administrator accounts. As an administrator, it is your responsibility to create and assign roles to future users.
 
 ### In this section:
 
