@@ -1,5 +1,11 @@
 # Exporting to the Canadian Common CV
 
+The UNIWeb Curriculum Vitae offers a simple and streamlined way of managing your Canadian Common CV, and a straightforward process for exporting your information over to the CCV website to submit your funding applications directly. In addition, UNIWeb also includes some powerful tools to ensure that you're submitting the correct information for the funding agency of your choice.
+
+Although the Canadian Common CV is treated as a standard set of information to apply for funding via multiple funding agencies, many agencies differ in which parts of the CCV are most relevant to the funding opportunities that they offer. 
+
+UNIWeb automatically keeps track of the CV requirements for funding agencies that operate through the Canadian Common CV, and creates input guides, called **funding templates**, that can help you ensure that you've entered all of your CV information properly and completely as per that agency's standards.
+
 #### On this page:
 
 * [Choosing a Funding Template](applying-for-funding-with-the-canadian-common-cv.md#choosing-a-funding-template)
@@ -9,14 +15,21 @@
 
 ## Choosing a Funding Template
 
-UNIWeb automatically keeps track of the CV requirements for funding agencies that operate through the Canadian Common CV, and 
+Although the Canadian Common CV is treated as a standard set of information to apply for funding via multiple funding agencies, many agencies differ in which parts of the CCV are most relevant to the funding opportunities that they offer. 
+
+UNIWeb automatically keeps track of the CV requirements for funding agencies that operate through the Canadian Common CV, and creates input guides that can help you ensure that you've entered all of your CV information properly and completely as per that agencie's standards.
+
+Before you export your information to the CCV website, it's advisable to set a funding template that corresponds to the agency offering the funding opportunity that you're applying to, following the steps below:
+
+1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae**
+2. In the right panel, Choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency.
+3. Select the **Export to CCV** option from the right panel
+4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
 
 ## Exporting CV information from UNIWeb
 
-The process of applying to a funding agency that requires a CCV submission begins by exporting your CV from UNIWeb into an XML file that can be read by the CCV website.
-
-1. From your UNIWeb Home page, go to **Curriculum Vitae**
-2. Choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency.
+1. From your [UNIWeb Home](../introduction/navigating-uniweb.md#the-home-page) page, go to **Curriculum Vitae**
+2. In the right panel, choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency.
 3. Select the **Export to CCV** option from the right panel
 4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
 
