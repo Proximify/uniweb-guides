@@ -1,6 +1,6 @@
 # Exporting to the Canadian Common CV
 
-The UNIWeb Curriculum Vitae offers a simple and streamlined way of managing your Canadian Common CV, and a straightforward process for exporting your information over to the CCV website to submit your funding applications directly. In addition, UNIWeb also includes some powerful tools to ensure that you're submitting the correct information for the funding agency of your choice.
+The UNIWeb Curriculum Vitae offers a simple and streamlined way of managing your Canadian Common CV, and a straightforward process for exporting your information over to the CCV website to apply for funding directly. In addition, UNIWeb also includes some powerful tools to ensure that you submit the correct information for the funding agency of your choice.
 
 Although the Canadian Common CV is treated as a standard set of information to apply for funding via multiple funding agencies, many agencies differ in which parts of the CCV are most relevant to the funding opportunities that they offer. 
 
