@@ -6,7 +6,7 @@ Choose a subject chapter below, or browse topics within chapters on the left sid
 
 ### Feature Overview
 
-Get a broad overview of how the different parts of UNIWeb fit together, and how different areas of the tool are referenced within this help centre.
+Get a broad overview of how the different parts of UNIWeb fit together, and how different areas of UNIWeb are referenced within these help guides.
 
 {% page-ref page="introduction/" %}
 
