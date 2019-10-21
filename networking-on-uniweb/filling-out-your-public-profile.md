@@ -204,7 +204,7 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left"><b>Research Places</b>
       </td>
       <td style="text-align:left">List any areas around the world where you conduct research. These research
-        places are shown on your profile, and also on a world map in the <a href="research-places/">Research Places</a> page.</td>
+        places are shown on your profile, and also on a world map in the <a href>Research Places</a> page.</td>
       <td
       style="text-align:left">All</td>
     </tr>
