@@ -3,7 +3,7 @@
 * [Start Page](README.md)
 * [Feature Overview](introduction/README.md)
   * [UNIWeb's Main Areas](introduction/navigating-uniweb.md)
-  * [User Interface](introduction/user-interface.md)
+  * [UNIWeb's User Interface](introduction/user-interface.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
