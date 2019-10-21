@@ -36,7 +36,6 @@
     * [Finding Resources in UNIWeb](networking-on-uniweb/equipment-profiles-resources/using-equipment-profiles.md)
   * [Groups](networking-on-uniweb/groups-1.md)
   * [Web Articles](networking-on-uniweb/web-articles-1.md)
-* [Academic Metrics](academic-metrics/README.md)
-  * [Academic Metrics](academic-metrics/academic-metrics.md)
+* [Academic Metrics](academic-metrics.md)
 * [Customizing UNIWeb](customizing-data-entry-and-reports-in-uniweb.md)
 
