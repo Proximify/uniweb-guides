@@ -25,7 +25,7 @@ The Home page has seven sections, as listed below:
 
 ### Profile
 
-The Profile section allows you to create a public profile on UNIWeb, in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage parts of your UNIWeb account and membership information.
+The Profile section allows you to **create a public profile on UNIWeb**, in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage parts of your UNIWeb account and membership information.
 
 From the Profile section, you can:
 
@@ -39,11 +39,11 @@ From the Profile section, you can:
 
 ### Connections
 
-The Connections section allows you to browse your connections to other UNIWeb members, based on your position title,  your academic unit, and the research themes that you have added to your profile.
+The Connections section allows you to **browse your connections to other UNIWeb members**, based on your position title,  your academic unit, and the research themes that you have added to your profile.
 
 ### Curriculum Vitae
 
-The Curriculum Vitae section allows you to populate your academic CV, which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
+The Curriculum Vitae section allows you to **populate and manage your academic CV**, which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
 
 From the Curriculum Vitae section, you can:
 
@@ -54,7 +54,7 @@ From the Curriculum Vitae section, you can:
 
 ### Publications
 
-The Publications section offers a dedicated area to create records of your academic publications, in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
+The Publications section offers a dedicated area to **create records of your academic publications**, in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
 
 From the Publications section, you can:
 
@@ -77,13 +77,13 @@ In the Tutorials section, you can find support documentation, frequently-asked-q
 
 ![](.gitbook/assets/screenshots-copy-13.png)
 
-The Network page is the main landing page of your UNIWeb network, and is the first page that visitors will see upon accessing the network. In addition to your network's [newsfeed](networking-on-uniweb/web-articles-1.md), the Network page includes quick access to the public areas of your UNIWeb network, including Research Clusters, the Members page,[ Resources](networking-on-uniweb/equipment-profiles-resources/), [Groups](networking-on-uniweb/groups-1.md), and [Research Places](networking-on-uniweb/research-places-1.md).
+The Network page is the **main landing page of your UNIWeb network**, and is the first page that visitors will see upon accessing the network. In addition to your network's [newsfeed](networking-on-uniweb/web-articles-1.md), the Network page includes quick access to the public areas of your UNIWeb network, including Research Clusters, the Members page,[ Resources](networking-on-uniweb/equipment-profiles-resources/), [Groups](networking-on-uniweb/groups-1.md), and [Research Places](networking-on-uniweb/research-places-1.md).
 
 ## The Members Page
 
 ![](.gitbook/assets/screenshots-copy-15.png)
 
-The Members page is a full, publicly-accessible list of the members of your UNIWeb network. Members can be filtered by academic unit in the left panel, and by academic title on the right. Clicking on a member will lead to their [public profile](networking-on-uniweb/filling-out-your-public-profile.md).
+The Members page is a **full, publicly-accessible list of the members of your UNIWeb network**. Members can be filtered by academic unit in the left panel, and by academic title on the right. Clicking on a member will lead to their [public profile](networking-on-uniweb/filling-out-your-public-profile.md).
 
 ## The Administration Page
 
@@ -95,7 +95,7 @@ The Administration Page has eight main sections, as listed below. You will only 
 
 ### Members
 
-The Members section of UNIWeb provides a full list of your network’s users, along with tools for account management and communication.
+The Members section of the Administration page provides a full list of your network’s users, along with **tools for account management and communication**.
 
 From the Administration &gt; Members section, you can:
 
@@ -123,11 +123,11 @@ From the Research Themes section, you can:
 
 ### Academic Metrics
 
-Visualize statistical information about members. Create lists and reports.
+The Academic Metrics section provides **tools to visualize statistical information about UNIWeb members and their work**. UNIWeb can create lists, graphs, and spreadsheets of this data for further analysis.
 
 ### Academic Units
 
-The Academic Units section provides an overview of your institution's academic units as they are organized in UNIWeb. 
+The Academic Units section provides an **overview of your institution's academic units as they are organized in UNIWeb**. 
 
 From the Academic Units section, you can:
 
@@ -138,7 +138,7 @@ From the Academic Units section, you can:
 
 ### Access Control
 
-The Access Control section allows you to define the administrator roles that dictate which users have the ability to perform administrative tasks within your UNIWeb instance, and allows you to assign those roles to your peers as necessary.
+The Access Control section allows you to **set administrator roles** to define who can perform administrative tasks within your UNIWeb instance, and allows you to **assign those roles to your peers** as necessary.
 
 From the Access Control section, you can:
 
@@ -148,9 +148,9 @@ From the Access Control section, you can:
 
 ### API Access
 
-The API Access section allows you to manage UNIWeb's integrations with third-party services.
+The API Access section allows you to manage your UNIWeb instance's custom integrations with third-party services.
 
 ### Data and Report Templates
 
-The Data Reports and Templates section allows you to view the sets of mapping rules, called _schemas_, that generate UNIWeb's data entry forms and tell UNIWeb what information to include when generating CV and report documents. Generally, if a UNIWeb user indicates that their CV or report document is missing some information, cross-referencing that report's schema will show why a certain record was not included in the exported file.
+The Data Reports and Templates section allows you to **view the sets of mapping rules, called** _**schemas**_**, that generate UNIWeb's data entry forms and tell UNIWeb how to generate CV and report documents**. Generally, if a UNIWeb user indicates that their CV or report document is missing a record, cross-referencing that report's schema will help you identify why that record was not included in the exported file.
 
