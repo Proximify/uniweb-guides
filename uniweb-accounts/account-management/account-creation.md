@@ -39,6 +39,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Create new accounts
+* Edit member information
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
@@ -60,6 +61,7 @@ From time to time, you may need to add many new member accounts at once. You can
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
 * Create new accounts
+* Edit member information
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
@@ -126,6 +128,8 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
+* Create new accounts
+* Edit member information
 * Send email invites
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
@@ -144,6 +148,8 @@ If you have invited members previously, but they have yet to activate their acco
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
+* Create new accounts
+* Edit member information
 * Send email invites
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
