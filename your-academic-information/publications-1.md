@@ -9,6 +9,7 @@ UNIWeb offers streamlined data entry forms to create records of your publication
 * [Adding publications manually](publications-1.md#adding-publications-manually)
 * [Importing publications](publications-1.md#importing-publications)
 * [Deleting publications](publications-1.md#deleting-publications)
+* Finding and removing duplicate publications
 
 ## Adding publications manually
 
@@ -51,4 +52,33 @@ UNIWeb can import publications from using XML files from EndNote, BibTex, and Go
 {% hint style="info" %}
 **Tip:** if you’re trying to find a particular record to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Publications page. Your publications are displayed on a single page, and so all of your publications are searchable at once.
 {% endhint %}
+
+## Finding and removing duplicate publications
+
+UNIWeb has built-in duplicate detection features that will identify duplicates as you import new records from various sources, but it's still possible for duplicates to occur from time to time, either by inadvertently adding a duplicate record manually, or in the event that two records of the same publication from different sources might be _just_ different enough to bypass UNIWeb's duplicate detection on import. 
+
+For these scenarios, UNIWeb includes an advanced duplicate detection feature that you can run even when you're not importing new information. This feature can scan your publications to identify duplicates across multiple parameters, ensuring that even if some parts of the duplicate records are slightly different, they can still be identified by other markers.
+
+### Scanning for duplicate publications
+
+1. From your [UNIWeb Home](../navigating-uniweb.md#the-home-page) page, go to **Publications.**
+2. In the right panel, click **Identify Duplicates**.
+3. In the **Find Duplicates** dialog, **select the parameters** that you would like UNIWeb to use to identify duplicate entries.
+4. Click **Find**.
+
+In the Duplicate detection results dialog, UNIWeb will organize duplicate entries together to easily idenitfy which elements are common between them.
+
+### Deleting duplicate publications
+
+1. After completing the procedure above, in the **Duplicate detection results** dialog, **click the checkbox** next to any duplicates that you would like to delete.
+2. Click **Delete selected**.
+
+### Duplicate detection parameters
+
+| Parameter | Function |
+| :--- | :--- |
+| **With same title** | Look for duplicates that **have matching titles** \(this cannot be deselected\). |
+| **In same section** | Mark records with matching titles as duplicates **only when they are both listed within the same section** - newspaper articles, book reviews, or reports, for instance. |
+| **With same year** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same year.** |
+| **With same month** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same month.** |
 
