@@ -47,8 +47,6 @@ The profile sections that can be populated using CV information are as follows:
 **Tip:** You can edit any profile information as needed - edits you make to your profile page won’t affect the information stored in your CV.
 {% endhint %}
 
-## Hiding information from your public profile
-
 ## Filling out another UNIWeb member’s public profile
 
 {% hint style="warning" %}
