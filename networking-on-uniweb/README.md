@@ -1,6 +1,6 @@
 # Networking on UNIWeb
 
-Managing academic information and generating reports is
+
 
 
 

@@ -9,7 +9,7 @@ UNIWeb offers streamlined data entry forms to create records of your publication
 * [Adding publications manually](publications-1.md#adding-publications-manually)
 * [Importing publications](publications-1.md#importing-publications)
 * [Deleting publications](publications-1.md#deleting-publications)
-* Finding and removing duplicate publications
+* [Finding and removing duplicate publications](publications-1.md#finding-and-removing-duplicate-publications)
 
 ## Adding publications manually
 
