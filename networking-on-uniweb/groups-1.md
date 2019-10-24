@@ -1,5 +1,11 @@
 # Groups
 
+Whether you're a part of a small study group or a large research team that spans multiple academic units, you can keep a presence for your group and keep members up to date with UNIWeb's Groups. 
+
+Groups are profiles where you can manage multiple members and add links to pertinent files, resources, and external websites. You can also list the [Research Places](research-places-1.md) where your Group operates and [tag your Group with Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes) to help boost your Group's presence on the UNIWeb network.
+
+You don't need to be a UNIWeb administrator to start a Group - you can create and manage as many Groups as you would like with a regular UNIWeb account.
+
 #### On this page: 
 
 * [Creating a Group](groups-1.md#creating-a-group)
