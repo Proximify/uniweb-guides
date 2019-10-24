@@ -4,18 +4,16 @@ Academic institutions seldom operate out of a single location or city. Members o
 
 UNIWeb offers a powerful way to visualize the geographical scope of your institution's reach through research places and the Map page. Using information entered on your public profile, UNIWeb 
 
-.On your [profile page](filling-out-your-public-profile.md#filling-out-your-public-profile-manually), there is a section titled Research Places. This section allows you to define a location where you are now, or have in the past conducted a research activity. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
+On your [profile page](filling-out-your-public-profile.md#filling-out-your-public-profile-manually), there is a section titled Research Places. This section allows you to define a location where you are now, or have in the past conducted a research activity. Once you have added locations to your profile, you will now appear in the ‘Research Places’ section of UNIWeb. To find other researchers, you can search the filter based on name or location, and you can optionally filter by title or academic unit.
 
 When you add or edit a research place, UNIWeb gives you the option to tag it with a research interest. To find your desired interest from your network’s list, you can either scroll through the list or you can begin entering the name in the search field and UNIWeb will refine your results.
 
 #### On this page:
 
-* [Browsing the Research Places Map](research-places-1.md#browsing-research-places)
+* [Browsing Research Places on the UNIWeb Map](research-places-1.md#browsing-research-places)
 * [Adding a new research place](research-places-1.md#adding-a-new-research-place)
 * [Editing a research place](research-places-1.md#editing-a-research-place)
 * [Deleting a research place](research-places-1.md#deleting-a-research-place)
-
-## Browsing the Research Places Map
 
 ## Adding a new research place
 
@@ -26,7 +24,7 @@ When you add or edit a research place, UNIWeb gives you the option to tag it wit
 5. Click **Save.**
 
 {% hint style="success" %}
-**Best practice:** Adding a [Research Theme](research-themes/) will increase the Research Place's discoverability by including it within [Research Clusters]() and search results for that theme.
+**Best practice:** Adding a [Research Theme](research-themes/) will increase the Research Place's discoverability by including it within Research Clusters and search results for that theme.
 {% endhint %}
 
 ## Editing a research place
