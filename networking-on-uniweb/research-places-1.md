@@ -15,6 +15,12 @@ When you add or edit a research place, UNIWeb gives you the option to tag it wit
 * [Editing a research place](research-places-1.md#editing-a-research-place)
 * [Deleting a research place](research-places-1.md#deleting-a-research-place)
 
+## Browsing Research Places on the UNIWeb Map
+
+* From your [UNIWeb Network](../navigating-uniweb.md#the-network-page) page, go to **Research Places.**
+* The Map page displays Research Places as pins on a world map. Click and drag the map to pan, or scroll to zoom in or out. If there are more than one Research Place listed within a certain area, the Map will mark the pin with a number.
+* Hover your cursor over a pin to learn more about the listed Research Place. In the popup window, you can click on the name of the UNIWeb member who listed the Research Place to view their profile, or you can click on the Research Themes listed to view their associate Research Clusters.
+
 ## Adding a new research place
 
 1. From your [UNIWeb Home](../navigating-uniweb.md#the-home-page) page, go to **Profile**.
