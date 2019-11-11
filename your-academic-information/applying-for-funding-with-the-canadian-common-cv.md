@@ -14,7 +14,7 @@ UNIWeb automatically keeps track of the CV requirements for funding agencies tha
 
 ## Exporting CV information from UNIWeb
 
-1. From your [UNIWeb Home](../navigating-uniweb/#the-home-page) page, go to **Curriculum Vitae**
+1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Curriculum Vitae**
 2. In the right panel, choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency. **Any areas that are missing information according to the funding template will be marked in red.**
 3. Once you've double-checked your CV, select the **Export to CCV** option from the right panel.
 4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
@@ -51,7 +51,7 @@ When the CCV website creates a CV draft for your application, it lists all avail
 **Before you begin:** Ensure that you are **logged out** of the CCV website, and close all instances of the CCV website that you have open in other tabs. Any other open tabs may overwrite your changes with outdated information.
 {% endhint %}
 
-1. From your UNIWeb Home page, go to **Curriculum Vitae**.
+1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Curriculum Vitae**.
 2. Click **Apply “submit” checkmarks** in the right panel.
 3. In the _Apply “submit” checkmarks_ dialog box, enter your CCV username and password so that UNIWeb can access your CCV account.
 4. Select the **funding template** for your application, and the date at which the checkmarks should start \(Oldest and moving forward to the present\)

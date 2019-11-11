@@ -11,7 +11,7 @@ If you cannot find a particular Research Theme within your institution’s listi
 
 ## Creating new Research Themes
 
-1. From your [UNIWeb Home](../../navigating-uniweb/) page, go to **Profile**. 
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Navigate to the **Research Interests** section, and click **Edit**.
 3. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel. Identify the most relevant parent Research Theme for the theme that you would like to add. Ensure that the parent Research Theme is expanded to display any of its existing child themes.
 4. Rest your cursor on the parent Research Theme that you have chosen, and click on the **pen icon** that appears to the right of it.
@@ -31,7 +31,7 @@ Any new Research Themes that you add must be approved by a UNIWeb member who has
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/#the-administration-page) page, go to **Themes**. 
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Themes**. 
 2. In the right panel, under the Status heading, click **Pending**. This will filter the list of themes in the centre panel to show only themes that are pending approval.
 3. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
 4. In the theme details screen, click Approve. You may also edit or delete the proposed theme.
@@ -50,7 +50,7 @@ Once a Research Theme has been created, you can edit its name in English or Fren
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/#the-administration-page) page, go to **Themes**. 
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Themes**. 
 2. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
 3. In the theme details screen, edit the theme information as needed.
 4. Click **Save**, or **Approve**, if the theme has not yet been approved.
@@ -69,7 +69,7 @@ Because Research Themes can be [tagged](increasing-discoverability-with-research
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/#the-administration-page) page, go to **Themes**. 
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Themes**. 
 2. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
 3. In the theme details screen, click **Delete by merging into parent theme**.
 

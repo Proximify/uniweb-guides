@@ -1,6 +1,6 @@
 # Finding and Reserving Resources
 
-Resource profiles are listed in Research Clusters, in search results, in the Resources section of the [UNIWeb Home](../../navigating-uniweb/#the-home-page) page, and on the Map page. Resource profiles work in much the same way as any online marketplace - if you have found a Resource that you would like to inquire about, you can contact the owner via email or by phone to inquire further about using it.
+Resource profiles are listed in Research Clusters, in search results, in the Resources section of the [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, and on the Map page. Resource profiles work in much the same way as any online marketplace - if you have found a Resource that you would like to inquire about, you can contact the owner via email or by phone to inquire further about using it.
 
 #### On this page:
 
