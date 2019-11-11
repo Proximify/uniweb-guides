@@ -14,7 +14,7 @@ Your membership information serves two important purposes in UNIWeb:
 
 ## Editing your membership information
 
-1. From your [UNIWeb Home page](../../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../navigating-uniweb/#the-home-page), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Add to or edit your account information in the data entry form as needed.
 4. Click **Save.**
@@ -29,7 +29,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 
 ### Change your public email address
 
-1. From your [UNIWeb Home page](../../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../navigating-uniweb/#the-home-page), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Change or remove your email address in the Email data entry field.
 4. Click **Save.**
@@ -40,7 +40,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 **Before you begin:** if your institution has integrated their UNIWeb network with an existing single sign-on \(SSO\) service, the following procedure will only affect the email address that UNIWeb uses to send you system email alerts. You will continue to log in to your account using your institution's SSO credentials.
 {% endhint %}
 
-1. From your [UNIWeb Home page](../../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../navigating-uniweb/#the-home-page), go to **Profile**.
 2. In the right panel, click **Set private email address.**
 3. In the **Set private email address** dialog, enter a new email address. Your current email address will be displayed to the left of the text entry field.
 4. Click **Save**.
