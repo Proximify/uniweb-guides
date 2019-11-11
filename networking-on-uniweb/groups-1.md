@@ -18,14 +18,14 @@ You don't need to be a UNIWeb administrator to start a Group - you can create an
 
 ## Creating a Group
 
-1. From your [UNIWeb Home](../navigating-uniweb/#the-home-page) page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, click **Add Group**.
 3. In the Add group dialog, enter the Group's [**general information**](groups-1.md#group-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
 ## Editing a Group
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
 4. In the centre panel, navigate to the [group profile section](groups-1.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](groups-1.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
@@ -34,7 +34,7 @@ You don't need to be a UNIWeb administrator to start a Group - you can create an
 
 ## Deleting a Group
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Menu**. 
 4. In the dropdown menu, click **Delete Group**.
@@ -44,7 +44,7 @@ You don't need to be a UNIWeb administrator to start a Group - you can create an
 
 ### Adding Group members
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** where you would like to add a member.
 3. In the centre panel, under the Group's main heading, click **Menu**. 
 4. In the dropdown menu, click **Add members**.
@@ -52,7 +52,7 @@ You don't need to be a UNIWeb administrator to start a Group - you can create an
 
 ### Adding Group administrators
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** where you would like to add an administrator.
 3. In the centre panel, under the Group's main heading, click **Members**. 
 4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Add to Administrators**.
@@ -60,7 +60,7 @@ You don't need to be a UNIWeb administrator to start a Group - you can create an
 
 ### Removing Group administrators
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** where you would like to remove an administrator.
 3. In the centre panel, under the Group's main heading, click **Members**. 
 4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Remove from Administrators**.
@@ -68,7 +68,7 @@ You don't need to be a UNIWeb administrator to start a Group - you can create an
 
 ### Hiding and unhiding Group members
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** where you would like to hide a member.
 3. In the centre panel, under the Group's main heading, click **Members**. 
 4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Hide membership**.
@@ -82,7 +82,7 @@ Tip: to unhide group members who were previously hidden, repeat the steps above,
 
 ### Removing members from a Group
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** where you would like to remove a member. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Members**. 
 4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Remove from group**.
@@ -94,7 +94,7 @@ Tip: to unhide group members who were previously hidden, repeat the steps above,
 **Before you begin:** you must be the owner of a Group in order to transfer ownership of that Group to another UNIWeb member.
 {% endhint %}
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to transfer to a new owner.
 3. In the centre panel, under the Group's main heading, click **Members**. 
 4. Under Members, hover your cursor over your own name, and in the tooltip menu that appears, click **Transfer ownership**.
@@ -102,7 +102,7 @@ Tip: to unhide group members who were previously hidden, repeat the steps above,
 
 ## Creating a backup of a Group
 
-1. From your UNIWeb Home page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md)res page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to create a backup of. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
 4. In the right panel, click **Make a backup copy**.
@@ -183,8 +183,8 @@ You can use the sections of a Group's profile page to give more in-depth informa
 | **Profile Section** | **Purpose** |
 | :--- | :--- |
 | **Group Description** | Provide a general description of the Group, along with any information for visitors to better understand its purpose. |
-| **Research Interests** | Tag your Group with [Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the [Research Cluster]() corresponding to the tagged Research Theme. |
-| **Research Places** | Add any locations where your group operates. These [Research Places]() will be displayed on the Map page for visitors or group members to whom the group is visible. |
+| **Research Interests** | Tag your Group with [Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the Research Cluster corresponding to the tagged Research Theme. |
+| **Research Places** | Add any locations where your group operates. These [Research Places](research-places-1.md) will be displayed on the Map page for visitors or group members to whom the group is visible. |
 | **Partners and Collaborators** | List any people or organizations, within or outside of your institution, with whom your group collaborates. |
 | **Resources** | Add any [Resources](equipment-profiles-resources/) that belong to or are managed or administered by your Group. |
 
