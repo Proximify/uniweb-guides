@@ -22,7 +22,7 @@ Administrator access in UNIWeb is granted through assigning **administrator role
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb/#the-administration-page), go to **Access Control**. 
+1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Access Control**. 
 2. In the centre panel, click the **Add member** button to the right of the Administrators heading.
 3. In the _New member_ dialog, browse or search in the New member dropdown menu for the UNIWeb member to whom you would like to assign an administrator role, and **click on their name**.
 4. **Click the checkbox** next to the role\(s\) that you would like to assign to the selected UNIWeb member.
@@ -40,7 +40,7 @@ You can modify the level of access that a UNIWeb administrator has been granted 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb/#the-administration-page), go to **Access Control**. 
+1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Access Control**. 
 2. In the centre panel, click on the name of the UNIWeb administrator whose administrator access you would like to modify.
 3. In the member’s administrator profile dialog, **click the checkbox** next to any roles that you would like to add, and deselect any roles that you would like to remove.
 4. Click **Save**.
@@ -61,7 +61,7 @@ You can revoke a UNIWeb member’s administrator access by removing all of the r
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb/#the-administration-page), go to **Access Control**. 
+1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Access Control**. 
 2. In the centre panel, click on the name of the UNIWeb administrator whose administrator access you would like to revoke.
 3. In the member’s administrator profile dialog,**deselect all of the roles** that have been assigned to them.
 4. Click **Save**.

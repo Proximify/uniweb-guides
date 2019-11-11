@@ -14,7 +14,7 @@ Your membership information serves two important purposes in UNIWeb:
 
 ## Editing your membership information
 
-1. From your [UNIWeb Home page](../../navigating-uniweb/#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../navigating-uniweb/the-home-page.md), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Add to or edit your account information in the data entry form as needed.
 4. Click **Save.**
@@ -29,7 +29,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 
 ### Change your public email address
 
-1. From your [UNIWeb Home page](../../navigating-uniweb/#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../../navigating-uniweb/the-home-page.md), go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Change or remove your email address in the Email data entry field.
 4. Click **Save.**
@@ -55,7 +55,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/introduction/navigating-uniweb/navigating-uniweb#the-administration-page), go to **Members**.
+1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Members**.
 2. In the centre panel, locate and click on the name of the UNIWeb member whose account information you would like to edit. You will be taken to their profile page.
 3. In the centre panel on the UNIWeb member’s profile page, to the right of their name, click **Edit**.
 4. Add to or edit their account information in the data entry form as needed.
