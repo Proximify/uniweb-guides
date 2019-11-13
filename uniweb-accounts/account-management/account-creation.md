@@ -4,8 +4,8 @@
 
 * [Creating your UNIWeb account from an institution’s UNIWeb website](account-creation.md#creating-your-uniweb-account-from-an-institutions-uniweb-website)
 * [Creating your UNIWeb account from an invitation email](account-creation.md#creating-your-uniweb-account-from-an-invitation-email)
-* [Creating UNIWeb member accounts manually](account-creation.md#creating-UNIWeb-member-accounts-manually)
-* [Creating UNIWeb member accounts in bulk using a spreadsheet](account-creation.md#creating-UNIWeb-member-accounts-in-bulk-using-a-spreadsheet)
+* [Creating UNIWeb member accounts manually](account-creation.md#creating-uniweb-member-accounts-manually)
+* [Creating UNIWeb member accounts in bulk using a spreadsheet](account-creation.md#creating-uniweb-member-accounts-in-bulk-using-a-spreadsheet)
 * [Sending account activation emails](account-creation.md#sending-account-activation-emails)
 * [Sending account activation reminder emails](account-creation.md#sending-account-activation-reminder-emails)
 
