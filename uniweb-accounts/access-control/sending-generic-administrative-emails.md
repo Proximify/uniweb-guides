@@ -6,7 +6,7 @@ In sending email messages through UNIWeb, please follow any communication rules 
 
 #### On this page:
 
-* [Sending a generic administrative email](sending-generic-administrative-emails.md#send-an-adminsitrative-email-to-academic-unit-members)
+* [Sending a generic administrative email](sending-generic-administrative-emails.md#sending-a-generic-administrative-email)
 
 ## Sending a generic administrative email
 

@@ -13,5 +13,5 @@ Because the UNIWeb is a web-based application, you can access your CV data at an
 * [Managing your UNIWeb Curriculum Vitae \(CV\)](your-uniweb-curriculum-vitae-cv.md)
 * [Publications](publications-1.md)
 * [Exporting Academic Information](applying-for-funding-with-the-canadian-common-cv.md)
-* [Customizing reports, data, and templates in UNIWeb](../customizing-data-entry-and-reports-in-uniweb.md)
+* [Downloading CVs and Reports](downloading-cvs-and-reports.md)
 
