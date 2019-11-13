@@ -12,6 +12,6 @@ If you have been granted an administrator role, the link to the administration p
 
 * [The Home Page](the-home-page.md)
 * [The Network Page](the-network-page.md)
-* [The Members Page](./#the-members-page)
-* [The Administration Page](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/introduction/navigating-uniweb/navigating-uniweb#the-administration-page)
+* [The Members Page](the-members-page.md)
+* [The Administration Page](the-administration-page.md)
 
