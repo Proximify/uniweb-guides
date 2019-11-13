@@ -53,7 +53,7 @@ When your institution sets up their network, the Proximify team will create your
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Access Control**
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**
 2. Click the **Add role** button in the left panel
 3. In the _New Role_ dialog, type in a **Role name** and select the **Academic Unit** where the new role’s permissions will be applied. You may only create Roles within your own Academic Unit and its sub-units.
 4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role. You may only assign permissions that you have access to within your Academic Unit.
@@ -73,7 +73,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Access Control**
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**
 2. In the left panel, locate and **click on the role** that you would like to modify. You may only edit roles within your Academic Unit and its sub-units.
 3. In the role dialog, you can modify the role name, Academic Unit, and select or deselect permissions for the role. You may only assign permissions that you have access to within your Academic Unit.
 4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role
@@ -95,7 +95,7 @@ Roles cannot be deleted, but their [permissions](managing-administrator-roles-an
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Access Control**
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**
 2. In the left panel, locate and **click on the role** that you would like to modify. **You may only edit roles within your academic unit and its sub-units.**
 3. In the role dialog, deselect all of the role’s assigned permissions.
 4. Click **Save**.
@@ -110,7 +110,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 | :--- | :--- |
 | **Approve new themes** | Edit, delete or approve [**research themes**](../../networking-on-uniweb/research-themes/managing-research-themes.md) that have been proposed by UNIWeb members within your Academic Unit. |
 | **Assign roles to members** | \*\*\*\*[**Assign roles**](managing-administrators.md) to grant other UNIWeb members **administrator access** to your Academic Unit or its sub-units. |
-| **Create API clients** | Grant other software systems secure read/write access to information stored by UNIWeb. See [**API Access**]() for more information. |
+| **Create API clients** | Grant other software systems secure read/write access to information stored by UNIWeb. See **API Access** for more information. |
 | **Create new accounts** | \*\*\*\*[**Create**](../account-management/account-creation.md#creating-uniweb-member-accounts-manually) ****UNIWeb member accounts. |
 | **Delete existing accounts** | \*\*\*\*[**Delete**](../account-management/account-deletion.md#deleting-a-uniweb-members-account) ****UNIWeb member accounts. |
 | **Edit academic units** | Create, edit or delete [**academic units**](../academic-units/managing-academic-units.md#create-an-academic-unit-manually) and [**unit types**](../academic-units/managing-academic-units.md#add-a-unit-type). |
