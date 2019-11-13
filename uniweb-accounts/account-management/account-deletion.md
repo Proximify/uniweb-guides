@@ -3,7 +3,7 @@
 #### On this page:
 
 * [Deleting your own UNIWeb account](account-deletion.md#deleting-your-own-uniweb-account)
-* [Deleting a UNIWeb member’s account](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/uniweb-accounts/account-management/account-deletion#deleting-a-uniweb-members-account)
+* [Deleting a UNIWeb member’s account](account-deletion.md#deleting-a-uniweb-members-account)
 
 ## Deleting your own UNIWeb account
 
