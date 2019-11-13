@@ -14,7 +14,7 @@ If you would like to delete your UNIWeb account, you must contact a system admin
 Deleting members from your UNIWeb network will immediately revoke their access to your institution’s UNIWeb network and will permanently delete their account information from the system.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Delete existing accounts
 
