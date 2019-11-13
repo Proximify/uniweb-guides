@@ -13,7 +13,7 @@ UNIWeb offers streamlined data entry forms to create records of your publication
 
 ## Adding publications manually
 
-1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Publications.**
+1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications.**
 2. Locate the section for the type of publication that you would like to add. You can **click on a section listed in the left panel** to navigate directly to that section.
 3. In the centre panel, click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing record to modify it.
 4. Add or edit information in the data entry form as needed.
@@ -35,7 +35,7 @@ UNIWeb can import publications from using XML files from EndNote, BibTex, and Go
 **Tip:** UNIWeb automatically detects and disregards duplicates, and so you don’t need to worry about tracking which publications you have already imported.
 {% endhint %}
 
-1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Publications**.
+1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications**.
 2. Click **Import Publications** in the right panel.
 3. Select the source of the publications you would like to import: BibTeX, Google Scholar, EndNote, or PubMed, and click **Next**.
 4. If you are importing publications from BibTeX, Google Scholar, or EndNote, click **Choose File** and locate the relevant file in your computer. 
@@ -45,7 +45,7 @@ UNIWeb can import publications from using XML files from EndNote, BibTex, and Go
 
 ## Deleting publications
 
-1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Publications.**
+1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications.**
 2. Locate the publication record that you would like to delete, and click the **Edit** button to the right of the record.
 3. At the bottom right of the data entry form, click **Delete**.
 
@@ -61,7 +61,7 @@ For these scenarios, UNIWeb includes an advanced duplicate detection feature tha
 
 ### Scanning for duplicate publications
 
-1. From your[ UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Publications.**
+1. From your[ UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications.**
 2. In the right panel, click **Identify Duplicates**.
 3. In the **Find Duplicates** dialog, **select the parameters** that you would like UNIWeb to use to identify duplicate entries.
 4. Click **Find**.
