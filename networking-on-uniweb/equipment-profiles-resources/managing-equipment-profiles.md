@@ -13,9 +13,9 @@ Once a UNIWeb visitor has contacted you in order to make use of your resource, a
 * [Creating a Resource](managing-equipment-profiles.md#creating-a-resource) 
 * [Editing a Resource](managing-equipment-profiles.md#editing-a-resource)
 * [Deleting a Resource](managing-equipment-profiles.md#deleting-a-resource)
-* [Transferring ownership of a Resource](managing-equipment-profiles.md#transfer-ownership-of-a-resource)
-* [Creating a backup of a Resource](managing-equipment-profiles.md#create-a-backup-of-a-resource)
-* [Resource Profile Information](managing-equipment-profiles.md#resource-information)
+* [Transferring ownership of a Resource](managing-equipment-profiles.md#transferring-ownership-of-a-resource)
+* [Creating a backup of a Resource](managing-equipment-profiles.md#creating-a-backup-of-a-resource)
+* [Resource Profile Information](managing-equipment-profiles.md#resource-profile-sections)
 
 ## Creating a Resource
 
