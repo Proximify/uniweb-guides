@@ -46,7 +46,7 @@ When your institution sets up their network, the Proximify team will create your
 ## Creating Administrator Roles
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit Roles
 
@@ -66,7 +66,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 ## Editing Administrator Roles
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role within the subject’s Academic Unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s Academic Unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit Roles
 
@@ -88,7 +88,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 Roles cannot be deleted, but their [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit Roles
 

@@ -11,7 +11,7 @@ In sending email messages through UNIWeb, please follow any communication rules 
 ## Sending a generic administrative email
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role in any academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) in any academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit member information
 * Send email invites
