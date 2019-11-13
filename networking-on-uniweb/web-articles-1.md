@@ -8,9 +8,9 @@ Every web article has public profile page, which includes all of its content, di
 
 #### On this page:
 
-* [Creating an article](web-articles-1.md#creating-a-group)
-* [Editing an article](web-articles-1.md#editing-a-group)
-* [Deleting an article](web-articles-1.md)
+* [Creating an article](web-articles-1.md#creating-an-article)
+* [Editing an article](web-articles-1.md#editing-an-article)
+* [Deleting an article](web-articles-1.md#deleting-an-article)
 * [Web Article Information](web-articles-1.md#web-article-information)
 
 ## Creating an article
