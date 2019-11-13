@@ -21,8 +21,8 @@ Every institution's hierarchy of academic units is unique, and so academic units
 
 #### On this page:
 
-* [Create an academic unit manually](managing-academic-units.md#add-an-academic-unit-manually)
-* [Create multiple academic units using a spreadsheet](managing-academic-units.md#add-multiple-academic-units-using-a-spreadsheet)
+* [Create an academic unit manually](managing-academic-units.md#create-an-academic-unit-manually)
+* [Create multiple academic units using a spreadsheet](managing-academic-units.md#create-multiple-academic-units-using-a-spreadsheet)
 * [Edit an academic unit](managing-academic-units.md#edit-an-academic-unit)
 * [Delete an academic unit](managing-academic-units.md#delete-an-academic-unit)
 * [Add a unit type](managing-academic-units.md#add-a-unit-type)

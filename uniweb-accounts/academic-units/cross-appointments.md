@@ -10,10 +10,10 @@ UNIWeb members can add or remove their own cross appointments as necessary throu
 
 #### On this page:
 
-* [Adding a cross-appointment to your UNIWeb account](cross-appointments.md#add-a-cross-appointment-to-your-uniweb-account)
+* [Adding a cross-appointment to your UNIWeb account](cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
 * [Edit or delete a cross-appointment from your UNIWeb account](cross-appointments.md#editing-or-deleting-a-cross-appointment-from-your-uniweb-account)
-* [Adding cross-appointees to academic units](cross-appointments.md#add-cross-appointments-to-other-uniweb-accounts)
-* [Removing cross-appointees from academic units](cross-appointments.md#remove-other-members-from-a-cross-appointment)
+* [Adding cross-appointees to academic units](cross-appointments.md#adding-cross-appointees-to-academic-units)
+* [Removing cross-appointees from academic units](cross-appointments.md#removing-cross-appointees-from-academic-units)
 
 ## Adding a cross-appointment to your UNIWeb account
 
