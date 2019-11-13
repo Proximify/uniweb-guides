@@ -2,8 +2,8 @@
 
 #### On this page:
 
-* [Logging in to your UNIWeb account](account-login.md#logging-in-to-your-UNIWeb-account)
-* [Resetting your UNIWeb password](account-login.md#resetting-your-uniweb-password)
+* [Logging in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account)
+* [Resetting your UNIWeb password](account-login.md#resetting-your-uniweb-account-password-if-youve-forgotten-it)
 * [Sending a password reset email to a UNIWeb member](account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
 
 ## Logging in to your UNIWeb account
