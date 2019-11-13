@@ -10,7 +10,7 @@ As you populate your UNIWeb CV, you can either add new entries from scratch, or 
 
 * [Importing from the Canadian Common CV](your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
 * [Populating your curriculum vitae manually](your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
-* [Deleting curriculum vitae entries](your-uniweb-curriculum-vitae-cv.md#deleting-curriculum-vitae-entries)
+* [Deleting a record from your curriculum vitae](your-uniweb-curriculum-vitae-cv.md#deleting-a-record-from-your-curriculum-vitae)
 * [Creating and restoring CV backups](your-uniweb-curriculum-vitae-cv.md#creating-and-restoring-cv-backups)
 * [Curriculum vitae sections](your-uniweb-curriculum-vitae-cv.md#curriculum-vitae-sections)
 
