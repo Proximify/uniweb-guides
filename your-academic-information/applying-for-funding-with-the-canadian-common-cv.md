@@ -9,7 +9,7 @@ UNIWeb automatically keeps track of the CV requirements for funding agencies tha
 #### On this page:
 
 * [Exporting CV information from UNIWeb](applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
-* [Importing CV information into the CCV website](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-CCV-website)
+* [Importing CV information into the CCV website](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-ccv-website)
 * [Applying ‘Submit?’ checkmarks](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks)
 
 ## Exporting CV information from UNIWeb

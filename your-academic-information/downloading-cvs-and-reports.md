@@ -4,8 +4,8 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 
 #### On this page:
 
-* [Downloading your CV and generating report files](downloading-cvs-and-reports.md#downloading-your-cv-and-report-files)
-* [Downloading CVs and generating report files of other UNIWeb members](downloading-cvs-and-reports.md#downloading-cv-and-report-files-for-other-uniweb-members)
+* [Downloading your CV and generating report files](downloading-cvs-and-reports.md#downloading-your-cv-and-generating-report-files)
+* [Downloading CVs and generating report files of other UNIWeb members](downloading-cvs-and-reports.md#downloading-cvs-and-generating-report-files-of-other-uniweb-members)
 * [Download Options](downloading-cvs-and-reports.md#download-options)
 
 ## Downloading your CV and generating report files
