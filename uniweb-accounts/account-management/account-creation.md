@@ -16,12 +16,12 @@
 {% endhint %}
 
 1. From your institution’s [UNIWeb Network](../../navigating-uniweb/the-network-page.md) page, click the **Sign up** button on the right side of the navigation bar.
-2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**. 
+2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#membership-information-fields). Click **Next**. 
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
 5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
 
-Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md##creating-your-UNIWeb-account-from-an-invitation-email) to complete your account creation.
+Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) to complete your account creation.
 
 ## Creating your UNIWeb account from an invitation email
 
@@ -46,7 +46,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 1. From your [UNIWeb Administration page](../../navigating-uniweb/the-administration-page.md), go to **Members**.
 2. In the right panel, click the **Add a new member** button.
-3. In the _Add new members_ dialog, fill in the [member information fields](account-creation.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
+3. In the _Add new members_ dialog, fill in the [member information fields](member-account-information.md#membership-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
 4. Click **Save**.
 
 {% hint style="danger" %}
@@ -72,7 +72,7 @@ To get your member account spreadsheet started, you can download a template spre
 
 {% file src="../../.gitbook/assets/accounts\_creation\_templates.zip" caption="Download a member account template spreadsheet" %}
 
-The sample spreadsheet includes all of the accepted [member information fields](account-creation.md) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
+The sample spreadsheet includes all of the accepted [member information fields](member-account-information.md#membership-information-fields) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
 | First Name\* | Middle Name | Last Name\* | Account Type\* | Position Title\* | Academic Unit\* | Email\* | Username | Telephone | Homepage | Office |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

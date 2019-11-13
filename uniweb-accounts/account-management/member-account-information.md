@@ -137,7 +137,7 @@ If you have not been assigned a role with the permissions listed above, and beli
             have a section to list the grad students that he or she supervises, whereas
             a student&#x2019;s profile will have a section to list their supervisor.</li>
           <li>Position titles are used throughout UNIWeb for filtering data. For example,
-            narrowing down results in <a href="member-account-information.md">Research Places</a> to
+            narrowing down results in <a href="../../networking-on-uniweb/research-places-1.md">Research Places</a> to
             only display doctoral students.</li>
         </ul>
       </td>

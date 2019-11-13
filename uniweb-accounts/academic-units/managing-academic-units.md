@@ -66,7 +66,7 @@ To get your academic unit spreadsheet started, you can download a template sprea
 
 {% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an academic unit spreadsheet template" %}
 
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md) that can be used when creating an academic unit spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
+The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md#academic-unit-information-fields) that can be used when creating an academic unit spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
 | Type\* | Unit Name\* | Parent Unit\* | French Name | URL Name | Homepage | Public | Colour |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -106,7 +106,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**.
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
 3. Click **Edit** to the right of the _Unit Information_ heading.
-4. Add to or edit the [academic unit information ](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/uniweb-accounts/academic-units/managing-academic-units#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
+4. Add to or edit the [academic unit information ](managing-academic-units.md#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
 5. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 6. Click **Save**.
 
