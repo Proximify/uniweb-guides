@@ -6,7 +6,7 @@ Additionally, while UNIWeb comes with a generic annual report and CV template th
 
 #### On this page:
 
-* [Customizing UNIWeb’s data entry forms](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-fields)
+* [Customizing UNIWeb’s data entry forms](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms)
 * [Creating custom report templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-report-templates)
 * [Creating custom input templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-input-templates)
 
