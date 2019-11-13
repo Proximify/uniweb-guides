@@ -10,7 +10,7 @@ When you add or edit a research place, UNIWeb gives you the option to tag it wit
 
 #### On this page:
 
-* [Browsing Research Places on the UNIWeb Map](research-places-1.md#browsing-research-places)
+* [Browsing Research Places on the UNIWeb Map](research-places-1.md#browsing-research-places-on-the-uniweb-map)
 * [Adding a new research place](research-places-1.md#adding-a-new-research-place)
 * [Editing a research place](research-places-1.md#editing-a-research-place)
 * [Deleting a research place](research-places-1.md#deleting-a-research-place)
