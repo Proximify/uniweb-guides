@@ -19,7 +19,7 @@ Using preset visualization tools, UNIWeb can help you organize this infromation 
 #### On this page:
 
 * [Visualizing academic metrics using presets within UNIWeb](academic-metrics.md#visualizing-academic-metrics-using-presets-in-uniweb)
-* [Downloading custom academic metrics reports as excel files](academic-metrics.md#downloading-custom-academic-metrics-reports-as-excel-files)
+* [Downloading custom academic metrics reports as excel files](academic-metrics.md#downloading-custom-academic-metrics-as-excel-files)
 * [Downloading lists of publications](academic-metrics.md#downloading-lists-of-publications)
 
 ## Visualizing academic metrics using presets in UNIWeb
