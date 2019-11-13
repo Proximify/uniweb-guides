@@ -4,10 +4,9 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 
 ### On this page:
 
-* [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-own-public-profile)
+* [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-public-profile)
 * [Filling out your Public Profile manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
-* [Hiding information from your public profile](filling-out-your-public-profile.md#hiding-information-from-your-public-profile)
 * [Filling out another UNIWeb member's public profile](filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 * [Creating and restoring a backup of your profile](filling-out-your-public-profile.md#creating-and-restoring-a-backup-of-your-profile)
 * [Profile Sections](filling-out-your-public-profile.md#profile-sections)
