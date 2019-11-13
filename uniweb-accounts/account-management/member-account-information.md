@@ -7,10 +7,10 @@ Your membership information serves two important purposes in UNIWeb:
 
 #### On this page:
 
-* [Editing your membership information](member-account-information.md#editing-your-member-account-information)
-* [Hiding your account email address](member-account-information.md#hiding-your-account-email-address)
-* [Editing the membership information of other UNIWeb members](member-account-information.md#editing-the-member-account-information-of-other-UNIWeb-members)
-* [Membership information fields](member-account-information.md#account-information-fields)
+* [Editing your membership information](member-account-information.md#editing-your-membership-information)
+* [Changing your account email address](member-account-information.md#changing-your-account-email-address)
+* [Editing the membership information of other UNIWeb members](member-account-information.md#editing-the-membership-information-of-other-uniweb-members)
+* [Membership information fields](member-account-information.md#membership-information-fields)
 
 ## Editing your membership information
 
