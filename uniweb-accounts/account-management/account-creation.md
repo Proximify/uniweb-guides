@@ -15,13 +15,13 @@
 **Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
 {% endhint %}
 
-1. From your institution’s [UNIWeb Network](../../navigating-uniweb.md#the-network-page) page, click the **Sign up** button on the right side of the navigation bar.
-2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#account-type). Click **Next**. 
+1. From your institution’s [UNIWeb Network](../../navigating-uniweb/the-network-page.md) page, click the **Sign up** button on the right side of the navigation bar.
+2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#membership-information-fields). Click **Next**. 
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
 5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
 
-Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md##creating-your-UNIWeb-account-from-an-invitation-email) to complete your account creation.
+Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) to complete your account creation.
 
 ## Creating your UNIWeb account from an invitation email
 
@@ -36,7 +36,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## Creating UNIWeb member accounts manually
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Create new accounts
 * Edit member information
@@ -44,9 +44,9 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb.md#the-administration-page), go to **Members**.
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
 2. In the right panel, click the **Add a new member** button.
-3. In the _Add new members_ dialog, fill in the [member information fields](account-creation.md##member-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
+3. In the _Add new members_ dialog, fill in the [member information fields](member-account-information.md#membership-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
 4. Click **Save**.
 
 {% hint style="danger" %}
@@ -58,7 +58,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 From time to time, you may need to add many new member accounts at once. You can create member accounts in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the accounts that you would like to add. UNIWeb will scan the spreadsheet for accounts that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Create new accounts
 * Edit member information
@@ -72,7 +72,7 @@ To get your member account spreadsheet started, you can download a template spre
 
 {% file src="../../.gitbook/assets/accounts\_creation\_templates.zip" caption="Download a member account template spreadsheet" %}
 
-The sample spreadsheet includes all of the accepted [member information fields](account-creation.md) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
+The sample spreadsheet includes all of the accepted [member information fields](member-account-information.md#membership-information-fields) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
 
 | First Name\* | Middle Name | Last Name\* | Account Type\* | Position Title\* | Academic Unit\* | Email\* | Username | Telephone | Homepage | Office |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -112,7 +112,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
 
 ### Uploading your spreadsheet to UNIWeb
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb.md#the-administration-page), go to **Members**.
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
 2. In the right panel, click **Add members from a file**
 3. In the _Add new members_ dialog, click **Choose File**, and locate your UNIWeb members spreadsheet on your computer.
 4. Click **Submit**.
@@ -126,7 +126,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
 Once you have added new members to UNIWeb, you need to invite them to activate their accounts. This will send them a welcome email with text and information approved by your institution.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Create new accounts
 * Edit member information
@@ -135,7 +135,7 @@ Once you have added new members to UNIWeb, you need to invite them to activate t
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb.md#the-administration-page), go to **Members**.
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
 2. Locate the UNIWeb member\(s\) to whom you would like to send an account activation email, and **click the checkbox** on the right side of their row.
 3. In the right panel, click **Account activation**.
 4. In the _Invite selected members_ dialog, verify that you have selected the correct UNIWeb member\(s\).
@@ -146,7 +146,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Create new accounts
 * Edit member information
@@ -155,7 +155,7 @@ If you have invited members previously, but they have yet to activate their acco
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../../navigating-uniweb.md#the-administration-page), go to **Members**.
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
 2. In the right panel, click **Unactivated accounts**. 
 3. In the _Unactivated accounts_ dialog, select the maximum number of sent activation emails to filter the UNIWeb accounts that will be selected. This will ensure that you don’t send too many emails to users who are not interested in activating their accounts. 
 4. Click **Unactivated accounts**. UNIWeb will automatically select the members who have received the specified number of account activation emails.

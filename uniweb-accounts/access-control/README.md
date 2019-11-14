@@ -11,4 +11,5 @@ Administrator access is granted and managed through assigning bundles of permiss
 * [Managing Administrator Roles and Permissions](managing-administrator-roles-and-permissions.md)
 * [Managing Administrators](managing-administrators.md)
 * [Delegate Access](delegate-access.md)
+* [Sending generic administrative emails](sending-generic-administrative-emails.md)
 

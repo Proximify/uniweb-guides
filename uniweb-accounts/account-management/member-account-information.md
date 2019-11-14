@@ -14,7 +14,7 @@ Your membership information serves two important purposes in UNIWeb:
 
 ## Editing your membership information
 
-1. From your [UNIWeb Home page](../../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Add to or edit your account information in the data entry form as needed.
 4. Click **Save.**
@@ -29,7 +29,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 
 ### Change your public email address
 
-1. From your [UNIWeb Home page](../../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
 2. In the centre panel, to the right of your name, click **Edit**.
 3. Change or remove your email address in the Email data entry field.
 4. Click **Save.**
@@ -40,7 +40,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 **Before you begin:** if your institution has integrated their UNIWeb network with an existing single sign-on \(SSO\) service, the following procedure will only affect the email address that UNIWeb uses to send you system email alerts. You will continue to log in to your account using your institution's SSO credentials.
 {% endhint %}
 
-1. From your [UNIWeb Home page](../../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home ](../../navigating-uniweb/#the-home-page)page, go to **Profile**.
 2. In the right panel, click **Set private email address.**
 3. In the **Set private email address** dialog, enter a new email address. Your current email address will be displayed to the left of the text entry field.
 4. Click **Save**.
@@ -48,14 +48,14 @@ By default, the email address that was used to create your UNIWeb account is aut
 ## Editing the membership information of other UNIWeb members
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit member information
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](https://app.gitbook.com/@proximify/s/uniweb-docs/~/drafts/-LnYEzOBp5J6ui_Qtfpl/primary/introduction/navigating-uniweb/navigating-uniweb#the-administration-page), go to **Members**.
+1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
 2. In the centre panel, locate and click on the name of the UNIWeb member whose account information you would like to edit. You will be taken to their profile page.
 3. In the centre panel on the UNIWeb member’s profile page, to the right of their name, click **Edit**.
 4. Add to or edit their account information in the data entry form as needed.
@@ -137,7 +137,7 @@ If you have not been assigned a role with the permissions listed above, and beli
             have a section to list the grad students that he or she supervises, whereas
             a student&#x2019;s profile will have a section to list their supervisor.</li>
           <li>Position titles are used throughout UNIWeb for filtering data. For example,
-            narrowing down results in <a href="member-account-information.md">Research Places</a> to
+            narrowing down results in <a href="../../networking-on-uniweb/research-places-1.md">Research Places</a> to
             only display doctoral students.</li>
         </ul>
       </td>
