@@ -18,16 +18,21 @@ As you populate your UNIWeb CV, you can either add new entries from scratch, or 
 
 To import your CV information from the Canadian Common CV \(CCV\) website, you must first download that information from your CCV account into an XML file, which you will then upload into UNIWeb.
 
+### Downloading your CV XML file from your CCV account
+
 ![](../.gitbook/assets/screencast-2019-10-20-13-05-31.gif)
 
 1. From your [CCV account homepage](https://ccv-cvc.ca), click **Utilities** in the navigation bar.
 2. In the Utilities dropdown menu, click **Export CV XML**.
 3. In the _Captcha_ dialog, click the **“I’m not a robot”** checkbox.
 4. Click **Export**. The CV XML file will appear in your downloads folder.
-5. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to Curriculum Vitae.
-6. Click **Import from CCV** in the right panel.
-7. Click **Choose file**, and select the XML file that you downloaded from the CCV website.
-8. Click **Import**, and when the file is finished uploading, click **Done**. 
+
+### Uploading your CV XML file to UNIWeb
+
+1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to Curriculum Vitae.
+2. Click **Import from CCV** in the right panel.
+3. Click **Choose file**, and select the XML file that you downloaded from the CCV website.
+4. Click **Import**, and when the file is finished uploading, click **Done**. 
 
 ### How UNIWeb handles future imports and duplicates
 
