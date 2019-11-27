@@ -24,7 +24,7 @@ Learn the ins and outs of using UNIWeb to manage your academic curriculum vitae,
 
 ### Networking on UNIWeb
 
-Managing your professional academic information is just one part of what makes UNIWeb a powerful platform for academic institutions - UNIWeb isn't just a tool, it's a network built by your own colleagues to collaborate, share resources, and foster meaningful research connections! Learn how you can easily curate your existing academic information to create a public profile and establish your presence on your institution's UNIWeb network.
+Managing your professional academic information is just one part of what makes UNIWeb a powerful platform for academic institutions - UNIWeb isn't just a tool, it's a network built by your colleagues to collaborate, share resources, and foster meaningful research connections! Learn how you can easily curate your existing academic information to create a public profile and establish your presence on your institution's UNIWeb network.
 
 {% page-ref page="networking-on-uniweb/" %}
 
