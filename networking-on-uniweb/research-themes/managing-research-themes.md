@@ -2,7 +2,7 @@
 
 If you cannot find a particular Research Theme within your institution’s listings, you can propose it to your institution's UNIWeb administration team. The new Research Theme will be made available to you and your institution at large after it has been approved by an administrator.
 
-### On this page:
+#### On this page:
 
 * [Creating new Research Themes](managing-research-themes.md#creating-new-research-themes)
 * [Approving Research Themes](managing-research-themes.md#approving-research-themes)
@@ -11,8 +11,10 @@ If you cannot find a particular Research Theme within your institution’s listi
 
 ## Creating new Research Themes
 
+![](../../.gitbook/assets/creating-a-research-interest%20%281%29.gif)
+
 1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
-2. Navigate to the **Research Interests** section, and click **Edit**.
+2. In the centre panel, navigate to the **Research Interests** section, and click **Edit**.
 3. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel. Identify the most relevant parent Research Theme for the theme that you would like to add. Ensure that the parent Research Theme is expanded to display any of its existing child themes.
 4. Rest your cursor on the parent Research Theme that you have chosen, and click on the **pen icon** that appears to the right of it.
 5. In the _Edit research theme_ dialog, type the name of the new child theme that you would like to create.
