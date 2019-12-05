@@ -8,11 +8,11 @@ Every time you [tag your profile with a Research Theme](increasing-discoverabili
 
 **On this page:**
 
-* Exploring your research connections
+* [Accessing your research connection map](research-connections.md#accessing-your-research-connection-map)
+* [Viewing more information about a research connection](research-connections.md#viewing-more-information-about-a-specific-connection)
+* [Filtering research connections](research-connections.md#filtering-research-connections)
 
-## Exploring your research connections
-
-### Accessing your Research Connection map
+## Accessing your Research Connection map
 
 * From your UNIWeb Home page, go to **Connections**
 
@@ -20,7 +20,7 @@ Every time you [tag your profile with a Research Theme](increasing-discoverabili
 
 In the centre panel, your profile picture is displayed in the middle of a web, showing all of the connections that UNIWeb was able to generate using the Research Themes that you have [tagged to your profile](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes). Each person that you see connected to you has tagged at least one theme in common with you, or a parent or child of a theme in common with you.
 
-### Viewing more information about a specific connection
+## Viewing more information about a specific connection
 
 To view more information about a specific person, **hover your cursor over their picture**. In the window that appears while hovering, you can:
 
@@ -36,5 +36,23 @@ To view more information about a specific person, **hover your cursor over their
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-18-03.jpg)
 
-### Filtering Research Connections
+## Filtering Research Connections
+
+In the right panel of your research connections map, there are options to help you filter through your connections and find potential collaborators. 
+
+![](../../.gitbook/assets/screen-shot-2019-12-05-at-10.57.13-am.jpg)
+
+You can filter your connections using three different parameters:
+
+* By their [academic title](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields),
+* By their [academic unit](../../uniweb-accounts/academic-units/), or
+* By the research themes that you have in common with them.
+
+**To activate a filter, click on a specific list item under that parameter. You can deactivate that filter by clicking on it again.** 
+
+You can make one selection from each of these three parameters at a time, and to help you find specific results, you can combine selections between these parameters. For instance, you could filter your connections to find **professors** in **engineering** who are interested in **computer science.**
+
+{% hint style="info" %}
+**TIp:** You can make only activate one filter from each parameter at a time, but to help you find specific results, **you can have one active filter from each of the three parameters at the same time**. For instance, you could filter your connections to find **professors** in **engineering** who are interested in **computer science.**
+{% endhint %}
 
