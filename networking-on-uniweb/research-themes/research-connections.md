@@ -36,5 +36,5 @@ To view more information about a specific person, **hover your cursor over their
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-18-03.jpg)
 
-
+### Filtering Research Connections
 
