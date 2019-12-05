@@ -13,7 +13,7 @@ Every web article has public profile page, which includes all of its content, di
 * [Deleting an article](web-articles-1.md#deleting-an-article)
 * [Web Article Information](web-articles-1.md#web-article-information)
 
-## Creating an article
+## ![](../.gitbook/assets/key.svg) Creating an article
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
@@ -28,7 +28,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 3. In the Add article dialog, enter the article's [**general settings**](web-articles-1.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
-## Editing an article
+## ![](../.gitbook/assets/key.svg) Editing an article
 
 {% hint style="warning" %}
 **Before you begin:** the following procedures require an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
@@ -96,7 +96,7 @@ Your article's thumbnail image will appear in the article preview - on the News 
 4. In the centre panel, navigate to the article section that you would like to delete. Click the **Edit** button to the right of the section heading.
 5. In the section data entry form, click **Delete**.
 
-## Deleting an article
+## ![](../.gitbook/assets/key.svg) Deleting an article
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:

@@ -43,7 +43,7 @@ When your institution sets up their network, the Proximify team will create your
 * [Deleting Administrator Roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles)
 * [Administrator Permissions](managing-administrator-roles-and-permissions.md#administrator-permissions)
 
-## ![](../../.gitbook/assets/key.svg) Creating Administrator Roles
+## ![](../../.gitbook/assets/key%20%281%29.svg) Creating Administrator Roles
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
@@ -63,7 +63,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Tip:** The permissions that you assign to a role are applied within the role’s selected academic unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the academic unit for the role.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key.svg) Editing Administrator Roles
+## ![](../../.gitbook/assets/key%20%281%29.svg) Editing Administrator Roles
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an administrator role within the subject’s Academic Unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
@@ -83,7 +83,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key.svg) Deleting Administrator Roles
+## ![](../../.gitbook/assets/key%20%281%29.svg) Deleting Administrator Roles
 
 Roles cannot be deleted, but their [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
 

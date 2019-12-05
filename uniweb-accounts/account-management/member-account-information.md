@@ -45,7 +45,7 @@ By default, the email address that was used to create your UNIWeb account is aut
 3. In the **Set private email address** dialog, enter a new email address. Your current email address will be displayed to the left of the text entry field.
 4. Click **Save**.
 
-## ![](../../.gitbook/assets/key.svg) Editing the membership information of other UNIWeb members
+## ![](../../.gitbook/assets/key%20%281%29.svg) Editing the membership information of other UNIWeb members
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):

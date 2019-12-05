@@ -16,7 +16,7 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 4. Optional: configure any [**Download Options**](downloading-cvs-and-reports.md#download-options) as needed
 5. Click **Download.**
 
-## Downloading CVs and generating report files of other UNIWeb members
+## ![](../.gitbook/assets/key.svg) Downloading CVs and generating report files of other UNIWeb members
 
 Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
 

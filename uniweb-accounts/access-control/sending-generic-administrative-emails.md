@@ -8,7 +8,7 @@ In sending email messages through UNIWeb, please follow any communication rules 
 
 * [Sending a generic administrative email](sending-generic-administrative-emails.md#sending-a-generic-administrative-email)
 
-## ![](../../.gitbook/assets/key.svg) Sending a generic administrative email
+## ![](../../.gitbook/assets/key%20%281%29.svg) Sending a generic administrative email
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) in any academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):

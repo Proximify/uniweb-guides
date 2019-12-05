@@ -22,7 +22,7 @@ Using preset visualization tools, UNIWeb can help you organize this infromation 
 * [Downloading custom academic metrics reports as excel files](academic-metrics.md#downloading-custom-academic-metrics-as-excel-files)
 * [Downloading lists of publications](academic-metrics.md#downloading-lists-of-publications)
 
-## Visualizing academic metrics using presets in UNIWeb
+## ![](.gitbook/assets/key.svg) Visualizing pre-configured academic metrics in UNIWeb
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
@@ -45,7 +45,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 | **Academic Titles** | Filter the report by specific academic titles of the UNIWeb members in your academic unit\(s\). |
 | **Date Range** | Restrict the metrics report to a specific date range. |
 
-## Downloading custom academic metrics as excel files
+## ![](.gitbook/assets/key.svg) Downloading custom academic metrics as excel files
 
 If you want access to raw metrics data in order to perform your own metrics, you can choose you own filtering parametes and export this data as an Excel file. Data can be filtered based on department, the type of staff, a date range, and what CV section\(s\) you would like to examine. 
 

@@ -41,7 +41,7 @@ If you've forgotten your UNIWeb password and cannot log in, you can send a rescu
 3. To validate your account access, **enter your current password** in the first data entry field, and then **create and confirm a new password** in the next two data entry fields.
 4. Click **Submit**.
 
-## ![](../../.gitbook/assets/key.svg) Sending a password reset email to a UNIWeb member
+## ![](../../.gitbook/assets/key%20%281%29.svg) Sending a password reset email to a UNIWeb member
 
 {% hint style="warning" %}
 **Before you begin:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, you must reset member passwords through your institution’s SSO system.

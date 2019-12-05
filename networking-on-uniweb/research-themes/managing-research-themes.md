@@ -23,7 +23,7 @@ If you cannot find a particular Research Theme within your institution’s listi
 
 Any new Research Themes that you add must be approved by a UNIWeb member who has been assigned an administrator role. Completing the steps above will send a notification to administrators for approval. The new Research Theme will be displayed on your profile after it has been approved.
 
-## Approving Research Themes
+## ![](../../.gitbook/assets/key.svg) Approving Research Themes
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
@@ -40,7 +40,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 On the Research Themes page, you will see a list of themes proposed by your users. Each entry includes a breakdown of the theme’s parent, any children created along with it, as well as the individual who proposed it and on what date. As an administrator, you have the ability to approve, edit or delete a theme. To do this, choose the Review option \(see ➁ in Figure 8\). From this window you can edit the nesting of the new theme, the theme name and provide a French translation \(see Figure 9\). Then you can select to approve the theme. Once you approve a theme, your name will appear next to the entry. Tip: Use the filters on the right-hand menu to easily navigate among the various themes \(see ➂ in Figure 6\).
 
-## Editing Research Themes
+## ![](../../.gitbook/assets/key.svg) Editing Research Themes
 
 Once a Research Theme has been created, you can edit its name in English or French, and you can change its parent theme.
 
@@ -57,7 +57,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 3. In the theme details screen, edit the theme information as needed.
 4. Click **Save**, or **Approve**, if the theme has not yet been approved.
 
-## Deleting Research Themes
+## ![](../../.gitbook/assets/key.svg) Deleting Research Themes
 
 Over time, certain Research Rhemes may no longer be necessary, or may become redundant with the addition and growth of other Research Themes around it. 
 
