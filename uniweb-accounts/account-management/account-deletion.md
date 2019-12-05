@@ -9,7 +9,7 @@
 
 If you would like to delete your UNIWeb account, you must contact a system administrator to complete the account deletion process on your behalf.
 
-## Deleting a UNIWeb member’s account
+## ![](../../.gitbook/assets/key.svg) Deleting a UNIWeb member’s account
 
 Deleting members from your UNIWeb network will immediately revoke their access to your institution’s UNIWeb network and will permanently delete their account information from the system.
 

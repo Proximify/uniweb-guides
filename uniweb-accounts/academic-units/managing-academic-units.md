@@ -28,7 +28,7 @@ Every institution's hierarchy of academic units is unique, and so academic units
 * [Add a unit type](managing-academic-units.md#add-a-unit-type)
 * [Academic unit information fields](managing-academic-units.md#academic-unit-information-fields)
 
-## Create an academic unit Manually
+## ![](../../.gitbook/assets/key.svg) Create an academic unit Manually
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
@@ -46,7 +46,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 5. Click **Save**.
 
-## Create multiple academic units using a spreadsheet
+## ![](../../.gitbook/assets/key.svg) Create multiple academic units using a spreadsheet
 
 When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
@@ -93,7 +93,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 **Tip:** If you enter a type or parent unit that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any blank fields that are mandatory or columns that UNIWeb does not recognize, you will receive a similar error.
 {% endhint %}
 
-## Edit an academic unit
+## ![](../../.gitbook/assets/key.svg) Edit an academic unit
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -110,7 +110,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 5. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 6. Click **Save**.
 
-## Delete an academic unit
+## ![](../../.gitbook/assets/key.svg) Delete an academic unit
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -130,7 +130,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Note:** If there are any UNIWeb members who have the academic unit that you are trying to delete listed as their primary academic unit, you will first need to assign those members to other academic units, otherwise UNIWeb will not allow you to delete that academic unit.
 {% endhint %}
 
-## Add a unit type
+## ![](../../.gitbook/assets/key.svg) Add a unit type
 
 _**Unit types**_ categorize academic units, and serve to make searching and filtering for particular academic units easier. Common unit types are **faculty**, **department**, ****or **office**, but you can add new unit types as needed to properly reflect the structure of your institution.
 
