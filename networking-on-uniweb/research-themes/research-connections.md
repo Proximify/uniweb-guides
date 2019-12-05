@@ -24,15 +24,15 @@ In the centre panel, your profile picture is displayed in the middle of a web, s
 
 To view more information about a specific person, **hover your cursor over their picture**. In the window that appears while hovering, you can:
 
-* View their name, [academic title](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), and main [academic unit](../../uniweb-accounts/academic-units/)   
+* View their name, [academic title](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), and main [academic unit](../../uniweb-accounts/academic-units/),
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-14-20.jpg)
 
-* View a selection of their profile's tagged Research Themes
+* View a selection of their profile's tagged Research Themes, and
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-16-26.jpg)
 
-* View their profile, view their own connection map, or view their [homepage](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), if they have listed one on their profile.  
+* Open their profile, open their own connection map, or open their [homepage](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), if they have listed one on their profile.  
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-18-03.jpg)
 
