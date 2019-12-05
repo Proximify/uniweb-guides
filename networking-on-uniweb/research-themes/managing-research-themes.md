@@ -11,7 +11,7 @@ If you cannot find a particular Research Theme within your institution’s listi
 
 ## Creating new Research Themes
 
-![](../../.gitbook/assets/creating-a-research-interest.gif)
+![](../../.gitbook/assets/creating-a-research-interest%20%281%29.gif)
 
 1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. In the centre panel, navigate to the **Research Interests** section, and click **Edit**.
