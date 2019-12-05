@@ -51,6 +51,6 @@ You can filter your connections using three different parameters:
 **To activate a filter, click on a specific list item under that parameter. You can deactivate that filter by clicking on it again.** 
 
 {% hint style="info" %}
-**TIp:** You can make only activate one filter from each parameter at a time, but to help you find specific results, **you can have one active filter from each of the three parameters at the same time**. For instance, you could filter your connections to find **professors** in **engineering** who are interested in **computer science.**
+**TIp:** You can only activate one filter at a time per parameter, but to help you find specific results, **you can have one active filter from each of the three parameters at the same time**. For instance, you could filter your connections to find **professors** in **engineering** who are interested in **computer science.**
 {% endhint %}
 
