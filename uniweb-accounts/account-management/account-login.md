@@ -46,7 +46,7 @@ If you've forgotten your UNIWeb password and cannot log in, you can send a rescu
 {% hint style="warning" %}
 **Before you begin:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, you must reset member passwords through your institution’s SSO system.
 
-This procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s Academic Unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s Academic Unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit Member Information
 
