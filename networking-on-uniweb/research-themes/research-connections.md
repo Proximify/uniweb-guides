@@ -14,7 +14,7 @@ Every time you [tag your profile with a Research Theme](increasing-discoverabili
 
 ## Accessing your Research Connection map
 
-* From your UNIWeb Home page, go to **Connections**
+* From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Connections**
 
 ![](../../.gitbook/assets/screen-shot-2019-12-05-at-10.57.13-am.png)
 
