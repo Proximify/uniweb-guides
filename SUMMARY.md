@@ -30,6 +30,7 @@
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
+    * [Research Connections](networking-on-uniweb/research-themes/research-connections.md)
   * [Research Clusters](networking-on-uniweb/research-clusters.md)
   * [Research Places](networking-on-uniweb/research-places-1.md)
   * [Resources](networking-on-uniweb/equipment-profiles-resources/README.md)
