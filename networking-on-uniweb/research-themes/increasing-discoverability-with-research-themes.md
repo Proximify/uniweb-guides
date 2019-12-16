@@ -1,5 +1,9 @@
 # Tagging with Research Themes
 
+Research themes are the ties that bind UNIWeb's various components together and create a cohesive research network. Research Themes create the backbone of UNIWeb's networking tools - search results, [Research Connections](research-connections.md), and [Research Clusters](../research-clusters.md). You can create a powerful presence for yourself on UNIWeb with your [profile](../filling-out-your-public-profile.md), [publications](../../your-academic-information/publications-1.md), [research places](../research-places-1.md), [resources](../equipment-profiles-resources/), and [groups](../groups-1.md), and by tagging these items with relevant Research Themes, you ensure that these components will show up in other users' search results, connection maps, and Research Clusters related to those themes.
+
+In short, by tagging with Research Themes, you can make your institution's UNIWeb instance into a more connected and helpful network, for yourself and for your peers.
+
 ### On this page:
 
 * [Tagging your public profile with Research Themes](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes)
