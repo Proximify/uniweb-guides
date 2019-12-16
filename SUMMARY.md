@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to the UNIWeb Help Centre](README.md)
-* [UNIWeb's Main Areas](navigating-uniweb/README.md)
+* [Navigating UNIWeb](navigating-uniweb/README.md)
   * [The Home Page](navigating-uniweb/the-home-page.md)
   * [The Network Page](navigating-uniweb/the-network-page.md)
   * [The Members Page](navigating-uniweb/the-members-page.md)

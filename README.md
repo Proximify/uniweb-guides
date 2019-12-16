@@ -8,7 +8,7 @@ To get started, choose a chapter below, or browse through topics within chapters
 **Tip:** this support site includes documents for all UNIWeb users - both general members and administrators. To keep things clear, we've included a **key symbol** ![](.gitbook/assets/key.svg) beside the headings of any procedures that require administrator permissions, along with a list of which permissions are required to perform the procedure.
 {% endhint %}
 
-### UNIWeb Overview
+### Navigating UNIWeb
 
 Get a broad overview of how the different parts of UNIWeb fit together, and how different areas of UNIWeb are referenced within these help guides.
 
