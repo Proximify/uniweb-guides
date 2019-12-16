@@ -5,6 +5,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 ### On this page:
 
 * [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-public-profile)
+* [Adding a profile picture](filling-out-your-public-profile.md#adding-a-profile-picture)
 * [Filling out your Public Profile manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
 * [Filling out another UNIWeb member's public profile](filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
@@ -16,6 +17,13 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 1. From your[ UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Click **Public Profile** in the right panel.
 3. To return, click **Edit Profile** in the right panel.
+
+## Adding a profile picture
+
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**.
+2. In the centre panel, to the left of your name, **click on the placeholder profile picture**, or click on your old profile picture if you would like to change it.
+3. In the profile picture editor, click **Choose file,** and locate and select the file on your computer that you would like to use as your profile picture.
+4. Click **Save**.
 
 ## Filling out your public profile manually
 
