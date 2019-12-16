@@ -6,7 +6,9 @@ The step-by-step procedures outlined in this help centre will generally start by
 
 ![UNIWeb&apos;s main navigation bar, showing links to the Home, Network, and Administration pages. Further links are available under More.](../.gitbook/assets/homepage-proximify-university-2019-10-21-09-45-03.jpg)
 
-If you have been granted an administrator role, the link to the administration page will only be visible once you have logged in, and will take the place of the link to the Members page. The Members page remains linked within the **More** button, next to the search bar.
+{% hint style="info" %}
+**Tip:** If you have been granted an administrator role, the link to the administration page will only be visible once you have logged in, and will take the place of the link to the Members page. The Members page remains linked within the **More** button, next to the search bar.
+{% endhint %}
 
 #### In this section:
 
