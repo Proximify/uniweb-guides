@@ -1,6 +1,6 @@
 # Downloading CVs and Reports
 
-Using UNIWeb, you can easily generate fully-formatted academic documents using the information in your [UNIWeb Curriculum Vitae](your-uniweb-curriculum-vitae-cv.md). While UNIWeb includes document templates such as a generic CV and an annual activity report, your institution may offer [custom templates](../customizing-data-entry-and-reports-in-uniweb.md) for documents that reflect your department or faculty’s content and formatting requirements.
+Using UNIWeb, you can easily generate fully-formatted academic documents using the information in your [UNIWeb Curriculum Vitae](your-uniweb-curriculum-vitae-cv.md). UNIWeb may include CV and annual activity report document templates, and any other [custom templates](../customizing-data-entry-and-reports-in-uniweb.md) for documents that reflect your department or faculty’s content and formatting requirements, as provided by your institution.
 
 #### On this page:
 
