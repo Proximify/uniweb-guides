@@ -10,6 +10,8 @@ Using UNIWeb, you can easily generate fully-formatted academic documents using t
 
 ## Downloading your CV and generating report files
 
+![](../.gitbook/assets/screencast-2020-01-06-10-54-16.gif)
+
 1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Curriculum Vitae** 
 2. Click **Download As...** in the right panel.
 3. Select the **Document Type** that you would like to download
