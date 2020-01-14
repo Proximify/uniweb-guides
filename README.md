@@ -1,6 +1,6 @@
-# Welcome to the UNIWeb Help Centre
+# Bienvenu au centre d'aide d'UNIWeb
 
-UNIWeb is a research productivity software designed to increase the productivity of both staff and faculty members at research institutions. This enterprise level solution provides a secure and private network for researchers to connect, collaborate and compile their academic information. 
+UNIWeb est un logiciel de productivité de la recherche conçu pour augmenter la productivité du personnel et des professeurs des institutions de recherche. Cette solution au niveau de l'entreprise fournit un réseau sécurisé et privé permettant aux chercheurs de se connecter, de collaborer et de compiler leurs informations académiques.
 
 To get started, choose a chapter below, or browse through topics within chapters on the left side of the page. If you're looking for help on a specific topic, you can search the help centre using the search tool at the top right of the page.
 
