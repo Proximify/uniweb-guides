@@ -2,10 +2,10 @@
 
 UNIWeb est un logiciel de productivité de la recherche conçu pour augmenter la productivité du personnel et des professeurs des institutions de recherche. Cette solution au niveau de l'entreprise fournit un réseau sécurisé et privé permettant aux chercheurs de se connecter, de collaborer et de compiler leurs informations académiques.
 
-To get started, choose a chapter below, or browse through topics within chapters on the left side of the page. If you're looking for help on a specific topic, you can search the help centre using the search tool at the top right of the page.
+Pour commencer, choisissez un chapitre ci-dessous ou parcourez les rubriques dans les chapitres sur le côté gauche de la page. Si vous recherchez de l'aide sur un sujet spécifique, vous pouvez rechercher le centre d'aide à l'aide de l'outil de recherche en haut à droite de la page.
 
 {% hint style="info" %}
-**Tip:** this support site includes documents for all UNIWeb users - both general members and administrators. To keep things clear, we've included a **key symbol** ![](.gitbook/assets/key.svg) beside the headings of any **procedures that require administrator permissions**, along with a list of which permissions are required to perform the procedure.
+**Conseil:** this support site includes documents for all UNIWeb users - both general members and administrators. To keep things clear, we've included a **key symbol** ![](.gitbook/assets/key.svg) beside the headings of any **procedures that require administrator permissions**, along with a list of which permissions are required to perform the procedure.
 {% endhint %}
 
 ### Navigating UNIWeb
