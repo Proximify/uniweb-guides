@@ -22,7 +22,7 @@ Using preset visualization tools, UNIWeb can help you organize this infromation 
 * [Downloading custom academic metrics reports as excel files](academic-metrics.md#downloading-custom-academic-metrics-as-excel-files)
 * [Downloading lists of publications](academic-metrics.md#downloading-lists-of-publications)
 
-## Visualizing academic metrics using presets in UNIWeb
+## ![](.gitbook/assets/key.svg) Visualizing pre-configured academic metrics in UNIWeb
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
@@ -32,7 +32,7 @@ Using preset visualization tools, UNIWeb can help you organize this infromation 
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb [Administration](navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
+1. From your [UNIWeb Administration](navigating-uniweb/the-administration-page.md) page, go to **Academic Metrics**.
 2. Preset metric options are tiled in the centre panel of the Metrics section. **Click on a metrics category** that you would like to explore, and then **click on a specific metric** within that category. UNIWeb will generate a report of your selected metric.
 3. In the right panel, configure any [**filtering options**](academic-metrics.md#filtering-options)**, graphing style** \(if applicable\), or **citation style** \(if applicable\).
 4. **Optional:** You can download the data contained on a preset academic metrics page by clicking the **Excel file** or **Word file** buttons under the **Download As** heading in the right panel**.**
@@ -45,7 +45,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 | **Academic Titles** | Filter the report by specific academic titles of the UNIWeb members in your academic unit\(s\). |
 | **Date Range** | Restrict the metrics report to a specific date range. |
 
-## Downloading custom academic metrics as excel files
+## ![](.gitbook/assets/key.svg) Downloading custom academic metrics as excel files
 
 If you want access to raw metrics data in order to perform your own metrics, you can choose you own filtering parametes and export this data as an Excel file. Data can be filtered based on department, the type of staff, a date range, and what CV section\(s\) you would like to examine. 
 
@@ -57,7 +57,7 @@ If you want access to raw metrics data in order to perform your own metrics, you
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb [Administration](navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
+1. From your [UNIWeb Administration](navigating-uniweb/the-administration-page.md) page, go to **Academic Metrics**.
 2. In the centre panel, click **Custom Metrics**.
 3. In the **Download Metrics and an Excel file** page, configure any ****[**download options**](academic-metrics.md#download-options)**.**
 4. Click **Download**.
@@ -88,7 +88,7 @@ At certain institutions, from time to time, administrators may be required to su
 If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. From your UNIWeb [Administration](navigating-uniweb.md#the-administration-page) page, go to **Academic Metrics**.
+1. From your [UNIWeb Administration](navigating-uniweb/the-administration-page.md) page, go to **Academic Metrics**.
 2. In the right panel, click **Download publication lists**.
 3. In the **Download publications as a Word file** page, configure any ****[**download options**](academic-metrics.md#download-options)**.**
 4. Click **Download**.

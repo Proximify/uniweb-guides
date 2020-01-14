@@ -5,6 +5,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 ### On this page:
 
 * [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-public-profile)
+* [Adding a profile picture](filling-out-your-public-profile.md#adding-a-profile-picture)
 * [Filling out your Public Profile manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
 * [Filling out another UNIWeb member's public profile](filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
@@ -13,9 +14,16 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 
 ## Viewing your public profile
 
-1. From your[ UNIWeb Home](../navigating-uniweb.md#the-home-page) page, go to **Profile**. 
+1. From your[ UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Click **Public Profile** in the right panel.
 3. To return, click **Edit Profile** in the right panel.
+
+## Adding a profile picture
+
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**.
+2. In the centre panel, to the left of your name, **click on the placeholder profile picture**, or click on your old profile picture if you would like to change it.
+3. In the profile picture editor, click **Choose file,** and locate and select the file on your computer that you would like to use as your profile picture.
+4. Click **Save**.
 
 ## Filling out your public profile manually
 
@@ -27,7 +35,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 
 ## Filling out your public profile automatically using your CV
 
-1. From your UNIWeb Home page, go to **Profile**. 
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Click **Fill from CV** in the right panel
 3. Review the items that UNIWeb has detected for transfer in the Copy CV information to profile. Select or deselect any items as needed.
 4. Click **Copy selected to profile**.
@@ -46,7 +54,7 @@ The profile sections that can be populated using CV information are as follows:
 **Tip:** You can edit any profile information as needed - edits you make to your profile page won’t affect the information stored in your CV.
 {% endhint %}
 
-## Filling out another UNIWeb member’s public profile
+## ![](../.gitbook/assets/key.svg) Filling out another UNIWeb member’s public profile
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -56,7 +64,7 @@ The profile sections that can be populated using CV information are as follows:
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../navigating-uniweb.md#the-administration-page) page, go to **Members**.
+1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Members**.
 2. Locate the UNIWeb member whose profile you would like to edit, and **click on their name**.
 
 As long as you have been assigned an administrator role within the subject’s academic unit that includes the Edit Member Information permission, you will be taken to an editable version of the UNIWeb member’s public profile. You can [edit their profile information manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually) as you would you own, or [import information from their curriculum vitae](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv).
@@ -71,7 +79,7 @@ Your profile is your public showcase of your work within your UNIWeb network, an
 
 ### Creating a backup of your profile
 
-1. From your [UNIWeb Home page](../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Profile**.
 2. In the right panel, click **Create/restore backups**.
 3. In the right panel, click **Download a UNIWeb profile backup**.
 
@@ -83,7 +91,7 @@ A backup of your profile information will be downloaded as a JSON file.
 
 ### Restoring a backup of your profile
 
-1. From your [UNIWeb Home page](../navigating-uniweb.md#the-home-page), go to **Profile**.
+1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Profile**.
 2. In the right panel, click **Create/restore backups**.
 3. In the right panel, click **Restore from a file**.
 4. In the centre panel, click **Choose file**, and browse your computer for your backup JSON file.
@@ -119,10 +127,10 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left">Add <a href="research-themes/">Research Themes</a> to your profile that
         describe the scope of your work at your institution, as well as your general
         research interests. By adding themes here, your profile will be included
-        in <a href>Research Clusters</a> and search results for those themes, and
-        will create connections with your peers that you can find in your connection
-        map.</td>
-      <td style="text-align:left">All</td>
+        in Research Clusters and search results for those themes, and will create
+        connections with your peers that you can find in your connection map.</td>
+      <td
+      style="text-align:left">All</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Research Description</b>
@@ -201,7 +209,7 @@ UNIWeb includes the following sections by default, but your institution may have
       <td style="text-align:left"><b>Research Places</b>
       </td>
       <td style="text-align:left">List any areas around the world where you conduct research. These research
-        places are shown on your profile, and also on a world map in the <a href>Research Places</a> page.</td>
+        places are shown on your profile, and also on a world map in the <a href="research-places-1.md">Research Places</a> page.</td>
       <td
       style="text-align:left">All</td>
     </tr>

@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Welcome to the UNIWeb Help Centre](README.md)
-* [UNIWeb's Main Areas](navigating-uniweb.md)
+* [Navigating UNIWeb](navigating-uniweb/README.md)
+  * [The Home Page](navigating-uniweb/the-home-page.md)
+  * [The Network Page](navigating-uniweb/the-network-page.md)
+  * [The Members Page](navigating-uniweb/the-members-page.md)
+  * [The Administration Page](navigating-uniweb/the-administration-page.md)
 * [UNIWeb Accounts](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
@@ -26,6 +30,7 @@
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
+    * [Research Connections](networking-on-uniweb/research-themes/research-connections.md)
   * [Research Places](networking-on-uniweb/research-places-1.md)
   * [Resources](networking-on-uniweb/equipment-profiles-resources/README.md)
     * [Managing Resources](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)

@@ -24,7 +24,7 @@ Contact us at **requests@proximify.ca** for further information on creating cust
 
 Custom reports are documents that present information from Members’ UNIWeb CV according to the needs of a particular institution or department. Institutions often use UNIWeb’s report templates for annual activity reporting purposes.
 
-While UNIWeb includes a generic annual activity report template, institutions may contact Proximify to have new report templates created based on their own brand guidelines, specifications, and requirements.
+Institutions may contact Proximify to have new report templates created based on their own brand guidelines, specifications, and requirements.
 
 **The design of a report template includes at minimum three things:**
 

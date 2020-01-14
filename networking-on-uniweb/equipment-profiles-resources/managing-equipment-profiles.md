@@ -15,18 +15,18 @@ Once a UNIWeb visitor has contacted you in order to make use of your resource, a
 * [Deleting a Resource](managing-equipment-profiles.md#deleting-a-resource)
 * [Transferring ownership of a Resource](managing-equipment-profiles.md#transferring-ownership-of-a-resource)
 * [Creating a backup of a Resource](managing-equipment-profiles.md#creating-a-backup-of-a-resource)
-* [Resource Profile Information](managing-equipment-profiles.md#resource-profile-sections)
+* [Resource Profile Information](managing-equipment-profiles.md#resource-profile-information)
 
 ## Creating a Resource
 
-1. From your UNIWeb Home page, go to **Resources**.
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Resources**.
 2. In the centre panel, click **Add Resource**.
 3. In the Add resource dialog, enter the Resource's [**general information**](managing-equipment-profiles.md#resource-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
 ## Editing a Resource
 
-1. From your UNIWeb Home page, go to **Resources**.
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Resources**.
 2. In the centre panel, locate and **click on the Resource** that you would like to edit. This will take you to the public profile of that Resource.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
 4. In the centre panel, navigate to the [profile section](managing-equipment-profiles.md#resource-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Resource's [general information](managing-equipment-profiles.md#resource-general-information) by clicking the **Edit** button to the right of the Resource's name.
@@ -35,7 +35,7 @@ Once a UNIWeb visitor has contacted you in order to make use of your resource, a
 
 ## Deleting a Resource
 
-1. From your UNIWeb Home page, go to **Resources**.
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Resources**.
 2. In the centre panel, locate and **click on the Resource** that you would like to delete. This will take you to the public profile of that Resource.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
 4. In the right panel, click **Delete Profile**.
@@ -43,7 +43,7 @@ Once a UNIWeb visitor has contacted you in order to make use of your resource, a
 
 ## Transferring ownership of a Resource
 
-1. From your UNIWeb Home page, go to **Resources**.
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Resources**.
 2. In the centre panel, locate and **click on the Resource** that you would like to transfer to a new owner. This will take you to the public profile of that Resource.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
 4. In the right panel, click **Transfer profile ownership**.
@@ -58,7 +58,7 @@ The prospective new owner will receive a notification that you have requested th
 
 ## Creating a backup of a Resource
 
-1. From your UNIWeb Home page, go to **Resources**.
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Resources**.
 2. In the centre panel, locate and **click on the Resource** that you would like to create a backup of. This will take you to the public profile of that Resource.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that Resource.
 4. In the right panel, click **Make a backup copy**.
@@ -158,7 +158,7 @@ You can use the sections of a Resource's profile page to give more in-depth info
 | **Terms of Use** | Indicate whether the Resource is **available by collaboration**, or is available through a **service fee**. You may list service rates, if applicable, and you can attach files or forms that visitors can download for more information. |
 | **Locations** | List the location\(s\) where the Resource is available. Locations will be added to the Map screen. |
 | **Availability** | List the days of the week and the times on those days when the Resource is available for use. You can also indicate whether there is an operator on site to help with use of the resource during those times. |
-| **Research Themes** | Tag your Resource with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the [Research Cluster]() corresponding to the tagged Research Theme. |
+| **Research Themes** | Tag your Resource with [Research Themes](../research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Resource in search results or by filtering on the Resources page. Your Resource will also be displayed in the Research Cluster corresponding to the tagged Research Theme. |
 | **Sectors of Application** | From a drop-down list of available selections, select a sector that best describes the research field that the Resource is designed to help with. |
 | **Research Facility Information** | Add the name and URL for the research facility that houses or manages the resource. |
 | **Alternative Contact Information** | Add any alternative email addresses or telephone numbers that can be used to inquire about making use of the Resource. |

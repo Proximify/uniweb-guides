@@ -8,10 +8,10 @@ In sending email messages through UNIWeb, please follow any communication rules 
 
 * [Sending a generic administrative email](sending-generic-administrative-emails.md#sending-a-generic-administrative-email)
 
-## Sending a generic administrative email
+## ![](../../.gitbook/assets/key%20%281%29.svg) Sending a generic administrative email
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role in any academic unit that includes the following permissions:
+**Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) in any academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Edit member information
 * Send email invites
@@ -19,7 +19,7 @@ In sending email messages through UNIWeb, please follow any communication rules 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb.md#the-administration-page) page, go to **Members**.
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Members**.
 2. In the centre panel, click the checkbox to the right of any members to whom you would like to send an email.
 3. In the right panel, click **Generic message**, under the **Send Email** heading.
 4. In the **Email Members** dialog, **configure any sending options**, set a subject, and **compose your message**.
