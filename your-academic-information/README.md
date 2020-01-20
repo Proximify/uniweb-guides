@@ -1,4 +1,4 @@
-# Votre information académique
+# Your Academic Information
 
 Your academic CV is the cornerstone of your UNIWeb account. You can use your UNIWeb CV to prepare for funding competitions, complete annual reports and create a public profile. Your institution can use your CV data to maintain institutional websites and to calculate metrics and produce annual reports on your faculty’s performance.
 

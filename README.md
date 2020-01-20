@@ -26,15 +26,15 @@ Apprenez les tenants et les aboutissants de l'utilisation d'UNIWeb pour gérer v
 
 {% page-ref page="your-academic-information/" %}
 
-### Networking on UNIWeb
+### UNIWeb pour le réseautage
 
-Managing your professional academic information is just one part of what makes UNIWeb a powerful platform for academic institutions - UNIWeb isn't just a tool, it's a network built by your own colleagues to collaborate, share resources, and foster meaningful research connections! Learn how you can easily curate your existing academic information to create a public profile and establish your presence on your institution's UNIWeb network.
+La gestion de votre information académique professionnelle n'est qu'une partie de ce qui fait d'UNIWeb une plate-forme puissante pour des institutions universitaires - UNIWeb n'est pas seulement un outil, c'est un réseau créé par vos propres collègues pour collaborer, partager des ressources et favoriser des connexions de recherche significatives! Découvrez comment vous pouvez facilement organiser vos informations académiques existantes afin de créer un profil public et d'établir votre présence sur le réseau UNIWeb de votre établissement.
 
 {% page-ref page="networking-on-uniweb/" %}
 
-### Academic Metrics
+### Rapports et statistiques 
 
-Administrators, UNIWeb can help you keep a finger on the pulse of your academic unit - learn how to use UNIWeb's metrics tools to gain various insights on how your academic unit is performing overall. UNIWeb offers robust visualization tools, as well as the ability to download raw data in spreadsheet form so that you can visualize your academic unit's data however you like best.
+Pour des administrateurs, UNIWeb peut aider à garder le pouls de leur unité académique - apprenez à utiliser les outils de mesure d'UNIWeb pour obtenir diverses informations sur les performances globales de votre unité académique. UNIWeb propose des outils de visualisation robustes, ainsi que la possibilité de télécharger des données brutes sous forme de feuille de calcul afin que vous puissiez visualiser les données de votre unité académique comme vous le souhaitez.
 
 {% page-ref page="academic-metrics.md" %}
 

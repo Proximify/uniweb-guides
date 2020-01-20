@@ -25,7 +25,7 @@
   * [Publications](your-academic-information/publications-1.md)
   * [Exporting to the Canadian Common CV](your-academic-information/applying-for-funding-with-the-canadian-common-cv.md)
   * [Downloading CVs and Reports](your-academic-information/downloading-cvs-and-reports.md)
-* [Networking on UNIWeb](networking-on-uniweb/README.md)
+* [UNIWeb pour le réseautage](networking-on-uniweb/README.md)
   * [Your Public Profile](networking-on-uniweb/filling-out-your-public-profile.md)
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
@@ -37,6 +37,6 @@
     * [Finding and Reserving Resources](networking-on-uniweb/equipment-profiles-resources/finding-and-reserving-resources.md)
   * [Groups](networking-on-uniweb/groups-1.md)
   * [Web Articles](networking-on-uniweb/web-articles-1.md)
-* [Academic Metrics](academic-metrics.md)
+* [Rapports et statistiques](academic-metrics.md)
 * [Customizing UNIWeb](customizing-data-entry-and-reports-in-uniweb.md)
 
