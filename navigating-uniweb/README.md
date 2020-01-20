@@ -1,4 +1,4 @@
-# Navigating UNIWeb
+# Navigation de UNIWeb
 
 UNIWeb's main areas are a set of four pages that act as dashboards, leading you to specialized tools within the platform. The [Home page](the-home-page.md), for instance, allows you to manage your own information and assets within the UNIWeb network. The [Network page](the-network-page.md) serves to help you browse and connect to resources available through your institution's UNIWeb network. The [Members page](the-members-page.md) allows you to browse and search for specific members of your UNIWeb network. The [Administration page](./#the-administration-page), which is only visible if you have been granted an administrator role in your UNIWeb network, houses tools that  allow you to process administrative tasks for your academic unit, view and download academic metrics, and help your colleagues manage their accounts and information.
 

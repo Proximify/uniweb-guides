@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Bienvenu au centre d'aide d'UNIWeb](README.md)
-* [Navigating UNIWeb](navigating-uniweb/README.md)
+* [Navigation de UNIWeb](navigating-uniweb/README.md)
   * [The Home Page](navigating-uniweb/the-home-page.md)
   * [The Network Page](navigating-uniweb/the-network-page.md)
   * [The Members Page](navigating-uniweb/the-members-page.md)
   * [The Administration Page](navigating-uniweb/the-administration-page.md)
-* [UNIWeb Accounts](uniweb-accounts/README.md)
+* [Comptes UNIWeb](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
     * [Account Login](uniweb-accounts/account-management/account-login.md)
