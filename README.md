@@ -20,9 +20,9 @@ Ce chapitre couvre le spectre de la gestion des comptes et du contrôle d'accès
 
 {% page-ref page="uniweb-accounts/" %}
 
-### Your Academic Information
+### Votre information académique
 
-Learn the ins and outs of using UNIWeb to manage your academic curriculum vitae, a format that is based on and compatible with the Canadian Common CV \(CCV\) standard. You can use your UNIWeb CV both to apply for funding opportunities on the CCV website, and to create beautiful pre-formatted CV and annual report documents for your institution, with just a couple clicks.
+Apprenez les tenants et les aboutissants de l'utilisation d'UNIWeb pour gérer votre curriculum vitae académique, un format basé sur et compatible avec la norme du CV commun canadien \(CVC\). Vous pouvez utiliser votre CV UNIWeb à la fois pour postuler à des opportunités de financement sur le site Web du CVC et pour créer de documents de rapport annuel magnifiques et préformatés pour votre institution, en quelques clics seulement.
 
 {% page-ref page="your-academic-information/" %}
 
