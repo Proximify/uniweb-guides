@@ -6,15 +6,15 @@ La page d'accueil d'UNIWeb est le premier écran que vous verrez lorsque vous vo
 
 #### La page d'accueil comprend sept sections, comme indiqué ci-dessous :
 
-* Profil
-* Liens
+* [Profil](the-home-page.md#profil)
+* [Liens](the-home-page.md#connections)
 * [Curriculum Vitae](the-home-page.md#curriculum-vitae)
 * [Publications](the-home-page.md#publications)
 * [Groupes](the-home-page.md#groups)
 * [Resources](the-home-page.md#resources)
 * [Tutoriels](the-home-page.md#tutorials)
 
-**Profil**
+## **Profil**
 
 The Profile section allows you to [**create a public profile on UNIWeb**](../networking-on-uniweb/filling-out-your-public-profile.md), in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage parts of your UNIWeb account and membership information.
 
@@ -28,7 +28,7 @@ From the Profile section, you can:
 * [Join a secondary academic unit \(cross appointment\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
 * [Change your account password](../uniweb-accounts/account-management/account-login.md#updating-your-uniweb-account-password)
 
-## Connections
+## Liens
 
 The Connections section allows you to [**browse your connections to other UNIWeb members**](../networking-on-uniweb/research-themes/research-connections.md), based on your position title,  your academic unit, and the research themes that you have added to your profile.
 
