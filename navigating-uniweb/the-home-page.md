@@ -16,9 +16,9 @@ La page d'accueil d'UNIWeb est le premier écran que vous verrez lorsque vous vo
 
 ## **Profil**
 
-The Profile section allows you to [**create a public profile on UNIWeb**](../networking-on-uniweb/filling-out-your-public-profile.md), in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage parts of your UNIWeb account and membership information.
+La section Profil vous permet de [**créer un profil publique sur UNIWeb**](../networking-on-uniweb/filling-out-your-public-profile.md), afin de vous connecter avec d'autres membres d'UNIWeb et de mettre en valeur vos intérêts de recherche et vos résultats académiques. Vous pouvez également gérer des parties de votre compte UNIWeb et des informations d'adhésion.
 
-From the Profile section, you can:
+À partir de la section profil, vous pouvez :
 
 * [Fill out your public profile](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Create new Research Themes](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
