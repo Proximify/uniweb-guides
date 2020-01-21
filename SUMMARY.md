@@ -2,7 +2,7 @@
 
 * [Bienvenu au centre d'aide d'UNIWeb](README.md)
 * [Navigation d'UNIWeb](navigating-uniweb/README.md)
-  * [The Home Page](navigating-uniweb/the-home-page.md)
+  * [Page d'accueil](navigating-uniweb/the-home-page.md)
   * [The Network Page](navigating-uniweb/the-network-page.md)
   * [The Members Page](navigating-uniweb/the-members-page.md)
   * [The Administration Page](navigating-uniweb/the-administration-page.md)

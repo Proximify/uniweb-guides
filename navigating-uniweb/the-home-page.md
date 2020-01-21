@@ -1,4 +1,4 @@
-# The Home Page
+# Page d'accueil
 
 The UNIWeb Home Page is the first screen that you will see when you log in to your UNIWeb account. It is a dashboard that combines specialized sections where you can populate and maintain your account information, profile and curriculum vitae. The Home page also includes tools to create and manage new Research Groups and Resources.
 
