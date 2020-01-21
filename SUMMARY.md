@@ -38,5 +38,5 @@
   * [Groups](networking-on-uniweb/groups-1.md)
   * [Web Articles](networking-on-uniweb/web-articles-1.md)
 * [Rapports et statistiques](academic-metrics.md)
-* [Customizing UNIWeb](customizing-data-entry-and-reports-in-uniweb.md)
+* [La personnalisation d'UNIWeb](customizing-data-entry-and-reports-in-uniweb.md)
 

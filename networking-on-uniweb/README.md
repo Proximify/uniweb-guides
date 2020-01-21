@@ -1,4 +1,4 @@
-# UNIWeb pour le réseautage
+# Networking on UNIWeb
 
 In addition to offering intuitive tools to create and manage a digital copy of your [academic curriculum vitae](../your-academic-information/), UNIWeb offers robust tools to discover and connect with peers, and to stay in the loop with the [latest news](web-articles-1.md) at your institution.
 

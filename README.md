@@ -38,9 +38,9 @@ Pour des administrateurs, UNIWeb peut aider à garder le pouls de leur unité ac
 
 {% page-ref page="academic-metrics.md" %}
 
-### Customizing UNIWeb
+### La personnalisation d'UNIWeb
 
-No two research institutions are exactly alike, and so UNIWeb doesn't need to be a one-size-fits-all solution. UNIWeb is a white-label service that can be customized extensively to meet the needs of its users. Explore some of the possibilities here.
+Il n'y a pas deux institutions de recherche identiques, et UNIWeb n'a donc pas besoin d'être une solution universelle. UNIWeb est un service en marque blanche qui peut être largement personnalisé pour répondre aux besoins de ses utilisateurs. Explorez des possibilités ici.
 
 {% page-ref page="customizing-data-entry-and-reports-in-uniweb.md" %}
 
