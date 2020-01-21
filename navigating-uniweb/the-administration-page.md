@@ -1,4 +1,4 @@
-# The Administration Page
+# La page d'administrateurs
 
 The Administration Page is a dashboard combining specialized sections where UNIWeb administrators can perform various administrative tasks. 
 

@@ -1,4 +1,4 @@
-# The Members Page
+# La page des membres
 
 ## The Members Page
 
