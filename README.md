@@ -8,7 +8,7 @@ Pour commencer, choisissez un chapitre ci-dessous ou parcourez les rubriques dan
 **Conseil:** le centre d'aide comprend des documents pour tous les utilisateurs d'UNIWeb - des membres généraux ainsi que des administrateurs. Afin de maintenir une certaine clarté, nous avons inclus un **symbole clé** ![](.gitbook/assets/key.svg)à côté des en-têtes de toutes les **procédures qui nécessitent des autorisations d'administrateur**, ainsi qu'une liste des autorisations requises pour exécuter la procédure.
 {% endhint %}
 
-### Navigation de UNIWeb
+### Navigation d'UNIWeb
 
 Un aperçu général de la façon dont les différentes parties d'UNIWeb s'assemblent et de la façon dont les différents domaines d'UNIWeb sont référencés dans ces guides d'aide.
 
