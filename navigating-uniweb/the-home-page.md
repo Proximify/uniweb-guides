@@ -20,13 +20,13 @@ La section Profil vous permet de [**créer un profil publique sur UNIWeb**](../n
 
 À partir de la section profil, vous pouvez :
 
-* [Fill out your public profile](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
-* [Create new Research Themes](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
-* [Add publications to your public profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
-* [Add Research Places to your public profile](../networking-on-uniweb/research-places-1.md)
-* [Edit your membership information](../uniweb-accounts/account-management/member-account-information.md#editing-your-account-information)
-* [Join a secondary academic unit \(cross appointment\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
-* [Change your account password](../uniweb-accounts/account-management/account-login.md#updating-your-uniweb-account-password)
+* [Remplir votre profil publique](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv) 
+* [Creation d'un nouveau thème de recherche](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
+* [Ajouter des publications à votre profil publique ](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes)
+* [Ajouter des lieux de recherche à votre profil publique ](../networking-on-uniweb/research-places-1.md)
+* [Modifications sur votre information de membre](../uniweb-accounts/account-management/member-account-information.md)
+* [Rejoindre une unité académique secondaire \(nomination croisée\)](../uniweb-accounts/academic-units/cross-appointments.md) 
+* [Changer votre mot de passe](../uniweb-accounts/account-management/account-login.md#updating-your-uniweb-account-password)
 
 ## Liens
 
