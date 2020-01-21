@@ -7,13 +7,13 @@ Les procédures détaillées décrites dans ce centre d'aide commencent généra
 ![La barre de navigation principale d&apos;UNIWeb, avec des liens vers la page d&apos;accueil, de r&#xE9;seau et plusieurs d&apos;autres](../.gitbook/assets/homepage-proximify-university-2019-10-21-09-45-03.jpg)
 
 {% hint style="info" %}
-**Tip:** If you have been granted an administrator role, the link to the administration page will only be visible once you have logged in, and will take the place of the link to the Members page. The Members page remains linked within the **More** button, next to the search bar.
+**Conseil :** Si vous disposez d'un rôle d'administrateur, le lien vers la page d'administration ne sera visible qu'une fois connecté, et remplacera le lien vers la page Membres. La page Membres reste liée dans le bouton **Plus**, à côté de la barre de recherche.
 {% endhint %}
 
 #### In this section:
 
-* [The Home Page](the-home-page.md)
-* [The Network Page](the-network-page.md)
-* [The Members Page](the-members-page.md)
-* [The Administration Page](the-administration-page.md)
+* [Page d'accueil](the-home-page.md)
+* [La page du réseau](the-network-page.md)
+* [La page des membres](the-members-page.md)
+* [La page d'administrateurs](the-administration-page.md)
 

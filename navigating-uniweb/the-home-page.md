@@ -1,20 +1,20 @@
-# The Home Page
+# Page d'accueil
 
-The UNIWeb Home Page is the first screen that you will see when you log in to your UNIWeb account. It is a dashboard that combines specialized sections where you can populate and maintain your account information, profile and curriculum vitae. The Home page also includes tools to create and manage new Research Groups and Resources.
+La page d'accueil d'UNIWeb est le premier écran que vous verrez lorsque vous vous connectez à votre compte UNIWeb. Il s'agit d'un tableau de bord qui combine des sections spécialisées où vous pouvez remplir et gérer les informations de votre compte, votre profil et votre curriculum vitae. La page d'accueil comprend également des outils pour créer et gérer de nouveaux groupes de recherche et profils de ressources.
 
 ![](../.gitbook/assets/screenshots-copy-10.png)
 
-#### The Home page has seven sections, as listed below:
+#### La page d'accueil comprend sept sections, comme indiqué ci-dessous :
 
-* [Profile](the-home-page.md#profile)
-* [Connections](the-home-page.md#connections)
+* Profil
+* Liens
 * [Curriculum Vitae](the-home-page.md#curriculum-vitae)
 * [Publications](the-home-page.md#publications)
-* [Groups](the-home-page.md#groups)
+* [Groupes](the-home-page.md#groups)
 * [Resources](the-home-page.md#resources)
-* [Tutorials](the-home-page.md#tutorials)
+* [Tutoriels](the-home-page.md#tutorials)
 
-## Profile
+**Profil**
 
 The Profile section allows you to [**create a public profile on UNIWeb**](../networking-on-uniweb/filling-out-your-public-profile.md), in order to connect with other UNIWeb members and showcase your research interests and academic achievements. You can also manage parts of your UNIWeb account and membership information.
 
@@ -52,7 +52,7 @@ From the Publications section, you can:
 * [Create, edit, and delete publication records](../your-academic-information/publications-1.md#adding-publications-manually)
 * [Tag publications with research interests to include them in your profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 
-## Groups
+## Groupes
 
 The Groups section allows you to quickly access the [Research Groups](../networking-on-uniweb/groups-1.md) that you've joined, and create and manage new Research Groups.
 
@@ -60,7 +60,7 @@ The Groups section allows you to quickly access the [Research Groups](../network
 
 The Resources section allows you to create and manage the [Resources](../networking-on-uniweb/equipment-profiles-resources/) that you have made available within your UNIWeb network. 
 
-## Tutorials
+## Tutoriels
 
 In the Tutorials section, you can find support documentation, frequently-asked-questions, and videos to help you get the most out of UNIWeb.
 
