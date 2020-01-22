@@ -30,7 +30,7 @@ La section Profil vous permet de [**créer un profil publique sur UNIWeb**](../n
 
 ## Liens
 
-The Connections section allows you to [**browse your connections to other UNIWeb members**](../networking-on-uniweb/research-themes/research-connections.md), based on your position title,  your academic unit, and the research themes that you have added to your profile.
+La section Connexions vous permet de [parcourir vos connexions avec les autres membres d'UNIWeb](../networking-on-uniweb/research-themes/research-connections.md), en fonction de votre titre de poste, de votre unité académique et des thèmes de recherche que vous avez ajoutés à votre profil.
 
 ## Curriculum Vitae
 
