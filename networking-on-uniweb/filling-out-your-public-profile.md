@@ -33,7 +33,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 4. Add or edit information in the data entry form as needed. Fields marked with an asterisk \(\*\) are mandatory.
 5. Click **Save.**
 
-## Filling out your public profile automatically using your CV
+## Remplir votre profil automatiquement avec des données de votre CV
 
 1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Click **Fill from CV** in the right panel
