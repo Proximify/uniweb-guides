@@ -62,5 +62,5 @@ La section Resources vous permet de créer et de gérer les [Resources](../netwo
 
 ## Tutoriels
 
-In the Tutorials section, you can find support documentation, frequently-asked-questions, and videos to help you get the most out of UNIWeb.
+Dans la section Tutoriels, vous pouvez trouver de la documentation d'assistance, des questions fréquemment posées et des vidéos pour vous aider à maximiser votre usage d'UNIWeb.
 
