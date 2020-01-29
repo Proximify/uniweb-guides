@@ -5,7 +5,7 @@
   * [Page d'accueil](navigating-uniweb/the-home-page.md)
   * [La page du réseau](navigating-uniweb/the-network-page.md)
   * [La page des membres](navigating-uniweb/the-members-page.md)
-  * [La page d'administrateurs](navigating-uniweb/the-administration-page.md)
+  * [La page d'administration](navigating-uniweb/the-administration-page.md)
 * [Comptes UNIWeb](uniweb-accounts/README.md)
   * [Account Management](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)

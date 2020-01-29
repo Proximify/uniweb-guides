@@ -1,6 +1,6 @@
-# The Administration Page
+# La page d'administration
 
-The Administration Page is a dashboard combining specialized sections where UNIWeb administrators can perform various administrative tasks. 
+La page d'administration est un tableau de bord qui combine des sections spécialisées où les administrateurs d'UNIWeb peuvent effectuer diverses tâches administratives. 
 
 **You can access the Administration Page by clicking Administration in UNIWeb's top navigation bar.** The Administration Page will only be available to you if you have been assigned an administrator role.
 
