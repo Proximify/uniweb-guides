@@ -54,7 +54,7 @@ La section Publications vous offre un endroit dédié à la ****[**création d'a
 
 ## Groupes
 
-The Groups section allows you to quickly access the [Research Groups](../networking-on-uniweb/groups-1.md) that you've joined, and create and manage new Research Groups.
+La section Groupes vous permet d'accéder rapidement aux [Groupes de recherche](../networking-on-uniweb/groups-1.md) que vous avez rejoints et de créer et gérer de nouveaux groupes de recherche
 
 ## Resources
 
