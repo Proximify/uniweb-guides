@@ -1,6 +1,6 @@
-# The Network Page
+# La page du réseau
 
-The Network page is the **main landing page of your UNIWeb network**, and is the first page that visitors will see upon accessing the network. In addition to your network's [newsfeed](../networking-on-uniweb/web-articles-1.md), the Network page includes quick access to the public areas of your UNIWeb network, including Research Clusters, the Members page,[ Resources](../networking-on-uniweb/equipment-profiles-resources/), [Groups](../networking-on-uniweb/groups-1.md), and [Research Places](../networking-on-uniweb/research-places-1.md).
+La page Réseau est la **page d'accueil principale de votre réseau UNIWeb**, et c'est la première page que les visiteurs verront lors de leur accès au réseau. En plus du [newsfeed](../networking-on-uniweb/web-articles-1.md) de votre réseau, la page Réseau comprend un accès rapide aux zones publiques de votre réseau UNIWeb, y compris les clusters de recherche, la page Membres, [Resources](../networking-on-uniweb/equipment-profiles-resources/), [Groupes](../networking-on-uniweb/groups-1.md) et [Research Places](../networking-on-uniweb/research-places-1.md). 
 
 ![](../.gitbook/assets/screenshots-copy-13.png)
 
