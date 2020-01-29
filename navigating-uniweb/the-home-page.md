@@ -49,8 +49,8 @@ La section Publications vous offre un endroit dédié à la ****[**création d'a
 
 À partir de la section Publications, vous pouvez :
 
-* [Create, edit, and delete publication records](../your-academic-information/publications-1.md#adding-publications-manually)
-* [Tag publications with research interests to include them in your profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
+* [Créer, modifier et suprimer des archives des publications](../your-academic-information/publications-1.md#adding-publications-manually)
+* [Marquer des publications avec des interets de recherche, afin de les inclure dans votre profil publique](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 
 ## Groupes
 
