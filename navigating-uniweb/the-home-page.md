@@ -40,8 +40,8 @@ La section Curriculum Vitae vous permet de [remplir et gérer votre CV académiq
 
 * [Remplir votre Curriculum Vitae manuellement](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
 * [Importer de l'information à partir du CV commun canadien](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
-* [Export information to the Canadian Common CV](../your-academic-information/applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
-* [Download your Curriculum Vitae and report documents](../your-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files)
+* [Exporter de l'information vers le CV commun canadien](../your-academic-information/applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
+* [Télécharger votre CV et vos rapports](../your-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files)
 
 ## Publications
 
