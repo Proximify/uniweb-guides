@@ -1,4 +1,4 @@
-# Groups
+# Groupes de recherche
 
 Whether you're a part of a small study group or a large research team that spans multiple academic units, you can keep a presence for your group and keep members up to date with UNIWeb's Groups. 
 
