@@ -34,11 +34,11 @@ La section Connexions vous permet de [parcourir vos connexions avec les autres m
 
 ## Curriculum Vitae
 
-La section Curriculum Vitae vous permet de [remplir et gérer votre CV académique](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), que vous pouvez utiliser pour créer des rapports d'activité annuels et d'autres documents pour votre institution, et que vous pouvez exporter directement dans le CV commun canadien pour postuler aux compétitions de financement.
+The Curriculum Vitae section allows you to [**populate and manage your academic CV**](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
 
-À partir du section Curriculum Vitae, vous pouvez :
+From the Curriculum Vitae section, you can:
 
-* [Remplir votre Curriculum Vitae manuellement](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
+* [Populate your Curriculum Vitae manually](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
 * [Import information from the Canadian Common CV](../your-academic-information/your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
 * [Export information to the Canadian Common CV](../your-academic-information/applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
 * [Download your Curriculum Vitae and report documents](../your-academic-information/downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files)
