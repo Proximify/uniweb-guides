@@ -1,4 +1,4 @@
-# Research Places
+# Lieux de recherche
 
 Academic institutions seldom operate out of a single location or city. Members of a single institution may operate in various locations across the globe. For the sake of collaboration or for ongoing research, it can be extremely valuable to know which researchers are operating in a certain area, what research has previously been performed in certain areas, or which researchers have expertise in a specific region. UNIWeb offers a powerful way to visualize the geographical scope of your institution's reach through research places and the Map page.
 
