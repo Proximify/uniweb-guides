@@ -45,9 +45,9 @@ La section Curriculum Vitae vous permet de [remplir et gérer votre CV académiq
 
 ## Publications
 
-La section Publications vous offre un endroit dédié à la ****[**création d'archives de vos publications académiques**](../your-academic-information/publications-1.md), in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
+La section Publications vous offre un endroit dédié à la ****[**création d'archives de vos publications académiques**](../your-academic-information/publications-1.md), afin de les inclure dans votre Curriculum Vitae ou votre profil publique. Vous pouvez remplir vos publications manuellement ou les importer à partir de différents sources externes, notamment Google Scholar, BibTex, PubMed et EndNote.
 
-From the Publications section, you can:
+À partir de la section Publications, vous pouvez :
 
 * [Create, edit, and delete publication records](../your-academic-information/publications-1.md#adding-publications-manually)
 * [Tag publications with research interests to include them in your profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
