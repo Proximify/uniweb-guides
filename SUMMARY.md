@@ -24,7 +24,7 @@
   * [La gestion de votre Curriculum Vitae \(CV\) UNIWeb](your-academic-information/your-uniweb-curriculum-vitae-cv.md)
   * [Publications](your-academic-information/publications-1.md)
   * [Exporting to the Canadian Common CV](your-academic-information/applying-for-funding-with-the-canadian-common-cv.md)
-  * [Downloading CVs and Reports](your-academic-information/downloading-cvs-and-reports.md)
+  * [Télécharger votre CV et vos rapports](your-academic-information/downloading-cvs-and-reports.md)
 * [UNIWeb pour le réseautage](networking-on-uniweb/README.md)
   * [Your Public Profile](networking-on-uniweb/filling-out-your-public-profile.md)
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
