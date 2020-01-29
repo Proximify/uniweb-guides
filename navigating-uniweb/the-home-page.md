@@ -45,7 +45,7 @@ La section Curriculum Vitae vous permet de [remplir et gérer votre CV académiq
 
 ## Publications
 
-The Publications section offers a dedicated area to ****[**create records of your academic publications**](../your-academic-information/publications-1.md), in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
+La section Publications vous offre un endroit dédié à la ****[**création de records de vos publications académiques**](../your-academic-information/publications-1.md), in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
 
 From the Publications section, you can:
 
