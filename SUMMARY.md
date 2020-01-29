@@ -21,7 +21,7 @@
     * [Delegate Access](uniweb-accounts/access-control/delegate-access.md)
     * [Sending generic administrative emails](uniweb-accounts/access-control/sending-generic-administrative-emails.md)
 * [Votre information académique](your-academic-information/README.md)
-  * [Managing Your UNIWeb Curriculum Vitae \(CV\)](your-academic-information/your-uniweb-curriculum-vitae-cv.md)
+  * [La gestion de votre Curriculum Vitae \(CV\) UNIWeb](your-academic-information/your-uniweb-curriculum-vitae-cv.md)
   * [Publications](your-academic-information/publications-1.md)
   * [Exporting to the Canadian Common CV](your-academic-information/applying-for-funding-with-the-canadian-common-cv.md)
   * [Downloading CVs and Reports](your-academic-information/downloading-cvs-and-reports.md)

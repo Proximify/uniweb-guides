@@ -1,4 +1,4 @@
-# Managing Your UNIWeb Curriculum Vitae \(CV\)
+# La gestion de votre Curriculum Vitae \(CV\) UNIWeb
 
 Your curriculum vitae \(CV\) is the cornerstone of your UNIWeb account. You can use your UNIWeb CV to [prepare for funding competitions](applying-for-funding-with-the-canadian-common-cv.md), complete [annual reports](downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files), and create a [public profile](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv) for yourself. Your institution can use your CV data to maintain institutional websites, calculate metrics, and produce annual reports on your faculty’s performance.
 

@@ -34,7 +34,7 @@ La section Connexions vous permet de [parcourir vos connexions avec les autres m
 
 ## Curriculum Vitae
 
-The Curriculum Vitae section allows you to [**populate and manage your academic CV**](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
+La section Curriculum Vitae vous permet de remplir et gérer votre CV académique, which you can use to create annual activity reports and other documents for your institution, and which you can export directly to the Canadian Common CV to apply to funding opportunities.
 
 From the Curriculum Vitae section, you can:
 
