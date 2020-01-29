@@ -1,4 +1,4 @@
-# Your Public Profile
+# Votre profil publique
 
 UNIWeb includes intuitive tools to quickly add new information to your Public Profile as needed. Getting started is easy - if you have already [populated your Curriculum Vitae](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), you can use that information to automatically fill out certain sections of your Public Profile.
 
@@ -33,7 +33,7 @@ UNIWeb includes intuitive tools to quickly add new information to your Public Pr
 4. Add or edit information in the data entry form as needed. Fields marked with an asterisk \(\*\) are mandatory.
 5. Click **Save.**
 
-## Filling out your public profile automatically using your CV
+## Remplir votre profil automatiquement avec des données de votre CV
 
 1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Click **Fill from CV** in the right panel

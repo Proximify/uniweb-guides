@@ -26,7 +26,7 @@
   * [Exporter vers le CV commun canadien](your-academic-information/applying-for-funding-with-the-canadian-common-cv.md)
   * [Télécharger votre CV et vos rapports](your-academic-information/downloading-cvs-and-reports.md)
 * [UNIWeb pour le réseautage](networking-on-uniweb/README.md)
-  * [Your Public Profile](networking-on-uniweb/filling-out-your-public-profile.md)
+  * [Votre profil publique](networking-on-uniweb/filling-out-your-public-profile.md)
   * [Research Themes](networking-on-uniweb/research-themes/README.md)
     * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
