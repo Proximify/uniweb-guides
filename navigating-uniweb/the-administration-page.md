@@ -17,17 +17,17 @@ La page d'administration comprend huit sections principales, comme indiqué ci-d
 * [Accès API ](the-administration-page.md#api-access)
 * [Modèles de données et de rapports](the-administration-page.md#data-and-report-templates)
 
-## Members
+## Membres
 
-The Members section of the Administration page provides a full list of your network’s users, along with **tools for account management and communication**.
+La section Membres de la page Administration vous fournit avec une liste complète des utilisateurs de votre réseau, ainsi que des **outils de gestion de compte et de communication**.
 
-From the Administration &gt; Members section, you can:
+À partir de la section Administration &gt; Membres, vous pouvez :
 
-* [Create new member accounts](../uniweb-accounts/account-management/account-creation.md#creating-uniweb-member-accounts-manually)
-* [Edit membership information for other members](../uniweb-accounts/account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members)
-* [Delete member accounts](../uniweb-accounts/account-management/account-deletion.md#deleting-a-uniweb-members-account)
-* [Send password reset emails](../uniweb-accounts/account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
-* [Send account invitation and reminder emails](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
+* [Créer des nouveaux comptes membres](../uniweb-accounts/account-management/account-creation.md#creating-uniweb-member-accounts-manually)
+* [Modifier l'information de l'abonnement pour d'autres membres ](../uniweb-accounts/account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members)
+* [Supprimer des comptes de membres](../uniweb-accounts/account-management/account-deletion.md#deleting-a-uniweb-members-account)
+* [Envoyer des courriels pour réinitialiser des mots de passe](../uniweb-accounts/account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
+* [Envpyer des invitations à se connecter et des rappels par courriel](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
 * [Download other members’ CV and report files](../your-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
 * [Populate other members’ public profiles](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 
