@@ -27,13 +27,13 @@ La section Membres de la page Administration vous fournit avec une liste complè
 * [Modifier l'information de l'abonnement pour d'autres membres ](../uniweb-accounts/account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members)
 * [Supprimer des comptes de membres](../uniweb-accounts/account-management/account-deletion.md#deleting-a-uniweb-members-account)
 * [Envoyer des courriels pour réinitialiser des mots de passe](../uniweb-accounts/account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
-* [Envpyer des invitations à se connecter et des rappels par courriel](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
-* [Download other members’ CV and report files](../your-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
-* [Populate other members’ public profiles](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
+* [Envoyer des invitations à se connecter et des rappels par courriel](../uniweb-accounts/account-management/account-creation.md#sending-account-activation-emails)
+* [Télécharger des CVs et des rapports d'autres membres](../your-academic-information/downloading-cvs-and-reports.md#downloading-the-cv-and-report-files-of-other-uniweb-members)
+* [Remplir des profiles publiques d'autres membres](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
 
-## Web Articles
+## Articles web
 
-The Web Articles section allows you to [create web articles](../networking-on-uniweb/web-articles-1.md) that are displayed on the [UNIWeb Network](./#the-network-page) page, in the newsfeed.
+La section articles web vous offre la possibilité de [créér des articles web](../networking-on-uniweb/web-articles-1.md) qui s'affichent sur la page [Réseau UNIWeb](./#the-network-page), dans le newsfeed.
 
 ## Research Themes
 
