@@ -55,10 +55,10 @@ La section Unités académiques vous offre un **survol des unités académiques 
 
 À partir de la section Unités académiques, vous pouvez : 
 
-* [Create, edit, and delete academic units](../uniweb-accounts/academic-units/managing-academic-units.md#create-an-academic-unit-manually)
-* [Change how academic units are nested and organized](../uniweb-accounts/academic-units/managing-academic-units.md#edit-an-academic-unit)
-* [Create different types of academic units](../uniweb-accounts/academic-units/managing-academic-units.md#add-a-unit-type)
-* [Add and remove UNIWeb members from secondary academic units \(cross-appointments\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-cross-appointees-to-academic-units)
+* [Créér, modifier et supprimer des unités académiques](../uniweb-accounts/academic-units/managing-academic-units.md#create-an-academic-unit-manually)
+* [Modifier la façon dont les unités académiques sont emboitées et organisées](../uniweb-accounts/academic-units/managing-academic-units.md#edit-an-academic-unit)
+* [Créér des nouvelles unités](../uniweb-accounts/academic-units/managing-academic-units.md#add-a-unit-type)
+* [Ajouter et supprimer des membres UNIWeb des unités académiques secondaires \(membres par affectation\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-cross-appointees-to-academic-units)
 
 ## Access Control
 
