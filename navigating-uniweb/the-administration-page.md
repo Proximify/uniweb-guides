@@ -35,25 +35,25 @@ La section Membres de la page Administration vous fournit avec une liste complè
 
 La section articles web vous offre la possibilité de [créér des articles web](../networking-on-uniweb/web-articles-1.md) qui s'affichent sur la page [Réseau UNIWeb](./#the-network-page), dans le newsfeed.
 
-## Research Themes
+## Thèmes de recherche
 
-The Research Themes section provides an overview of your UNIWeb instance’s [Research Themes](../networking-on-uniweb/research-themes/) and the structure of their hierarchy.
+La section Thèmes de recherche vous offre un survol de votre des [Thèmes de recherche](../networking-on-uniweb/research-themes/) de votre instance UNIWeb, et la structure de leur hierarchie. 
 
-From the Research Themes section, you can:
+À partir de la section Thèmes de recherche, vous pouvez : 
 
-* [Approve proposed research themes](../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes)
-* [Edit research themes](../networking-on-uniweb/research-themes/managing-research-themes.md#editing-research-themes)
-* [Delete research themes](../networking-on-uniweb/research-themes/managing-research-themes.md#deleting-research-themes)
+* [Approver des nouvelles propositions des thèmes de recherche ](../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes)
+* [Modifier des thèmes de recherche](../networking-on-uniweb/research-themes/managing-research-themes.md#editing-research-themes)
+* [Supprimer des thèmes de recherche](../networking-on-uniweb/research-themes/managing-research-themes.md#deleting-research-themes)
 
-## Academic Metrics
+## Rapports et statistiques 
 
-The Academic Metrics section provides **tools to visualize statistical information about UNIWeb members and their work**. UNIWeb can create lists, graphs, and spreadsheets of this data for further analysis.
+La section Rapports et statistiques vous offre des **outils pour visualiser des informations statistiques sur les membres d'UNIWeb et leur travail.** UNIWeb peut créer des listes, des graphiques et des feuilles de calcul de ces données pour une analyse plus approfondie.
 
-## Academic Units
+## Unités académiques
 
-The Academic Units section provides an **overview of your institution's academic units as they are organized in UNIWeb**. 
+La section Unités académiques vous offre un **survol des unités académiques de votre institution, et la façon dont ils sont organisées en UNIWeb.**   
 
-From the Academic Units section, you can:
+À partir de la section Unités académiques, vous pouvez : 
 
 * [Create, edit, and delete academic units](../uniweb-accounts/academic-units/managing-academic-units.md#create-an-academic-unit-manually)
 * [Change how academic units are nested and organized](../uniweb-accounts/academic-units/managing-academic-units.md#edit-an-academic-unit)
