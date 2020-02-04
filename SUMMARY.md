@@ -7,7 +7,7 @@
   * [La page des membres](navigating-uniweb/the-members-page.md)
   * [La page d'administration](navigating-uniweb/the-administration-page.md)
 * [Comptes UNIWeb](uniweb-accounts/README.md)
-  * [Account Management](uniweb-accounts/account-management/README.md)
+  * [Gestion de comptes](uniweb-accounts/account-management/README.md)
     * [Account Creation](uniweb-accounts/account-management/account-creation.md)
     * [Account Login](uniweb-accounts/account-management/account-login.md)
     * [Membership Information](uniweb-accounts/account-management/member-account-information.md)
