@@ -6,8 +6,10 @@ Une fois que vous avez accès à votre compte UNIWeb, vous pouvez gérer [l'Info
 
 #### Dans cette section :
 
-* [Account Creation](account-creation.md)
-* [Account Login](account-login.md)
-* [Editing Account Information](member-account-information.md)
-* [Account Deletion](account-deletion.md)
+* [Creation de comptes](account-creation.md) 
+* [Se connecter à votre compte ](account-login.md)
+* [Modifier l'information dans votre compte](member-account-information.md)
+* [Supprimer votre compte](account-deletion.md)
+
+
 
