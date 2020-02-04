@@ -76,5 +76,5 @@ La section API vous permet de gérer les intégrations personnalisées de votre 
 
 ## Modèles de données et rapports
 
-The Data Reports and Templates section allows you to **view the sets of mapping rules, called** _**schemas**_**, that generate UNIWeb's data entry forms and tell UNIWeb how to generate CV and report documents**. Generally, if a UNIWeb user indicates that their CV or report document is missing a record, cross-referencing that report's schema will help you identify why that record was not included in the exported file.
+La section Modèles de données et rapports vous permet **de voir les ensembles de règles de mapping, appelés schémas, qui génèrent les formulaires de saisie de données d'UNIWeb et indiquent à UNIWeb comment générer un CV et des documents de rapport.** En général, si un utilisateur UNIWeb indique qu'il/elle manque un enregistrement dans son CV ou document de rapport, le croisement du schéma de ce rapport vous aidera à identifier pourquoi cet enregistrement n'a pas été inclus dans le fichier exporté.
 
