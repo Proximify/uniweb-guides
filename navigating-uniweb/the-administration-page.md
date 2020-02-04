@@ -60,9 +60,9 @@ La section Unités académiques vous offre un **survol des unités académiques 
 * [Créér des nouvelles unités](../uniweb-accounts/academic-units/managing-academic-units.md#add-a-unit-type)
 * [Ajouter et supprimer des membres UNIWeb des unités académiques secondaires \(membres par affectation\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-cross-appointees-to-academic-units)
 
-## Access Control
+## Contrôle d'accès
 
-The Access Control section allows you to **set administrator roles** to define who can perform administrative tasks within your UNIWeb instance, and allows you to **assign those roles to your peers** as necessary.
+La section Contrôle d'accès vous permet de **mettre en place les rôles administratifs**, afin de définir qui est en mesure d'executer des tâches administratives dans votre instance UNIWeb, and allows you to **assign those roles to your peers** as necessary.
 
 From the Access Control section, you can:
 
