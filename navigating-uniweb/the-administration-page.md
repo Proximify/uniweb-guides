@@ -55,26 +55,26 @@ La section Unités académiques vous offre un **survol des unités académiques 
 
 À partir de la section Unités académiques, vous pouvez : 
 
-* [Créér, modifier et supprimer des unités académiques](../uniweb-accounts/academic-units/managing-academic-units.md#create-an-academic-unit-manually)
+* [Créer, modifier et supprimer des unités académiques](../uniweb-accounts/academic-units/managing-academic-units.md#create-an-academic-unit-manually)
 * [Modifier la façon dont les unités académiques sont emboitées et organisées](../uniweb-accounts/academic-units/managing-academic-units.md#edit-an-academic-unit)
-* [Créér des nouvelles unités](../uniweb-accounts/academic-units/managing-academic-units.md#add-a-unit-type)
+* [Créer des nouvelles unités](../uniweb-accounts/academic-units/managing-academic-units.md#add-a-unit-type)
 * [Ajouter et supprimer des membres UNIWeb des unités académiques secondaires \(membres par affectation\)](../uniweb-accounts/academic-units/cross-appointments.md#adding-cross-appointees-to-academic-units)
 
 ## Contrôle d'accès
 
-La section Contrôle d'accès vous permet de **mettre en place les rôles administratifs**, afin de définir qui est en mesure d'executer des tâches administratives dans votre instance UNIWeb, and allows you to **assign those roles to your peers** as necessary.
+La section Contrôle d'accès vous permet de **mettre en place les rôles administratifs**, afin de définir qui est en mesure d'executer des tâches administratives dans votre instance UNIWeb, et vous permet de **donner ces rôles à vos collègues** selon vos besoins. 
 
-From the Access Control section, you can:
+À partir de la section Contrôles d'accès, vous pouvez:
 
-* [Create, edit, and delete administrator roles](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md#creating-administrator-roles)
-* [Assign administrator roles to UNIWeb members](../uniweb-accounts/access-control/managing-administrators.md#granting-administrator-access)
-* [Remove administrator roles from UNIWeb members](../uniweb-accounts/access-control/managing-administrators.md#removing-administrator-access)
+* [Créer, modifier, et supprimer des rôles administratifs ](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md#creating-administrator-roles)
+* [Donner des rôles administratifs à des membres UNIWeb ](../uniweb-accounts/access-control/managing-administrators.md#granting-administrator-access)
+* [Enlever des rôles administratifs des membres](../uniweb-accounts/access-control/managing-administrators.md#removing-administrator-access)
 
-## API Access
+## API
 
-The API Access section allows you to manage your UNIWeb instance's custom integrations with third-party services.
+La section API vous permet de gérer les intégrations personnalisées de votre instance avec des services tiers. 
 
-## Data and Report Templates
+## Modèles de données et rapports
 
 The Data Reports and Templates section allows you to **view the sets of mapping rules, called** _**schemas**_**, that generate UNIWeb's data entry forms and tell UNIWeb how to generate CV and report documents**. Generally, if a UNIWeb user indicates that their CV or report document is missing a record, cross-referencing that report's schema will help you identify why that record was not included in the exported file.
 
