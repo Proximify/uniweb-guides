@@ -1,10 +1,10 @@
-# UNIWeb Accounts
+# Comptes UNIWeb
 
-This chapter covers the spectrum of account management and access control in UNIWeb. Learn about how to create your own UNIWeb account, or how to create and manages UNIWeb accounts for your colleagues. Learn how academic units inform the structure of your UNIWeb network, and how administrator permissions and roles in UNIWeb allow for fine-tuned administration of the network.
+Ce chapitre couvre le spectre de la gestion des comptes et du contrôle d'accès dans UNIWeb. Découvrez comment créer votre propre compte UNIWeb ou comment créer et gérer des comptes UNIWeb pour vos collègues. Découvrez comment les unités académiques informent la structure de votre réseau UNIWeb et comment les autorisations et les rôles d'administrateur dans UNIWeb permettent une administration affinée du réseau.
 
-## In this chapter:
+## Dans ce chapitre :
 
-* [Account Management](account-management/)
-* [Academic Units](academic-units/)
-* [Access Control](access-control/)
+* [Gestion de comptes ](account-management/)
+* [Unités académiques](academic-units/) 
+* [Contrôles d'accès](access-control/)
 
