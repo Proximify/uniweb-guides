@@ -1,13 +1,13 @@
 # Creation de comptes
 
-#### On this page:
+#### Sur cette page :
 
-* [Creating your UNIWeb account from an institution’s UNIWeb website](account-creation.md#creating-your-uniweb-account-from-an-institutions-uniweb-website)
-* [Creating your UNIWeb account from an invitation email](account-creation.md#creating-your-uniweb-account-from-an-invitation-email)
-* [Creating UNIWeb member accounts manually](account-creation.md#creating-uniweb-member-accounts-manually)
-* [Creating UNIWeb member accounts in bulk using a spreadsheet](account-creation.md#creating-uniweb-member-accounts-in-bulk-using-a-spreadsheet)
-* [Sending account activation emails](account-creation.md#sending-account-activation-emails)
-* [Sending account activation reminder emails](account-creation.md#sending-account-activation-reminder-emails)
+* [Créer votre compte UNIWeb à partir du site UNIWeb de l'institution](account-creation.md#creating-your-uniweb-account-from-an-institutions-uniweb-website)
+* [Créer votre compte UNIWeb à partir d'un courriel d'invitation](account-creation.md#creating-your-uniweb-account-from-an-invitation-email)
+* [Créer des comptes pour des membres d'UNIWeb manuellement ](account-creation.md#creating-uniweb-member-accounts-manually)
+* [Créer des comptes pour des membres d'UNIWeb en gros avec une feuille de calcul](account-creation.md#creating-uniweb-member-accounts-in-bulk-using-a-spreadsheet)
+* [Envoyer des courriels pour activer des comptes ](account-creation.md#sending-account-activation-emails)
+* [Envoyer des rappels pour l'activation du compte](account-creation.md#sending-account-activation-reminder-emails)
 
 ## Creating your UNIWeb account from an institution’s UNIWeb website
 
