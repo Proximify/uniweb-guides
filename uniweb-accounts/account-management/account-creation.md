@@ -36,16 +36,14 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb manuellement
 
 {% hint style="warning" %}
-**Avant de commencer :** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
-{% endhint %}
+**Avant de commencer :** Si votre institution a intégré UNIWeb avec un système d'authentification unique existant, **il n'y aura pas de besoin pour créer un compte UNIWeb manuellement.** Les comptes sont créés automatiquement pour les utilisateurs lorsqu'ils suivent les étapes pour [se connecter à leur compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 
-{% hint style="warning" %}
-**This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Cette procédure nécessite un**[ **role administrateur**](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
 
-* Create new accounts
-* Edit member information
+* Créer des nouveaux comptes
+* Modifier l'information des membres 
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
