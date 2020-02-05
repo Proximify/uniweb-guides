@@ -36,7 +36,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Creating UNIWeb member accounts manually
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWeb accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
 
 **This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
