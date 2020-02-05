@@ -1,4 +1,4 @@
-# La gestion de votre Curriculum Vitae \(CV\) UNIWeb
+# Managing Your UNIWeb Curriculum Vitae \(CV\)
 
 Your curriculum vitae \(CV\) is the cornerstone of your UNIWeb account. You can use your UNIWeb CV to [prepare for funding competitions](applying-for-funding-with-the-canadian-common-cv.md), complete [annual reports](downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files), and create a [public profile](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv) for yourself. Your institution can use your CV data to maintain institutional websites, calculate metrics, and produce annual reports on your faculty’s performance.
 
@@ -14,7 +14,7 @@ As you populate your UNIWeb CV, you can either add new entries from scratch, or 
 * [Creating and restoring CV backups](your-uniweb-curriculum-vitae-cv.md#creating-and-restoring-cv-backups)
 * [Curriculum vitae sections](your-uniweb-curriculum-vitae-cv.md#curriculum-vitae-sections)
 
-## Importer à partir du CV commun canadien 
+## Importing from the Canadian Common CV
 
 To import your CV information from the Canadian Common CV \(CCV\) website, you must first download that information from your CCV account into an XML file, which you will then upload into UNIWeb.
 
@@ -44,7 +44,7 @@ You can reimport information to your UNIWeb CV from the CCV website after you ha
 **Note:** because UNIWeb will replace records where the imported copies have been modified, it is important to note that the CCV does not always capture as much information as UNIWeb in each record. Notably, **the CCV does not capture month and date information**, and **the CCV does not capture any custom fields that your institution has requested** within sections, and so any information entered into these fields **may be lost** if they are replaced by copies that were modified on the CCV website.
 {% endhint %}
 
-## Remplir votre Curriculum Vitae manuellement
+## Populating your curriculum vitae manually
 
 1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
 2. Locate the CV section where you would like to create a new record. You can **click on a section listed in the left panel** to navigate directly to that section.

@@ -1,4 +1,4 @@
-# La personnalisation d'UNIWeb
+# Customizing UNIWeb
 
 UNIWeb is a white-label product that can be customized extensively to meet the specific needs of the institution using it. While the general branding and aesthetics of the user interface will be set to the institution's preferences at time of installation, UNIWeb's functionality can also be further extended to [capture information in the UNIWeb CV](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms) that is not a default part of the Canadian Common CV. 
 

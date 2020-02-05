@@ -15,13 +15,13 @@
 **Avant de commencer :** Si votre institution a intégré UNIWeb avec un système d'authentification unique existant, il n'y aura pas d'option pour s'inscrire à partir de la page Réseau UNIWeb de votre établissement. Au lieu de cela, un compte sera créé automatiquement pour vous lorsque vous suivez les étapes pour [se connecter avec votre compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 {% endhint %}
 
-1. Sur la page du [réseau UNIWeb](../../navigating-uniweb/the-network-page.md) de votre établissement, cliquez sur le bouton S'inscrire sur le côté droit de la barre de navigation.
-2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#membership-information-fields). Click **Next**. 
-3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
-4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
-5. A confirmation email will be sent to your chosen email address. **Click the “Verify my email” link** within the confirmation email message. 
+1. Sur la page du [réseau UNIWeb](../../navigating-uniweb/the-network-page.md) de votre établissement, cliquez sur le bouton **«**Connexion**»** sur le côté droit de la barre de navigation.
+2. Sur l'écran de création de compte, sélectionnez votre rôle au sein de votre institution. Cela correspondra à votre [type de compte](member-account-information.md#membership-information-fields). Cliquez sur **Suivant**.
+3. Remplissez les détails de votre [information de compte](member-account-information.md#account-information-fields). Les champs marqués d'un astérisque sont obligatoires. Remplissez les détails de vos informations de compte de membre. Les champs marqués d'un astérisque sont obligatoires. Cliquez sur **Suivant**.
+4. Sélectionnez le nom de votre superviseur principal et co-superviseur \(le cas échéant\) dans votre établissement et indiquez la date de fin prévue de votre contrôle dans l'établissement. Le ou les superviseurs sélectionnés seront invités à valider ces informations afin d'activer votre compte.
+5. Un courriel de confirmation sera envoyé à l'adresse que vous avez choisie. **Cliquez sur le lien «Vérifier mon e-mail»** dans l'e-mail de confirmation
 
-Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) to complete your account creation.
+Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera si vos superviseurs ont validé votre compte. Si vos superviseurs vérifient que les informations de votre compte sont correctes, vous recevrez un  [courriel d'invitation](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) pour terminer la création de votre compte.
 
 ## Créer votre compte UNIWeb à partir d'un courriel d'invitationl
 
