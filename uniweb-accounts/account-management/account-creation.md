@@ -12,10 +12,10 @@
 ## Créer votre compte UNIWeb à partir du site UNIWeb de l'institution
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+**Avant de commencer :** Si votre institution a intégré UNIWeb avec un système d'authentification unique existant, il n'y aura pas d'option pour s'inscrire à partir de la page Réseau UNIWeb de votre établissement. Au lieu de cela, un compte sera créé automatiquement pour vous lorsque vous suivez les étapes pour [se connecter avec votre compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 {% endhint %}
 
-1. From your institution’s [UNIWeb Network](../../navigating-uniweb/the-network-page.md) page, click the **Sign up** button on the right side of the navigation bar.
+1. Sur la page du [réseau UNIWeb](../../navigating-uniweb/the-network-page.md) de votre établissement, cliquez sur le bouton S'inscrire sur le côté droit de la barre de navigation.
 2. On the account creation screen, select your **role** within your institution. This will correspond to your [account type](member-account-information.md#membership-information-fields). Click **Next**. 
 3. Fill out the details of your [member account information](member-account-information.md#account-information-fields). Fields marked with an asterisk are mandatory. Click **Next**.
 4. Select the name of your primary supervisor and co-supervisor \(if application\) at your institution, and provide the expected end date of your supervision at the institution. The selected supervisor\(s\) will be asked to validate this information in order to activate your account.
@@ -26,7 +26,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## Créer votre compte UNIWeb à partir d'un courriel d'invitationl
 
 {% hint style="warning" %}
-**Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and you have not, please reach out to a system administrator for your institution’s UNIWeb instance.
+**Avant de commencer :** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and you have not, please reach out to a system administrator for your institution’s UNIWeb instance.
 {% endhint %}
 
 1. Click the **Activate my UNIWeb account** link in the body of the email.
@@ -36,8 +36,10 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb manuellement
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+**Avant de commencer :** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+{% endhint %}
 
+{% hint style="warning" %}
 **This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Create new accounts
@@ -60,8 +62,10 @@ If you have not been assigned a role with the permissions listed above, and beli
 From time to time, you may need to add many new member accounts at once. You can create member accounts in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the accounts that you would like to add. UNIWeb will scan the spreadsheet for accounts that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
 {% hint style="warning" %}
-**Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+**Avant de commencer :** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+{% endhint %}
 
+{% hint style="warning" %}
 **This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Create new accounts
@@ -130,8 +134,10 @@ The sample spreadsheet includes all of the accepted [member information fields](
 Once you have added new members to UNIWeb, you need to invite them to activate their accounts. This will send them a welcome email with text and information approved by your institution.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer :** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+{% endhint %}
 
+{% hint style="warning" %}
 * Create new accounts
 * Edit member information
 * Send email invites
@@ -150,8 +156,10 @@ If you have not been assigned a role with the permissions listed above, and beli
 If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer :** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+{% endhint %}
 
+{% hint style="warning" %}
 * Create new accounts
 * Edit member information
 * Send email invites

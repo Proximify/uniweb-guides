@@ -45,22 +45,22 @@ La section Curriculum Vitae vous permet de [remplir et gérer votre CV académiq
 
 ## Publications
 
-The Publications section offers a dedicated area to ****[**create records of your academic publications**](../your-academic-information/publications-1.md), in order to include them in your Curriculum Vitae or public profile. You can populate your publications manually, or import them from various external sources, including Google Scholar, BibTex, PubMed, and EndNote.
+La section Publications vous offre un endroit dédié à la ****[**création d'archives de vos publications académiques**](../your-academic-information/publications-1.md), afin de les inclure dans votre Curriculum Vitae ou votre profil publique. Vous pouvez remplir vos publications manuellement ou les importer à partir de différents sources externes, notamment Google Scholar, BibTex, PubMed et EndNote.
 
-From the Publications section, you can:
+À partir de la section Publications, vous pouvez :
 
-* [Create, edit, and delete publication records](../your-academic-information/publications-1.md#adding-publications-manually)
-* [Tag publications with research interests to include them in your profile](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
+* [Créer, modifier et suprimer des archives des publications](../your-academic-information/publications-1.md#adding-publications-manually)
+* [Marquer des publications avec des interets de recherche, afin de les inclure dans votre profil publique](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 
 ## Groupes
 
-The Groups section allows you to quickly access the [Research Groups](../networking-on-uniweb/groups-1.md) that you've joined, and create and manage new Research Groups.
+La section Groupes vous permet d'accéder rapidement aux [Groupes de recherche](../networking-on-uniweb/groups-1.md) que vous avez rejoints et de créer et gérer de nouveaux groupes de recherche
 
 ## Resources
 
-The Resources section allows you to create and manage the [Resources](../networking-on-uniweb/equipment-profiles-resources/) that you have made available within your UNIWeb network. 
+La section Resources vous permet de créer et de gérer les [Resources](../networking-on-uniweb/equipment-profiles-resources/) que vous avez mis à disposition au sein de votre réseau UNIWeb. 
 
 ## Tutoriels
 
-In the Tutorials section, you can find support documentation, frequently-asked-questions, and videos to help you get the most out of UNIWeb.
+Dans la section Tutoriels, vous pouvez trouver de la documentation d'assistance, des questions fréquemment posées et des vidéos pour vous aider à maximiser votre usage d'UNIWeb.
 
