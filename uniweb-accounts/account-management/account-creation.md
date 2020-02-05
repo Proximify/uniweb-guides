@@ -26,7 +26,7 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 ## Créer votre compte UNIWeb à partir d'un courriel d'invitationl
 
 {% hint style="warning" %}
-**Avant de commencer :** vous recevrez un e-mail d'invitation d'UNIWeb soit lorsque vous créez votre propre compte via la page Réseau UNIWeb de votre institution, soit si un administrateur UNIWeb crée un compte pour vous. Si vous pensez que vous auriez dû recevoir un e-mail d'invitation et que vous ne l'avez pas fait, veuillez contacter un administrateur système pour l'instance UNIWeb de votre institution.
+**Avant de commencer :** vous recevrez un e-mail d'invitation d'UNIWeb soit lorsque vous créez votre propre compte via la page Réseau UNIWeb de votre institution, soit si un administrateur UNIWeb crée un compte pour vous. Si vous pensez que vous auriez dû recevoir un courriel d'invitation et que vous ne l'avez pas fait, veuillez contacter un administrateur système pour l'instance UNIWeb de votre institution.
 {% endhint %}
 
 1. Click the **Activate my UNIWeb account** link in the body of the email.
