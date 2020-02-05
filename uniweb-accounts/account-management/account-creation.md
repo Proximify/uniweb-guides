@@ -23,7 +23,7 @@
 
 Once you have verified your email address, UNIWeb will indicate whether your supervisors have validated your account. If your supervisors verify that your account information is correct, you will receive an [invitation email](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) to complete your account creation.
 
-## Creating your UNIWeb account from an invitation email
+## Créer votre compte UNIWeb à partir d'un courriel d'invitationl
 
 {% hint style="warning" %}
 **Before you begin:** you will receive an invitation email from UNIWeb either when you create your own account through your institution’s UNIWeb Network page, or if a UNIWeb administrator creates an account for you. If you believe that you should have received an invitation email and you have not, please reach out to a system administrator for your institution’s UNIWeb instance.
@@ -33,7 +33,7 @@ Once you have verified your email address, UNIWeb will indicate whether your sup
 2. Review the Software License terms, and if you agree, **click the “I agree” button** to proceed.
 3. **Create a password** for your new UNIWeb account, and **click the “Submit” button**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Creating UNIWeb member accounts manually
+## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb manuellement
 
 {% hint style="warning" %}
 **Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
@@ -55,7 +55,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Note:** After following the above procedure, you must [send an account activation email ](account-creation.md#sending-account-activation-emails)in order for the new UNIWeb member to complete the account activation process.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Creating UNIWeb member accounts in bulk using a spreadsheet
+## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb en gros avec une feuille de calcul
 
 From time to time, you may need to add many new member accounts at once. You can create member accounts in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the accounts that you would like to add. UNIWeb will scan the spreadsheet for accounts that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
@@ -125,7 +125,7 @@ The sample spreadsheet includes all of the accepted [member information fields](
 **Tip:** If you enter an **Account Type, Position Title, or Academic Unit** that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any **blank fields that are mandatory or columns that UNIWeb does not recognize**, you will receive a similar error.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Sending account activation emails
+## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des courriels pour activer des comptes
 
 Once you have added new members to UNIWeb, you need to invite them to activate their accounts. This will send them a welcome email with text and information approved by your institution.
 
@@ -145,7 +145,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. In the _Invite selected members_ dialog, verify that you have selected the correct UNIWeb member\(s\).
 5. Click **Invite**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Sending account activation reminder emails
+## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des rappels pour l'activation du compte
 
 If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
 
