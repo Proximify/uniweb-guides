@@ -29,9 +29,9 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 **Avant de commencer :** vous recevrez un e-mail d'invitation d'UNIWeb soit lorsque vous créez votre propre compte via la page Réseau UNIWeb de votre institution, soit si un administrateur UNIWeb crée un compte pour vous. Si vous pensez que vous auriez dû recevoir un courriel d'invitation et que vous ne l'avez pas fait, veuillez contacter un administrateur système pour l'instance UNIWeb de votre institution.
 {% endhint %}
 
-1. Click the **Activate my UNIWeb account** link in the body of the email.
-2. Review the Software License terms, and if you agree, **click the “I agree” button** to proceed.
-3. **Create a password** for your new UNIWeb account, and **click the “Submit” button**.
+1. Cliquez sur le lien **Activer mon compte UNIWeb** dans le corps de l'e-mail.
+2. Lisez les termes de la licence du logiciel et, si vous êtes d'accord, **cliquez sur le bouton «J'accepte»** pour continuer
+3. **Créez un mot de passe** pour votre nouveau compte UNIWeb et **cliquez sur le bouton «Soumettre».**
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb manuellement
 
