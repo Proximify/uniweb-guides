@@ -9,7 +9,7 @@
 * [Envoyer des courriels pour activer des comptes ](account-creation.md#sending-account-activation-emails)
 * [Envoyer des rappels pour l'activation du compte](account-creation.md#sending-account-activation-reminder-emails)
 
-## Creating your UNIWeb account from an institution’s UNIWeb website
+## Créer votre compte UNIWeb à partir du site UNIWeb de l'institution
 
 {% hint style="warning" %}
 **Before you begin:** If your institution has integrated UNIWeb with an existing single-sign-on system, there will be no option to sign up from your institution’s UNIWeb Network page. Instead, an account will be created for you automatically when you follow the steps to [log in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
