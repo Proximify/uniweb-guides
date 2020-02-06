@@ -134,22 +134,13 @@ L'exemple de feuille de calcul comprend tous les [champs d'information sur les m
 Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inviter à activer leurs comptes. Cela leur enverra un e-mail de bienvenue avec du texte et des informations approuvés par votre institution.
 
 {% hint style="warning" %}
-**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :  
+**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes : 
 
-Créer de nouveaux comptes   
-Modifier les informations sur les membres   
-Envoyer des invitations par courriel
-{% endhint %}
+* Créer de nouveaux comptes
+* Modifier les informations sur les membres
+* Envoyer des invitations par courriel
 
-{% hint style="warning" %}
-* Create new accounts
-{% endhint %}
-
-{% hint style="warning" %}
-* Edit member information
-* Send email invites
-
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
