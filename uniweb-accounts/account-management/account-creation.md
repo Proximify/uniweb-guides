@@ -131,7 +131,7 @@ L'exemple de feuille de calcul comprend tous les [champs d'information sur les m
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des courriels pour activer des comptes
 
-Once you have added new members to UNIWeb, you need to invite them to activate their accounts. This will send them a welcome email with text and information approved by your institution.
+Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inviter à activer leurs comptes. Cela leur enverra un e-mail de bienvenue avec du texte et des informations approuvés par votre institution.
 
 {% hint style="warning" %}
 **Avant de commencer :** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
