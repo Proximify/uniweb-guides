@@ -74,9 +74,9 @@ De temps en temps, vous devrez peut-être ajouter plusieurs nouveaux comptes de 
 Modifier les informations sur les membres Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-### Creating a UNIWeb member account spreadsheet:
+### Création d'une feuille de calcul de compte de membre UNIWeb:
 
-To get your member account spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb's requirements.
+Pour démarrer la feuille de calcul de votre compte membre, vous pouvez télécharger une feuille de calcul modèle qui est déjà correctement formatée pour les exigences d'UNIWeb.
 
 {% file src="../../.gitbook/assets/accounts\_creation\_templates.zip" caption="Download a member account template spreadsheet" %}
 
