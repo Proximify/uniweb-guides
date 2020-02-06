@@ -46,10 +46,10 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the right panel, click the **Add a new member** button.
-3. In the _Add new members_ dialog, fill in the [member information fields](member-account-information.md#membership-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
-4. Click **Save**.
+1. À partir de votre [page d'administration](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Dans le panneau de droite, cliquez sur le bouton **Ajouter un nouveau membre**.
+3. Dans la boîte de dialogue _Ajouter un nouveau membre_, remplissez les [champs d'information des membres](member-account-information.md#membership-information-fields) pour le nouveau membre UNIWeb. Les champs marqués d'un astérisque sont obligatoires.
+4. Cliquez **Sauvegarder**.
 
 {% hint style="danger" %}
 **Note:** After following the above procedure, you must [send an account activation email ](account-creation.md#sending-account-activation-emails)in order for the new UNIWeb member to complete the account activation process.
