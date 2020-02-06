@@ -80,9 +80,9 @@ Pour démarrer la feuille de calcul de votre compte membre, vous pouvez téléch
 
 {% file src="../../.gitbook/assets/accounts\_creation\_templates.zip" caption="Download a member account template spreadsheet" %}
 
-The sample spreadsheet includes all of the accepted [member information fields](member-account-information.md#membership-information-fields) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
+L'exemple de feuille de calcul comprend tous les [champs d'information sur les membres](member-account-information.md#membership-information-fields) champs d'informations sur les membres acceptés qui peuvent être utilisés lors de la création d'une feuille de calcul de compte UNIWeb. Un exemple d'enregistrement est répertorié ci-dessous; **les entrées marquées d'un astérisque sont obligatoires**:
 
-| First Name\* | Middle Name | Last Name\* | Account Type\* | Position Title\* | Academic Unit\* | Email\* | Username | Telephone | Homepage | Office |
+| Prénom\* | Deuxième prénom | Nom\* | Type de compte\* | Titre du poste\* | Unité Académique\* | Courriel\* | Nom  d'utilisateur | Téléphone | Page d'accueil | Bureau |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 
@@ -108,25 +108,25 @@ The sample spreadsheet includes all of the accepted [member information fields](
   </thead>
   <tbody></tbody>
 </table>{% hint style="success" %}
-#### Best practices for your spreadsheet:
+#### Meilleures pratiques pour votre feuille de calcul:
 
-* The order of the columns does not matter
-* Each row corresponds to one member account
-* Empty rows are ignored
-* If a row provides the same email address of an existing user in the system, the row is ignored \(this is how UNIWeb screens for duplicate entries\)
-* Columns that UNIWeb does not recognize will cause an error.
-* Acceptable entries for **account type, position title** and **academic unit** are dictated by your institution. 
+*  L'ordre des colonnes n'a pas d'importance 
+* Chaque ligne correspond à un compte membre 
+* Les lignes vides sont ignorées 
+* Si une ligne fournit la même adresse e-mail d'un utilisateur existant dans le système, la ligne est ignorée \(c'est ainsi qu'UNIWeb filtre les entrées en double\)
+* Les colonnes que UNIWeb ne reconnaît pas provoqueront une erreur. 
+* Les entrées acceptables pour le **type de compte**, le **titre du poste** et **l'unité scolaire** sont dictées par votre établissement.
 {% endhint %}
 
-### Uploading your spreadsheet to UNIWeb
+### Téléchargement de votre feuille de calcul sur UNIWeb
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the right panel, click **Add members from a file**
-3. In the _Add new members_ dialog, click **Choose File**, and locate your UNIWeb members spreadsheet on your computer.
-4. Click **Submit**.
+1. À partir de votre page [d'administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Dans le panneau de droite, cliquez sur **Ajouter des membres à partir d'un fichier.**
+3. Dans la boîte de dialogue _Ajouter un nouveaux membre_, cliquez sur **Choisir un fichier** et recherchez la feuille de calcul des membres UNIWeb sur votre ordinateur. 
+4. Cliquez sur **Soumettre.**
 
 {% hint style="info" %}
-**Tip:** If you enter an **Account Type, Position Title, or Academic Unit** that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any **blank fields that are mandatory or columns that UNIWeb does not recognize**, you will receive a similar error.
+**Conseil:** Si vous entrez un **type de compte**, un **titre de poste** ou **une unité académique** qui n'existe pas sur le réseau, vous recevrez un message d'erreur. Cela décrira l'erreur, indiquera où elle se trouve dans votre feuille de calcul et vous fournira une liste de remplacements appropriés. Si votre feuille de calcul contient des **champs vides obligatoires ou des colonnes que UNIWeb ne reconnaît pas**, vous recevrez une erreur similaire.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des courriels pour activer des comptes
