@@ -52,24 +52,26 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 4. Cliquez **Sauvegarder**.
 
 {% hint style="danger" %}
-**Note:** After following the above procedure, you must [send an account activation email ](account-creation.md#sending-account-activation-emails)in order for the new UNIWeb member to complete the account activation process.
+**À noter:** 
+
+Après avoir suivi la procédure ci-dessus, vous deve [envoyer un courriel d'invitation pour activer votre compte ](account-creation.md#sending-account-activation-emails)pour que le nouveau membre UNIWeb puisse terminer le processus d'activation de compte.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb en gros avec une feuille de calcul
 
-From time to time, you may need to add many new member accounts at once. You can create member accounts in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the accounts that you would like to add. UNIWeb will scan the spreadsheet for accounts that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
+De temps en temps, vous devrez peut-être ajouter plusieurs nouveaux comptes de membre à la fois. Vous pouvez créer des comptes de membre en bloc en téléchargeant une feuille de calcul dans UNIWeb qui comprend des informations pour tous les comptes que vous souhaitez ajouter. UNIWeb analysera la feuille de calcul à la recherche de comptes qui existent déjà sur le réseau, et vous pourrez donc maintenir et télécharger une seule feuille de calcul plusieurs fois sans créer de doublons.
 
 {% hint style="warning" %}
-**Avant de commencer :** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+**Avant de commencer :** Si UNIWeb est intégré avec le système d'authentification de votre institution, **il n'est pas nécessaire de créer des comptes UNIWed manuellement.** Les comptes sont créés automatiquement pour les utilisateurs lorsqu'ils suivent les étapes pour [se connecter à leur compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 {% endhint %}
 
 {% hint style="warning" %}
-**This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Cette procédure nécessite un**[ **rôle d'administrateur**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following[ autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
 
-* Create new accounts
-* Edit member information
+* Créer de nouveaux comptes 
+* Modifier les informations sur les membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Modifier les informations sur les membres Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 ### Creating a UNIWeb member account spreadsheet:
