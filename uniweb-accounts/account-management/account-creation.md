@@ -143,7 +143,7 @@ Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inv
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. À partir de votre page [d'Administratio UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+1. À partir de votre page [d'Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
 2. Localisez le \(s\) membre \(s\) UNIWeb à qui vous souhaitez envoyer un e-mail d'activation de compte, **puis cochez la case** à droite de leur ligne.
 3. Dans le panneau de droite, cliquez sur **Activation du compte**.
 4. Dans la boîte de dialogue _activation du compte_, vérifiez que vous avez sélectionné le ou les membres UNIWeb appropriés.
@@ -163,11 +163,11 @@ Si vous avez déjà invité des membres, mais qu'ils n'ont pas encore activé le
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the right panel, click **Unactivated accounts**. 
-3. In the _Unactivated accounts_ dialog, select the maximum number of sent activation emails to filter the UNIWeb accounts that will be selected. This will ensure that you don’t send too many emails to users who are not interested in activating their accounts. 
-4. Click **Unactivated accounts**. UNIWeb will automatically select the members who have received the specified number of account activation emails.
-5. In the right panel, click **Account activation**.
-6. In the _Invite seleted members_ dialog, verify the UNIWeb members that you have selected.
-7. Click **Invite**.
+1. À partir de votre page [d'Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Dans le panneau de droite, cliquez sur **Comptes non activés**.
+3. Dans la boîte de dialogue _Comptes non activés_, sélectionnez le nombre maximal d'e-mails d'activation envoyés pour filtrer les comptes UNIWeb qui seront sélectionnés. Vous éviterez ainsi d'envoyer trop d'e-mails aux utilisateurs qui ne souhaitent pas activer leur compte.
+4. Cliquez sur **Comptes non activés**. UNIWeb sélectionnera automatiquement les membres qui ont reçu le nombre spécifié d'e-mails d'activation de compte.
+5. Dans le panneau de droite, cliquez sur **Activation du compte**.
+6. Dans la boîte de dialogue _Inviter les membres sélectionnés_, vérifiez les membres UNIWeb que vous avez sélectionnés.
+7. Cliquez **Inviter**.
 
