@@ -9,10 +9,10 @@
 ## Accéder votre compte UNIWeb
 
 1. À partir de la page [Réseau UNIWeb](../../navigating-uniweb/the-network-page.md), cliquez sur le bouton **Connexion** sur le côté droite de la barre de navigation. 
-2. In the Sign in drop-down menu, enter your UNIWeb username and password.
+2. Dans le menu déroulant Connexion, entrez votre nom d'utilisateur et votre mot de passe UNIWeb.
 
 {% hint style="info" %}
-**Tip:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, clicking the Sign in button will redirect you to your institution’s SSO login page to complete the login process. You will be redirected into your UNIWeb account when you have authenticated via your institution’s SSO system.
+**Conseil:** Si votre instance UNIWeb s'intègre au système d'authentification unique \(SSO\) de votre établissement pour l'authentification, cliquez sur le bouton Connexion pour vous rediriger vers la page de connexion SSO de votre établissement pour terminer le processus de connexion. Vous serez redirigé vers votre compte UNIWeb lorsque vous vous serez authentifié via le système SSO de votre établissement.
 {% endhint %}
 
 ## Changing your UNIWeb account password
