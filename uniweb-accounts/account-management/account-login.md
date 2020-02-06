@@ -2,13 +2,13 @@
 
 #### Sur cette page :
 
-* [Logging in to your UNIWeb account](account-login.md#logging-in-to-your-uniweb-account)
-* [Changing your UNIWeb account password](account-login.md#changing-your-uniweb-account-password)
-* [Sending a password reset email to a UNIWeb member](account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
+* [Accéder votre compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account)
+* [Changer le mot de passe de votre compte UNIWeb](account-login.md#changing-your-uniweb-account-password)
+* [Envoyer un courriel pour remettre le mot de passe à un membre d'UNIWeb](account-login.md#sending-a-password-reset-email-to-a-uniweb-member)
 
-## Logging in to your UNIWeb account
+## Accéder votre compte UNIWeb
 
-1. From your institution’s [UNIWeb Network](../../navigating-uniweb/the-network-page.md) page, click the **Sign in** button on the right side of the navigation bar.
+1. À partir de la page [Réseau UNIWeb](../../navigating-uniweb/the-network-page.md), cliquez sur le bouton **Connexion** sur le côté droite de la barre de navigation. 
 2. In the Sign in drop-down menu, enter your UNIWeb username and password.
 
 {% hint style="info" %}
