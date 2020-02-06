@@ -151,10 +151,10 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des rappels pour l'activation du compte
 
-If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
+Si vous avez déjà invité des membres, mais qu'ils n'ont pas encore activé leur compte, vous pouvez leur envoyer un e-mail de rappel. Si vous ne savez pas quels membres ont déjà reçu des e-mails d'invitation, UNIWeb peut filtrer les membres pour vous permettre de sélectionner automatiquement les membres qui ont déjà reçu des e-mails d'invitation et de rappel.
 
 {% hint style="warning" %}
-**Avant de commencer :** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md)  au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
 * Créer des nouveaux comptes
 * Modifier l'information des membres 
