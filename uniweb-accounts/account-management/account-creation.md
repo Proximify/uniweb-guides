@@ -143,11 +143,11 @@ Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inv
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. Locate the UNIWeb member\(s\) to whom you would like to send an account activation email, and **click the checkbox** on the right side of their row.
-3. In the right panel, click **Account activation**.
-4. In the _Invite selected members_ dialog, verify that you have selected the correct UNIWeb member\(s\).
-5. Click **Invite**.
+1. À partir de votre page [d'Administratio UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Localisez le \(s\) membre \(s\) UNIWeb à qui vous souhaitez envoyer un e-mail d'activation de compte, **puis cochez la case** à droite de leur ligne.
+3. Dans le panneau de droite, cliquez sur **Activation du compte**.
+4. Dans la boîte de dialogue _activation du compte_, vérifiez que vous avez sélectionné le ou les membres UNIWeb appropriés.
+5. Cliquez sur **Inviter**.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des rappels pour l'activation du compte
 
