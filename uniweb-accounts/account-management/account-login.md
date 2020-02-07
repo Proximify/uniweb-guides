@@ -15,7 +15,7 @@
 **Conseil:** Si votre instance UNIWeb s'intègre au système d'authentification unique \(SSO\) de votre établissement pour l'authentification, cliquez sur le bouton Connexion pour vous rediriger vers la page de connexion SSO de votre établissement pour terminer le processus de connexion. Vous serez redirigé vers votre compte UNIWeb lorsque vous vous serez authentifié via le système SSO de votre établissement.
 {% endhint %}
 
-## Changing your UNIWeb account password
+## Changer le mot de passe de votre compte UNIWeb
 
 If you've forgotten your UNIWeb password and cannot log in, you can send a rescue email to your UNIWeb account email address. If you can log in normally, but would like to [change your password to something new](account-login.md#updating-your-uniweb-account-password), you can do so within your UNIWeb account without having to send a rescue email.
 
