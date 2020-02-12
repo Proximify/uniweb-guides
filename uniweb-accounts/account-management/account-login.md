@@ -17,7 +17,7 @@
 
 ## Changer le mot de passe de votre compte UNIWeb
 
-Si vous avez oublié votre mot de passe UNIWeb et ne pouvez pas vous connecter, vous pouvez envoyer un e-mail de secours à l'adresse e-mail de votre compte UNIWeb. Si vous pouvez vous connecter normalement, mais souhaitez [changer vpotre mot de passe](account-login.md#updating-your-uniweb-account-password), vous pouvez le faire dans votre compte UNIWeb sans avoir à envoyer un e-mail de secours.
+Si vous avez oublié votre mot de passe UNIWeb et ne pouvez pas vous connecter, vous pouvez envoyer un e-mail de secours à l'adresse e-mail de votre compte UNIWeb. Si vous pouvez vous connecter normalement, mais souhaitez [changer votre mot de passe](account-login.md#updating-your-uniweb-account-password), vous pouvez le faire dans votre compte UNIWeb sans avoir à envoyer un courriel pour le récupérer.
 
 ### Resetting your UNIWeb account password if you've forgotten it
 
