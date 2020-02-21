@@ -31,10 +31,10 @@ Si vous avez oublié votre mot de passe UNIWeb et ne pouvez pas vous connecter, 
 4. Cliquez sur **Soumettre**. Vous recevrez un e-mail avec la ligne d'objet, **demandez de réinitialisez le mot de passe UNIWeb**, à l'adresse e-mail correspondant à votre compte UNIWeb contenant des instructions pour réinitialiser votre mot de passe UNIWeb.
 
 {% hint style="danger" %}
-**Note:** For your security, the link enclosed within the **Request to reset UNIWeb password** email will expire after three hours.
+**À noter:** Pour votre sécurité, le lien inclus dans la **Demande de réinitialisation du mot de passe** d'UNIWeb expirera après trois heures.
 {% endhint %}
 
-### Updating your UNIWeb account password
+### Mettre à jour votre mot de passe d'UNIWeb 
 
 1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
 2. In the right panel, click **Change password**.
