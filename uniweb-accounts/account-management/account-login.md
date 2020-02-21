@@ -37,14 +37,14 @@ Si vous avez oublié votre mot de passe UNIWeb et ne pouvez pas vous connecter, 
 ### Mettre à jour votre mot de passe d'UNIWeb 
 
 1. À partir de votre [Page d'accueil](../../navigating-uniweb/the-home-page.md), entrer votre **Profil**.
-2. In the right panel, click **Change password**.
-3. To validate your account access, **enter your current password** in the first data entry field, and then **create and confirm a new password** in the next two data entry fields.
-4. Click **Submit**.
+2. Dans le panneau de droite, cliquez sur **Modifier le mot de passe**.
+3. Pour valider l'accès à votre compte, **entrez votre mot de passe actuel** dans le premier champ de saisie de données, puis **créez et confirmez un nouveau mot de passe** dans les deux champs de saisie de données suivants.
+4. Cliquez **Soumettre**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Sending a password reset email to a UNIWeb member
+## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer un e-mail de réinitialisation de mot de passe à un membre 
 
 {% hint style="warning" %}
-**Before you begin:** If your UNIWeb instance integrates with your institution’s Single-Sign-On \(SSO\) system for authentication, you must reset member passwords through your institution’s SSO system.
+**Avant de commencer:** Si votre instance UNIWeb s'intègre au système d'authentification unique de votre établissement pour l'authentification, vous devez réinitialiser les mots de passe des membres via le système d'authentification unique de votre établissement.
 
 **This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s Academic Unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
