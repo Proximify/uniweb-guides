@@ -36,7 +36,7 @@ Si vous avez oublié votre mot de passe UNIWeb et ne pouvez pas vous connecter, 
 
 ### Mettre à jour votre mot de passe d'UNIWeb 
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
+1. À partir de votre [Page d'accueil](../../navigating-uniweb/the-home-page.md), entrer votre **Profil**.
 2. In the right panel, click **Change password**.
 3. To validate your account access, **enter your current password** in the first data entry field, and then **create and confirm a new password** in the next two data entry fields.
 4. Click **Submit**.
