@@ -1,16 +1,16 @@
-# Membership Information
+# Information sur l'adhésion
 
-Your membership information serves two important purposes in UNIWeb:
+L'information sur votre adhésion sert deux objectifs importants dans UNIWeb:
 
-* Your membership information is displayed at the top of your public profile, allowing other UNIWeb members to contextualize your position within your institution and contact you using methods that you prefer. 
-* Parts of your membership information, like your account type and position title, will affect both your discoverability within UNIWeb and the information fields that are available for you to fill out on your public profile.
+* Votre information d'adhésion est affichée en haut de votre profil public, permettant aux autres membres d'UNIWeb de contextualiser votre position au sein de votre institution et de vous contacter en utilisant les méthodes que vous préférez.
+* Certaines parties de votre information d'adhésion, comme votre type de compte et le titre de votre poste, affecteront à la fois votre visibilité au sein d'UNIWeb et les champs d'information que vous pourrez remplir sur votre profil public.
 
-#### On this page:
+#### Sur cette page :
 
-* [Editing your membership information](member-account-information.md#editing-your-membership-information)
-* [Changing your account email address](member-account-information.md#changing-your-account-email-address)
-* [Editing the membership information of other UNIWeb members](member-account-information.md#editing-the-membership-information-of-other-uniweb-members)
-* [Membership information fields](member-account-information.md#membership-information-fields)
+* [Modifier l'information sur votre adhésion](member-account-information.md#editing-your-membership-information)
+* [Changer votre adresse de compte et de courriel](member-account-information.md#changing-your-account-email-address)
+* [Modifier l'information d'adhésion d'autres membres UNIWeb](member-account-information.md#editing-the-membership-information-of-other-uniweb-members)
+* [Champs d'information sur l'adhésion](member-account-information.md#membership-information-fields)
 
 ## Editing your membership information
 
