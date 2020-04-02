@@ -12,36 +12,36 @@ L'information sur votre adhésion sert deux objectifs importants dans UNIWeb:
 * [Modifier l'information d'adhésion d'autres membres UNIWeb](member-account-information.md#editing-the-membership-information-of-other-uniweb-members)
 * [Champs d'information sur l'adhésion](member-account-information.md#membership-information-fields)
 
-## Editing your membership information
+## Modifier l'information sur votre adhésion
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
-2. In the centre panel, to the right of your name, click **Edit**.
-3. Add to or edit your account information in the data entry form as needed.
-4. Click **Save.**
+1. À partir de votre [Page d'acceuil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil**.
+2. Dans le panneau central, à droite de votre nom, cliquez sur **Modifier**.
+3. Ajoutez ou modifiez les informations de votre compte dans le formulaire de saisie de données selon vos besoins.
+4. Cliquez sur **Sauvegarder.**
 
 {% hint style="danger" %}
-**Note:** As a general UNIWeb member, you can change all of your account information except for your account type, as this field can affect several areas of UNIWeb. If you need to change your account type, contact a system administrator for your academic unit.
+**À noter:** Comme membre général d'UNIWeb, vous pouvez modifier toutes les informations de votre compte à l'exception de votre type de compte, car ce champ peut affecter plusieurs domaines d'UNIWeb. Si vous devez modifier votre type de compte, contactez un administrateur système pour votre unité scolaire.
 {% endhint %}
 
-## Changing your account email address
+## Changer votre adresse de compte et de courriel
 
-By default, the email address that was used to create your UNIWeb account is automatically listed within your membership information, and thus on your [public profile](../../networking-on-uniweb/filling-out-your-public-profile.md). If you would prefer, you can change or remove the email address that is publicly listed in your membership information, or you can ****set a private email address to use to log in to your account and receive system email alerts.
+Par défaut, l'adresse courriel utilisée pour créer votre compte UNIWeb est automatiquement répertoriée dans votre information d'adhésion, et donc sur votre [profil public](../../networking-on-uniweb/filling-out-your-public-profile.md). Si vous préférez, vous pouvez modifier ou supprimer l'adresse courriel qui est publiquement répertoriée dans vos informations d'adhésion, ou vous pouvez définir une adresse e-mail privée à utiliser pour vous connecter à votre compte et recevoir des alertes par e-mail du système.
 
-### Change your public email address
+### Changer votre adresse courriel publique
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
-2. In the centre panel, to the right of your name, click **Edit**.
-3. Change or remove your email address in the Email data entry field.
-4. Click **Save.**
+1. À partir de votre [Page d'acceuil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil.**
+2. Dans le panneau central, à droite de votre nom, cliquez sur **Modifier**.
+3. Modifier ou supprimer votre adresse courriel dans le champ de saisie des données.
+4. Cliquez sur **Sauvegarder.**
 
-### Set a private email address to manage your account
+### Définissez une adresse courriel privée pour gérer votre compte
 
 {% hint style="warning" %}
-**Before you begin:** if your institution has integrated their UNIWeb network with an existing single sign-on \(SSO\) service, the following procedure will only affect the email address that UNIWeb uses to send you system email alerts. You will continue to log in to your account using your institution's SSO credentials.
+**Avant de commencer:** si votre institution a intégré son réseau UNIWeb à un service d'authentification unique \(SSO\) existant, la procédure suivante n'affectera que l'adresse courriel utilisée par UNIWeb pour vous envoyer des alertes par du système. Vous continuerez à vous connecter à votre compte à l'aide des informations d'identification SSO de votre établissement.
 {% endhint %}
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/#the-home-page)page, go to **Profile**.
-2. In the right panel, click **Set private email address.**
+1. À partir de votre [Page d'acceuil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil.**
+2. Sur le panneau à droite, cliquez sur **Adresse courriel privée.**
 3. In the **Set private email address** dialog, enter a new email address. Your current email address will be displayed to the left of the text entry field.
 4. Click **Save**.
 
