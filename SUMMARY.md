@@ -11,7 +11,7 @@
     * [Creation de comptes](uniweb-accounts/account-management/account-creation.md)
     * [Accéder votre compte](uniweb-accounts/account-management/account-login.md)
     * [Information sur l'adhésion](uniweb-accounts/account-management/member-account-information.md)
-    * [Account Deletion](uniweb-accounts/account-management/account-deletion.md)
+    * [Suppression de compte](uniweb-accounts/account-management/account-deletion.md)
   * [Academic Units](uniweb-accounts/academic-units/README.md)
     * [Managing Academic Units](uniweb-accounts/academic-units/managing-academic-units.md)
     * [Cross-Appointments](uniweb-accounts/academic-units/cross-appointments.md)

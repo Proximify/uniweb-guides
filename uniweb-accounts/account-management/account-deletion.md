@@ -1,4 +1,4 @@
-# Account Deletion
+# Suppression de compte
 
 #### On this page:
 
