@@ -55,11 +55,11 @@ Par défaut, l'adresse courriel utilisée pour créer votre compte UNIWeb est au
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the centre panel, locate and click on the name of the UNIWeb member whose account information you would like to edit. You will be taken to their profile page.
-3. In the centre panel on the UNIWeb member’s profile page, to the right of their name, click **Edit**.
-4. Add to or edit their account information in the data entry form as needed.
-5. Click **Save**
+1. À partir de votre page [Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Membres**.
+2. Dans le panneau central, recherchez et cliquez sur le nom du membre UNIWeb dont vous souhaitez modifier les informations de compte. Vous serez redirigé vers leur page de profil.
+3. Dans le panneau central de la page de profil du membre UNIWeb, à droite de son nom, cliquez sur **Modifier.**
+4. Ajoutez ou modifiez leurs informations de compte dans le formulaire de saisie de données selon vos besoins.
+5. Cliquez sur **Enregistrer.**
 
 ## Membership information fields
 

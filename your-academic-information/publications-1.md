@@ -82,5 +82,3 @@ In the Duplicate detection results dialog, UNIWeb will organize duplicate entrie
 | **With same year** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same year.** |
 | **With same month** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same month.** |
 
-
-

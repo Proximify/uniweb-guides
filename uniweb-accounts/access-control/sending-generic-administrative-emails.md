@@ -1,6 +1,6 @@
 # Sending generic administrative emails
 
-As an administrator, you can send direct emails through UNIWeb to members within your academic unit. You can send these messages with either you or UNIWeb listed as the sender.  There is no specific administrator permission that needs to be assigned in order to grant this functionality; it is available to any UNIWeb members who have been assigned an administrator role.
+As an adminsitrator, you can send direct emails through UNIWeb to members within your academic unit. You can send these messages with either you or UNIWeb listed as the sender.  There is no specific administrator permission that needs to be assigned in order to grant this functionality; it is available to any UNIWeb members who have been assigned an administrator role.
 
 In sending email messages through UNIWeb, please follow any communication rules and standards set by your institution.
 
