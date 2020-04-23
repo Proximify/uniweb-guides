@@ -127,47 +127,43 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
       <td style="text-align:left"><b>Titre du poste</b>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p>Position titles more specifically categorize roles of UNIWeb members within
-          their institutions. A member whose <b>account type</b> is Professor may have
-          the <b>position title</b> of Assistant, Associate, or Adjunct Professor,
-          for example, though some <b>account types</b> only have one <b>position title</b> available.</p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
         <p>Les titres de poste cat&#xE9;gorisent plus sp&#xE9;cifiquement les r&#xF4;les
           des membres d&apos;UNIWeb au sein de leurs institutions. Un membre dont
-          le type de compte est professeur peut avoir le titre de poste d&apos;assistant,
-          d&apos;associ&#xE9; ou de professeur adjoint, par exemple, bien que certains
-          types de comptes n&apos;aient qu&apos;un seul titre de poste disponible.</p>
+          le<b> type de compte</b> est professeur peut avoir le <b>titre de poste</b> d&apos;assistant,
+          d&apos;associ&#xE9; ou de professeur adjoint, par exemple, bien que certains <b>types de comptes</b> n&apos;aient
+          qu&apos;un seul <b>titre de poste</b> disponible.</p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p>This affects certain areas of UNIWeb:</p>
-        <p></p>
+        <p>Cela affecte certains domaines d&apos;UNIWeb:</p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
         <ul>
-          <li>A user&#x2019;s position title will affect the sections that are available
-            on their public profile. For example, a professor&#x2019;s profile will
-            have a section to list the grad students that he or she supervises, whereas
-            a student&#x2019;s profile will have a section to list their supervisor.</li>
-          <li>Position titles are used throughout UNIWeb for filtering data. For example,
-            narrowing down results in <a href="../../networking-on-uniweb/research-places-1.md">Research Places</a> to
-            only display doctoral students.</li>
+          <li>Le titre du poste d&apos;un utilisateur affectera les sections disponibles
+            sur son profil public. Par exemple, le profil d&apos;un professeur aura
+            une section pour lister les &#xE9;tudiants dipl&#xF4;m&#xE9;s qu&apos;il
+            supervise, tandis que le profil d&apos;un &#xE9;tudiant aura une section
+            pour lister son superviseur.</li>
+          <li>Les titres de position sont utilis&#xE9;s dans UNIWeb pour filtrer les
+            donn&#xE9;es. Par exemple, r&#xE9;duire les r&#xE9;sultats dans les <a href="../../networking-on-uniweb/research-places-1.md">Lieux de recherche</a><b> </b>pour
+            n&apos;afficher que les doctorants.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Academic Unit</b>
+      <td style="text-align:left"><b>Unit&#xE9; acad&#xE9;mique</b>
       </td>
-      <td style="text-align:left"><a href="../academic-units/">Academic units </a>designate a UNIWeb member&#x2019;s
-        academic affiliation to a faculty or department. When creating a user&#x2019;s
-        account, a primary academic affiliation must be indicated. Administrators
-        can also add members to secondary units, called <a href="../academic-units/cross-appointments.md">cross-appointments</a>,
-        at a later time.</td>
+      <td style="text-align:left">Les<a href="../academic-units/"> Unit&#xE9;s acad&#xE9;miques</a> d&#xE9;signent
+        l&apos;affiliation acad&#xE9;mique d&apos;un membre d&apos;UNIWeb &#xE0;
+        une facult&#xE9; ou &#xE0; un d&#xE9;partement. Lors de la cr&#xE9;ation
+        d&apos;un compte utilisateur, une affiliation acad&#xE9;mique principale
+        doit &#xEA;tre indiqu&#xE9;e. Les administrateurs peuvent &#xE9;galement
+        ajouter des membres aux unit&#xE9;s secondaires, appel&#xE9;s <a href="../academic-units/cross-appointments.md">membres par affectation</a> ult&#xE9;rieurement.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Email</b>
+      <td style="text-align:left"><b>Courriel</b>
       </td>
       <td style="text-align:left">The UNIWeb member&#x2019;s email address.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Username</b>
+      <td style="text-align:left"><b>Nom d&apos;utilisateur</b>
       </td>
       <td style="text-align:left">A username that a UNIWeb member can use logging in to their UNIWeb account
         instead of an email address. If a username isn&#x2019;t filled in when
@@ -175,17 +171,17 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
         username instead. This cannot be changed later.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Homepage</b>
+      <td style="text-align:left"><b>Page d&apos;accueil</b>
       </td>
       <td style="text-align:left">A link to the UNIWeb Member&#x2019;s primary website outside of UNIWeb.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Telephone</b>
+      <td style="text-align:left"><b>T&#xE9;l&#xE9;phone</b>
       </td>
       <td style="text-align:left">The UNIWeb member&#x2019;s telephone number.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Office</b>
+      <td style="text-align:left"><b>Bureau</b>
       </td>
       <td style="text-align:left">The UNIWeb member&#x2019;s office address.</td>
     </tr>
