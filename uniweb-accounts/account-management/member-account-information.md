@@ -42,17 +42,17 @@ Par défaut, l'adresse courriel utilisée pour créer votre compte UNIWeb est au
 
 1. À partir de votre [Page d'acceuil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil.**
 2. Sur le panneau à droite, cliquez sur **Adresse courriel privée.**
-3. In the **Set private email address** dialog, enter a new email address. Your current email address will be displayed to the left of the text entry field.
-4. Click **Save**.
+3. Dans la boîte de dialogue **Définir une adresse e-mail privée**, entrez une nouvelle adresse e-mail. Votre adresse e-mail actuelle sera affichée à gauche du champ de saisie de texte.
+4. Cliquez sur **Enregistrer**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Editing the membership information of other UNIWeb members
+## ![](../../.gitbook/assets/key%20%281%29.svg) Modification des informations d'adhésion des autres membres d'UNIWeb
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut des [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Edit member information
+* Modifier les informations sur les membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
