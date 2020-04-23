@@ -61,66 +61,70 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 4. Ajoutez ou modifiez leurs informations de compte dans le formulaire de saisie de données selon vos besoins.
 5. Cliquez sur **Enregistrer.**
 
-## Membership information fields
+## **Champs d'informations sur l'adhésion**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Account information field</th>
-      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left"><b>Champ d&apos;informations sur le compte</b>
+      </th>
+      <th style="text-align:left"><b>Objectif</b>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>First Name</b>
+      <td style="text-align:left"><b>Pr&#xE9;nom</b>
       </td>
-      <td style="text-align:left">The UNIWeb Member&#x2019;s first name.</td>
+      <td style="text-align:left">Le pr&#xE9;nom du membre UNIWeb.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Middle Name</b>
+      <td style="text-align:left"><b>Deuxi&#xE8;me nom</b>
       </td>
-      <td style="text-align:left">The UNIWeb Member&#x2019;s middle name.</td>
+      <td style="text-align:left">Deuxi&#xE8;me pr&#xE9;nom du membre UNIWeb.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Last Name</b>
+      <td style="text-align:left"><b>Nom de famille</b>
       </td>
-      <td style="text-align:left">The UNIWeb Member&#x2019;s last name.</td>
+      <td style="text-align:left">Nom de famille du membre UNIWeb.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Account Type</b>
-      </td>
+      <td style="text-align:left">Type de compte</td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-        <p>Account types broadly categorize the roles of UNIWeb members at their
-          institution. Professors will have different needs than students or lecturers,
-          and so the account type chosen will affect the sections that are displayed
-          on the UNIWeb member&#x2019;s public profile. For example, a professor&#x2019;s
-          profile will have a section to list the graduate students that he or she
-          supervises, whereas a graduate student&#x2019;s profile will have a section
-          to list their supervisor.</p>
         <p></p>
-        <p>The available account types are as follows:</p>
+        <p>Les types de compte cat&#xE9;gorisent en gros les r&#xF4;les des membres
+          d&apos;UNIWeb dans leur institution. Les professeurs auront des besoins
+          diff&#xE9;rents de ceux des &#xE9;tudiants ou des professeurs, et donc
+          le type de compte choisi affectera les sections qui sont affich&#xE9;es
+          sur le profil public du membre UNIWeb. Par exemple, le profil d&#x2019;un
+          professeur comportera une section pour r&#xE9;pertorier les &#xE9;tudiants
+          dipl&#xF4;m&#xE9;s qu&#x2019;il supervise, tandis que le profil d&#x2019;un
+          &#xE9;tudiant dipl&#xF4;m&#xE9; comportera une section pour r&#xE9;pertorier
+          son superviseur.
+          <br />
+        </p>
+        <p>Les types de compte disponibles sont les suivants:</p>
         <p></p>
         <ul>
-          <li>Administrator</li>
-          <li>Alumnus</li>
-          <li>Doctoral Student</li>
-          <li>Industrial Partner</li>
-          <li>Invited Professor</li>
-          <li>Lecturer Librarian</li>
-          <li>Master&#x2019;s student</li>
-          <li>Postdoctoral Fellow</li>
-          <li>Professor</li>
-          <li>Research Assistant</li>
-          <li>Research Associate</li>
-          <li>Researcher</li>
-          <li>Teaching associate</li>
+          <li>Administrateur</li>
+          <li>Ancien &#xE9;l&#xE8;ve</li>
+          <li>&#xC9;tudiant en m&#xE9;decine</li>
+          <li>Partenaire industriel</li>
+          <li>Professeur invit&#xE9;</li>
+          <li>Biblioth&#xE9;caire charg&#xE9; de cours</li>
+          <li>&#xC9;tudiant &#xE0; la ma&#xEE;trise</li>
+          <li>Chercheur postdoctoral</li>
+          <li>Professeur</li>
+          <li>Assistant de recherche</li>
+          <li>Associ&#xE9; de recherche</li>
+          <li>Chercheur</li>
+          <li>Associ&#xE9; enseignant</li>
           <li>Webmaster</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Position Title</b>
+      <td style="text-align:left"><b>Titre du poste</b>
       </td>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;</p>
@@ -128,7 +132,13 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
           their institutions. A member whose <b>account type</b> is Professor may have
           the <b>position title</b> of Assistant, Associate, or Adjunct Professor,
           for example, though some <b>account types</b> only have one <b>position title</b> available.</p>
-        <p></p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p>Les titres de poste cat&#xE9;gorisent plus sp&#xE9;cifiquement les r&#xF4;les
+          des membres d&apos;UNIWeb au sein de leurs institutions. Un membre dont
+          le type de compte est professeur peut avoir le titre de poste d&apos;assistant,
+          d&apos;associ&#xE9; ou de professeur adjoint, par exemple, bien que certains
+          types de comptes n&apos;aient qu&apos;un seul titre de poste disponible.</p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
         <p>This affects certain areas of UNIWeb:</p>
         <p></p>
         <ul>
