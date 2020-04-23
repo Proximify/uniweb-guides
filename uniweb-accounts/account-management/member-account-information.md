@@ -160,30 +160,34 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
     <tr>
       <td style="text-align:left"><b>Courriel</b>
       </td>
-      <td style="text-align:left">The UNIWeb member&#x2019;s email address.</td>
+      <td style="text-align:left">Adresse courriel du membre UNIWeb.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Nom d&apos;utilisateur</b>
       </td>
-      <td style="text-align:left">A username that a UNIWeb member can use logging in to their UNIWeb account
-        instead of an email address. If a username isn&#x2019;t filled in when
-        creating a new UNIWeb account, the user&#x2019;s email is used as their
-        username instead. This cannot be changed later.</td>
+      <td style="text-align:left">Un nom d&apos;utilisateur qu&apos;un membre UNIWeb peut utiliser pour
+        se connecter &#xE0; son compte UNIWeb au lieu d&apos;une adresse e-mail.
+        Si un nom d&apos;utilisateur n&apos;est pas renseign&#xE9; lors de la cr&#xE9;ation
+        d&apos;un nouveau compte UNIWeb, l&apos;e-mail de l&apos;utilisateur est
+        utilis&#xE9; &#xE0; la place comme nom d&apos;utilisateur. Cela ne peut
+        pas &#xEA;tre modifi&#xE9; ult&#xE9;rieurement.
+        <br />
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Page d&apos;accueil</b>
       </td>
-      <td style="text-align:left">A link to the UNIWeb Member&#x2019;s primary website outside of UNIWeb.</td>
+      <td style="text-align:left">Un lien vers le site Web principal du membre UNIWeb en dehors d&apos;UNIWeb.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>T&#xE9;l&#xE9;phone</b>
       </td>
-      <td style="text-align:left">The UNIWeb member&#x2019;s telephone number.</td>
+      <td style="text-align:left">Le num&#xE9;ro de t&#xE9;l&#xE9;phone du membre UNIWeb.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Bureau</b>
       </td>
-      <td style="text-align:left">The UNIWeb member&#x2019;s office address.</td>
+      <td style="text-align:left">L&apos; adresse du bureau des membres d&apos;UNIWeb.</td>
     </tr>
   </tbody>
 </table>
