@@ -1,34 +1,34 @@
-# Managing Academic Units
+# Gestion des unités académiques
 
-In UNIWeb, the hierarchy of academic units defines the overall structure of the network. This hierarchy begins with the institution itself - the top-level academic unit - which breaks down into smaller academic units, and these academic units may themselves break down into smaller academic units. To help illustrate this hierarchy, UNIWeb refers to academic units differently depending on their relationship to other units:
+Dans UNIWeb, la hiérarchie des unités académiques définit la structure globale du réseau. Cette hiérarchie commence avec l'institution elle-même - l'unité académique de haut niveau - qui se décompose en unités académiques plus petites, et ces unités académiques peuvent elles-mêmes se décomposer en unités académiques plus petites. Pour aider à illustrer cette hiérarchie, UNIWeb fait référence aux unités académiques différemment selon leur relation avec les autres unités:
 
-Smaller academic units are nested into a _**parent unit**_. 
+Les petites unités académiques sont imbriquées dans une _**unité parentale**_.
 
-Parent units are composed of smaller _**sub-units**_.
+Les unités parentales sont composées de _**sous-unités**_ plus petites.
 
-Regardless of their position in the institution's hierarchy, academic units are further categorized by their _**unit type:**_ faculties, departments, programs, offices, or any other classification as required by the institution.
+Quelle que soit leur position dans la hiérarchie de l'établissement, les unités académiques sont en outre classées en fonction de leur _**type d'unité**_: facultés, départements, programmes, bureaux ou toute autre classification requise par l'établissement.
 
-Accordingly, every academic unit has a **name**, a **unit type** and a **parent unit**. See the following example:
+En conséquence, chaque unité scolaire a un **nom**, un **type d'unité** et une **unité parentale**. Voir l'exemple suivant:
 
-|  | Unit Name | Unit Type | Parent Unit |
+|  | **Nom de l'unité** | **Type d'unité** | Unité parentale |
 | :--- | :--- | :--- | :--- |
-| 1 | Theatre | Program | Department of Fine Arts |
-| 2 | Department of Fine Arts | Department | Faculty of Arts |
-| 3 | Faculty of Arts | Faculty | UNIWeb University |
-| 4 | UNIWeb University | University | \[no parent\] |
+| 1 | Théâtre | Programme | Département des beaux-arts |
+| 2 | Département des beaux-arts | Département | Faculté d'arts et de sciences |
+| 3 | Faculté d'arts et de sciences | Faculté | Université UNIWeb |
+| 4 | Université UNIWeb | Université | \[aucune unité parentale\] |
 
-Every institution's hierarchy of academic units is unique, and so academic units and unit types can be created, edited, and deleted in UNIWeb as necessary to reflect the structure of your institution as it grows.
+La hiérarchie des unités académiques de chaque établissement est unique, de sorte que les unités académiques et les types d'unités peuvent être créés, modifiés et supprimés dans UNIWeb si nécessaire pour refléter la structure de votre établissement au fur et à mesure de sa croissance.
 
-#### On this page:
+#### Sur cette page:
 
-* [Create an academic unit manually](managing-academic-units.md#create-an-academic-unit-manually)
-* [Create multiple academic units using a spreadsheet](managing-academic-units.md#create-multiple-academic-units-using-a-spreadsheet)
-* [Edit an academic unit](managing-academic-units.md#edit-an-academic-unit)
-* [Delete an academic unit](managing-academic-units.md#delete-an-academic-unit)
-* [Add a unit type](managing-academic-units.md#add-a-unit-type)
-* [Academic unit information fields](managing-academic-units.md#academic-unit-information-fields)
+* [Créer une unité académique manuellement](managing-academic-units.md#create-an-academic-unit-manually)
+* [Créer plusieurs unités académiques à partis d'une feuille de calcul](managing-academic-units.md#create-multiple-academic-units-using-a-spreadsheet)\*\*\*\*
+* [Modifier une unité académique](managing-academic-units.md#edit-an-academic-unit)\*\*\*\*
+* [Supprimer une unité académique](managing-academic-units.md#delete-an-academic-unit)
+* [Ajouter un type d'unité](managing-academic-units.md#add-a-unit-type)
+* [Champs d'informations sur l'unité scolaire](managing-academic-units.md#academic-unit-information-fields)
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Create an academic unit Manually
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Créer une unité académique manuellement**
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
@@ -46,7 +46,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 5. Click **Save**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Create multiple academic units using a spreadsheet
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Créer plusieurs unités académiques à l'aide d'une feuille de calcul**
 
 When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
 
@@ -93,7 +93,7 @@ The template spreadsheet includes all of the accepted [academic unit information
 **Tip:** If you enter a type or parent unit that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any blank fields that are mandatory or columns that UNIWeb does not recognize, you will receive a similar error.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Edit an academic unit
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Modifier une unité académique**
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -110,7 +110,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 5. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 6. Click **Save**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Delete an academic unit
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Supprimer une unité académique**
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -130,7 +130,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Note:** If there are any UNIWeb members who have the academic unit that you are trying to delete listed as their primary academic unit, you will first need to assign those members to other academic units, otherwise UNIWeb will not allow you to delete that academic unit.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Add a unit type
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajouter un type d'unité**
 
 _**Unit types**_ categorize academic units, and serve to make searching and filtering for particular academic units easier. Common unit types are **faculty**, **department**, ****or **office**, but you can add new unit types as needed to properly reflect the structure of your institution.
 
@@ -148,7 +148,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry field to add the unit type name in a second language. 
 5. Click **Save**.
 
-## Academic unit information fields
+## **Champs d'informations sur l'unité scolaire**
 
 | Data entry field | Purpose |
 | :--- | :--- |
