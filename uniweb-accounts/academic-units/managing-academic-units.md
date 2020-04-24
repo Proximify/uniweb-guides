@@ -28,7 +28,7 @@ La hiérarchie des unités académiques de chaque établissement est unique, de 
 * [Add a unit type](managing-academic-units.md#add-a-unit-type)
 * [Academic unit information fields](managing-academic-units.md#academic-unit-information-fields)
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Create an academic unit Manually
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Créer une unité académique manuellement**
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
