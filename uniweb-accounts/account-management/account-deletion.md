@@ -2,31 +2,31 @@
 
 #### On this page:
 
-* [Deleting your own UNIWeb account](account-deletion.md#deleting-your-own-uniweb-account)
-* [Deleting a UNIWeb member’s account](account-deletion.md#deleting-a-uniweb-members-account)
+* [Suppression de votre propre compte UNIWeb](account-deletion.md#deleting-your-own-uniweb-account)
+* [Suppression d'un compte de membre UNIWeb](account-deletion.md#deleting-a-uniweb-members-account)
 
-## Deleting your own UNIWeb account
+## **Suppression de votre propre compte UNIWeb**
 
-If you would like to delete your UNIWeb account, you must contact a system administrator to complete the account deletion process on your behalf.
+Si vous souhaitez supprimer votre compte UNIWeb, vous devez contacter un administrateur système pour terminer le processus de suppression de compte en votre nom.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Deleting a UNIWeb member’s account
+## ![](../../.gitbook/assets/key%20%281%29.svg) S**uppression d'un compte de membre UNIWeb**
 
-Deleting members from your UNIWeb network will immediately revoke their access to your institution’s UNIWeb network and will permanently delete their account information from the system.
+La suppression de membres de votre réseau UNIWeb annulera immédiatement leur accès au réseau UNIWeb de votre établissement et supprimera définitivement les informations de leur compte du système.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** Avant de commencer: cette procédure nécessite un [rôle d''administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Delete existing accounts
+* Supprimer les comptes existants
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Members**.
-2. In the centre panel, click the checkbox to the right of the UNIWeb member\(s\) whose accounts you would like to delete.
-3. In the right panel, click **Delete Selected**.
-4. In the _Delete selected members_ dialog, confirm that you have selected the correct UNIWeb member\(s\), and click **Delete**.
+1. À partir de votre page [Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), accédez **Membres**.
+2. Dans le panneau central, cochez la case à droite du ou des membres UNIWeb dont vous souhaitez supprimer les comptes.
+3. Dans le panneau de droite, cliquez sur **Supprimer la sélection.**
+4. Dans la boîte de dialogue Supprimer les membres sélectionnés, vérifiez que vous avez sélectionné le ou les membres UNIWeb appropriés, puis cliquez sur **Supprimer.**
 
 {% hint style="danger" %}
-**Note:** deleting a UNIWeb member’s account will not delete the research themes, articles, resources, or groups that they have created, but those assets will no longer display an owner or author.
+**À noter:** la suppression du compte d'un membre UNIWeb ne supprimera pas les thèmes de recherche, les articles, les ressources ou les groupes qu'ils ont créés, mais ces ressources n'afficheront plus le propriétaire ou l'auteur.
 {% endhint %}
 
