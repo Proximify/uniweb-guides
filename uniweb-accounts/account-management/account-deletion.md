@@ -1,6 +1,6 @@
 # Suppression de compte
 
-#### On this page:
+#### Sur cette page:
 
 * [Suppression de votre propre compte UNIWeb](account-deletion.md#deleting-your-own-uniweb-account)
 * [Suppression d'un compte de membre UNIWeb](account-deletion.md#deleting-a-uniweb-members-account)
