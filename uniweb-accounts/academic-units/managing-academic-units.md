@@ -17,9 +17,9 @@ En conséquence, chaque unité scolaire a un **nom**, un **type d'unité** et un
 | 3 | Faculté d'arts et de sciences | Faculté | Université UNIWeb |
 | 4 | Université UNIWeb | Université | \[aucune unité parentale\] |
 
-Every institution's hierarchy of academic units is unique, and so academic units and unit types can be created, edited, and deleted in UNIWeb as necessary to reflect the structure of your institution as it grows.
+La hiérarchie des unités académiques de chaque établissement est unique, de sorte que les unités académiques et les types d'unités peuvent être créés, modifiés et supprimés dans UNIWeb si nécessaire pour refléter la structure de votre établissement au fur et à mesure de sa croissance.
 
-#### On this page:
+#### Sur cette page:
 
 * [Create an academic unit manually](managing-academic-units.md#create-an-academic-unit-manually)
 * [Create multiple academic units using a spreadsheet](managing-academic-units.md#create-multiple-academic-units-using-a-spreadsheet)
