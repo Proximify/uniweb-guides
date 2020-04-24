@@ -31,13 +31,13 @@ La hiérarchie des unités académiques de chaque établissement est unique, de 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Créer une unité académique manuellement**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un[ rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes[: ](../access-control/managing-administrator-roles-and-permissions.md) 
 
-* Edit academic units
+* Modifier les unités académiques
 
-**With this set of permissions, a user may create new academic units only within the academic unit associated with their administrator role.**
-
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
+Avec cet ensemble d'autorisations, un utilisateur ne peut créer de nouvelles unités académiques que dans l'unité académique associée à son rôle d'administrateur.  
+  
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administrator](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**. 
