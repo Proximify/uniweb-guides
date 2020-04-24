@@ -40,7 +40,7 @@ Avec cet ensemble d'autorisations, un utilisateur ne peut créer de nouvelles un
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administrator](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**. 
+1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités academiques**. 
 2. In the right panel, click the **Add a new unit** button.
 3. In the _Add a new unit_ dialog, **fill in the** [**academic unit information**](managing-academic-units.md#academic-unit-information-fields) **data entry form**. Fields that are marked with an asterisk are mandatory.
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
