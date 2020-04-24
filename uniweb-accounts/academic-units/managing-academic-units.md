@@ -1,21 +1,21 @@
-# Managing Academic Units
+# Gestion des unités académiques
 
-In UNIWeb, the hierarchy of academic units defines the overall structure of the network. This hierarchy begins with the institution itself - the top-level academic unit - which breaks down into smaller academic units, and these academic units may themselves break down into smaller academic units. To help illustrate this hierarchy, UNIWeb refers to academic units differently depending on their relationship to other units:
+Dans UNIWeb, la hiérarchie des unités académiques définit la structure globale du réseau. Cette hiérarchie commence avec l'institution elle-même - l'unité académique de haut niveau - qui se décompose en unités académiques plus petites, et ces unités académiques peuvent elles-mêmes se décomposer en unités académiques plus petites. Pour aider à illustrer cette hiérarchie, UNIWeb fait référence aux unités académiques différemment selon leur relation avec les autres unités:
 
-Smaller academic units are nested into a _**parent unit**_. 
+Les petites unités académiques sont imbriquées dans une _**unité parentale**_.
 
-Parent units are composed of smaller _**sub-units**_.
+Les unités parentales sont composées de _**sous-unités**_ plus petites.
 
-Regardless of their position in the institution's hierarchy, academic units are further categorized by their _**unit type:**_ faculties, departments, programs, offices, or any other classification as required by the institution.
+Quelle que soit leur position dans la hiérarchie de l'établissement, les unités académiques sont en outre classées en fonction de leur _**type d'unité**_: facultés, départements, programmes, bureaux ou toute autre classification requise par l'établissement.
 
-Accordingly, every academic unit has a **name**, a **unit type** and a **parent unit**. See the following example:
+En conséquence, chaque unité scolaire a un **nom**, un **type d'unité** et une **unité parentale**. Voir l'exemple suivant:
 
-|  | Unit Name | Unit Type | Parent Unit |
+|  | **Nom de l'unité** | **Type d'unité** | Unité parentale |
 | :--- | :--- | :--- | :--- |
-| 1 | Theatre | Program | Department of Fine Arts |
-| 2 | Department of Fine Arts | Department | Faculty of Arts |
-| 3 | Faculty of Arts | Faculty | UNIWeb University |
-| 4 | UNIWeb University | University | \[no parent\] |
+| 1 | Théâtre | Programme | Département des beaux-arts |
+| 2 | Département des beaux-arts | Département | Faculté d'arts et de sciences |
+| 3 | Faculté d'arts et de sciences | Faculté | Université UNIWeb |
+| 4 | Université UNIWeb | Université | \[aucune unité parentale\] |
 
 Every institution's hierarchy of academic units is unique, and so academic units and unit types can be created, edited, and deleted in UNIWeb as necessary to reflect the structure of your institution as it grows.
 
