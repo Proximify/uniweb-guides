@@ -1,4 +1,4 @@
-# Customizing UNIWeb
+# La personnalisation d'UNIWeb
 
 UNIWeb is a white-label product that can be customized extensively to meet the specific needs of the institution using it. While the general branding and aesthetics of the user interface will be set to the institution's preferences at time of installation, UNIWeb's functionality can also be further extended to [capture information in the UNIWeb CV](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms) that is not a default part of the Canadian Common CV. 
 
@@ -20,23 +20,24 @@ By default, UNIWeb’s data entry forms are matched with those of the Canadian C
 
 Contact us at **requests@proximify.ca** for further information on creating custom data entry fields in your institution’s UNIWeb instance.
 
-## Creating custom report templates
+## **Création de modèles de rapports personnalisés**
 
-Custom reports are documents that present information from Members’ UNIWeb CV according to the needs of a particular institution or department. Institutions often use UNIWeb’s report templates for annual activity reporting purposes.
+Les rapports personnalisés sont des documents qui présentent des informations du CV UNIWeb des membres en fonction des besoins d'une institution ou d'un département particulier. Les institutions utilisent souvent les modèles de rapport UNIWeb à des fins de rapport d'activité annuel.
 
-Institutions may contact Proximify to have new report templates created based on their own brand guidelines, specifications, and requirements.
+Les institutions peuvent contacter Proximify pour faire créer de nouveaux modèles de rapport en fonction de leurs propres directives, spécifications et exigences de marque.
 
-**The design of a report template includes at minimum three things:**
+**La conception d'un modèle de rapport comprend au moins trois éléments:**
 
-* The **layout and styling** of the report. An existing sample document is the easiest way to present how you want the document to look.
-* A **mapping**  document that indicates which UNIWeb CV fields should be used to populate the report with information, and where the information should be presented in the report. Data in the report can be arranged in any order—it is not constrained by where it appears in the UNIWeb CV.
-* Any **formulas** that should be applied to the data. The most common examples of this are lifetime summaries, such as of funding, publications, or students graduated. UNIWeb Report takes the raw data and can perform the necessary calculations in order to make the data meaningful to reviewers.
+* **La mise en page et le style** du rapport. Un exemple de document existant est le moyen le plus simple de présenter l'apparence du document.
+* Un document de **mise en correspondance** qui indique quels champs CV UNIWeb doivent être utilisés pour remplir le rapport avec des informations, et où les informations doivent être présentées dans le rapport. Les données du rapport peuvent être organisées dans n'importe quel ordre - elles ne sont pas limitées par leur emplacement dans le CV UNIWeb.
+* Toutes les **formules** qui doivent être appliquées aux données. Les exemples les plus courants sont les résumés à vie, tels que le financement, les publications ou les étudiants diplômés. UNIWeb Report prend les données brutes et peut effectuer les calculs nécessaires afin de rendre les données significatives pour les examinateurs.
 
-For more information on the report design and creation process, contact us at **requests@proximify.ca.**
+Pour plus d'informations sur le processus de conception et de création du rapport, contactez-nous à **requests@proximify.ca.**  
 
-## Creating custom input templates
 
-You can have custom input templates created for your UNIWeb instance to help UNIWeb members update their CVs and fill out reports. These templates can be assigned to an academic unit to allow researchers in that unit to input CV data without being shown other custom data entry fields that are not relevant to their work, or the template can be designed to assist with the data entry of a specific internal report.
+## **Création de modèles d'entrée personnalisés**
 
-Contact us at **requests@proximify.ca** for further information on creating input templates in your institution’s UNIWeb instance.
+Vous pouvez créer des modèles de saisie personnalisés pour votre instance UNIWeb pour aider les membres d'UNIWeb à mettre à jour leur CV et à remplir des rapports. Ces modèles peuvent être attribués à une unité universitaire pour permettre aux chercheurs de cette unité de saisir des données de CV sans s'afficher d'autres champs de saisie de données personnalisés qui ne sont pas pertinents pour leur travail, ou le modèle peut être conçu pour aider à la saisie de données d'un spécifique rapport interne.
+
+Contactez-nous à **requests@proximify.ca** pour plus d'informations sur la création de modèles d'entrée dans l'instance UNIWeb de votre institution.
 
