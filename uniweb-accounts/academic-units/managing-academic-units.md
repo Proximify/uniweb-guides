@@ -42,7 +42,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
 2. Dans le panneau de droite, cliquez sur le bouton **Ajouter une nouvelle unité**.
-3. In the _Add a new unit_ dialog, **fill in the** [**academic unit information**](managing-academic-units.md#academic-unit-information-fields) **data entry form**. Fields that are marked with an asterisk are mandatory.
+3. In the _Add a new unit_ dialog, **fill in the** [**academic unit information**](managing-academic-units.md#academic-unit-information-fields) **data entry form**. Fields that are marked with an asterisk are mandatory. Dans la boîte de dialogue _Ajouter une nouvelle unité_, **remplissez le formulaire** de saisie des informations sur l'unité universitaire. Les champs marqués d'un astérisque sont obligatoires. 
 4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
 5. Click **Save**.
 
