@@ -12,6 +12,6 @@ La hiérarchie des unités académiques de chaque établissement est unique, de 
 
 ### **Dans cette section** :
 
-* [Managing Academic Units](managing-academic-units.md)
-* [Managing Cross-Appointments](cross-appointments.md)
+* [Gestion des unités académiques](managing-academic-units.md)
+* [Gestion de membres par affectation](cross-appointments.md)
 
