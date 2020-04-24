@@ -12,7 +12,7 @@
     * [Accéder votre compte](uniweb-accounts/account-management/account-login.md)
     * [Information sur l'adhésion](uniweb-accounts/account-management/member-account-information.md)
     * [Suppression de compte](uniweb-accounts/account-management/account-deletion.md)
-  * [Academic Units](uniweb-accounts/academic-units/README.md)
+  * [Unités académiques](uniweb-accounts/academic-units/README.md)
     * [Managing Academic Units](uniweb-accounts/academic-units/managing-academic-units.md)
     * [Cross-Appointments](uniweb-accounts/academic-units/cross-appointments.md)
   * [Access Control](uniweb-accounts/access-control/README.md)
