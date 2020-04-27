@@ -2,20 +2,20 @@
 
 Dans UNIWeb, la hiérarchie des unités académiques définit la structure globale du réseau. Cette hiérarchie commence avec l'institution elle-même - l'unité académique de haut niveau - qui se décompose en unités académiques plus petites, et ces unités académiques peuvent elles-mêmes se décomposer en unités académiques plus petites. Pour aider à illustrer cette hiérarchie, UNIWeb fait référence aux unités académiques différemment selon leur relation avec les autres unités:
 
-Les petites unités académiques sont imbriquées dans une _**unité parentale**_.
+Les petites unités académiques sont imbriquées dans une _**unité parente**_.
 
-Les unités parentales sont composées de _**sous-unités**_ plus petites.
+Les unités parentes sont composées de _**sous-unités**_ plus petites.
 
 Quelle que soit leur position dans la hiérarchie de l'établissement, les unités académiques sont en outre classées en fonction de leur _**type d'unité**_: facultés, départements, programmes, bureaux ou toute autre classification requise par l'établissement.
 
-En conséquence, chaque unité scolaire a un **nom**, un **type d'unité** et une **unité parentale**. Voir l'exemple suivant:
+En conséquence, chaque unité scolaire a un **nom**, un **type d'unité** et une **unité parente**. Voir l'exemple suivant:
 
-|  | **Nom de l'unité** | **Type d'unité** | Unité parentale |
+|  | **Nom de l'unité** | **Type d'unité** | Unité parente |
 | :--- | :--- | :--- | :--- |
 | 1 | Théâtre | Programme | Département des beaux-arts |
 | 2 | Département des beaux-arts | Département | Faculté d'arts et de sciences |
 | 3 | Faculté d'arts et de sciences | Faculté | Université UNIWeb |
-| 4 | Université UNIWeb | Université | \[aucune unité parentale\] |
+| 4 | Université UNIWeb | Université | \[aucune unité parente\] |
 
 La hiérarchie des unités académiques de chaque établissement est unique, de sorte que les unités académiques et les types d'unités peuvent être créés, modifiés et supprimés dans UNIWeb si nécessaire pour refléter la structure de votre établissement au fur et à mesure de sa croissance.
 
@@ -68,7 +68,7 @@ Pour démarrer la feuille de calcul de votre unité académique, vous pouvez té
 
 Le modèle de feuille de calcul comprend tous les champs d'[**information sur des unités académiques**](managing-academic-units.md#academic-unit-information-fields) acceptés qui peuvent être utilisés lors de la création d'une feuille de calcul d'unité universitaire. Un exemple d'enregistrement est répertorié ci-dessous; **les entrées marquées d'un astérisque sont obligatoires:**
 
-| Type\* | Nom de l'unité\* | Unité parentale \* | Nom en français | Nom d'URL | Page d'accueil | Publique | Couleur |
+| Type\* | Nom de l'unité\* | Unité parente \* | Nom en français | Nom d'URL | Page d'accueil | Publique | Couleur |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Département | Ingénierie électrique | Faculté des sciences | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng | Oui | F4D5E2 |
 
@@ -150,12 +150,12 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 
 ## **Champs d'informations sur l'unité scolaire**
 
-| Data entry field | Purpose |
+| Champ de saisie des données | Objectif |
 | :--- | :--- |
-| **Name** | The name of the academic unit. |
-| **Type** | The academic unit’s unit type. |
-| **Parent Unit** | The higher level unit that contains this unit. For example, if a **Faculty of Engineering** academic unit contains the **Department of Electrical Engineering** academic unit, the Faculty of Engineering is considered the parent unit. |
-| **URL Name** | You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as **faculty-of-engineering**, and it would appear in UNIWeb as https://www.uniweb.network/members?unit=**faculty-of-engineering** . |
+| **Nom** | Le nom de l'unité scolaire. |
+| **Type** | Type d'unité de l'unité scolaire. |
+| **Unité parente** | L' unité de niveau supérieur qui contient cette unité. Par exemple, si une unité académique de la **Faculté de génie** contient l'unité universitaire du **Département de génie électrique**, la Faculté de génie est considérée comme l'unité parente. |
+| **Nom d'URL** | You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as **faculty-of-engineering**, and it would appear in UNIWeb as https://www.uniweb.network/members?unit=**faculty-of-engineering** . |
 | **Homepage** | A link to the main website for this academic unit - it can be a website that is external from UNIWeb. This webpage will be linked through the academic unit’s name on its dedicated page in the Members section of UNIWeb. |
 | **Public Visibility** | Whether you would like this academic unit to appear in the public version of your UNIWeb network. If this checkbox is deselected, the academic unit will only be visible to members who are logged in to the UNIWeb network. |
 | **Colour** | The hexadecimal colour value that will represent this academic unit in research connection maps. If you do not define a colour value for an academic unit, it will inherit the colour of its parent unit. |
