@@ -6,16 +6,16 @@ Les membres peuvent également être associés à des unités d'enseignement sec
 
 Vous pouvez trouver l'unité principale d'un membre d'UNIWeb tout en haut de sa page de [profil](../../networking-on-uniweb/filling-out-your-public-profile.md) à côté de son nom et de son titre, tandis que ses nominations croisées sont répertoriées plus bas sur leur profil, dans la section **Nominations actuelles.**
 
-Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croisées si nécessaire via leur profil public, mais seuls les administrateurs peuvent modifier l'unité universitaire principale d'un membre d'UNIWeb. Consultez notre article sur la [Editing Account Information](../account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members) to learn how to change a UNIWeb member’s primary academic unit.
+Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croisées si nécessaire via leur profil public, mais seuls les administrateurs peuvent modifier l'unité universitaire principale d'un membre d'UNIWeb. Consultez notre article sur la [l'information sur l'adhésion](../account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members) pour savoir comment modifier l'unité universitaire principale d'un membre UNIWeb.
 
-#### On this page:
+**Sur cette page:**
 
-* [Adding a cross-appointment to your UNIWeb account](cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
-* [Edit or delete a cross-appointment from your UNIWeb account](cross-appointments.md#editing-or-deleting-a-cross-appointment-from-your-uniweb-account)
-* [Adding cross-appointees to academic units](cross-appointments.md#adding-cross-appointees-to-academic-units)
-* [Removing cross-appointees from academic units](cross-appointments.md#removing-cross-appointees-from-academic-units)
+* [Ajout d'un membre par affectation à votre compte UNIWeb](cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
+* [Modifier ou supprimer un membre par affectation de votre compte UNIWeb](cross-appointments.md#editing-or-deleting-a-cross-appointment-from-your-uniweb-account)
+* [Ajout des membres par affectation aux unités académiques](cross-appointments.md#adding-cross-appointees-to-academic-units)
+* [Retrait des membres par affectation des unités universitaires ](cross-appointments.md#removing-cross-appointees-from-academic-units)
 
-## Adding a cross-appointment to your UNIWeb account
+## **Ajout d'un membre par affectation à votre compte UNIWeb**
 
 You can add a cross-appointment to your own UNIWeb account to reflect any appointments outside of your main academic unit. Cross-appointments are listed and managed in your [profile](../../networking-on-uniweb/filling-out-your-public-profile.md), under the _Current Appointments_ heading.
 
@@ -24,14 +24,14 @@ You can add a cross-appointment to your own UNIWeb account to reflect any appoin
 3. Add or edit information in the _Current Appointments_ data entry form as needed.
 4. Click **Save.**
 
-## Editing or deleting a cross appointment from your UNIWeb account
+## **Modifier ou supprimer un rendez-vous croisé de votre compte UNIWeb**
 
 1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
 2. In the centre panel, navigate to the **Current Appointments** section, and click the **Edit button** next to the cross-appointment you would like to modify.
 3. Edit information in the _Current Appointments_ data entry form as needed.
 4. Click **Save** to save your changes, or **Delete** to remove the cross-appointment from your account**.**
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Adding cross-appointees to academic units
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajout des membre par affectation aux unités académiques**
 
 As an administrator, you can add a UNIWeb member to your academic unit as a cross-appointee. This will add a secondary academic unit to their account, and will allow administrators in the cross-appointed unit to perform administrative tasks on behalf of the cross-appointee.
 
@@ -54,7 +54,7 @@ If you have permissions over **both** of the academic units involved in the cros
 
 If you do not have an administrator role in the UNIWeb member's primary unit, UNIWeb will ask them to confirm or deny the appointment. The new cross appointee will be listed on the academic unit's administration page under ‘Cross-appointees’ with a _Pending_ tag next to their name, to show that the member has yet to confirm their appointment. If they confirm the appointment, the _Pending_ tag will be removed, and the cross-appointment will appear on the cross-appointee's [profile](../../networking-on-uniweb/filling-out-your-public-profile.md) page, in the _Current Appointments_ section.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Removing cross-appointees from academic units
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Retrait des membre par affectation des unités universitaires**
 
 As an administrator, you can remove a cross-appointee from your academic unit. This will remove the secondary academic unit from their account, and **will remove administrative access to their data for administrators in the secondary unit.**
 
