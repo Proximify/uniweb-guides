@@ -48,38 +48,38 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Créer plusieurs unités académiques à l'aide d'une feuille de calcul**
 
-When setting up your UNIWeb network for the first time, you may need to add many new academic units at once. You can create academic units in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the academic units that you would like to add. UNIWeb will scan the spreadsheet for academic units that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
+Lorsque vous configurez votre réseau UNIWeb pour la première fois, vous devrez peut-être ajouter plusieurs nouvelles unités académiques à la fois. Vous pouvez créer des unités académiques en masse en téléchargeant une feuille de calcul dans UNIWeb qui comprend des informations pour toutes les unités académiques que vous souhaitez ajouter. UNIWeb analysera la feuille de calcul pour rechercher les unités académiques qui existent déjà dans le réseau, et ainsi vous pouvez maintenir et télécharger une seule feuille de calcul plusieurs fois sans créer de doublons.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un[ rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit academic units
+* **Modifier les unités académiques**
 
-**With this set of permissions, a user may create new academic units only within the academic unit associated with their administrator role.**
+**Avec cet ensemble d'autorisations, un utilisateur ne peut créer de nouvelles unités académiques que dans l'unité académique associée à son rôle d'administrateur.**
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.  
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-### Creating an academic unit spreadsheet
+### **Création d'une feuille de calcul d'unité académique**
 
-To get your academic unit spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb's requirements.
+Pour démarrer la feuille de calcul de votre unité académique, vous pouvez télécharger une feuille de calcul modèle qui est déjà correctement formatée pour les exigences d'UNIWeb.
 
 {% file src="../../.gitbook/assets/units\_creation\_templates.zip" caption="Download an academic unit spreadsheet template" %}
 
-The template spreadsheet includes all of the accepted [academic unit information fields](managing-academic-units.md#academic-unit-information-fields) that can be used when creating an academic unit spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
+Le modèle de feuille de calcul comprend tous les champs d'[**information sur des unités académiques**](managing-academic-units.md#academic-unit-information-fields) acceptés qui peuvent être utilisés lors de la création d'une feuille de calcul d'unité universitaire. Un exemple d'enregistrement est répertorié ci-dessous; **les entrées marquées d'un astérisque sont obligatoires:**
 
-| Type\* | Unit Name\* | Parent Unit\* | French Name | URL Name | Homepage | Public | Colour |
+| Type\* | Nom de l'unité\* | Unité parentale \* | Nom en français | Nom d'URL | Page d'accueil | Publique | Couleur |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Department | Electrical Engineering | Faculty of Science | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng | Yes | F4D5E2 |
+| Département | Ingénierie électrique | Faculté des sciences | Ingénierie Électrique | electrical-engineering | www.uniweb.io/eleng | Oui | F4D5E2 |
 
 {% hint style="success" %}
-**Best practices for building your spreadsheet:**
+**Meilleures pratiques pour créer votre feuille de calcul:**
 
-* The order of the columns does not matter.
-* Each row corresponds to one academic unit. 
-* Empty rows are ignored 
-* If a row provides the same unit name of an existing academic unit in the system, the row will be ignored \(this is how UNIWeb screens for duplicate entries\).
-* Columns that UNIWeb does not recognize will cause an error.
+* L'ordre des colonnes n'a pas d'importance.
+* Chaque ligne correspond à une unité académique.
+* Les lignes vides sont ignorées
+* Si une ligne fournit le même nom d'unité d'une unité académique existante dans le système, la ligne sera ignorée \(c'est ainsi qu'UNIWeb filtre les entrées en double\).
+* Les colonnes que UNIWeb ne reconnaît pas ne généraient pas une erreur.
 {% endhint %}
 
 ### Uploading your spreadsheet to UNIWeb
