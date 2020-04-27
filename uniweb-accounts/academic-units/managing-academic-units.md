@@ -84,7 +84,7 @@ Le modèle de feuille de calcul comprend tous les champs d'[**information sur de
 
 ### Uploading your spreadsheet to UNIWeb
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**.
+1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
 2. In the right panel, click **Add units from a file**
 3. In the _Add new units_ dialog, click **Choose File**, and locate your academic units spreadsheet on your computer.
 4. Click **Submit**.
@@ -103,7 +103,7 @@ Le modèle de feuille de calcul comprend tous les champs d'[**information sur de
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**.
+1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
 2. In the centre panel, locate and click on the academic unit that you would like to edit.
 3. Click **Edit** to the right of the _Unit Information_ heading.
 4. Add to or edit the [academic unit information ](managing-academic-units.md#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
@@ -120,7 +120,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**.
+1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
 2. In the centre panel, locate and click on the checkbox to the right of the academic unit\(s\) that you would like to delete.
 3. In the right panel, click **Delete selected**.
 4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
@@ -142,11 +142,11 @@ Les _**types d'unités**_ catégorisent les unités académiques et servent à f
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/#the-administration-page) page, go to **Academic Units**.
-2. In the right panel, click **Add a unit type**.
-3. In the _Create and academic unit type_ dialog, enter a name for your new academic unit type.
-4. **Optional:** if necessary, click the **multilingual** toggle next to the data entry field to add the unit type name in a second language. 
-5. Click **Save**.
+1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
+2. Dans le panneau de droite, cliquez sur **Ajouter un type d'unité.**
+3. Dans la boîte de dialogue _Créer et type d'unité académique_, entrez un nom pour votre nouveau type d'unité académique.
+4. **Facultatif:** si nécessaire, cliquez sur la bascule **multilingue** à côté du champ de saisie de données pour ajouter le nom du type d'unité dans une seconde langue.
+5. Cliquez sur **Enregistrer**.
 
 ## **Champs d'informations sur l'unité scolaire**
 
