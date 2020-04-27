@@ -14,7 +14,7 @@
     * [Suppression de compte](uniweb-accounts/account-management/account-deletion.md)
   * [Unités académiques](uniweb-accounts/academic-units/README.md)
     * [Gestion des unités académiques](uniweb-accounts/academic-units/managing-academic-units.md)
-    * [Cross-Appointments](uniweb-accounts/academic-units/cross-appointments.md)
+    * [Membres par affectation](uniweb-accounts/academic-units/cross-appointments.md)
   * [Access Control](uniweb-accounts/access-control/README.md)
     * [La gestion de rôles d'administrateur et des permissions](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md)
     * [Managing Administrators](uniweb-accounts/access-control/managing-administrators.md)

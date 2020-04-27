@@ -1,4 +1,4 @@
-# Cross-Appointments
+# Membres par affectation
 
 When a new member joins UNIWeb, their account is given a primary academic unit affiliation. This, along with their position title, defines their relationship and rank within the institution.
 
