@@ -123,10 +123,10 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
-2. In the centre panel, locate and click on the checkbox to the right of the academic unit\(s\) that you would like to delete.
-3. In the right panel, click **Delete selected**.
-4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
-5. Click **Delete**.
+2. Dans le panneau central, localisez et cliquez sur la case à cocher à droite des unités universitaires que vous souhaitez supprimer.
+3. Dans le panneau de droite, cliquez sur **Supprimer la sélection**.
+4. Dans la boîte de dialogue _Supprimer les unités sélectionnées_, confirmez que vous avez sélectionné les unités académiques appropriées.
+5. Cliquez sur **Supprimer**.
 
 {% hint style="danger" %}
 **À noter:** S'il y a des membres d'UNIWeb qui ont l'unité académique que vous essayez de supprimer répertoriée comme unité académique principale, vous devrez d'abord affecter ces membres à d'autres unités académiques, sinon UNIWeb ne vous permettra pas de supprimer cette unité académique.
