@@ -127,7 +127,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 5. Click **Delete**.
 
 {% hint style="danger" %}
-**Note:** If there are any UNIWeb members who have the academic unit that you are trying to delete listed as their primary academic unit, you will first need to assign those members to other academic units, otherwise UNIWeb will not allow you to delete that academic unit.
+**À noter:** S'il y a des membres d'UNIWeb qui ont l'unité académique que vous essayez de supprimer répertoriée comme unité académique principale, vous devrez d'abord affecter ces membres à d'autres unités académiques, sinon UNIWeb ne vous permettra pas de supprimer cette unité académique.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajouter un type d'unité**
