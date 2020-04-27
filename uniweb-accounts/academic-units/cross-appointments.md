@@ -1,12 +1,12 @@
 # Membres par affectation
 
-When a new member joins UNIWeb, their account is given a primary academic unit affiliation. This, along with their position title, defines their relationship and rank within the institution.
+Lorsqu'un nouveau membre rejoint UNIWeb, son compte reçoit une affiliation d'unité scolaire principale. Ceci, avec leur titre de poste, définit leur relation et leur rang au sein de l'institution.
 
-Members can be associated with secondary academic units as well, called _**cross-appointments**_. Cross-appointments reflect the real-world appointments of those members, or _**cross-appointees**_, to faculties and departments outside of their primary unit, while also allowing administrators with the permissions over the secondary unit to access the member’s data, download reports, help the user reset their password, and otherwise treat the cross-appointee as a full member of that unit. A UNIWeb member can have only one primary academic unit, but may have multiple secondary units listed as cross-appointments.
+Les membres peuvent également être associés à des unités d'enseignement secondaire, appelées **membres par affectation**. Les membres par affectation reflètent les nominations réelles de ces membres dans les facultés et départements en dehors de leur unité principale, tout en permettant également aux administrateurs disposant des autorisations sur l'unité secondaire d'accéder aux données du membre, de télécharger des rapports, d'aider le l'utilisateur réinitialise son mot de passe et, sinon, traite la personne désignée comme un membre à part entière de cette unité. Un membre d'UNIWeb ne peut avoir qu'une seule unité scolaire primaire, mais peut avoir plusieurs unités secondaires répertoriées comme nominations croisées.
 
-You can find a UNIWeb member's primary unit at the very top of their [profile](../../networking-on-uniweb/filling-out-your-public-profile.md) page, next to their name and title, while their cross appointments are listed lower on their profile, in the **Current Appointments** section. 
+Vous pouvez trouver l'unité principale d'un membre d'UNIWeb tout en haut de sa page de [profil](../../networking-on-uniweb/filling-out-your-public-profile.md) à côté de son nom et de son titre, tandis que ses nominations croisées sont répertoriées plus bas sur leur profil, dans la section **Nominations actuelles.**
 
-UNIWeb members can add or remove their own cross appointments as necessary through their public profile, but only administrators can change a UNIWeb member's primary academic unit. See our article on [Editing Account Information](../account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members) to learn how to change a UNIWeb member’s primary academic unit.
+Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croisées si nécessaire via leur profil public, mais seuls les administrateurs peuvent modifier l'unité universitaire principale d'un membre d'UNIWeb. Consultez notre article sur la [Editing Account Information](../account-management/member-account-information.md#editing-the-account-information-of-other-uniweb-members) to learn how to change a UNIWeb member’s primary academic unit.
 
 #### On this page:
 
