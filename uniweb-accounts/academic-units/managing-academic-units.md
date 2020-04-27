@@ -85,12 +85,12 @@ Le modèle de feuille de calcul comprend tous les champs d'[**information sur de
 ### Uploading your spreadsheet to UNIWeb
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
-2. In the right panel, click **Add units from a file**
-3. In the _Add new units_ dialog, click **Choose File**, and locate your academic units spreadsheet on your computer.
-4. Click **Submit**.
+2. Dans le panneau de droite, cliquez sur **Ajouter des unités à partir d'un fichier**
+3. Dans la boîte de dialogue _Ajouter de nouvelles unités_, cliquez sur **Choisir un fichier** et recherchez la feuille de calcul de vos unités académiques sur votre ordinateur.
+4. Cliquez sur **Soumettre.**
 
 {% hint style="info" %}
-**Tip:** If you enter a type or parent unit that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any blank fields that are mandatory or columns that UNIWeb does not recognize, you will receive a similar error.
+**Conseil**: Si vous entrez un type ou une unité parent qui n'existe pas sur le réseau, vous recevrez un message d'erreur. Cela décrira l'erreur, indiquera où elle se trouve dans votre feuille de calcul et vous fournira une liste de remplacements appropriés. Si votre feuille de calcul contient des champs vides obligatoires ou des colonnes que UNIWeb ne reconnaît pas, vous recevrez une erreur similaire.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Modifier une unité académique**
@@ -104,11 +104,13 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
-2. In the centre panel, locate and click on the academic unit that you would like to edit.
-3. Click **Edit** to the right of the _Unit Information_ heading.
-4. Add to or edit the [academic unit information ](managing-academic-units.md#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
-5. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
-6. Click **Save**.
+2. Dans le panneau central, localisez et cliquez sur l'unité scolaire que vous souhaitez modifier.
+3. Cliquez sur **Modifier** à droite de l'en-tête Informations sur l'unité.
+4. Ajoutez ou modifiez les [informations sur l'unité académique ](managing-academic-units.md#academic-unit-information-fields)dans le formulaire de saisie des informations sur l'unité selon vos besoins.
+5. **Facultatif:** si nécessaire, cliquez sur la bascule multilingue à côté des champs de saisie de données, le cas échéant, pour ajouter des informations sur l'unité dans une deuxième langue.
+6. Cliquez sur **Sauvegarder**
+
+.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Supprimer une unité académique**
 
@@ -146,7 +148,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 2. Dans le panneau de droite, cliquez sur **Ajouter un type d'unité.**
 3. Dans la boîte de dialogue _Créer et type d'unité académique_, entrez un nom pour votre nouveau type d'unité académique.
 4. **Facultatif:** si nécessaire, cliquez sur la bascule **multilingue** à côté du champ de saisie de données pour ajouter le nom du type d'unité dans une seconde langue.
-5. Cliquez sur **Enregistrer**.
+5. Cliquez sur **Sauvegarder.**
 
 ## **Champs d'informations sur l'unité scolaire**
 
