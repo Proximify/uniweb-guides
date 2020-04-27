@@ -10,14 +10,14 @@ Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croi
 
 **Sur cette page:**
 
-* [Ajout d'un membre par affectation à votre compte UNIWeb](cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
+* [Devenir un membre par affectation à partir de votre compte UNIWeb](cross-appointments.md#adding-a-cross-appointment-to-your-uniweb-account)
 * [Modifier ou supprimer un membre par affectation de votre compte UNIWeb](cross-appointments.md#editing-or-deleting-a-cross-appointment-from-your-uniweb-account)
 * [Ajout des membres par affectation aux unités académiques](cross-appointments.md#adding-cross-appointees-to-academic-units)
 * [Retrait des membres par affectation des unités universitaires ](cross-appointments.md#removing-cross-appointees-from-academic-units)
 
-## **Ajout d'un membre par affectation à votre compte UNIWeb**
+## **Devenir un membre par affectation à partir de votre compte UNIWeb**
 
-You can add a cross-appointment to your own UNIWeb account to reflect any appointments outside of your main academic unit. Cross-appointments are listed and managed in your [profile](../../networking-on-uniweb/filling-out-your-public-profile.md), under the _Current Appointments_ heading.
+À partir de votre compte UNIWeb, vous pouvez devenir un membre par affectation afin de refléter tout rendez-vous en dehors de votre unité académique principale. La liste des unités affectées sont répertoriés et gérés dans votre [profil](../../networking-on-uniweb/filling-out-your-public-profile.md), sous la rubrique Affections en cours.
 
 1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
 2. In the centre panel, navigate to the **Current Appointments** section, and click the **Add button** to the right of the section title.
