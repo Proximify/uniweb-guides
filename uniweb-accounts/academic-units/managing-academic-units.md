@@ -135,11 +135,11 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 Les _**types d'unités**_ catégorisent les unités académiques et servent à faciliter la recherche et le filtrage pour des unités académiques particulières. Les types d'unités courants sont les **facultés**, les **départements** ou les **bureaux**, mais vous pouvez ajouter de nouveaux types d'unités selon les besoins pour refléter correctement la structure de votre établissement.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un[ rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit academic units
+* **Modifier les unités académiques**
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration](../../navigating-uniweb/#the-administration-page) page, go to **Academic Units**.
