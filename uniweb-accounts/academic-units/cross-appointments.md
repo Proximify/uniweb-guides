@@ -20,9 +20,9 @@ Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croi
 À partir de votre compte UNIWeb, vous pouvez devenir un membre par affectation afin de refléter tout rendez-vous en dehors de votre unité académique principale. La liste des unités affectées sont répertoriés et gérés dans votre [profil](../../networking-on-uniweb/filling-out-your-public-profile.md), sous la rubrique Affections en cours.
 
 1. A partir de votre page d'accueil UNIWeb, [page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil**.
-2. In the centre panel, navigate to the **Current Appointments** section, and click the **Add button** to the right of the section title.
-3. Add or edit information in the _Current Appointments_ data entry form as needed.
-4. Click **Save.**
+2. Dans le panneau central, accédez à la section **Affectations en cours**, et cliquez sur le bouton **Ajouter** à droite du titre de la section.
+3. Ajoutez ou modifiez des informations dans le formulaire de saisie de données _affectations actuels_, si nécessaire.
+4. Cliquez sur **Enregistrer.**
 
 ## **Modifier ou supprimer un rendez-vous croisé de votre compte UNIWeb**
 
