@@ -55,7 +55,7 @@ Lorsque vous configurez votre réseau UNIWeb pour la première fois, vous devrez
 
 * **Modifier les unités académiques**
 
-**Avec cet ensemble d'autorisations, un utilisateur ne peut créer de nouvelles unités académiques que dans l'unité académique associée à son rôle d'administrateur.**
+Avec cet ensemble d'autorisations, un utilisateur ne peut créer de nouvelles unités académiques que dans l'unité académique associée à son rôle d'administrateur.
 
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
@@ -96,11 +96,11 @@ Le modèle de feuille de calcul comprend tous les champs d'[**information sur de
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Modifier une unité académique**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un[ rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit academic units
+* **Modifier les unités académiques**
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**.
@@ -113,11 +113,11 @@ If you have not been assigned a role with the permissions listed above, and beli
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Supprimer une unité académique**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un[ rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit academic units
+* **Modifier les unités académiques**
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**.
@@ -132,7 +132,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajouter un type d'unité**
 
-_**Unit types**_ categorize academic units, and serve to make searching and filtering for particular academic units easier. Common unit types are **faculty**, **department**, ****or **office**, but you can add new unit types as needed to properly reflect the structure of your institution.
+Les _**types d'unités**_ catégorisent les unités académiques et servent à faciliter la recherche et le filtrage pour des unités académiques particulières. Les types d'unités courants sont les **facultés**, les **départements** ou les **bureaux**, mais vous pouvez ajouter de nouveaux types d'unités selon les besoins pour refléter correctement la structure de votre établissement.
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
