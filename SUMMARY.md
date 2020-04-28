@@ -15,7 +15,7 @@
   * [Unités académiques](uniweb-accounts/academic-units/README.md)
     * [Gestion des unités académiques](uniweb-accounts/academic-units/managing-academic-units.md)
     * [Membres par affectation](uniweb-accounts/academic-units/cross-appointments.md)
-  * [Access Control](uniweb-accounts/access-control/README.md)
+  * [Contrôle d'accès](uniweb-accounts/access-control/README.md)
     * [La gestion de rôles d'administrateur et des permissions](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md)
     * [Managing Administrators](uniweb-accounts/access-control/managing-administrators.md)
     * [Delegate Access](uniweb-accounts/access-control/delegate-access.md)
