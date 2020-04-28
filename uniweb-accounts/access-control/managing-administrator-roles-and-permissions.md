@@ -1,6 +1,6 @@
-# Managing Administrator Roles and Permissions
+# La gestion de rôles d'administrateur et des permissions
 
-UNIWeb administrators are differentiated from general UNIWeb members because they can perform certain tasks within UNIWeb that general users cannot, or would not need to. The ability to perform a particular administrative task is called a [_**permission**_](managing-administrator-roles-and-permissions.md#administrator-permissions).
+Les administrateurs d'UNIWeb sont différenciés des membres d'UNIWeb en général parce qu'ils peuvent effectuer certaines tâches au sein d'UNIWeb que les utilisateurs en général ne peuvent pas ou n'auraient pas besoin de faire. La possibilité d'effectuer une tâche administrative particulière est appelée une [_**permission**_](managing-administrator-roles-and-permissions.md#administrator-permissions).
 
 Not every UNIWeb administrator will need access to every permission across the entire UNIWeb network. Generally, a small number of users will need to have a particular set of permissions to perform administrative tasks within their academic unit. Accordingly, UNIWeb delegates administrator permissions through the creation of administrator _**roles**_, groupings of permissions that are restricted to a particular [academic unit](../academic-units/) and its sub-units. Roles can be assigned, modified, and removed from multiple UNIWeb members at once.
 
