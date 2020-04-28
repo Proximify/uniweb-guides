@@ -33,22 +33,22 @@ Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croi
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajout des membre par affectation aux unités académiques**
 
-As an administrator, you can add a UNIWeb member to your academic unit as a cross-appointee. This will add a secondary academic unit to their account, and will allow administrators in the cross-appointed unit to perform administrative tasks on behalf of the cross-appointee.
+En tant qu'administrateur, vous pouvez ajouter un membre d'UNIWeb à votre unité académique en tant que membre par affectation. Cela ajoutera une unité académique secondaire à leur compte et permettra aux administrateurs de l'unité de membre par affectation d'effectuer des tâches administratives au nom de la membre par affectation.
 
 {% hint style="warning" %}
-**Before you begin:** to add a UNIWeb member to a secondary academic unit, you must have an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)**within that secondary academic unit**. The administrator role must include the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** pour ajouter un membre UNIWeb à une unité académique secondaire, vous devez avoir un [rôle d'administrateur ](../access-control/managing-administrator-roles-and-permissions.md)**au sein de cette unité universitaire secondaire**. Le rôle d'administrateur doit inclure les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Edit academic units
-* Edit member information
+* Modifier les unités académiques
+* Modifier les informations sur les membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administrator](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**. 
-2. In the centre panel, locate and click on the academic unit to which you would like to add a member as a cross-appointee.
-3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Add** button to the right of the section title.
-4. In the _Cross Appointees_ page, in the Member drop-down list, locate and click on the UNIWeb member whom you would like to add as a cross-appointee.
-5. Click **Save**.
+1. À partir de votre page d'[Administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Unités académiques**. 
+2. Dans le panneau central, localisez et cliquez sur l'unité scolaire à laquelle vous souhaitez ajouter un membre en tant que co-nommé.
+3. Dans la page _Informations sur l'unité_, accédez à la section **Membres** par affectation et cliquez sur le bouton **Ajouter** à droite du titre de la section.
+4. Sur la page _membre par affectation_, dans la liste déroulante Membre, localisez et cliquez sur le membre UNIWeb que vous souhaitez ajouter en tant que membre par affectation.
+5. Cliquez sur **Enregistrer.**
 
 If you have permissions over **both** of the academic units involved in the cross appointment \(the UNIWeb member's primary unit, and the secondary unit to which you have added them as a cross-appointee\), UNIWeb will permit the appointment immediately.
 
