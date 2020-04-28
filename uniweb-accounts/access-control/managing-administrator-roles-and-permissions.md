@@ -2,48 +2,48 @@
 
 Les administrateurs d'UNIWeb sont différenciés des membres d'UNIWeb en général parce qu'ils peuvent effectuer certaines tâches au sein d'UNIWeb que les utilisateurs en général ne peuvent pas ou n'auraient pas besoin de faire. La possibilité d'effectuer une tâche administrative particulière est appelée une [_**permission**_](managing-administrator-roles-and-permissions.md#administrator-permissions).
 
-Not every UNIWeb administrator will need access to every permission across the entire UNIWeb network. Generally, a small number of users will need to have a particular set of permissions to perform administrative tasks within their academic unit. Accordingly, UNIWeb delegates administrator permissions through the creation of administrator _**roles**_, groupings of permissions that are restricted to a particular [academic unit](../academic-units/) and its sub-units. Roles can be assigned, modified, and removed from multiple UNIWeb members at once.
+Tous les administrateurs UNIWeb n'auront pas besoin d'accéder à toutes les autorisations sur l'ensemble du réseau UNIWeb. En règle générale, un petit nombre d'utilisateurs devront disposer d'un ensemble particulier d'autorisations pour effectuer des tâches administratives au sein de leur unité académique. En conséquence, UNIWeb délègue les autorisations d'administrateur par la création de **rôles** d'administrateur, de regroupements d'autorisations qui sont limités à une [unité académique](../academic-units/) and its sub-units. Les rôles peuvent être attribués, modifiés et supprimés de plusieurs membres UNIWeb à la fois.
 
-For example, a department of health sciences may have 3 faculty members that are dedicated to performing administrative tasks within the health sciences academic unit. These three administrators could be assigned a single role that looks like this:
+Par exemple, un département des sciences de la santé peut avoir 3 professeurs qui se consacrent à l'exécution de tâches administratives au sein de l'unité scolaire des sciences de la santé. Ces trois administrateurs pourraient se voir attribuer un rôle unique qui ressemble à ceci:
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Role Name</th>
-      <th style="text-align:left">Academic Unit</th>
+      <th style="text-align:left">Nom de r&#xF4;le</th>
+      <th style="text-align:left">Unit&#xE9; acad&#xE9;mique</th>
       <th style="text-align:left">Permissions</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Health Sciences Administrator</b>
+      <td style="text-align:left"><b>Administrateur des sciences de la sant&#xE9;</b>
       </td>
-      <td style="text-align:left">Health Sciences</td>
+      <td style="text-align:left">Sciences de la sant&#xE9;</td>
       <td style="text-align:left">
         <ul>
-          <li>Approve new themes</li>
-          <li>Assign roles to members</li>
-          <li>Create new accounts</li>
-          <li>Delete existing accounts</li>
-          <li>Edit member information</li>
-          <li>Send email invites</li>
-          <li>View analytics</li>
+          <li>Approuver de nouveaux th&#xE8;mes</li>
+          <li>Attribuer des r&#xF4;les aux membres</li>
+          <li>Cr&#xE9;er de nouveaux comptes</li>
+          <li>Supprimer les comptes existants</li>
+          <li>Modifier les informations sur les membres</li>
+          <li>Envoyer des invitations par e-mail</li>
+          <li>Afficher les analyses</li>
         </ul>
       </td>
     </tr>
   </tbody>
-</table>As the role in the example above applies only to the Health Sciences academic unit, the administrators who have been assigned the role above would _**only be able to perform those tasks within the Health Sciences academic unit and its sub-units**_. If the role above is modified - if permissions are added or removed - those modifications would be applied to all three administrator accounts at the same time.
+</table>Étant donné que le rôle dans l'exemple ci-dessus ne s'applique qu'à l'unité scolaire des sciences de la santé, les administrateurs qui ont reçu le rôle ci-dessus ne pourraient effectuer ces tâches **qu'au sein de l'unité scolaire des sciences de la santé et de ses sous-unités**. Si le rôle ci-dessus est modifié - si des autorisations sont ajoutées ou supprimées - ces modifications seront appliquées aux trois comptes d'administrateur en même temps.
 
-When your institution sets up their network, the Proximify team will create your first administrator accounts. As an administrator, it is your responsibility to create and assign roles to future users.
+Lorsque votre institution met en place son réseau, l'équipe Proximify créera vos premiers comptes administrateur. En tant qu'administrateur, il est de votre responsabilité de créer et d'attribuer des rôles aux futurs utilisateurs.
 
-#### On this page:
+**Sur cette page:**
 
-* [Creating Administrator Roles](managing-administrator-roles-and-permissions.md#creating-administrator-roles)
-* [Editing Administrator Roles](managing-administrator-roles-and-permissions.md#editing-administrator-roles)
-* [Deleting Administrator Roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles)
-* [Administrator Permissions](managing-administrator-roles-and-permissions.md#administrator-permissions)
+* [Création de rôles d'administrateur](managing-administrator-roles-and-permissions.md#creating-administrator-roles)
+* [Modification de rôles d'administrateur](managing-administrator-roles-and-permissions.md#editing-administrator-roles)
+* [Suppression de rôles d'administrateur](managing-administrator-roles-and-permissions.md#deleting-administrator-roles)
+* [Autorisations d'administrateur](managing-administrator-roles-and-permissions.md#administrator-permissions)
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Creating Administrator Roles
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Création de rôles d'administrateur**
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
@@ -63,7 +63,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Tip:** The permissions that you assign to a role are applied within the role’s selected academic unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the academic unit for the role.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Editing Administrator Roles
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification des rôles d'administrateur** 
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an administrator role within the subject’s Academic Unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
@@ -83,7 +83,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Deleting Administrator Roles
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Suppression de rôles d'administrateur**
 
 Roles cannot be deleted, but their [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
 
@@ -104,7 +104,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
 {% endhint %}
 
-## Administrator Permissions
+## **Autorisations d'administrateur**
 
 | Permission Name | Permission Function |
 | :--- | :--- |
