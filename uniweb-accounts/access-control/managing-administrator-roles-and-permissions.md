@@ -46,34 +46,34 @@ Lorsque votre institution met en place son réseau, l'équipe Proximify créera 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Création de rôles d'administrateur**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un rôle d'administrateur au sein de l'unité académique du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Edit Roles
+* Modifier les rôles
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**
-2. Click the **Add role** button in the left panel
-3. In the _New Role_ dialog, type in a **Role name** and select the **Academic Unit** where the new role’s permissions will be applied. You may only create Roles within your own Academic Unit and its sub-units.
-4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role. You may only assign permissions that you have access to within your Academic Unit.
-5. Click **Save**.
+1. À partir de votre page d'[Administrateur UNIWeb ](../../navigating-uniweb/the-administration-page.md)allez sur **Contrôle d'accès**. 
+2. Cliquez sur le bouton **Ajouter un rôle** dans le panneau de gauche.
+3. Dans la boîte de dialogue _Nouveau rôle_, saisissez un nom de rôle et sélectionnez **l'unité académique** où les autorisations du nouveau rôle seront appliquées. Vous ne pouvez créer des rôles que dans votre propre unité académique et ses sous-unités.
+4. Sélectionnez les [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****que vous souhaitez attribuer au nouveau rôle. Vous ne pouvez attribuer que les autorisations auxquelles vous avez accès au sein de votre unité académique.
+5. Cliquez sur **Enregistrer.**
 
 {% hint style="info" %}
-**Tip:** The permissions that you assign to a role are applied within the role’s selected academic unit and all of its sub-units. If you want a role to have access to all members and academic units of the network, choose the name of your institution as the academic unit for the role.
+**Conseil:** les autorisations que vous attribuez à un rôle sont appliquées au sein de l'unité scolaire sélectionnée du rôle et de toutes ses sous-unités. Si vous souhaitez qu'un rôle ait accès à tous les membres et unités académiques du réseau, choisissez le nom de votre établissement comme unité académique pour le rôle.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification des rôles d'administrateur** 
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification des rôles d'administrateur**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role within the subject’s Academic Unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un rôle d'administrateur au sein de l'unité académique du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Edit Roles
+* Modifier les rôles
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**
+1. À partir de votre page d'[Administrateur UNIWeb ](../../navigating-uniweb/the-administration-page.md)allez sur **Contrôle d'accès**. 
 2. In the left panel, locate and **click on the role** that you would like to modify. You may only edit roles within your Academic Unit and its sub-units.
 3. In the role dialog, you can modify the role name, Academic Unit, and select or deselect permissions for the role. You may only assign permissions that you have access to within your Academic Unit.
 4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role
