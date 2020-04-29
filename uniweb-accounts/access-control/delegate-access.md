@@ -34,7 +34,8 @@ Après avoir cliqué sur Envoyer, le membre UNIWeb recevra une notification l'in
 ## **Passer à un compte délégué**
 
 1. Sur votre [Page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), **cliquez sur votre nom** dans le coin supérieur droit.
-2. 
+2. Dans le menu déroulant qui apparaît, les membres d'UNIWeb qui vous ont accordé l'accès délégué à leurs comptes sont répertoriés sous vos informations de compte. Cliquez sur le nom du membre UNIWeb dont vous souhaitez accéder au compte.
+
 UNIWeb se rechargera et vous verrez le nom du membre UNIWeb que vous avez sélectionné en haut à droite de la barre de navigation au lieu du vôtre. Vous pouvez continuer à utiliser UNIWeb normalement.
 
 {% hint style="danger" %}
