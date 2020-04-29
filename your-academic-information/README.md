@@ -1,19 +1,17 @@
-# Votre information académique
+# Your Academic Information
 
-Votre CV académique est la pierre angulaire de votre compte UNIWeb. Vous pouvez utiliser votre CV UNIWeb pour préparer des concours de financement, remplir des rapports annuels et créer un profil public. Votre établissement peut utiliser les données de votre CV pour gérer les sites Web des établissements, calculer les mesures et produire des rapports annuels sur les performances de votre faculté.
+Your academic CV is the cornerstone of your UNIWeb account. You can use your UNIWeb CV to prepare for funding competitions, complete annual reports and create a public profile. Your institution can use your CV data to maintain institutional websites and to calculate metrics and produce annual reports on your faculty’s performance.
 
-Le CV UNIWeb offre de nombreux avantages. UNIWeb est une application Web. Cela signifie que vous pouvez accéder à vos données de CV à tout moment, depuis n'importe quel navigateur Web. Il n'y a rien à télécharger ou à installer et vous aurez toujours accès à une version à jour de votre CV.
+The UNIWeb CV offers many benefits. UNIWeb is a web-based application. This means that you can access your CV data at any time, from any web browser. There is nothing to download or install and you will always have access to an up-to-date version of your CV.
 
-Un CV académique peut devenir un document très long tout au long d'une carrière. Le CV UNIWeb est tout contenu sur une seule page. Cela vous permet d'utiliser la fonction Rechercher de votre navigateur Web pour rechercher des informations spécifiques. Le CV UNIWeb comporte également divers en-têtes de section pour vous aider à naviguer vers des points précis du document.
+An academic CV can become a very lengthy document over the length of a career. The UNIWeb CV is all contained on a single page. This allows you to use your web browser’s Find function to search for specific information. The UNIWeb CV also has various section headers to help you navigate to precise points in the document.
 
-Parce que UNIWeb est une application Web, vous pouvez accéder à vos données de CV à tout moment, depuis n'importe quel navigateur Web. Il n'y a rien à télécharger ou à installer et les informations de votre CV seront toujours à jour.
+Because the UNIWeb is a web-based application, you can access your CV data at any time, from any web browser. There is nothing to download or install and your CV information will always be up-to-date.
 
-## **Dans ce chapitre**:
+## In this chapter:
 
-* [Gérer votre Curriculum Vitae \(CV\) UNIWeb](your-uniweb-curriculum-vitae-cv.md)
+* [Managing your UNIWeb Curriculum Vitae \(CV\)](your-uniweb-curriculum-vitae-cv.md)
 * [Publications](publications-1.md)
-* [Exportation d'information académique Academic Information](applying-for-funding-with-the-canadian-common-cv.md)
-* [Téléchargement des CVs et de Rapports](downloading-cvs-and-reports.md)
-
-
+* [Exporting Academic Information](applying-for-funding-with-the-canadian-common-cv.md)
+* [Downloading CVs and Reports](downloading-cvs-and-reports.md)
 
