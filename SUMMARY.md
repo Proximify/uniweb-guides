@@ -19,7 +19,7 @@
     * [La gestion de rôles d'administrateur et des permissions](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md)
     * [Gestion des administrateurs](uniweb-accounts/access-control/managing-administrators.md)
     * [Accès délégué](uniweb-accounts/access-control/delegate-access.md)
-    * [Sending generic administrative emails](uniweb-accounts/access-control/sending-generic-administrative-emails.md)
+    * [Envoi de courriels génériques](uniweb-accounts/access-control/sending-generic-administrative-emails.md)
 * [Votre information académique](your-academic-information/README.md)
   * [La gestion de votre Curriculum Vitae \(CV\) UNIWeb](your-academic-information/your-uniweb-curriculum-vitae-cv.md)
   * [Publications](your-academic-information/publications-1.md)
