@@ -74,55 +74,55 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre page d'[Administrateur UNIWeb ](../../navigating-uniweb/the-administration-page.md)allez sur **Contrôle d'accès**. 
-2. In the left panel, locate and **click on the role** that you would like to modify. You may only edit roles within your Academic Unit and its sub-units.
-3. In the role dialog, you can modify the role name, Academic Unit, and select or deselect permissions for the role. You may only assign permissions that you have access to within your Academic Unit.
-4. Select the [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) ****that you would like to assign to the new role
-5. Click **Save.**
+2. Dans le panneau de gauche, recherchez et cliquez sur **le rôle** que vous souhaitez modifier. Vous ne pouvez modifier que les rôles au sein de votre unité académique et de ses sous-unités.
+3. Dans la boîte de dialogue du rôle, vous pouvez modifier le nom du rôle, Unité académique, et sélectionner ou désélectionner les autorisations pour le rôle. Vous ne pouvez attribuer que les autorisations auxquelles vous avez accès au sein de votre unité académique.
+4. Sélectionnez les [**permissions**](managing-administrator-roles-and-permissions.md#administrator-permissions) que vous souhaitez attribuer au nouveau rôle.
+5. Cliquez sur **Enregistrer.**
 
 {% hint style="danger" %}
-**Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
+**À noter:** Toute modification apportée à un rôle existant affectera immédiatement tous les administrateurs auxquels ce rôle a déjà été attribué.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Suppression de rôles d'administrateur**
 
-Roles cannot be deleted, but their [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) can be revoked. Roles that do not have any permissions assigned are greyed out and considered inactive, but can be made active again by reassigning permissions to it.
+Les rôles ne peuvent pas être supprimés, mais leurs [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) peuvent être révoquées. Les rôles auxquels aucune autorisation n'est attribuée sont grisés et considérés comme inactifs, mais peuvent être réactivés en lui réaffectant des autorisations.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an administrator role within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un rôle d'administrateur au sein de l'unité académique du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Edit Roles
+* Modifier les rôles
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**
-2. In the left panel, locate and **click on the role** that you would like to modify. **You may only edit roles within your academic unit and its sub-units.**
-3. In the role dialog, deselect all of the role’s assigned permissions.
-4. Click **Save**.
+1. À partir de votre page d'[Administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Contrôle d'accès.**
+2. Dans le panneau de gauche, recherchez et **cliquez sur le rôle** que vous souhaitez modifier. **Vous ne pouvez modifier que les rôles au sein de votre unité académique et de ses sous-unités.**
+3. Dans la boîte de dialogue de rôle, désélectionnez toutes les autorisations attribuées au rôle.
+4. Cliquez sur **Enregistrer.**
 
 {% hint style="danger" %}
-**Note:** Any changes made to an existing role will immediately affect all of the administrators who have previously been assigned that role.
+**À noter:** Toute modification apportée à un rôle existant affectera immédiatement tous les administrateurs auxquels ce rôle a déjà été attribué.
 {% endhint %}
 
 ## **Autorisations d'administrateur**
 
-| Permission Name | Permission Function |
+| Nom de la permission | Fonction de la permission  |
 | :--- | :--- |
-| **Approve new themes** | Edit, delete or approve [**research themes**](../../networking-on-uniweb/research-themes/managing-research-themes.md) that have been proposed by UNIWeb members within your Academic Unit. |
-| **Assign roles to members** | \*\*\*\*[**Assign roles**](managing-administrators.md) to grant other UNIWeb members **administrator access** to your Academic Unit or its sub-units. |
-| **Create API clients** | Grant other software systems secure read/write access to information stored by UNIWeb. See **API Access** for more information. |
-| **Create new accounts** | \*\*\*\*[**Create**](../account-management/account-creation.md#creating-uniweb-member-accounts-manually) ****UNIWeb member accounts. |
-| **Delete existing accounts** | \*\*\*\*[**Delete**](../account-management/account-deletion.md#deleting-a-uniweb-members-account) ****UNIWeb member accounts. |
-| **Edit academic units** | Create, edit or delete [**academic units**](../academic-units/managing-academic-units.md#create-an-academic-unit-manually) and [**unit types**](../academic-units/managing-academic-units.md#add-a-unit-type). |
-| **Edit equipment information** | Create, edit or delete **equipment / resource profiles**. |
-| **Edit member information** | \*\*\*\*[**Edit the public profile data of UNIWeb members**](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile) in your academic unit, **view their CV information**, and [**generate CVs and Reports**](../../your-academic-information/downloading-cvs-and-reports.md#downloading-member-cvs-and-reports) on their behalf. |
-| **Edit roles** | Add, edit or delete [**administrator roles**](managing-administrator-roles-and-permissions.md). |
-| **Edit web articles** | Add, edit or delete **web articles**. |
-| **Receive new theme notifications** | Get automatic emails whenever a new [**research theme**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) is created by a UNIWeb member in your Academic Unit. |
-| **Receive signup notifications** | Get automatic emails whenever a new UNIWeb member completes the [**UNIWeb signup process**](../account-management/account-creation.md). |
-| **Send email invites** | Invite users to join the UNIWeb network by [**sending account sign-up invitations**](../account-management/account-creation.md#sending-account-activation-emails) ****and **reminder emails**. |
-| **Upgrade profile schema** | Accept requests to update profile schemas. |
-| **View analytics** | View and download **Academic Metrics** data from an Academic Unit. |
+| **Approuver de nouveaux thèmes** | Modifiez, supprimez ou approuvez les [**thèmes de recherche**](../../networking-on-uniweb/research-themes/managing-research-themes.md) proposés par les membres d'UNIWeb au sein de votre unité scolaire. |
+| **Attribuer des rôles aux membres** | \*\*\*\*[**Attribuez des rôles**](managing-administrators.md) pour accorder aux autres membres d'UNIWeb un accès administrateur à votre **unité académique** ou à ses sous-unités. |
+| **Créer des clients API** | Accordez à d'autres systèmes logiciels un accès sécurisé en lecture / écriture aux informations stockées par UNIWeb. Voir **Accès API** pour plus d'informations. |
+| **Créer de nouveaux comptes** | \*\*\*\*[**Créez**](../account-management/account-creation.md#creating-uniweb-member-accounts-manually) ****des comptes de membre UNIWeb. |
+| **Supprimer les comptes existants** | \*\*\*\*[**Suprimer**](../account-management/account-deletion.md#deleting-a-uniweb-members-account) les comptes des membres UNIWeb. |
+| **Modifier les unités académiques** | Créez, modifiez ou supprimez [**unités académiques**](../academic-units/managing-academic-units.md#create-an-academic-unit-manually) ****et des ****[**types d'unités**](../academic-units/managing-academic-units.md#add-a-unit-type). |
+| **Modifier les informations sur l'équipement** | Créez, modifiez ou supprimez des **profils d'équipement / des ressources.** |
+| **Modifier les informations sur les membres** | \*\*\*\*[**Modifier les données du profil public des membres d'UNIWeb**](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile) dans votre unité académique, **affichez les informations de leur CV** et [**genérer des CVs et des rapports**](../../your-academic-information/downloading-cvs-and-reports.md#downloading-member-cvs-and-reports) en leur nom. |
+| **Modifier les rôles** | Ajoutez, modifiez ou supprimez des [**roles d'administrateur**](managing-administrator-roles-and-permissions.md). |
+| **Modifier des articles Web** | Ajoutez, modifiez ou supprimez des **articles Web.** |
+| **Recevez de nouvelles notifications de thème** | Get automatic emails whenever a new [**research theme**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) is created by a UNIWeb member in your Academic Unit. |
+| **Recevoir des notifications d'inscription** | Get automatic emails whenever a new UNIWeb member completes the [**UNIWeb signup process**](../account-management/account-creation.md). |
+| **Envoyer des invitations par e-mail** | Invite users to join the UNIWeb network by [**sending account sign-up invitations**](../account-management/account-creation.md#sending-account-activation-emails) ****and **reminder emails**. |
+| **Mettre à jour le schéma de profil** | Accept requests to update profile schemas. |
+| **Afficher les analytiques** | View and download **Academic Metrics** data from an Academic Unit. |
 
 #### 
 
