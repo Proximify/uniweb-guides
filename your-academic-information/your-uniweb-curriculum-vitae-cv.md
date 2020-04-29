@@ -9,107 +9,107 @@ Lorsque vous remplissez votre CV UNIWeb, vous pouvez soit ajouter de nouvelles e
 #### Sur cette page:
 
 * [Importer à partir du CV commun canadien](your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
-* [Populating your curriculum vitae manually](your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
-* [Deleting a record from your curriculum vitae](your-uniweb-curriculum-vitae-cv.md#deleting-a-record-from-your-curriculum-vitae)
-* [Creating and restoring CV backups](your-uniweb-curriculum-vitae-cv.md#creating-and-restoring-cv-backups)
-* [Curriculum vitae sections](your-uniweb-curriculum-vitae-cv.md#curriculum-vitae-sections)
+* [Remplir manuellement votre curriculum vitae](your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
+* [Supprimer un enregistrement de votre curriculum vitae](your-uniweb-curriculum-vitae-cv.md#deleting-a-record-from-your-curriculum-vitae)
+* [Création et restauration de sauvegardes de CV](your-uniweb-curriculum-vitae-cv.md#creating-and-restoring-cv-backups)
+* [Sections du curriculum vitae](your-uniweb-curriculum-vitae-cv.md#curriculum-vitae-sections)
 
 ## Importer à partir du CV commun canadien 
 
-To import your CV information from the Canadian Common CV \(CCV\) website, you must first download that information from your CCV account into an XML file, which you will then upload into UNIWeb.
+Pour importer vos informations de CV à partir du site Web Canadian Common CV \(CCV\), vous devez d'abord télécharger ces informations depuis votre compte CCV dans un fichier XML, que vous téléchargerez ensuite dans UNIWeb.
 
 ![](../.gitbook/assets/screencast-2019-10-20-13-05-31.gif)
 
-1. From your [CCV account homepage](https://ccv-cvc.ca), click **Utilities** in the navigation bar.
-2. In the Utilities dropdown menu, click **Export CV XML**.
-3. In the _Captcha_ dialog, click the **“I’m not a robot”** checkbox.
-4. Click **Export**. The CV XML file will appear in your downloads folder.
-5. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to Curriculum Vitae.
-6. Click **Import from CCV** in the right panel.
-7. Click **Choose file**, and select the XML file that you downloaded from the CCV website.
-8. Click **Import**, and when the file is finished uploading, click **Done**. 
+1. À partir de votre [Page d'accueil du CVC](https://ccv-cvc.ca), cliquez sur **Utilitaires** dans la barre de navigation.
+2. Dans le menu déroulant Utilitaires, cliquez sur **Exporter CV XML.**
+3. Dans la boîte de dialogue _Captcha_, cochez la case **Je ne suis pas un robot**.
+4. Cliquez sur **Exporter**. Le fichier CV XML apparaîtra dans votre dossier de téléchargements.
+5. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez sur Curriculum Vitae.
+6. Cliquez sur **Importer à partir du CCV** dans le panneau de droite.
+7. Cliquez sur **Choisir un fichier** et sélectionnez le fichier XML que vous avez téléchargé à partir du site Web CVC.
+8. Cliquez sur **Importer** et une fois le téléchargement du fichier terminé, cliquez sur **Terminé.** 
 
-### How UNIWeb handles future imports and duplicates
+### **Comment UNIWeb gère les importations et les doublons futurs**
 
-You can reimport information to your UNIWeb CV from the CCV website after you have already created entries in UNIWeb. UNIWeb checks each record on import to ensure that it does not create duplicate entries, and when you click Import, will tell you what changes will occur, as per the examples below:
+Vous pouvez réimporter des informations dans votre CV UNIWeb à partir du site Web du CCV après avoir déjà créé des entrées dans UNIWeb. UNIWeb vérifie chaque enregistrement lors de l'importation pour s'assurer qu'il ne crée pas d'entrées en double et, lorsque vous cliquez sur Importer, vous indiquera les modifications qui se produiront, selon les exemples ci-dessous:
 
-| Existing UNIWeb CV | Imported XML | Result |
+| CV UNIWeb actuel | XML importé | Résultat |
 | :--- | :--- | :--- |
-| Record A | Record A \(identical\) | UNIWeb **ignores** identical records and will not create duplicates |
-| Record B | \[No Match\] | UNIWeb **deletes** its copy of Record B |
-| Record C | Record C \(modified\) | UNIWeb **replaces** Record C with the modified entry in the XML import. |
-| \[No Match\] | Record D | UNIWeb **imports** Record D |
+| Enregistrement A | Enregistrement A  ****\(identique\) | UNIWeb **ignore** les enregistrements identiques et ne crée pas de doublons |
+| Enregistrement B | \[Pas de correspondance\] | UNIWeb **supprime** sa copie de l'enregistrement B |
+| Enregistrement C | Enregistrement C \(modifié\) | UNIWeb **remplace** l'enregistrement C par l'entrée modifiée dans l'importation XML. |
+| \[Pas de correspondance\] | Enregistrement D | UNIWeb **importe** le record D |
 
 {% hint style="danger" %}
-**Note:** because UNIWeb will replace records where the imported copies have been modified, it is important to note that the CCV does not always capture as much information as UNIWeb in each record. Notably, **the CCV does not capture month and date information**, and **the CCV does not capture any custom fields that your institution has requested** within sections, and so any information entered into these fields **may be lost** if they are replaced by copies that were modified on the CCV website.
+**Remarque:** comme UNIWeb remplacera les enregistrements dont les copies importées ont été modifiées, il est important de noter que le CCV ne capture pas toujours autant d'informations que UNIWeb dans chaque enregistrement. Notamment, **le CCV ne capture pas les informations de mois et de date, et le CCV ne capture pas les champs personnalisés que votre institution a demandés dans les sections,** et ainsi toutes les informations saisies dans ces champs **peuvent être perdues** si elles sont remplacées par des copies qui ont été modifiées le le site Web du CCV.
 {% endhint %}
 
 ## **Remplir manuellement votre curriculum vitae**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
-2. Locate the CV section where you would like to create a new record. You can **click on a section listed in the left panel** to navigate directly to that section.
-3. In the centre panel, click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing record to modify it.
-4. Add or edit information in the data entry form as needed.
-5. Click **Save**.
+1. À partir de votre [Page d'accueil du CVC](https://ccv-cvc.ca), cliquez sur **Curriculum Vitae**.
+2. Localisez la section CV où vous souhaitez créer un nouvel enregistrement. Vous pouvez **cliquer sur une section répertoriée dans le panneau de gauche** pour accéder directement à cette section.
+3. Dans le panneau central, cliquez sur le bouton **Ajouter** à droite du titre de la section pour ajouter un nouvel enregistrement, ou cliquez sur le bouton **Modifier** à droite d'un enregistrement existant pour le modifier.
+4. Ajoutez ou modifiez des informations dans le formulaire de saisie de données selon vos besoins.
+5. Cliquez sur **Enregistrer.**
 
 {% hint style="info" %}
-**Tip:** if you’re trying to find a particular entry to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
+**Tip: Conseil:** si vous essayez de trouver une entrée particulière à modifier, vous pouvez la rechercher en appuyant sur **Commande + F \(Mac\)** ou **CTRL + F \(Windows\)** dans votre navigateur Web sur la page Curriculum Vitae. Votre CV UNIWeb est affiché sur une seule page, et donc tous vos enregistrements de CV sont consultables à la fois.
 {% endhint %}
 
 ## **Supprimer un enregistrement de votre curriculum vitae**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
-2. Locate the CV record that you would like to delete, and click the **Edit** button to the right of the record.
-3. At the bottom right of the data entry form, click **Delete**.
+1. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez sur Curriculum Vitae.
+2. Recherchez l'enregistrement CV que vous souhaitez **supprimer**, puis cliquez sur le bouton Modifier à droite de l'enregistrement.
+3. En bas à droite du formulaire de saisie de données, cliquez sur **Supprimer.**
 
 {% hint style="info" %}
-**Tip:** if you’re trying to find a particular entry to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
+**Tip: Conseil:** si vous essayez de trouver une entrée particulière à modifier, vous pouvez la rechercher en appuyant sur **Commande + F \(Mac\)** ou **CTRL + F \(Windows\)** dans votre navigateur Web sur la page Curriculum Vitae. Votre CV UNIWeb est affiché sur une seule page, et donc tous vos enregistrements de CV sont consultables à la fois.
 {% endhint %}
 
 ## **Création et restauration de sauvegardes de CV**
 
-Your curriculum vitae is a living document that grows with you through the course of your career. Because you will be regularly updating your CV, it's important to take regular backups so that you can restore your information in the event that something is accidentally deleted or modified incorrectly.
+Votre curriculum vitae est un document vivant qui évolue avec vous tout au long de votre carrière. Étant donné que vous mettrez régulièrement à jour votre CV, il est important d'effectuer des sauvegardes régulières afin de pouvoir restaurer vos informations en cas de suppression ou de modification incorrecte accidentelle.
 
-Backup files are different from CCV XML files because they contain all of your CCV information, as well as custom records that are unique to your institution.
+Les fichiers de sauvegarde sont différents des fichiers XML CCV car ils contiennent toutes vos informations CCV, ainsi que des enregistrements personnalisés qui sont uniques à votre institution.
 
-### Creating a backup of your CV
+### **Création d'une sauvegarde de votre CV**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
-2. In the right panel, click **Create/restore backups**.
-3. In the right panel, click **Download a UNIWeb CV backup**.
+1. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez sur Curriculum Vitae.
+2. Dans le panneau de droite, cliquez sur **Créer / restaurer des sauvegardes.**
+3. Dans le panneau de droite, cliquez sur **Télécharger une sauvegarde de CV UNIWeb.**
 
-A backup of your CV information will be downloaded as a JSON file. 
+Une sauvegarde des informations de votre CV sera téléchargée sous forme de fichier JSON.
 
 {% hint style="success" %}
-**Best practice:** it's always best to keep more than one copy of a backup, in multiple places that you trust to hold your information securely - a personal or work computer, cloud service, etc.
+**Meilleure pratique:** il est toujours préférable de conserver plus d'une copie d'une sauvegarde, à plusieurs endroits en lesquels vous avez confiance pour conserver vos informations en toute sécurité - un ordinateur personnel ou professionnel, un service cloud, etc.
 {% endhint %}
 
-### Restoring a backup of your CV
+### **Restaurer une sauvegarde de votre CV**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
-2. In the right panel, click **Create/restore backups**.
-3. In the right panel, click **Restore from a file**.
-4. In the centre panel, click **Choose file**, and browse your computer for your backup JSON file.
+1. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez sur Curriculum Vitae.
+2. Dans le panneau de droite, cliquez sur **Créer / restaurer des sauvegardes.**
+3. Dans le panneau de droite, cliquez sur **Restaurer à partir d'un fichier.**
+4. Dans le panneau central, cliquez sur **Choisir un fichier** et recherchez sur votre ordinateur votre fichier JSON de sauvegarde.
 5. Click **Restore**, and after the restore process is complete, click **Done**.
 
-Clicking **Done** will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
+Cliquez sur **Terminé** pour revenir à l'écran principal des sauvegardes, où vous verrez une liste des fichiers de sauvegarde que vous avez précédemment restaurés. Une fois qu'un fichier de sauvegarde a été téléchargé, il est conservé par UNIWeb afin que vous puissiez revenir à cette sauvegarde à l'avenir si nécessaire.
 
 ## **Sections du curriculum vitae**
 
-UNIWeb’s Curriculum Vitae include all of the standard sections of the Canadian Common CV \(CCV\). If your institution has requested any custom information input fields or sections that are not part of the CCV, they will be demarcated by your institution’s logo to the right of the field or section title.
+Le Curriculum Vitae d'UNIWeb comprend toutes les sections standard du CV commun canadien \(CVC\). Si votre établissement a demandé des champs de saisie d'informations personnalisés ou des sections qui ne font pas partie du CVC, ils seront délimités par le logo de votre établissement à droite du champ ou du titre de la section.
 
-| CV Section | Purpose |
+| Section du CV | Objectif |
 | :--- | :--- |
-| **Personal Information** | Information about the person that facilitates identification, including name, date of birth, and sex. |
-| **Education** | Collection of information records that, in combination, represent the full and up-to-date history of the person's education. |
-| **Recognitions** | Any awards and citations that you have received over the course of oyur academic career |
-| **User Profile** | Your biographical information and research interests. |
-| **Employment** | Collection of information records that, in combination, represent the full and up-to-date history of the person's employment. |
-| **Research Funding History** | A timeline of your funding sources throughout your career |
-| **Activities** | Services, including teaching, supervisory, and community and volunteer activities, that you have contributed to. |
-| **Memberships** | Services contributed as part of a group elected or appointed to perform such services but not directly related to the person's research activities. |
-| **Most Significant Contributions** | A spotlight on the most significant achievements of your academic career and their impact. |
-| **Contributions** | Things, including presentations, [publications](publications-1.md), interviews, patents, etc, that you have carried out as part of your career.  |
+| **Information personelle** | Informations sur la personne qui facilitent l'identification, y compris le nom, la date de naissance et le sexe. |
+| **Education** | Collecte de dossiers d'information qui, combinés, représentent l'historique complet et à jour de l'éducation de la personne. |
+| **Reconnaissances** | Tous les prix et citations que vous avez reçus au cours de votre carrière universitaire |
+| **Profil d'utilisateur** | Vos informations biographiques et vos intérêts de recherche. |
+| **Travail** | Collecte de dossiers d'information qui, combinés, représentent l'historique complet et à jour de l'emploi de la personne. |
+| **Financement de recherche** | Une chronologie de vos sources de financement tout au long de votre carrière |
+| **Activités** | Services, y compris l'enseignement, la supervision et les activités communautaires et bénévoles, auxquels vous avez contribué. |
+| **Adhésion** | Les services ont contribué au sein d'un groupe élu ou nommé pour fournir ces services, mais qui n'étaient pas directement liés aux activités de recherche de la personne. |
+| **Contributions les plus importantes** | Focalisation sur les réalisations les plus significatives de votre carrière académique et leur impact. |
+| **Contributions** | Les choses, y compris les présentations, [publications](publications-1.md), entrevues, brevets, etc., que vous avez réalisées dans le cadre de votre carrière. |
 
 
 
