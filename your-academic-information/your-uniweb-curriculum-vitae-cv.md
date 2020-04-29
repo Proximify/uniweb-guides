@@ -63,7 +63,7 @@ Vous pouvez réimporter des informations dans votre CV UNIWeb à partir du site 
 3. En bas à droite du formulaire de saisie de données, cliquez sur **Supprimer.**
 
 {% hint style="info" %}
-**Tip: Conseil:** si vous essayez de trouver une entrée particulière à modifier, vous pouvez la rechercher en appuyant sur **Commande + F \(Mac\)** ou **CTRL + F \(Windows\)** dans votre navigateur Web sur la page Curriculum Vitae. Votre CV UNIWeb est affiché sur une seule page, et donc tous vos enregistrements de CV sont consultables à la fois.
+**Conseil:** si vous essayez de trouver une entrée particulière à modifier, vous pouvez la rechercher en appuyant sur **Commande + F \(Mac\)** ou **CTRL + F \(Windows\)** dans votre navigateur Web sur la page Curriculum Vitae. Votre CV UNIWeb est affiché sur une seule page, et donc tous vos enregistrements de CV sont consultables à la fois.
 {% endhint %}
 
 ## **Création et restauration de sauvegardes de CV**
