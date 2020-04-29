@@ -1,16 +1,16 @@
 # Gestion des administrateurs
 
-Within UNIWeb, administrator access can be assigned, modified, and removed by assigning roles to UNIWeb members. Depending on the level of access that they need, UNIWeb members may have multiple administrator roles assigned. If a UNIWeb member has at least one role assigned to them, they are considered an administrator.
+Dans UNIWeb, l'accès administrateur peut être attribué, modifié et supprimé en attribuant des rôles aux membres d'UNIWeb. Selon le niveau d'accès dont ils ont besoin, les membres d'UNIWeb peuvent se voir attribuer plusieurs rôles d'administrateur. Si un membre d'UNIWeb a au moins un rôle qui lui est attribué, il est considéré comme un administrateur.
 
-When your institution sets up their network, the Proximify team will create your first administrator accounts. As an administrator, it is your responsibility to create and assign roles to future users.
+Lorsque votre établissement met en place son réseau, l'équipe Proximify créera vos premiers comptes administrateur. En tant qu'administrateur, il est de votre responsabilité de créer et d'attribuer des rôles aux futurs utilisateurs.
 
-#### On this page:
+#### **Sur cette page:**
 
-* [Granting administrator access](managing-administrators.md#granting-administrator-access)
-* [Editing administrator access](managing-administrators.md#editing-administrator-access)
-* [Removing administrator access](managing-administrators.md#removing-administrator-access)
+* [Accorder l'accès aux administrateurs](managing-administrators.md#granting-administrator-access)
+* [Modification de l'accès des administrateurs](managing-administrators.md#editing-administrator-access)
+* [Supprimer l'accès aux administrateurs](managing-administrators.md#removing-administrator-access)
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Granting administrator access
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Accorder l'accès aux administrateurs**
 
 Administrator access in UNIWeb is granted through assigning **administrator roles**. If there are no existing administrator roles that include the permissions that you would like to grant, you can first create a new role or edit an existing role to fit.
 
@@ -28,7 +28,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 4. **Click the checkbox** next to the role\(s\) that you would like to assign to the selected UNIWeb member.
 5. Click **Save**.
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Editing administrator access
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification de l'accès des administrateurs** 
 
 You can modify the level of access that a UNIWeb administrator has been granted by adding or removing roles from their administrator profile.
 
@@ -49,7 +49,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Tip:** you can also modify a UNIWeb administrator’s level of access by [editing a role](managing-administrator-roles-and-permissions.md#editing-administrator-roles) that has been assigned to them. This will affect any other members that have been assigned the same role.
 {% endhint %}
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Removing administrator access
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Supprimer l'accès aux administrateurs**
 
 You can revoke a UNIWeb member’s administrator access by removing all of the roles from their administrator profile. This will only remove their administrative permissions. This will not remove the user from UNIWeb and their CV data and profile will remain untouched.
 
