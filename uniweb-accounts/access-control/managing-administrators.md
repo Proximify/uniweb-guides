@@ -1,4 +1,4 @@
-# Managing Administrators
+# Gestion des administrateurs
 
 Within UNIWeb, administrator access can be assigned, modified, and removed by assigning roles to UNIWeb members. Depending on the level of access that they need, UNIWeb members may have multiple administrator roles assigned. If a UNIWeb member has at least one role assigned to them, they are considered an administrator.
 
