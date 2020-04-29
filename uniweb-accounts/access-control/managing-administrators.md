@@ -33,40 +33,40 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 Vous pouvez modifier le niveau d'accès accordé à un administrateur UNIWeb en ajoutant ou en supprimant des rôles de son profil d'administrateur.
 
 {% hint style="warning" %}
-**Avant de commencer::** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Assign roles to members
+* Attribuer des rôles aux membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**. 
-2. In the centre panel, click on the name of the UNIWeb administrator whose administrator access you would like to modify.
-3. In the member’s administrator profile dialog, **click the checkbox** next to any roles that you would like to add, and deselect any roles that you would like to remove.
-4. Click **Save**.
+1. À partir de votre page [Administrateur d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
+2. Dans le panneau central, cliquez sur le nom de l'administrateur UNIWeb dont vous souhaitez modifier leur accès.
+3. Dans la boîte de dialogue du profil d'administrateur du membre, **cochez la case** en regard des rôles que vous souhaitez ajouter et désélectionnez tous les rôles que vous souhaitez supprimer.
+4. Cliquez sur **Enregistrer.**
 
 {% hint style="info" %}
-**Tip:** you can also modify a UNIWeb administrator’s level of access by [editing a role](managing-administrator-roles-and-permissions.md#editing-administrator-roles) that has been assigned to them. This will affect any other members that have been assigned the same role.
+**Conseil:** vous pouvez également modifier le niveau d'accès d'un administrateur UNIWeb en [modifiant un rôle](managing-administrator-roles-and-permissions.md#editing-administrator-roles) qui lui a été attribué. Cela affectera tous les autres membres auxquels le même rôle a été attribué.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Supprimer l'accès aux administrateurs**
 
-You can revoke a UNIWeb member’s administrator access by removing all of the roles from their administrator profile. This will only remove their administrative permissions. This will not remove the user from UNIWeb and their CV data and profile will remain untouched.
+Vous pouvez révoquer l'accès administrateur d'un membre UNIWeb en supprimant tous les rôles de son profil d'administrateur. Cela supprimera uniquement leurs autorisations administratives. Cela ne supprimera pas l'utilisateur d'UNIWeb et ses données de CV et son profil resteront intacts.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Assign roles to members
+* Attribuer des rôles aux membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**. 
-2. In the centre panel, click on the name of the UNIWeb administrator whose administrator access you would like to revoke.
-3. In the member’s administrator profile dialog,**deselect all of the roles** that have been assigned to them.
-4. Click **Save**.
+1. À partir de votre page [Administrateur d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
+2. Dans le panneau central, cliquez sur le nom de l'administrateur UNIWeb dont vous souhaitez supprimer leur accès.
+3. Dans la boîte de dialogue du profil d'administrateur du membre, **désélectionnez tous les rôles** qui leur ont été attribués.
+4. Cliquez sur **Enregistrer.**
 
 {% hint style="info" %}
-**Tip:** you can also remove a member's administrator access by [deleting the roles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles) that have been assigned to them. Doing so will also remove those roles from all other UNIWeb members that have had those roles assigned to them.
+**Conseil:** vous pouvez également supprimer l'accès administrateur d'un membre en [supprimant des rôles](managing-administrator-roles-and-permissions.md#deleting-administrator-roles) qui lui ont été attribués. Cela supprimera également ces rôles de tous les autres membres d'UNIWeb auxquels ces rôles leur ont été attribués.
 {% endhint %}
 
