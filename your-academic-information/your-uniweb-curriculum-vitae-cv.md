@@ -2,13 +2,13 @@
 
 Votre curriculum vitae \(CV\) est la pierre angulaire de votre compte UNIWeb. Vous pouvez utiliser votre CV UNIWeb pour [vous préparer pour des applications de financement](applying-for-funding-with-the-canadian-common-cv.md), ****remplir des [rapports annuels](downloading-cvs-and-reports.md#downloading-your-own-cv-and-report-files), et ****créer un [profile publique](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv) pour vous-même. Votre institution peut utiliser les données de votre CV pour gérer des sites Web institutionnels, calculer des mesures et produire des rapports annuels sur les performances de votre faculté.
 
-By default, you are the only person who can edit your UNIWeb CV information. While certain administrators may have permission to view your CV data, there are no administrator privileges to modify user CV information. You may allow other users to edit your CV information by granting them [delegate access](../uniweb-accounts/access-control/delegate-access.md#granting-delegate-access) to your account.
+Par défaut, vous êtes la seule personne à pouvoir modifier les informations de votre CV UNIWeb. Bien que certains administrateurs puissent être autorisés à afficher les données de votre CV, il n'y a pas de privilèges d'administrateur pour modifier les informations du CV de l'utilisateur. Vous pouvez autoriser d'autres utilisateurs à modifier les informations de votre CV en leur accordant [accès délégué](../uniweb-accounts/access-control/delegate-access.md#granting-delegate-access) à votre compte.
 
-As you populate your UNIWeb CV, you can either add new entries from scratch, or you can import data into UNIWeb from your Canadian Common CV \(CCV\) account.
+Lorsque vous remplissez votre CV UNIWeb, vous pouvez soit ajouter de nouvelles entrées à partir de zéro, soit importer des données dans UNIWeb à partir de votre compte CV commun canadien \(CCV\).
 
-#### On this page:
+#### Sur cette page:
 
-* [Importing from the Canadian Common CV](your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
+* [Importer à partir du CV commun canadien](your-uniweb-curriculum-vitae-cv.md#importing-from-the-canadian-common-cv)
 * [Populating your curriculum vitae manually](your-uniweb-curriculum-vitae-cv.md#populating-your-curriculum-vitae-manually)
 * [Deleting a record from your curriculum vitae](your-uniweb-curriculum-vitae-cv.md#deleting-a-record-from-your-curriculum-vitae)
 * [Creating and restoring CV backups](your-uniweb-curriculum-vitae-cv.md#creating-and-restoring-cv-backups)
@@ -44,7 +44,7 @@ You can reimport information to your UNIWeb CV from the CCV website after you ha
 **Note:** because UNIWeb will replace records where the imported copies have been modified, it is important to note that the CCV does not always capture as much information as UNIWeb in each record. Notably, **the CCV does not capture month and date information**, and **the CCV does not capture any custom fields that your institution has requested** within sections, and so any information entered into these fields **may be lost** if they are replaced by copies that were modified on the CCV website.
 {% endhint %}
 
-## Remplir votre Curriculum Vitae manuellement
+## **Remplir manuellement votre curriculum vitae**
 
 1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
 2. Locate the CV section where you would like to create a new record. You can **click on a section listed in the left panel** to navigate directly to that section.
@@ -56,7 +56,7 @@ You can reimport information to your UNIWeb CV from the CCV website after you ha
 **Tip:** if you’re trying to find a particular entry to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
 {% endhint %}
 
-## Deleting a record from your curriculum vitae
+## **Supprimer un enregistrement de votre curriculum vitae**
 
 1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
 2. Locate the CV record that you would like to delete, and click the **Edit** button to the right of the record.
@@ -66,7 +66,7 @@ You can reimport information to your UNIWeb CV from the CCV website after you ha
 **Tip:** if you’re trying to find a particular entry to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Curriculum Vitae page. Your UNIWeb CV is displayed on a single page, and so all of your CV records are searchable at once.
 {% endhint %}
 
-## Creating and restoring CV backups
+## **Création et restauration de sauvegardes de CV**
 
 Your curriculum vitae is a living document that grows with you through the course of your career. Because you will be regularly updating your CV, it's important to take regular backups so that you can restore your information in the event that something is accidentally deleted or modified incorrectly.
 
@@ -94,7 +94,7 @@ A backup of your CV information will be downloaded as a JSON file.
 
 Clicking **Done** will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
 
-## Curriculum Vitae Sections
+## **Sections du curriculum vitae**
 
 UNIWeb’s Curriculum Vitae include all of the standard sections of the Canadian Common CV \(CCV\). If your institution has requested any custom information input fields or sections that are not part of the CCV, they will be demarcated by your institution’s logo to the right of the field or section title.
 
