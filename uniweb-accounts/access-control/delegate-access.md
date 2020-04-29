@@ -1,66 +1,65 @@
-# Delegate Access
+# Accès délégué
 
-UNIWeb users can securely grant other UNIWeb users access to their account in order to update and modify their public profile and CV. This system is fast and secure, and does not share passwords, permissions, or administrator access between users.
+Les utilisateurs d'UNIWeb peuvent accorder en toute sécurité à d'autres utilisateurs d'UNIWeb l'accès à leur compte afin de mettre à jour et de modifier leur profil public et leur CV. Ce système est rapide et sécurisé et ne partage pas de mots de passe, d'autorisations ou d'accès administrateur entre les utilisateurs.
 
-#### On this page:
+#### **Sur cette page:**
 
-* [Granting Delegate Access](delegate-access.md#granting-delegate-access)
-* [Requesting Delegate Access](delegate-access.md#requesting-delegate-access)
-* [Switching to a delegated account](delegate-access.md#switching-to-a-delegated-account)
-* [Revoking Delegate Access](delegate-access.md#revoking-delegate-access)
+* [Accorder l'accès délégué](delegate-access.md#granting-delegate-access)
+* [Demander pour l'accès délégué](delegate-access.md#requesting-delegate-access)
+* [Passer à un compte délégué](delegate-access.md#switching-to-a-delegated-account)
+* [Révocation de l'accès délégué](delegate-access.md#revoking-delegate-access)
 
-## Granting Delegate Access
+## **Accorder l'accès délégué**
 
-By granting delegate access, you are giving another UNIWeb member immediate access to your account.
+En accordant l'accès délégué, vous donnez à un autre membre d'UNIWeb un accès immédiat à votre compte.
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, **click on your name** in the top right corner. 
-2. In the drop down menu that appears, click the **Invite** button to the right of the Account Delegates heading.
-3. In the _Invite Account Delegate_ dialog, browse or search for the UNIWeb member who you would like to access your account in the drop down menu, and **click on their name**.
-4. Click **Send**.
+1. Sur votre [Page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), **cliquez sur votre nom** dans le coin supérieur droit.
+2. Dans le menu déroulant qui apparaît, cliquez sur le bouton **Inviter** à droite de l'en-tête Délégués de compte.
+3. Dans la boîte de dialogue _Inviter un délégué de compte_, recherchez ou recherchez le membre UNIWeb auquel vous souhaitez accéder à votre compte dans le menu déroulant, puis **cliquez sur son nom**.
+4. Cliquez sur **envoyer.**
 
-After you click Send, the UNIWeb member will receive a notification that you have granted them delegate access to your account. **They will be able to access your account immediately.** You will see their name listed under the Account Delegates heading in the drop-down menu.
+Après avoir cliqué sur Envoyer, le membre UNIWeb recevra une notification vous informant que vous lui avez accordé un accès délégué à votre compte. **Ils pourront accéder à votre compte immédiatement.** Vous verrez leur nom répertorié sous l'en-tête Délégués de compte dans le menu déroulant.
 
-## Requesting Delegate Access
+## **Demander pour l'accès délégué**
 
-By requesting delegate access, you are asking to have access to another UNIWeb member’s account.
+En demandant l'accès délégué, vous demandez à avoir accès au compte d'un autre membre UNIWeb.
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, **click on your name** in the top right corner. 
-2. In the drop down menu that appears, click **Request Delegate Access**.
-3. In the _Request Delegate Access_ dialog, browse or search for the UNIWeb member whose account you would like to access in the drop down menu, and **click on their name**.
-4. Click **Send**.
+1. Sur votre [Page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), **cliquez sur votre nom** dans le coin supérieur droit.
+2. Dans le menu déroulant qui apparaît, cliquez sur **Demander un accès délégué.**.
+3. Dans la boîte de dialogue _Demander un accès délégué_, recherchez ou recherchez le membre UNIWeb dont vous souhaitez accéder au compte dans le menu déroulant, puis **cliquez sur son nom.**
+4. Cliquez sur **envoyer.**.
 
-After you click Send, the UNIWeb member will receive a notification informing them that you have requested delegate access to their account. **If they approve your request, you will receive delegate access to their account.**
+Après avoir cliqué sur Envoyer, le membre UNIWeb recevra une notification l'informant que vous avez demandé l'accès délégué à son compte. **S'ils approuvent votre demande, vous recevrez un accès délégué à leur compte.**
 
-## Switching to a delegated account
+## **Passer à un compte délégué**
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, **click on your name** in the top right corner. 
-2. In the drop down menu that appears, UNIWeb members who have granted you delegate access to their accounts are listed under your account information. **Click on the name of the UNIWeb member** whose account you would like to access.
-
-UNIWeb will reload, and you will see the name of the UNIWeb member that you selected at the top right of the navigation bar instead of your own. You can continue to use UNIWeb normally.
+1. Sur votre [Page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), **cliquez sur votre nom** dans le coin supérieur droit.
+2. 
+UNIWeb se rechargera et vous verrez le nom du membre UNIWeb que vous avez sélectionné en haut à droite de la barre de navigation au lieu du vôtre. Vous pouvez continuer à utiliser UNIWeb normalement.
 
 {% hint style="danger" %}
-**Note:** While you are logged in to any delegated account other than your own, you will not have access to any administration privileges that you or the other UNIWeb member may have.
+**À noter:** Pendant que vous êtes connecté à un compte délégué autre que le vôtre, vous n'aurez accès à aucun privilège d'administration que vous ou l'autre membre d'UNIWeb pourriez avoir.
 {% endhint %}
 
 {% hint style="info" %}
-**Tip:** To return to your own account, follow the same steps above, selecting your own name in the dropdown menu.
+**Conseil:** Pour revenir à votre propre compte, suivez les mêmes étapes ci-dessus, en sélectionnant votre propre nom dans le menu déroulant.
 {% endhint %}
 
-## Revoking Delegate Access
+## **Révocation de l'accès délégué**
 
-If you would like to revoke **another UNIWeb member’s** Delegate Access to your account, perform the following steps: 
+Si vous souhaitez révoquer l'accès délégué **d'un autre membre d'UNIWeb** à votre compte, procédez comme suit:
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, **click on your name** in the top right corner. 
-2. In the drop down menu that appears, under Account Delegates, click the **Remove** button next to the name of the UNIWeb member whose delegate access you would like to revoke.
+1. Sur votre [Page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), **cliquez sur votre nom** dans le coin supérieur droit.
+2. Dans le menu déroulant qui apparaît, sous Délégués de compte, cliquez sur le bouton **Supprimer** en regard du nom du membre UNIWeb dont vous souhaitez révoquer l'accès délégué.
 
 {% hint style="danger" %}
-**Note:** The UNIWeb member will lose access to your account immediately, and they will be notified that you have revoked their access.
+**À noter:** Le membre UNIWeb perdra immédiatement l'accès à votre compte et il sera informé que vous avez révoqué son accès.
 {% endhint %}
 
-If you would like to revoke **your own** Delegate Access to another UNIWeb member’s account, perform the following steps: 
+Si vous souhaitez révoquer votre propre accès délégué à un autre compte de membre UNIWeb, procédez comme suit:
 
-1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, **click on your name** in the top right corner. 
-2. In the drop down menu that appears, UNIWeb members who have granted you delegate access to their accounts are listed under your account information. Click the **Remove** button next to the name of the UNIWeb member whose account you no longer need to access.
+1. Sur votre [Page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), **cliquez sur votre nom** dans le coin supérieur droit.
+2. Dans le menu déroulant qui apparaît, les membres d'UNIWeb qui vous ont accordé l'accès délégué à leurs comptes sont répertoriés sous vos informations de compte. Cliquez sur le bouton **Supprimer** à côté du nom du membre UNIWeb dont vous n'avez plus besoin d'accéder au compte.
 
 
 
