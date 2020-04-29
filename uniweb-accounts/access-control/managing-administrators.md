@@ -12,28 +12,28 @@ Lorsque votre établissement met en place son réseau, l'équipe Proximify crée
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Accorder l'accès aux administrateurs**
 
-Administrator access in UNIWeb is granted through assigning **administrator roles**. If there are no existing administrator roles that include the permissions that you would like to grant, you can first create a new role or edit an existing role to fit.
+L'accès aux administrateurs dans UNIWeb est accordé en attribuant des **rôles d'administrateurs**. S'il n'y a aucun rôle d'administrateur existant qui inclut les autorisations que vous souhaitez accorder, vous pouvez d'abord créer un nouveau rôle ou modifier un rôle existant pour l'adapter.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions): 
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Assign roles to members
+* Attribuer des rôles aux membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Access Control**. 
-2. In the centre panel, click the **Add member** button to the right of the Administrators heading.
-3. In the _New member_ dialog, browse or search in the New member dropdown menu for the UNIWeb member to whom you would like to assign an administrator role, and **click on their name**.
-4. **Click the checkbox** next to the role\(s\) that you would like to assign to the selected UNIWeb member.
-5. Click **Save**.
+1. À partir de votre page [Administrateur d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
+2. Dans le panneau central, cliquez sur le bouton **Ajouter un membre** à droite de l'en-tête Administrateurs.
+3. Dans la boîte de dialogue _Nouveau membre_, parcourez ou recherchez dans le menu déroulant Nouveau membre le membre UNIWeb auquel vous souhaitez attribuer un rôle d'administrateur, puis **cliquez sur son nom.**
+4. **Cochez la case** en regard du ou des rôles que vous souhaitez attribuer au membre UNIWeb sélectionné.
+5. Cliquez sur **Enregistrer.**
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification de l'accès des administrateurs** 
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification de l'accès des administrateurs**
 
-You can modify the level of access that a UNIWeb administrator has been granted by adding or removing roles from their administrator profile.
+Vous pouvez modifier le niveau d'accès accordé à un administrateur UNIWeb en ajoutant ou en supprimant des rôles de son profil d'administrateur.
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer::** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
 
 * Assign roles to members
 
