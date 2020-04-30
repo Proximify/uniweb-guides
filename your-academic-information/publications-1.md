@@ -1,15 +1,15 @@
 # Publications
 
-Through various sources such as journal articles, books, book chapters, dissertations, and newspaper and magazine articles, your publications make up the bulk of the contributions listed on your academic CV. 
+Grâce à diverses sources telles que des articles de revues, des livres, des chapitres de livres, des dissertations et des articles de journaux et de magazines, vos publications constituent l'essentiel des contributions répertoriées dans votre CV académique.
 
-UNIWeb offers streamlined data entry forms to create records of your publications as per Canadian Common CV standards, but you can also import records of your publications directly from various sources that may already have them listed, such as PubMed, EndNote, BibTex, and Google Scholar.
+UNIWeb propose des formulaires de saisie de données rationalisés pour créer des enregistrements de vos publications selon les normes de CV communes canadiennes, mais vous pouvez également importer des enregistrements de vos publications directement à partir de diverses sources qui peuvent déjà les avoir répertoriées, telles que PubMed, EndNote, BibTex et Google Scholar.
 
-### On this page:
+### **Sur cette page**:
 
-* [Adding publications manually](publications-1.md#adding-publications-manually)
-* [Importing publications](publications-1.md#importing-publications)
-* [Deleting publications](publications-1.md#deleting-publications)
-* [Finding and removing duplicate publications](publications-1.md#finding-and-removing-duplicate-publications)
+* [Ajout manuel de publications](publications-1.md#adding-publications-manually)
+* [Importation de publications](publications-1.md#importing-publications)
+* [Suppression de publications](publications-1.md#deleting-publications)
+* [Recherche et suppression de and publications](publications-1.md#finding-and-removing-duplicate-publications)
 
 ## Adding publications manually
 
@@ -81,4 +81,6 @@ In the Duplicate detection results dialog, UNIWeb will organize duplicate entrie
 | **In same section** | Mark records with matching titles as duplicates **only when they are both listed within the same section** - newspaper articles, book reviews, or reports, for instance. |
 | **With same year** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same year.** |
 | **With same month** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same month.** |
+
+
 
