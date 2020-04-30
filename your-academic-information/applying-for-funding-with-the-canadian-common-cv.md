@@ -1,25 +1,25 @@
 # Exporter vers le CV commun canadien
 
-The UNIWeb Curriculum Vitae offers a simple and streamlined way of managing your Canadian Common CV, and a straightforward process for exporting your information over to the CCV website to apply for funding directly. In addition, UNIWeb also includes some powerful tools to ensure that you submit the correct information for the funding agency of your choice.
+Le Curriculum Vitae d'UNIWeb offre un moyen simple et rationalisé de gérer votre CV commun canadien, et un processus simple pour exporter vos informations vers le site Web du CCV afin de demander un financement directement. De plus, UNIWeb comprend également des outils puissants pour vous assurer de soumettre les informations correctes à l'agence de financement de votre choix.
 
-Although the Canadian Common CV is treated as a standard set of information to apply for funding via multiple funding agencies, many agencies differ in which parts of the CCV are most relevant to the funding opportunities that they offer. 
+Bien que le CV commun canadien soit traité comme un ensemble standard d'informations pour demander un financement via plusieurs agences de financement, de nombreuses agences diffèrent dans les parties du CVC les plus pertinentes pour les opportunités de financement qu'elles offrent.
 
-UNIWeb automatically keeps track of the CV requirements for funding agencies that operate through the Canadian Common CV, and creates input guides, called **funding templates**, that can help you ensure that you've entered all of your CV information properly and completely as per that agency's standards.
+UNIWeb assure automatiquement le suivi des exigences de CV pour les agences de financement qui opèrent via le CV commun canadien, et crée des guides de saisie, appelés **modèles de financement**, qui peuvent vous aider à vous assurer que vous avez entré toutes vos informations de CV correctement et complètement conformément à cette agence. normes.
 
-#### On this page:
+#### **Sur cette page:**
 
-* [Exporting CV information from UNIWeb](applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
-* [Importing CV information into the CCV website](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-ccv-website)
-* [Applying ‘Submit?’ checkmarks](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks)
+* [Exporter l'information de votre CV vers UNIWeb](applying-for-funding-with-the-canadian-common-cv.md#exporting-cv-information-from-uniweb)
+* [Importations des informations de CV sur le site web du CVC](applying-for-funding-with-the-canadian-common-cv.md#importing-cv-information-into-the-ccv-website)
+* [Applications des coches &lt;&lt;Soumettre&gt;&gt; ?](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks)
 
-## Exporter l'information à partir de votre CV vers UNIWeb
+## Exporter l'information de votre CV vers UNIWeb
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Curriculum Vitae**
+1. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Curriculum Vitae.**
 2. In the right panel, choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency. **Any areas that are missing information according to the funding template will be marked in red.**
 3. Once you've double-checked your CV, select the **Export to CCV** option from the right panel.
 4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
 
-## Importing CV information into the CCV website
+## **Importation des informations de CV sur le site web du CVC**
 
 Once you have downloaded your CCV XML file, you are ready to continue the application process on the CCV website.
 
@@ -41,7 +41,7 @@ Once you have downloaded your CCV XML file, you are ready to continue the applic
 
 Now that you have updated your CCV, you may continue with your application as normal on the CCV website. If the funding agency requires that you only submit information going back a set number of years, see the next section on how UNIWeb can [apply ‘Submit’ checkmarks on the CCV website for you](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks).
 
-## Applying ‘Submit?’ checkmarks
+## **Appliquer des coches «Soumettre?»**
 
 When you apply for funding, some funding agencies require that you only submit information going back a set number of years. For example, some SSHRC applications require only the last 6 years of publications.
 
