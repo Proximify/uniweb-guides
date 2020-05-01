@@ -15,48 +15,48 @@ UNIWeb assure automatiquement le suivi des exigences de CV pour les agences de f
 ## Exporter l'information de votre CV vers UNIWeb
 
 1. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Curriculum Vitae.**
-2. In the right panel, choose a **Funding Template** to filter and verify your CV information according to the required sections and fields of your application’s Funding Agency. **Any areas that are missing information according to the funding template will be marked in red.**
-3. Once you've double-checked your CV, select the **Export to CCV** option from the right panel.
-4. Click **Download CCV XML**. Your CCV XML file will appear in your downloads folder.
+2. Dans le panneau de droite, choisissez un **modèle de financement** pour filtrer et vérifier les informations de votre CV en fonction des sections et des champs requis de l'agence de financement de votre candidature. **Tous les domaines qui manquent d'informations selon le modèle de financement seront marqués en rouge.**
+3. Une fois que vous avez revérifié votre CV, sélectionnez l'option **Exporter vers CCV** dans le panneau de droite.
+4. Cliquez sur **Télécharger CCV XML**. Votre fichier CCV XML apparaîtra dans votre dossier de téléchargements.
 
 ## **Importation des informations de CV sur le site web du CVC**
 
-Once you have downloaded your CCV XML file, you are ready to continue the application process on the CCV website.
+Une fois que vous avez téléchargé votre fichier XML CCV, vous êtes prêt à poursuivre le processus de demande sur le site Web CCV.
 
 {% hint style="warning" %}
-**Before you begin:** Ensure that you have the CCV website open in only one active tab, as any other open tabs may overwrite your changes with outdated information.
+**Avant de commencer:** Assurez-vous que le site Web CCV n'est ouvert que dans un seul onglet actif, car tout autre onglet ouvert peut remplacer vos modifications par des informations obsolètes.
 {% endhint %}
 
-1. Log in to the [CCV website](https://ccv-cvc.ca).
-2. Navigate to **Utilities**, and click **Import XML CCV**. 
-3. Click **Choose file** and attach the CCV XML file that you downloaded from UNIWeb.
-4. Click the **“I’m not a robot”** Captcha checkbox.
-5. Once you have passed the Captcha, click **Parse**.
-6. Once the information loads, click **Select all**.
-7. Click **Import**.
+1. Connectez-vous au site [site CVC](https://ccv-cvc.ca).
+2. Accédez à **Utilitaires** et cliquez sur **Importer XML CCV.**
+3. Cliquez sur **Choisir un fichier** et joignez le fichier XML CCV que vous avez téléchargé depuis UNIWeb.
+4. Cochez la case **«Je ne suis pas un robot»** Captcha.
+5. Une fois que vous avez réussi le Captcha, cliquez sur **Analyser.**
+6. Une fois les informations chargées, cliquez sur **Tout sélectionner.**
+7. Cliquez sur **Importer.**
 
 {% hint style="danger" %}
-**Note:** Even though the CCV website will warn you that you are overwriting your existing CCV information, only the fields that are contained within the XML file will be overwritten.
+**À noter:** Même si le site Web CCV vous avertit que vous écrasez vos informations CCV existantes, seuls les champs contenus dans le fichier XML seront remplacés.
 {% endhint %}
 
-Now that you have updated your CCV, you may continue with your application as normal on the CCV website. If the funding agency requires that you only submit information going back a set number of years, see the next section on how UNIWeb can [apply ‘Submit’ checkmarks on the CCV website for you](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks).
+Maintenant que vous avez mis à jour votre CCV, vous pouvez continuer votre application normalement sur le site Web du CCV. Si l'agence de financement exige que vous soumettiez uniquement des informations remontant à un certain nombre d'années, consultez la section suivante sur la façon dont UNIWeb peut [identifier les éléments à soumettre sur le site web CVC](applying-for-funding-with-the-canadian-common-cv.md#applying-submit-checkmarks).
 
-## **Appliquer des coches «Soumettre?»**
+## **Identifier les éléments à soumettre**
 
-When you apply for funding, some funding agencies require that you only submit information going back a set number of years. For example, some SSHRC applications require only the last 6 years of publications.
+Lorsque vous faites une demande de financement, certains organismes de financement exigent que vous soumettiez uniquement des informations remontant à un certain nombre d'années. Par exemple, certaines demandes du CRSH ne nécessitent que les 6 dernières années de publications.
 
-When the CCV website creates a CV draft for your application, it lists all available CV items that are relevant to the application and selects all available items by default. Normally, you must deselect the Submit? checkbox for each publication that falls outside of the funding agency’s required time period. UNIWeb can automatically deselect all of these items for you.
+Lorsque le site Web du CCV crée un brouillon de CV pour votre application, il répertorie tous les éléments de CV disponibles qui sont pertinents pour l'application et sélectionne tous les éléments disponibles par défaut. Normalement, vous devez désélectionner la case à cocher &lt;&lt; Soumettre&gt;&gt; pour chaque publication qui ne fait pas partie de la période requise par l'organisme de financement. UNIWeb peut désélectionner automatiquement tous ces éléments pour vous.
 
 {% hint style="warning" %}
-**Before you begin:** Ensure that you are **logged out** of the CCV website, and close all instances of the CCV website that you have open in other tabs. Any other open tabs may overwrite your changes with outdated information.
+**Avant de commencer:** Assurez-vous que vous êtes **déconnecté** du site Web CCV et fermez toutes les instances du site Web CCV que vous avez ouvertes dans d'autres onglets. Tous les autres onglets ouverts peuvent remplacer vos modifications par des informations obsolètes.
 {% endhint %}
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Curriculum Vitae**.
-2. Click **Apply “submit” checkmarks** in the right panel.
-3. In the _Apply “submit” checkmarks_ dialog box, enter your CCV username and password so that UNIWeb can access your CCV account.
-4. Select the **funding template** for your application, and the date at which the checkmarks should start \(Oldest and moving forward to the present\)
-5. Optional: uncheck any sections that you would like UNIWeb to ignore.
-6. Click **Apply on CCV**.
+1. À partir de votre [page d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Curriculum Vitae.**
+2. Cliquez sur **Identifier les elements à soumettre** dans le panneau de droite.
+3. Dans la boîte de dialogue _Identifier les elements à soumettre,_ cochez votre nom d'utilisateur et votre mot de passe CCV pour qu'UNIWeb puisse accéder à votre compte CCV.
+4. Sélectionnez le **modèle de financement** pour votre demande et la date à laquelle les coches doivent commencer \(la plus ancienne et la suivante\)
+5. Facultatif: décochez toutes les sections que vous souhaitez qu'UNIWeb ignore.
+6. Cliquez sur **Appliquer sur CCV.**
 
-After this process, when you [log in to the CCV website](https://ccv-cvc.ca) and access the funding template for your application, the Submit? checkboxes for the listed CV items will be selected according to the time period that you defined in the steps above. You may continue your funding application on the CCV website as normal.
+Après ce processus, lorsque vous vous [connectez au site web du CVC](https://ccv-cvc.ca) et accédez au modèle de financement de votre demande, le formulaire Soumettre? les cases à cocher pour les éléments de CV répertoriés seront sélectionnées en fonction de la période que vous avez définie dans les étapes ci-dessus. Vous pouvez continuer votre demande de financement sur le site Web du CCV comme d'habitude.
 
