@@ -1,31 +1,31 @@
-# Downloading CVs and Reports
+# Télécharger votre CV et vos rapports
 
-Using UNIWeb, you can easily generate fully-formatted academic documents using the information in your [UNIWeb Curriculum Vitae](your-uniweb-curriculum-vitae-cv.md). UNIWeb may include CV and annual activity report document templates, and any other [custom templates](../customizing-data-entry-and-reports-in-uniweb.md) for documents that reflect your department or faculty’s content and formatting requirements, as provided by your institution.
+En utilisant UNIWeb, vous pouvez facilement générer des documents académiques entièrement formatés en utilisant les informations de votre [Curriculum Vitae UNIWeb](your-uniweb-curriculum-vitae-cv.md). UNIWeb peut inclure des modèles de CV et de rapport d'activité annuel, ainsi que tout autre [modèles personnalisés](../customizing-data-entry-and-reports-in-uniweb.md) de documents reflétant le contenu et les exigences de mise en forme de votre département ou faculté, tels que fournis par votre établissement.
 
-#### On this page:
+#### Sur cette page:
 
-* [Downloading your CV and generating report files](downloading-cvs-and-reports.md#downloading-your-cv-and-generating-report-files)
-* [Downloading CVs and generating report files of other UNIWeb members](downloading-cvs-and-reports.md#downloading-cvs-and-generating-report-files-of-other-uniweb-members)
-* [Download Options](downloading-cvs-and-reports.md#download-options)
+* [Télécharger votre CV et générer des fichiers de rapport](downloading-cvs-and-reports.md#downloading-your-cv-and-generating-report-files)
+* [Téléchargement de CV et génération de fichiers de rapports d'autres membres UNIWeb](downloading-cvs-and-reports.md#downloading-cvs-and-generating-report-files-of-other-uniweb-members)
+* [Options de téléchargement](downloading-cvs-and-reports.md#download-options)
 
-## Downloading your CV and generating report files
+## Télécharger votre CV et générer des fichiers de rapport
 
 ![](../.gitbook/assets/report-download.gif)
 
-1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Curriculum Vitae** 
-2. Click **Download As...** in the right panel.
-3. Under Download Options, select the **Document Type** that you would like to download.
-4. Optional: configure any other [**Download Options**](downloading-cvs-and-reports.md#download-options) as needed
-5. Click **Download.**
+1. À partir de votre [Page d'accueil d'UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Curriculum Vitae** 
+2. Cliquez sur **Télécharger comme** ... dans le panneau de droite.
+3. Sous Options de téléchargement, sélectionnez le **type de document** que vous souhaitez télécharger.
+4. Facultatif: configurez toutes les autres [**Options de téléchargement**](downloading-cvs-and-reports.md#download-options) selon vos besoins
+5. Cliquez sur **Télécharger**.
 
-## ![](../.gitbook/assets/key.svg) Downloading CVs and generating report files of other UNIWeb members
+## ![](../.gitbook/assets/key.svg) **Téléchargement de CV et génération de fichiers de rapports d'autres membres d'UNIWeb**
 
-Network administrators can download the academic CVs and reports of other UNIWeb members, either individually or in batches.
+Les administrateurs réseau peuvent télécharger les CV académiques et les rapports des autres membres d'UNIWeb, individuellement ou par lots.
 
 {% hint style="warning" %}
-**Before you begin:** to perform this procedure, you must have an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject's academic unit that includes the following permissions:
+**Avant de commencer :** pour effectuer cette procédure, vous devez avoir un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui comprend les autorisations suivantes:
 
-* Edit Member Information
+* Modifier l'information des membres
 
 If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
@@ -41,7 +41,7 @@ If you have not been assigned a role with the permissions listed above, and beli
 **Tip:** if multiple users are selected, their documents will be downloaded as a zip file.
 {% endhint %}
 
-## Download Options
+## **Options de téléchargement**
 
 Download Options allow you to adjust the content of the CV or report that you are downloading. Depending on the Document Type selected, some of the Download Options below may not be available for adjustment.
 
