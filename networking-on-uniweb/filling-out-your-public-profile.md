@@ -1,24 +1,23 @@
 # Votre profil publique
 
-UNIWeb includes intuitive tools to quickly add new information to your Public Profile as needed. Getting started is easy - if you have already [populated your Curriculum Vitae](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), you can use that information to automatically fill out certain sections of your Public Profile.
+UNIWeb comprend des outils intuitifs pour ajouter rapidement de nouvelles informations à votre profil public selon vos besoins. Il est facile de commencer - si vous avez déjà [rempli votre Curriculum Vitae](../your-academic-information/your-uniweb-curriculum-vitae-cv.md), vous pouvez utiliser ces informations pour remplir automatiquement certaines sections de votre profil public.
 
-### On this page:
+### Sur cette page:
 
-* [Viewing your own Public Profile](filling-out-your-public-profile.md#viewing-your-public-profile)
-* [Adding a profile picture](filling-out-your-public-profile.md#adding-a-profile-picture)
-* [Filling out your Public Profile manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
-* [Filling out your Public Profile automatically using your CV](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
-* [Filling out another UNIWeb member's public profile](filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile)
-* [Creating and restoring a backup of your profile](filling-out-your-public-profile.md#creating-and-restoring-a-backup-of-your-profile)
-* [Profile Sections](filling-out-your-public-profile.md#profile-sections)
+* [Affichage de votre propre profil public](filling-out-your-public-profile.md#viewing-your-public-profile)
+* [Ajout d'une photo de profil](filling-out-your-public-profile.md#adding-a-profile-picture)
+* [Remplir automatiquement votre profil public à l'aide de votre CV](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
+* [Remplir le profil public d'un autre membre d'UNIWeb](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
+* [Création et restauration d'une sauvegarde de votre profil](filling-out-your-public-profile.md#creating-and-restoring-a-backup-of-your-profile)
+* [Sections de votre profil](filling-out-your-public-profile.md#profile-sections)
 
-## Viewing your public profile
+## **Affichage de votre propre profil public**
 
 1. From your[ UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
 2. Click **Public Profile** in the right panel.
 3. To return, click **Edit Profile** in the right panel.
 
-## Adding a profile picture
+## **Ajout d'une photo de profil**
 
 1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**.
 2. In the centre panel, to the left of your name, **click on the placeholder profile picture**, or click on your old profile picture if you would like to change it.
@@ -54,7 +53,7 @@ The profile sections that can be populated using CV information are as follows:
 **Tip:** You can edit any profile information as needed - edits you make to your profile page won’t affect the information stored in your CV.
 {% endhint %}
 
-## ![](../.gitbook/assets/key.svg) Filling out another UNIWeb member’s public profile
+## ![](../.gitbook/assets/key.svg) **Remplir le profil public d'un autre membre d'UNIWeb**
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
@@ -73,7 +72,7 @@ As long as you have been assigned an administrator role within the subject’s a
 **Note:** this procedure will not give you access to edit the UNIWeb member’s curriculum vitae information directly. If you would like to edit the information in a particular user’s curriculum vitae, see our article on [requesting delegate access to another UNIWeb member’s account](../uniweb-accounts/access-control/delegate-access.md#requesting-delegate-access).
 {% endhint %}
 
-## Creating and restoring a backup of your profile
+## **Création et restauration d'une sauvegarde de votre profil**
 
 Your profile is your public showcase of your work within your UNIWeb network, and so it is a living document that will grow with you through the course of your career. Because you will be regularly updating your profile, it's important to take regular backups so that you can restore your information in the event that something is accidentally deleted or modified incorrectly.
 
@@ -99,7 +98,7 @@ A backup of your profile information will be downloaded as a JSON file.
 
 Clicking **Done** will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
 
-## Profile Sections
+## **Sections de profil**
 
 Your profile is divided into sections of content which are listed in the left panel for quick navigation. Certain sections may or may not be present on your profile depending on your [account type and position title](../uniweb-accounts/account-management/member-account-information.md#account-information-fields) - for instance, the Academic Supervision section is only available to members with Professor as their Account Type. 
 
