@@ -30,43 +30,46 @@ Les administrateurs réseau peuvent télécharger les CV académiques et les rap
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration page](../navigating-uniweb/the-administration-page.md), go to **Members** 
-2. Click the checkboxes to the right of the UNIWeb members whose reports or CVs you would like to download.
-3. Click **Generate CVs and Reports** in the right panel.
-4. Select the [**Document Type**](downloading-cvs-and-reports.md#download-options) that you would like to download
-5. Optional: configure any other [**Download Options**](downloading-cvs-and-reports.md#download-options) as needed
-6. Click **Download.**
+1. À partir de votre [page d'administration UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Membres** 
+2. Cochez les cases à droite des membres d'UNIWeb dont vous souhaitez télécharger les rapports ou les CV.
+3. Cliquez sur **Générer des CV et des rapports** dans le panneau de droite.
+4. Sélectionnez le [**Type de document** ](downloading-cvs-and-reports.md#download-options)que vous souhaitez télécharger
+5. Facultatif: configurez toutes les autres [**Options de téléchargement**](downloading-cvs-and-reports.md#download-options) selon vos besoins
+6. Cliquez sur **Télécharger.**
 
 {% hint style="info" %}
-**Tip:** if multiple users are selected, their documents will be downloaded as a zip file.
+**Conseil :** si plusieurs utilisateurs sont sélectionnés, leurs documents seront téléchargés sous forme de fichier zip.
 {% endhint %}
 
 ## **Options de téléchargement**
 
-Download Options allow you to adjust the content of the CV or report that you are downloading. Depending on the Document Type selected, some of the Download Options below may not be available for adjustment.
+Les options de téléchargement vous permettent d'ajuster le contenu du CV ou du rapport que vous téléchargez. Selon le type de document sélectionné, certaines des options de téléchargement ci-dessous peuvent ne pas être disponibles pour le réglage.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Download Option</th>
-      <th style="text-align:left">Function</th>
+      <th style="text-align:left">Option de t&#xE9;l&#xE9;chargement</th>
+      <th style="text-align:left">Fonction</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Document Type</td>
-      <td style="text-align:left">The template that will be used to arrange your data into a downloaded
-        document; either a CV or a custom report. Every instance of UNIWeb includes
-        a generic Academic CV Document Type that may have been customized by your
-        institution to fit their branding. However, your institution may also choose
-        to include their own custom report templates. For information specific
-        to your institution&#x2019;s custom reports, please contact your system
-        administrator.</td>
+      <td style="text-align:left">Type de document</td>
+      <td style="text-align:left">Le mod&#xE8;le qui sera utilis&#xE9; pour organiser vos donn&#xE9;es dans
+        un document t&#xE9;l&#xE9;charg&#xE9;; soit un CV, soit un rapport personnalis&#xE9;.
+        Chaque instance d&apos;UNIWeb comprend un type de document de CV acad&#xE9;mique
+        g&#xE9;n&#xE9;rique qui peut avoir &#xE9;t&#xE9; personnalis&#xE9; par
+        votre institution pour correspondre &#xE0; leur image de marque. Cependant,
+        votre &#xE9;tablissement peut &#xE9;galement choisir d&apos;inclure ses
+        propres mod&#xE8;les de rapport personnalis&#xE9;s. Pour des informations
+        sp&#xE9;cifiques aux rapports personnalis&#xE9;s de votre &#xE9;tablissement,
+        veuillez contacter votre administrateur syst&#xE8;me.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Faculty</td>
-      <td style="text-align:left">Certain Document Types may have different formatting rules and may handle
-        information differently depending on the .</td>
+      <td style="text-align:left">Facult&#xE9;</td>
+      <td style="text-align:left">Certains types de documents peuvent avoir des r&#xE8;gles de mise en forme
+        diff&#xE9;rentes et peuvent traiter les informations diff&#xE9;remment
+        selon la facult&#xE9;.</td>
     </tr>
     <tr>
       <td style="text-align:left">Layout Sections</td>
