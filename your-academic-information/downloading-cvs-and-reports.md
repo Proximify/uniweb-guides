@@ -27,7 +27,7 @@ Les administrateurs réseau peuvent télécharger les CV académiques et les rap
 
 * Modifier l'information des membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. From your [UNIWeb Administration page](../navigating-uniweb/the-administration-page.md), go to **Members** 
