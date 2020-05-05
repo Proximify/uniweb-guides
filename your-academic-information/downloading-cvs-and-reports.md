@@ -72,61 +72,72 @@ Les options de téléchargement vous permettent d'ajuster le contenu du CV ou du
         selon la facult&#xE9;.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Layout Sections</td>
-      <td style="text-align:left">The sections of information that make up the selected Document Type. All
-        sections are selected by default, but you may deselect individual sections
-        to omit them from the downloaded document.</td>
+      <td style="text-align:left">Sections de mise en page</td>
+      <td style="text-align:left">Les sections d&apos;informations qui composent le type de document s&#xE9;lectionn&#xE9;.
+        Toutes les sections sont s&#xE9;lectionn&#xE9;es par d&#xE9;faut, mais
+        vous pouvez d&#xE9;s&#xE9;lectionner des sections individuelles pour les
+        omettre du document t&#xE9;l&#xE9;charg&#xE9;.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Years Back</td>
+      <td style="text-align:left">Ann&#xE9;es pass&#xE9;es</td>
       <td style="text-align:left">
-        <p>The extent of time that you would like your downloaded document to include:</p>
+        <p>La dur&#xE9;e pendant laquelle vous souhaitez que votre document t&#xE9;l&#xE9;charg&#xE9;
+          inclue:</p>
         <p></p>
         <ul>
-          <li><b>Lifetime (default):</b> The downloaded document will include all available
-            information from your account that is relevant to the selected Document
-            Type - past, present, and future.</li>
-          <li></li>
-          <li><b>A number of years back is specified, End Date left blank: </b>The downloaded
-            document will include all available information from your account that
-            is relevant to the selected Document Type, starting from the selected number
-            of years back from the date of download, and including future entries.</li>
-          <li></li>
-          <li><b>A number of years back is specified, End Date selected: </b>The downloaded
-            document will include all available information from your account that
-            is relevant to the selected Document Type, starting from the selected number
-            of years back from the selected End Date, and ending at the selected End
-            Date.</li>
+          <li><b>Dur&#xE9;e de vie (par d&#xE9;faut): </b>Le document t&#xE9;l&#xE9;charg&#xE9;
+            comprendra toutes les informations disponibles de votre compte qui sont
+            pertinentes pour le type de document s&#xE9;lectionn&#xE9; - pass&#xE9;,
+            pr&#xE9;sent et futur.
+            <br />
+          </li>
+          <li><b>Un certain nombre d&apos;ann&#xE9;es en arri&#xE8;re est sp&#xE9;cifi&#xE9;, date de fin laiss&#xE9;e vierge: </b>le
+            document t&#xE9;l&#xE9;charg&#xE9; comprendra toutes les informations disponibles
+            de votre compte qui sont pertinentes pour le type de document s&#xE9;lectionn&#xE9;,
+            en commen&#xE7;ant par le nombre d&apos;ann&#xE9;es en arri&#xE8;re s&#xE9;lectionn&#xE9;
+            &#xE0; partir de la date de t&#xE9;l&#xE9;chargement, y compris les futures
+            entr&#xE9;es.<b><br /></b>
+          </li>
+          <li><b>Un certain nombre d&apos;ann&#xE9;es en arri&#xE8;re est sp&#xE9;cifi&#xE9;, Date de fin s&#xE9;lectionn&#xE9;e:</b> Le
+            document t&#xE9;l&#xE9;charg&#xE9; comprendra toutes les informations disponibles
+            de votre compte qui sont pertinentes pour le type de document s&#xE9;lectionn&#xE9;,
+            en commen&#xE7;ant par le nombre d&apos;ann&#xE9;es en arri&#xE8;re s&#xE9;lectionn&#xE9;
+            &#xE0; partir de la date de fin s&#xE9;lectionn&#xE9;e, et se terminant
+            &#xE0; la Date de fin s&#xE9;lectionn&#xE9;e.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">End Date</td>
-      <td style="text-align:left">This option is only visible when a number of years is chosen in the Years
-        Back field, rather than the default Lifetime selection. If an End Date
-        is specified, it will be used to determine both the start and end date
-        for the range of years as selected in the Years Back field. If an End Date
-        is not specified, UNIWeb will use the date of your download request as
-        the start date for the range of years as selected in the Years Back field,
-        and will include all relevant information dated through the present and
-        into the future in the downloaded document.</td>
+      <td style="text-align:left">Date de fin</td>
+      <td style="text-align:left">Cette option n&apos;est visible que lorsqu&apos;un nombre d&apos;ann&#xE9;es
+        est choisi dans le champ Ann&#xE9;es pr&#xE9;c&#xE9;dentes, plut&#xF4;t
+        que la s&#xE9;lection de dur&#xE9;e de vie par d&#xE9;faut. Si une date
+        de fin est sp&#xE9;cifi&#xE9;e, elle sera utilis&#xE9;e pour d&#xE9;terminer
+        &#xE0; la fois la date de d&#xE9;but et la date de fin de la plage d&apos;ann&#xE9;es
+        s&#xE9;lectionn&#xE9;e dans le champ Ann&#xE9;es pr&#xE9;c&#xE9;dentes.
+        Si aucune date de fin n&apos;est sp&#xE9;cifi&#xE9;e, UNIWeb utilisera
+        la date de votre demande de t&#xE9;l&#xE9;chargement comme date de d&#xE9;but
+        pour la plage d&apos;ann&#xE9;es s&#xE9;lectionn&#xE9;e dans le champ Ann&#xE9;es
+        pr&#xE9;c&#xE9;dentes et inclura toutes les informations pertinentes dat&#xE9;es
+        du pr&#xE9;sent et &#xE0; l&apos;avenir dans le document t&#xE9;l&#xE9;charg&#xE9;.</td>
     </tr>
     <tr>
-      <td style="text-align:left">File Format</td>
-      <td style="text-align:left">The format of the downloaded document. Available choices may differ depending
-        on the Document Type, but may include .pdf, .doc, or .html.</td>
+      <td style="text-align:left">Format de fichier</td>
+      <td style="text-align:left">Le format du document t&#xE9;l&#xE9;charg&#xE9;. Les choix disponibles
+        peuvent diff&#xE9;rer selon le type de document, mais peuvent inclure .pdf,
+        .doc ou .html.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Citation Style</td>
-      <td style="text-align:left">The citation standard that will be used to list publications within the
-        downloaded document. Choices may include APA (6th Edition), Chicago (16th
-        Edition), or MLA (7th Edition).</td>
+      <td style="text-align:left">Style de citation</td>
+      <td style="text-align:left">La norme de citation qui sera utilis&#xE9;e pour r&#xE9;pertorier les
+        publications dans le document t&#xE9;l&#xE9;charg&#xE9;. Les choix peuvent
+        inclure APA (6e &#xE9;dition), Chicago (16e &#xE9;dition) ou MLA (7e &#xE9;dition).</td>
     </tr>
     <tr>
-      <td style="text-align:left">Filter</td>
-      <td style="text-align:left">You may choose to exclude publications from the downloaded document based
-        on their publication status. By default, publications of all statuses are
-        included in the downloaded document.</td>
+      <td style="text-align:left">Filtre</td>
+      <td style="text-align:left">Vous pouvez choisir d&apos;exclure les publications du document t&#xE9;l&#xE9;charg&#xE9;
+        en fonction de leur statut de publication. Par d&#xE9;faut, les publications
+        de tous les statuts sont incluses dans le document t&#xE9;l&#xE9;charg&#xE9;.</td>
     </tr>
   </tbody>
 </table>
