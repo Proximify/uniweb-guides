@@ -1,4 +1,4 @@
-# Research Themes
+# Thèmes de recherche
 
 Whereas [academic units](../../uniweb-accounts/academic-units/) organize UNIWeb members by the real administrative bodies that make up their institution, Research Themes serve to connect UNIWeb members across the boundaries of academic units, based on their research interests and the topics that inform their academic work. 
 
