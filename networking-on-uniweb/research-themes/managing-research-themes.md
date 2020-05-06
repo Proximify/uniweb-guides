@@ -1,77 +1,77 @@
-# Gestion des thèmes de recherche
+# Managing Research Themes
 
-Si vous ne trouvez pas un thème de recherche particulier dans les listes de votre établissement, vous pouvez le proposer à l'équipe d'administration d'UNIWeb de votre établissement. Le nouveau thème de recherche sera mis à votre disposition ainsi qu'à votre établissement en général après avoir été approuvé par un administrateur.
+If you cannot find a particular Research Theme within your institution’s listings, you can propose it to your institution's UNIWeb administration team. The new Research Theme will be made available to you and your institution at large after it has been approved by an administrator.
 
-#### **Sur cette page**:
+#### On this page:
 
-* [Créer des nouveaux thèmes de recherche](managing-research-themes.md#creating-new-research-themes)\*\*\*\*
-* [Approuver les thèmes de recherche](managing-research-themes.md#approving-research-themes)
-* [Modifier des thèmes de recherche](managing-research-themes.md#editing-research-themes)
-* [Supprimer des thèmes de recherche](managing-research-themes.md#deleting-research-themes)
+* [Creating new Research Themes](managing-research-themes.md#creating-new-research-themes)
+* [Approving Research Themes](managing-research-themes.md#approving-research-themes)
+* [Editing Research Themes](managing-research-themes.md#editing-research-themes)
+* [Deleting Research Themes](managing-research-themes.md#deleting-research-themes)
 
-## **Créer des nouveaux thèmes de recherche**
+## Creating new Research Themes
 
 ![](../../.gitbook/assets/creating-a-research-interest.gif)
 
-1. À partir de votre page [d'accueil d'UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Dans le panneau central, sous la section **Intérêts de recherche**, cliquez sur **Modifier**.
-3. Parcourez et / ou recherchez dans les listes déroulantes des thèmes de recherche sur le côté gauche du panneau central. Identifiez le thème de recherche parent le plus pertinent pour le thème que vous souhaitez ajouter. Assurez-vous que le thème de recherche parent est développé pour afficher l'un de ses thèmes enfants existants.
-4. Placez votre curseur sur le thème de recherche parent que vous avez choisi et cliquez sur **l'icône de stylo** qui apparaît à droite de celui-ci.
-5. Dans la boîte de dialogue _Modifier le thème de recherche_, saisissez le nom du nouveau thème enfant que vous souhaitez créer.
-6. **Facultatif:** si nécessaire, cliquez sur la bascule **multilingue** à côté de la zone de texte pour ajouter votre nouveau thème dans une deuxième langue.
-7. Cliquez sur **Enregistrer** 
+1. From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
+2. In the centre panel, under the **Research Interests** section, click **Edit**.
+3. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel. Identify the most relevant parent Research Theme for the theme that you would like to add. Ensure that the parent Research Theme is expanded to display any of its existing child themes.
+4. Rest your cursor on the parent Research Theme that you have chosen, and click on the **pen icon** that appears to the right of it.
+5. In the _Edit research theme_ dialog, type the name of the new child theme that you would like to create.
+6. **Optional:** if necessary, click the **multilingual** toggle next to the text box to add your new theme in a second language. 
+7. Click **Save** 
 
-Tout nouveau thème de recherche que vous ajoutez doit être approuvé par un membre d'UNIWeb auquel un rôle d'administrateur a été attribué. La réalisation des étapes ci-dessus enverra une notification aux administrateurs pour approbation. Le nouveau thème de recherche sera affiché sur votre profil une fois qu'il aura été approuvé.
+Any new Research Themes that you add must be approved by a UNIWeb member who has been assigned an administrator role. Completing the steps above will send a notification to administrators for approval. The new Research Theme will be displayed on your profile after it has been approved.
 
-## ![](../../.gitbook/assets/key.svg) **Approuver les thèmes de recherche**
-
-{% hint style="warning" %}
-**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) dans toute unité académique qui inclut les autorisations suivantes:
-
-* Approuver de nouveaux thèmes
-
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir exécuter cette tâche, veuillez contacter votre administrateur système.
-{% endhint %}
-
-1. À partir de votre page [d'administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Thèmes**. 
-2. Dans le panneau de droite, sous l'en-tête Statut, cliquez sur **En attente**. Cela filtrera la liste des thèmes dans le panneau central pour n'afficher que les thèmes en attente d'approbation.
-3. Cliquez sur un nom de thème dans le panneau central. Cela ouvrira un écran de détails pour le thème proposé, y compris tous les thèmes enfants créés avec lui.
-4. Dans l'écran des détails du thème, cliquez sur Approuver. Vous pouvez également modifier ou supprimer le thème proposé.
-
-Sur la page Thèmes de recherche, vous verrez une liste de thèmes proposés par vos utilisateurs. Chaque entrée comprend une ventilation du parent du thème, des enfants créés avec lui, ainsi que de la personne qui l'a proposé et à quelle date. En tant qu'administrateur, vous avez la possibilité d'approuver, de modifier ou de supprimer un thème. Pour ce faire, choisissez l'option Review \(voir ➁ dans la figure 8\). Depuis cette fenêtre, vous pouvez modifier l'imbrication du nouveau thème, le nom du thème et fournir une traduction en français \(voir Figure 9\). Ensuite, vous pouvez choisir d'approuver le thème. Une fois que vous avez approuvé un thème, votre nom apparaîtra à côté de l'entrée. Astuce: utilisez les filtres du menu de droite pour naviguer facilement parmi les différents thèmes \(voir ➂ dans la figure 6\).
-
-## ![](../../.gitbook/assets/key.svg) **Modifier des thèmes de recherche**
-
-Une fois qu'un thème de recherche a été créé, vous pouvez modifier son nom en anglais ou en français et vous pouvez changer son thème parent.
+## ![](../../.gitbook/assets/key.svg) Approving Research Themes
 
 {% hint style="warning" %}
-**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) dans toute unité académique qui inclut les autorisations suivantes:
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
 
-* Approuver de nouveaux thèmes
+* Approve new themes
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir exécuter cette tâche, veuillez contacter votre administrateur système.
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. À partir de votre page [d'administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Thèmes**. 
-2. Cliquez sur un nom de thème dans le panneau central. Cela ouvrira un écran de détails pour le thème proposé, y compris tous les thèmes enfants créés avec lui.
-3. Dans l'écran des détails du thème, modifiez les informations du thème selon vos besoins.
-4. Cliquez sur **Enregistrer** ou sur **Approuver** si le thème n'a pas encore été approuvé.
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Themes**. 
+2. In the right panel, under the Status heading, click **Pending**. This will filter the list of themes in the centre panel to show only themes that are pending approval.
+3. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
+4. In the theme details screen, click Approve. You may also edit or delete the proposed theme.
 
-## ![](../../.gitbook/assets/key.svg) **Supprimer des thèmes de recherche**
+On the Research Themes page, you will see a list of themes proposed by your users. Each entry includes a breakdown of the theme’s parent, any children created along with it, as well as the individual who proposed it and on what date. As an administrator, you have the ability to approve, edit or delete a theme. To do this, choose the Review option \(see ➁ in Figure 8\). From this window you can edit the nesting of the new theme, the theme name and provide a French translation \(see Figure 9\). Then you can select to approve the theme. Once you approve a theme, your name will appear next to the entry. Tip: Use the filters on the right-hand menu to easily navigate among the various themes \(see ➂ in Figure 6\).
 
-Au fil du temps, certains Thèmes de recherche peuvent ne plus être nécessaires ou devenir redondants avec l'ajout et la croissance d'autres Thèmes de recherche qui les entourent.
+## ![](../../.gitbook/assets/key.svg) Editing Research Themes
 
-Étant donné que les thèmes de recherche peuvent être [étiquetés](increasing-discoverability-with-research-themes.md) et référencés dans de nombreux domaines différents d'UNIWeb, la suppression pure et simple d'un thème de recherche pourrait avoir un impact négatif sur la découvrabilité de certaines ressources. Pour contrer cela, UNIWeb vous permet de supprimer un thème de recherche en le **fusionnant avec son thème parent**. Tout ce qui a été marqué avec le thème de recherche supprimé sera automatiquement marqué avec son thème parent à la place, et les enfants du thème supprimé continueront d'exister en tant qu'enfants du parent du thème supprimé sans perturber autrement la hiérarchie des thèmes.
+Once a Research Theme has been created, you can edit its name in English or French, and you can change its parent theme.
 
 {% hint style="warning" %}
-**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) dans toute unité académique qui inclut les autorisations suivantes:
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) with the following permissions:
 
-* Approuver de nouveaux thèmes
+* Approve new themes
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir exécuter cette tâche, veuillez contacter votre administrateur système.
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
 {% endhint %}
 
-1. À partir de votre page [d'administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Thèmes**. 
-2. Cliquez sur un nom de thème dans le panneau central. Cela ouvrira un écran de détails pour le thème proposé, y compris tous les thèmes enfants créés avec lui.
-3. Dans l'écran des détails du thème, cliquez sur **Supprimer en fusionnant dans le thème parent.** 
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Themes**. 
+2. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
+3. In the theme details screen, edit the theme information as needed.
+4. Click **Save**, or **Approve**, if the theme has not yet been approved.
+
+## ![](../../.gitbook/assets/key.svg) Deleting Research Themes
+
+Over time, certain Research Rhemes may no longer be necessary, or may become redundant with the addition and growth of other Research Themes around it. 
+
+Because Research Themes can be [tagged](increasing-discoverability-with-research-themes.md) and referenced in so many different areas of UNIWeb, deleting a Research Theme outright could negatively impact the discoverability of certain resources. To counteract this, UNIWeb allows you to delete a Research Theme by **merging it with its parent theme**. Anything that has been tagged with the deleted research theme will automatically be tagged with its parent theme instead, and **the deleted theme's children will continue to exist** as children of the deleted theme's parent without otherwise disrupting the heirarchy of themes.
+
+{% hint style="warning" %}
+**Before you begin:** this procedure requires an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
+
+* Approve new themes
+
+If you have not been assigned a Role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+{% endhint %}
+
+1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Themes**. 
+2. Click on a theme name in the centre panel. This will open a details screen for the proposed theme, including any child themes that were created with it.
+3. In the theme details screen, click **Delete by merging into parent theme**.
 
