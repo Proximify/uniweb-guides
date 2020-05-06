@@ -1,29 +1,29 @@
-# Sending generic administrative emails
+# Envoi de courriels génériques
 
-As an adminsitrator, you can send direct emails through UNIWeb to members within your academic unit. You can send these messages with either you or UNIWeb listed as the sender.  There is no specific administrator permission that needs to be assigned in order to grant this functionality; it is available to any UNIWeb members who have been assigned an administrator role.
+En tant qu'administrateur, vous pouvez envoyer des e-mails directs via UNIWeb aux membres de votre unité scolaire. Vous pouvez envoyer ces messages avec vous ou UNIWeb figurant comme expéditeur. Il n'y a aucune autorisation d'administrateur spécifique qui doit être attribuée afin d'accorder cette fonctionnalité; il est disponible pour tous les membres d'UNIWeb auxquels un rôle d'administrateur a été attribué.
 
-In sending email messages through UNIWeb, please follow any communication rules and standards set by your institution.
+En envoyant des e-mails via UNIWeb, veuillez suivre toutes les règles et normes de communication établies par votre institution.
 
-#### On this page:
+#### Sur cette page:
 
-* [Sending a generic administrative email](sending-generic-administrative-emails.md#sending-a-generic-administrative-email)
+* [Envoi d'un courriel administratif générique](sending-generic-administrative-emails.md#sending-a-generic-administrative-email)
 
-## ![](../../.gitbook/assets/key%20%281%29.svg) Sending a generic administrative email
+## ![](../../.gitbook/assets/key%20%281%29.svg) **Envoi d'un courriel administratif générique**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](managing-administrator-roles-and-permissions.md) in any academic unit that includes the following [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
-* Edit member information
-* Send email invites
+* Modifier les informations sur les membres
+* Envoyer des invitations par courriel
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../../navigating-uniweb/the-administration-page.md) page, go to **Members**.
-2. In the centre panel, click the checkbox to the right of any members to whom you would like to send an email.
-3. In the right panel, click **Generic message**, under the **Send Email** heading.
-4. In the **Email Members** dialog, **configure any sending options**, set a subject, and **compose your message**.
-5. Click **Send**.
+1. À partir de votre page [Administrateur d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Membres**. 
+2. Dans le panneau central, cochez la case à droite des membres auxquels vous souhaitez envoyer un courriel.
+3. Dans le panneau de droite, cliquez sur **Message générique**, sous l'en-tête **Envoyer un courriel**.
+4. Dans la boîte de dialogue **Membres de courriel**, **configurez les options d'envoi**, définissez un objet et **composez votre message.**
+5. Cliquez sur **envoyer.**.
 
-Your email message will be sent to the members that you selected. If there is a problem sending the email message, UNIWeb will save the message as **pending.** You can check the status of any pending messages by clicking **Check send status** in the right panel.
+Votre courriel sera envoyé aux membres que vous avez sélectionnés. En cas de problème lors de l'envoi du courriel, UNIWeb enregistrera le message **en attente.** Vous pouvez vérifier l'état de tous les messages en attente en cliquant sur **Vérifier** l'état de l'envoi dans le panneau de droite.
 

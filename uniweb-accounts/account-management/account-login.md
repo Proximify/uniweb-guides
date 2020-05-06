@@ -54,8 +54,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre [page d'administrateur](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
-2. Locate any UNIWeb members to whom you would like to send a password reset email, and **click the checkbox** on the right side of their row. You may only send password reset emails to UNIWeb members within your own academic unit and its sub-units.
-3. Localisez tous les membres d'UNIWeb à qui vous souhaitez envoyer un e-mail de réinitialisation de mot de passe, puis cochez la case à droite de leur ligne. Vous ne pouvez envoyer des e-mails de réinitialisation de mot de passe qu'aux membres d'UNIWeb au sein de votre propre unité académique et de ses sous-unités.
-4. In the right panel, click **Password reset**.
-5. In the _Reset Password_ dialog, confirm that you have selected the correct UNIWeb members, and click the**Reset passwords** button. The UNIWeb member will receive an email at their account email address with instructions on how to reset their password.
+2. Trouvez tous les membres UNIWeb à qui vous souhaitez envoyer un e-mail de réinitialisation de mot de passe, et **cochez la case** à droite de leur ligne. Vous ne pouvez envoyer des e-mails de réinitialisation de mot de passe qu'aux membres d'UNIWeb au sein de votre propre unité \(et de ses sous-unités académique.
+3. Dans le panneau à droite, cliquez sur **Réinitialiser mot de passe**.
+4. Dans le dialogue Réinitialiser mot de passe, confirmez que vous avez sélectionnez le bon nombre de membres UNIWeb, et cliquez sur le bouton **Réinitialiser les mots de passe**. Le membre UNIWeb recevra un e-mail à l'adresse de son compte avec des instructions sur la façon de réinitialiser son mot de passe.
 

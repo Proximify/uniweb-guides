@@ -1,19 +1,17 @@
-# Networking on UNIWeb
+# UNIWeb pour le réseautage
 
-In addition to offering intuitive tools to create and manage a digital copy of your [academic curriculum vitae](../your-academic-information/), UNIWeb offers robust tools to discover and connect with peers, and to stay in the loop with the [latest news](web-articles-1.md) at your institution.
+En plus d'offrir des outils intuitifs pour créer et gérer une copie numérique de votre [curriculum vitae académique](../your-academic-information/), UNIWeb propose des outils robustes pour découvrir et vous connecter avec vos pairs, et pour rester au courant des [dernières nouvelles](web-articles-1.md) at your institution de votre institution.
 
-To start, you can curate the information that you have entered into your academic CV into a [public profile,](filling-out-your-public-profile.md) a representation of your presence and work at your institution. Within your UNIWeb network, you can list academic [resources and equipment](equipment-profiles-resources/) under your management to be discovered and shared by your peers, and you can create [Research Groups](groups-1.md) to organize and share resources with your colleagues.
+Pour commencer, vous pouvez organiser les informations que vous avez entrées dans votre CV académique dans un [profil publique,](filling-out-your-public-profile.md) une représentation de votre présence et de votre travail dans votre établissement. Au sein de votre réseau UNIWeb, vous pouvez répertorier les [resources et équipements](equipment-profiles-resources/) académiques sous votre gestion à découvrir et à partager par vos pairs, et vous pouvez créer des [Groupes de recherche](groups-1.md) pour organiser et partager des ressources avec vos collègues.
 
-UNIWeb allows you to tag your groups, resources, publications and even your profile with [Research Themes](research-themes/) - keywords that can help you find potential collaborators and research equipment suited to a particular topic, and that can help you boost the discoverability of your own listings in search results accordingly. Every Research Theme has its own Research Cluster, a page full of resources that have been tagged with the same Theme, to help you discover everything your institution has listed under a particular topic.
+UNIWeb vous permet de baliser vos groupes, ressources, publications et même votre profil avec des[Thèmes de recherche](research-themes/) - des mots clés qui peuvent vous aider à trouver des collaborateurs potentiels et des équipements de recherche adaptés à un sujet particulier, et qui peuvent vous aider à augmenter la découvrabilité de vos propres listes dans la recherche résultats en conséquence. Chaque thème de recherche a son propre cluster de recherche, une page pleine de ressources qui ont été étiquetées avec le même thème, pour vous aider à découvrir tout ce que votre institution a répertorié sous un sujet particulier.
 
-![](../.gitbook/assets/phil-smith-members-proximify-university-2019-10-21-02-21-03.jpg)
+## **Dans ce chapitre**:
 
-## In this chapter:
-
-* [Your Public Profile](filling-out-your-public-profile.md)
-* [Research Themes](research-themes/)
-* [Research Places](research-places-1.md)
-* [Resources](equipment-profiles-resources/)
-* [Groups](groups-1.md)
-* [Web Articles](web-articles-1.md)
+* [Votre profil public ](filling-out-your-public-profile.md)
+* [Thèmes de recherche](research-themes/)
+* [Lieux de recherche](research-places-1.md)
+* [Ressources](equipment-profiles-resources/)
+* [Groupes](groups-1.md)
+* [Articles Web](web-articles-1.md)
 
