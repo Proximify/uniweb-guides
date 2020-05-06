@@ -17,38 +17,38 @@ En bref, en étiquetant avec les thèmes de recherche, vous pouvez faire de l'in
 ### **Ajout de thèmes de recherche à votre profil public**
 
 1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. In the Research Themes section, click **Edit**.
-3. Browse and/or search through the dropdown lists of Research Themes on the left side of the centre panel, and **click the checkbox** next to any Research Themes that you would like to display on your profile. Research Themes that you have previously added will be checked off already.
-4. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. You may click and drag them to reorder how they are displayed on your profile. 
-5. Click **Save**.
+2. Dans la section Thèmes de recherche, cliquez sur **Modifier.**
+3. Parcourez et / ou recherchez dans les listes déroulantes des thèmes de recherche sur le côté gauche du panneau central, puis **cochez la case** en regard des thèmes de recherche que vous souhaitez afficher sur votre profil. Les thèmes de recherche que vous avez déjà ajoutés seront déjà cochés.
+4. Passez en revue votre liste actuelle des thèmes de recherche sélectionnés sur le côté droit du panneau central, sous **Sélection actuelle.** Vous pouvez cliquer dessus et les faire glisser pour réorganiser la façon dont ils sont affichés sur votre profil.
+5. Cliquez sur **Enregistrer.**
 
-### Removing Research Themes from your Public Profile
+### **Suppression de thèmes de recherche de votre profil public**
 
 1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. In the Research Themes section, click **Edit**.
-3. Review your current list of selected Research Themes on the right side of the centre panel, under **Current Selection**. Click the **X** to the right of any Research Theme to remove it. 
-4. Click **Save**.
+2. Dans la section Thèmes de recherche, cliquez sur **Modifier.**
+3. Passez en revue votre liste actuelle des thèmes de recherche sélectionnés sur le côté droit du panneau central, sous **Sélection actuelle**. Cliquez sur le **X** à droite de n'importe quel thème de recherche pour le supprimer.
+4. Cliquez sur **Enregistrer.**
 
 ## **Étiqueter vos publications avec des thèmes de recherche**
 
-You can tag one or many of your publications with Research Themes. Once a publication has been tagged with at least one Research Theme, it will be displayed on your[ public profile](../filling-out-your-public-profile.md), and in the [Research Cluster]() corresponding to that Research Theme. 
+Vous pouvez étiqueter une ou plusieurs de vos publications avec des thèmes de recherche. Une fois qu'une publication a été marquée avec au moins un thème de recherche, elle sera affichée sur votre[ profil publique](../filling-out-your-public-profile.md), et dans le cluster de recherche correspondant à ce thème de recherche.
 
-### Adding tags to your publications
+### Étiqueter vos publications
 
 1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Publications**. 
-2. **Click the checkbox** to the left of any publications that you would like to tag.
-3. In the right panel, click **Add tags**.
-4. In the **Tag selected publications with...** dialog, select Research Themes in the drop-down menu that you would like to tag onto your selected publications.
-5. Click **Apply labels**.
+2. **Cochez la case** à gauche de toutes les publications que vous souhaitez étiqueter.
+3. Dans le panneau de droite, cliquez sur **Ajouter des étiquettes.**
+4. Dans la boîte de dialogue **Étiqueter les publications sélectionnées avec ...,** sélectionnez Thèmes de recherche dans le menu déroulant que vous souhaitez étiqueter sur vos publications sélectionnées.
+5. Cliquez sur **Appliquer les étiquettes.**
 
 {% hint style="info" %}
-**Tip:** You can select multiple publications at once if you would like to tag them all with the same Research Themes. You can also use the **Find and select** tool in the right panel to select multiple publications at once based on your search terms.
+**Conseil:** vous pouvez sélectionner plusieurs publications à la fois si vous souhaitez les étiqueter toutes avec les mêmes thèmes de recherche. Vous pouvez également utiliser l'outil **Rechercher et sélectionner** dans le panneau de droite pour sélectionner plusieurs publications à la fois en fonction de vos termes de recherche.
 {% endhint %}
 
-### Removing tags from your publications
+### **Supprimer des étiquettes de vos publications**
 
 1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Publications**. 
-2. **Click the checkbox** to the left of any publications from which you would like to remove particular tags.
+2. **Cochez la case** à gauche de toutes les publications dont vous souhaitez supprimer des étiquettes particulières.
 3. In the right panel, click **Remove tags**.
 4. In the **Remove tags from selected publications** dialog, click the checkbox next to the tags that you would like to remove from your selected publications. Tags are listed in alphabetical order regardless of the selected publication - selecting a particular tag will remove it from any selected publication where it has previously been applied.
 5. Click **Remove labels**.
