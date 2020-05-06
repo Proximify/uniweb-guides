@@ -34,7 +34,7 @@
   * [Lieux de recherche](networking-on-uniweb/research-places-1.md)
   * [Ressources](networking-on-uniweb/equipment-profiles-resources/README.md)
     * [Gestion des ressources](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
-    * [Finding and Reserving Resources](networking-on-uniweb/equipment-profiles-resources/finding-and-reserving-resources.md)
+    * [Recherche et réservation de ressources](networking-on-uniweb/equipment-profiles-resources/finding-and-reserving-resources.md)
   * [Groupes de recherche](networking-on-uniweb/groups-1.md)
   * [Web Articles](networking-on-uniweb/web-articles-1.md)
 * [Rapports et statistiques](academic-metrics.md)
