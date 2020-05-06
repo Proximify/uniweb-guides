@@ -59,7 +59,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 ## ![](../../.gitbook/assets/key.svg) Deleting Research Themes
 
-Over time, certain Research Themes may no longer be necessary, or may become redundant with the addition and growth of other Research Themes around it. 
+Over time, certain Research Rhemes may no longer be necessary, or may become redundant with the addition and growth of other Research Themes around it. 
 
 Because Research Themes can be [tagged](increasing-discoverability-with-research-themes.md) and referenced in so many different areas of UNIWeb, deleting a Research Theme outright could negatively impact the discoverability of certain resources. To counteract this, UNIWeb allows you to delete a Research Theme by **merging it with its parent theme**. Anything that has been tagged with the deleted research theme will automatically be tagged with its parent theme instead, and **the deleted theme's children will continue to exist** as children of the deleted theme's parent without otherwise disrupting the heirarchy of themes.
 
