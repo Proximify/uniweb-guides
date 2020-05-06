@@ -32,7 +32,7 @@
     * [Étiqueter avec des thèmes de recherche](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
     * [Connexions de recherche](networking-on-uniweb/research-themes/research-connections.md)
   * [Lieux de recherche](networking-on-uniweb/research-places-1.md)
-  * [Resources](networking-on-uniweb/equipment-profiles-resources/README.md)
+  * [Ressources](networking-on-uniweb/equipment-profiles-resources/README.md)
     * [Managing Resources](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
     * [Finding and Reserving Resources](networking-on-uniweb/equipment-profiles-resources/finding-and-reserving-resources.md)
   * [Groupes de recherche](networking-on-uniweb/groups-1.md)
