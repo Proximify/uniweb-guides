@@ -1,15 +1,15 @@
-# Ressources
+# Resources
 
-En tant que pôles d'innovation et d'apprentissage, les institutions de recherche abritent de vastes quantités de connaissances, d'expertise et d'équipements de recherche spécialisés. Ces ressources peuvent être sous-utilisées en fonction de leur niveau d'accès ou de publicité, ou peuvent rester inutilisées pendant de longues périodes entre les sessions de recherche.
+As hubs for innovation and learning, research insititutions are home to vast amounts of knowledge, expertise, and specialized research equipment. These resources can be underutilized depending on their level of access or advertisement, or can go unused for vast amounts of time between research sessions. 
 
-Grâce à UNIWeb, vous pouvez créer des profils **d'équipements spécialisés, de services de consultation et d'expertise**, pour les mettre à la disposition de certains membres d'UNIWeb ou de votre institution en général. Ces profils sont appelés **ressources.**
+Through UNIWeb, you can create profiles for **specialized equipment, consultations services, and expertise,** to make them available to select members within UNIWeb, or to your institution at large. These profiles are called **Resources**. 
 
-En utilisant les ressources, les visiteurs d'UNIWeb peuvent en savoir plus sur les services et les équipements qui sont mis à disposition dans une institution de recherche et peuvent contacter directement le propriétaire de la ressource pour s'enquérir de leur utilisation.
+Using Resources, UNIWeb visitors can learn more about the services and equipment that are made available throughout a research institution, and can reach out to the Resource's owner directly to inquire about using them.
 
-Vous n'avez pas besoin d'être un administrateur UNIWeb pour créer un profil de ressource et répertorier votre ressource sur le réseau UNIWeb - n'importe qui peut créer et gérer ses propres listes, bien que les administrateurs puissent aider à leur gestion.
+You don't need to be a UNIWeb administrator to create a Resource profile and list your Resource on the UNIWeb network - anyone can create and manage their own listings, though administrators can assist with their management.  
 
-Dans cette section:
+In this section:
 
-* [Gestion des resources](managing-equipment-profiles.md)
-* [Recherche et réservation de resources](finding-and-reserving-resources.md)
+* [Managing Resources](managing-equipment-profiles.md)
+* [Finding and Reserving Resources](finding-and-reserving-resources.md)
 

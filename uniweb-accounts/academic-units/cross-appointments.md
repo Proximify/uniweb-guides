@@ -26,49 +26,49 @@ Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croi
 
 ## **Modifier ou supprimer un rendez-vous croisé de votre compte UNIWeb**
 
-1. A partir de votre page d'accueil UNIWeb, [page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil.**
-2. Dans le panneau central, allez à la section **Affectuations en cours** et cliquez sur le bouton **Modifier** à côté du rendez-vous croisé que vous souhaitez modifier.
-3. Modifiez les informations dans le formulaire de saisie des données des _Affectuations en cours_ si nécessaire.
-4. Cliquez sur _Enregistrer_ pour enregistrer vos modifications ou sur _Supprimer_ pour supprimer le rendez-vous croisé de votre compte.
+1. From your [UNIWeb Home ](../../navigating-uniweb/the-home-page.md)page, go to **Profile**.
+2. In the centre panel, navigate to the **Current Appointments** section, and click the **Edit button** next to the cross-appointment you would like to modify.
+3. Edit information in the _Current Appointments_ data entry form as needed.
+4. Click **Save** to save your changes, or **Delete** to remove the cross-appointment from your account**.**
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajout des membre par affectation aux unités académiques**
 
-En tant qu'administrateur, vous pouvez ajouter un membre d'UNIWeb à votre unité académique en tant que membre par affectation. Cela ajoutera une unité académique secondaire à leur compte et permettra aux administrateurs de l'unité de membre par affectation d'effectuer des tâches administratives au nom de la membre par affectation.
+As an administrator, you can add a UNIWeb member to your academic unit as a cross-appointee. This will add a secondary academic unit to their account, and will allow administrators in the cross-appointed unit to perform administrative tasks on behalf of the cross-appointee.
 
 {% hint style="warning" %}
-**Avant de commencer:** pour ajouter un membre UNIWeb à une unité académique secondaire, vous devez avoir un [rôle d'administrateur ](../access-control/managing-administrator-roles-and-permissions.md)**au sein de cette unité universitaire secondaire**. Le rôle d'administrateur doit inclure les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
+**Before you begin:** to add a UNIWeb member to a secondary academic unit, you must have an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)**within that secondary academic unit**. The administrator role must include the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
-* Modifier les unités académiques
-* Modifier les informations sur les membres
+* Edit academic units
+* Edit member information
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. À partir de votre page d'[Administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Unités académiques**. 
-2. Dans le panneau central, localisez et cliquez sur l'unité académique à laquelle vous souhaitez ajouter un membre en tant que co-nommé.
-3. Dans la page _Informations sur l'unité_, accédez à la section **Membres** par affectation et cliquez sur le bouton **Ajouter** à droite du titre de la section.
-4. Sur la page _membre par affectation_, dans la liste déroulante Membre, localisez et cliquez sur le membre UNIWeb que vous souhaitez ajouter en tant que membre par affectation.
-5. Cliquez sur **Enregistrer.**
+1. From your [UNIWeb Administrator](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**. 
+2. In the centre panel, locate and click on the academic unit to which you would like to add a member as a cross-appointee.
+3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Add** button to the right of the section title.
+4. In the _Cross Appointees_ page, in the Member drop-down list, locate and click on the UNIWeb member whom you would like to add as a cross-appointee.
+5. Click **Save**.
 
-Si vous avez des autorisations sur **les deux** unités académiques impliquées dans la membre par affectation \(l'unité principale du membre d'UNIWeb et l'unité secondaire à laquelle vous les avez ajoutées en tant que membre par affectation\), UNIWeb autorisera la nomination immédiatement.
+If you have permissions over **both** of the academic units involved in the cross appointment \(the UNIWeb member's primary unit, and the secondary unit to which you have added them as a cross-appointee\), UNIWeb will permit the appointment immediately.
 
-Si vous n'avez pas de rôle d'administrateur dans l'unité principale du membre UNIWeb, UNIWeb lui demandera de confirmer ou de refuser le rendez-vous. La nouvelle membre par affectation sera inscrite sur la page d’administration de l’unité universitaire sous «Membres par affectation» avec une étiquette en attente à côté de son nom, pour montrer que le membre n’a pas encore confirmé sa nomination. S'ils confirment le rendez-vous, la balise En attente sera supprimée et le rendez-vous croisé apparaîtra sur la page de [profil](../../networking-on-uniweb/filling-out-your-public-profile.md), des membres par affectation, dans la section _Affectations en cours_.
+If you do not have an administrator role in the UNIWeb member's primary unit, UNIWeb will ask them to confirm or deny the appointment. The new cross appointee will be listed on the academic unit's administration page under ‘Cross-appointees’ with a _Pending_ tag next to their name, to show that the member has yet to confirm their appointment. If they confirm the appointment, the _Pending_ tag will be removed, and the cross-appointment will appear on the cross-appointee's [profile](../../networking-on-uniweb/filling-out-your-public-profile.md) page, in the _Current Appointments_ section.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Retrait des membre par affectation des unités universitaires**
 
-En tant qu'administrateur, vous pouvez retirer une membres par affectation de votre unité scolaire. Cela supprimera l'unité scolaire secondaire de leur compte et **supprimera l'accès administratif à leurs données pour les administrateurs de l'unité secondaire.**
+As an administrator, you can remove a cross-appointee from your academic unit. This will remove the secondary academic unit from their account, and **will remove administrative access to their data for administrators in the secondary unit.**
 
 {% hint style="warning" %}
-**Avant de commencer:** pour ajouter un membre UNIWeb à une unité académique secondaire, vous devez avoir un [rôle d'administrateur ](../access-control/managing-administrator-roles-and-permissions.md)**au sein de cette unité universitaire secondaire** avec les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
+**Before you begin:** this procedure requires an [administrator role ](../access-control/managing-administrator-roles-and-permissions.md)within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
 
-* Modifier les unités académiques
-* Modifier les informations sur les membres
+* Edit academic units
+* Edit member information
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. À partir de votre page d'[Administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Unités académiques**. 
-2. Dans le panneau central, localisez et cliquez sur l'unité académique de laquelle vous souhaitez retirer un membre en tant que co-nommé.
-3. Dans la page _Informations sur l'unité_, accédez à la section **Membres** par affectation et cliquez sur le bouton **Modifier** à droite du membre que vous souhaitez supprimer.
-4. Dans la page _Membres par affectation_, cliquez sur **Supprimer**.
+1. From your [UNIWeb Administrator](../../navigating-uniweb/the-administration-page.md) page, go to **Academic Units**. 
+2. In the centre panel, locate and click on the academic unit from which you would like to remove a cross-appointee.
+3. In the _Unit Information_ page, navigate to the **Cross Appointees** section, and click the **Edit** button to the right of the member you would like to remove.
+4. In the _Cross Appointees_ page, click **Delete**.
 

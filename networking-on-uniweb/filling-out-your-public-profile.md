@@ -6,7 +6,6 @@ UNIWeb comprend des outils intuitifs pour ajouter rapidement de nouvelles inform
 
 * [Affichage de votre propre profil public](filling-out-your-public-profile.md#viewing-your-public-profile)
 * [Ajout d'une photo de profil](filling-out-your-public-profile.md#adding-a-profile-picture)
-* Remplir manuellement votre profil public
 * [Remplir automatiquement votre profil public à l'aide de votre CV](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Remplir le profil public d'un autre membre d'UNIWeb](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
 * [Création et restauration d'une sauvegarde de votre profil](filling-out-your-public-profile.md#creating-and-restoring-a-backup-of-your-profile)
@@ -14,227 +13,218 @@ UNIWeb comprend des outils intuitifs pour ajouter rapidement de nouvelles inform
 
 ## **Affichage de votre propre profil public**
 
-1. À partir de votre page[ d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Cliquez sur **Profil public** dans le panneau de droite.
-3. Pour revenir, cliquez sur **Modifier le profil** dans le panneau de droite.
+1. From your[ UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
+2. Click **Public Profile** in the right panel.
+3. To return, click **Edit Profile** in the right panel.
 
 ## **Ajout d'une photo de profil**
 
-1. À partir de votre page[ d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Dans le panneau central, à gauche de votre nom, **cliquez sur la photo de profil d'espace réservé**, ou cliquez sur votre ancienne photo de profil si vous souhaitez la modifier.
-3. Dans l'éditeur d'image de profil, cliquez sur **Choisir un fichier**, recherchez et sélectionnez le fichier sur votre ordinateur que vous souhaitez utiliser comme image de profil.
-4. Cliquez sur **Enregistrer.**
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**.
+2. In the centre panel, to the left of your name, **click on the placeholder profile picture**, or click on your old profile picture if you would like to change it.
+3. In the profile picture editor, click **Choose file,** and locate and select the file on your computer that you would like to use as your profile picture.
+4. Click **Save**.
 
-## Remplir manuellement votre profil public
+## Filling out your public profile manually
 
-1. À partir de votre page[ d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Dans le panneau central, accédez à la [**section de profil**](filling-out-your-public-profile.md#profile-sections) ****où vous souhaitez créer un nouvel enregistrement. Vous pouvez cliquer sur le nom de la section dans le panneau de gauche pour accéder directement à cette section.
-3. Cliquez sur le bouton **Ajouter** à droite du titre de la section pour ajouter un nouvel enregistrement, ou cliquez sur le bouton **Modifier** à droite d'un enregistrement de section existant pour le modifier.
-4. Ajoutez ou modifiez des informations dans le formulaire de saisie de données selon vos besoins. Les champs marqués d'un astérisque \(\*\) sont obligatoires.
-5. Cliquez sur **Enregistrer.**
+1. From your UNIWeb Home page, go to **Profile**.
+2. In the centre panel, navigate to the [**profile section**](filling-out-your-public-profile.md#profile-sections) ****where you would like to create a new record. You can click on the section name in the left panel to navigate directly to that section.
+3. Click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing section record to modify it.
+4. Add or edit information in the data entry form as needed. Fields marked with an asterisk \(\*\) are mandatory.
+5. Click **Save.**
 
 ## Remplir votre profil automatiquement avec des données de votre CV
 
-1. À partir de votre page[ d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Cliquez sur **Remplir à partir du CV** dans le panneau de droite.
-3. Passez en revue les éléments que UNIWeb a détectés pour le transfert dans Copier les informations du CV dans le profil. Sélectionnez ou désélectionnez les éléments selon vos besoins.
-4. Cliquez sur **Copier la sélection dans le profil.**
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Profile**. 
+2. Click **Fill from CV** in the right panel
+3. Review the items that UNIWeb has detected for transfer in the Copy CV information to profile. Select or deselect any items as needed.
+4. Click **Copy selected to profile**.
 
-Les sections de profil pouvant être remplies à l'aide des informations de CV sont les suivantes:
+The profile sections that can be populated using CV information are as follows:
 
-| Section Profil | Section Curriculum Vitae |
+| Profile Section | Curriculum Vitae Section |
 | :--- | :--- |
-| Intérêts de recherche | Profil d'utilisateur &gt; Domaines de recherche |
-| Description de la recherche | Profil d’utilisateur &gt; Intérêts de recherche |
-| Affiliations | Emploi &gt; Expérience de travail académique |
-| Diplômes sélectionnés | Éducation &gt; Diplômes |
-| Biographie | Profil d’utilisateur &gt; Résumé de l'expérience de recherche |
+| Research Interests | User Profile &gt; Areas of Research |
+| Research Description | User Profile &gt; Research Interests |
+| Affiliations | Employment &gt; Academic Work Experience |
+| Selected Degrees | Education &gt; Degrees |
+| Biography | User Profile &gt; Research Experience Summary |
 
 {% hint style="info" %}
-**Conseil:** vous pouvez modifier les informations de profil selon vos besoins. Les modifications que vous apportez à votre page de profil n'affecteront pas les informations stockées dans votre CV.
+**Tip:** You can edit any profile information as needed - edits you make to your profile page won’t affect the information stored in your CV.
 {% endhint %}
 
 ## ![](../.gitbook/assets/key.svg) **Remplir le profil public d'un autre membre d'UNIWeb**
 
 {% hint style="warning" %}
-**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les autorisations suivantes:
+**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following permissions:
 
-* Modifier les informations sur les membres
+* Edit Member Information
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
 {% endhint %}
 
-1. À partir de votre page [d'administration d'UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **membres**.
-2. Localisez le membre UNIWeb dont vous souhaitez modifier le profil et **cliquez sur son nom.**
+1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Members**.
+2. Locate the UNIWeb member whose profile you would like to edit, and **click on their name**.
 
-Tant que vous avez reçu un rôle d'administrateur au sein de l'unité académique du sujet qui inclut l'autorisation Modifier les informations sur les membres, vous serez redirigé vers une version modifiable du profil public du membre UNIWeb. Vous pouvez [modifier leurs informations de profil manuellement ](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)comme vous le feriez, ou [importer des informations de leur curriculum vitae](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv).  
+As long as you have been assigned an administrator role within the subject’s academic unit that includes the Edit Member Information permission, you will be taken to an editable version of the UNIWeb member’s public profile. You can [edit their profile information manually](filling-out-your-public-profile.md#filling-out-your-public-profile-manually) as you would you own, or [import information from their curriculum vitae](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv).
 
 {% hint style="danger" %}
-**À noter:** cette procédure ne vous permettra pas de modifier directement les informations du curriculum vitae des membres d'UNIWeb. Si vous souhaitez modifier les informations du curriculum vitae d'un utilisateur particulier, consultez notre article sur la demande d'accès délégué à un autre compte de membre UNIWeb. [demande d'accès délégué à un autre compte de membre UNIWeb](../uniweb-accounts/access-control/delegate-access.md#requesting-delegate-access).
+**Note:** this procedure will not give you access to edit the UNIWeb member’s curriculum vitae information directly. If you would like to edit the information in a particular user’s curriculum vitae, see our article on [requesting delegate access to another UNIWeb member’s account](../uniweb-accounts/access-control/delegate-access.md#requesting-delegate-access).
 {% endhint %}
 
 ## **Création et restauration d'une sauvegarde de votre profil**
 
-Votre profil est votre vitrine publique de votre travail au sein de votre réseau UNIWeb, et c'est donc un document vivant qui évoluera avec vous tout au long de votre carrière. Étant donné que vous mettrez régulièrement à jour votre profil, il est important d'effectuer des sauvegardes régulières afin de pouvoir restaurer vos informations en cas de suppression accidentelle ou de modification incorrecte d'un élément.
+Your profile is your public showcase of your work within your UNIWeb network, and so it is a living document that will grow with you through the course of your career. Because you will be regularly updating your profile, it's important to take regular backups so that you can restore your information in the event that something is accidentally deleted or modified incorrectly.
 
-### **Création d'une sauvegarde de votre profil**
+### Creating a backup of your profile
 
-1. À partir de votre page[ d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Dans le panneau de droite, cliquez sur **Créer / restaurer des sauvegardes.**
-3. Dans le panneau de droite, cliquez sur **Télécharger une sauvegarde de profil UNIWeb.**
+1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Profile**.
+2. In the right panel, click **Create/restore backups**.
+3. In the right panel, click **Download a UNIWeb profile backup**.
 
-Une sauvegarde de vos informations de profil sera téléchargée sous forme de fichier JSON.
+A backup of your profile information will be downloaded as a JSON file. 
 
 {% hint style="success" %}
-**Meilleure pratique:** il est toujours préférable de conserver plus d'une copie d'une sauvegarde, à plusieurs endroits en lesquels vous avez confiance pour conserver vos informations en toute sécurité - un ordinateur personnel ou professionnel, un service cloud, etc.
+**Best practice:** it's always best to keep more than one copy of a backup, in multiple places that you trust to hold your information securely - a personal or work computer, cloud service, etc.
 {% endhint %}
 
-### **Restaurer une sauvegarde de votre profil**
+### Restoring a backup of your profile
 
-1. À partir de votre page[ d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Profil**. 
-2. Dans le panneau de droite, cliquez sur **Créer / restaurer des sauvegardes.**
-3. Dans le panneau de droite, cliquez sur **Restaurer à partir d'un fichier.**
-4. Dans le panneau central, cliquez sur **Choisir un fichier** et recherchez sur votre ordinateur votre fichier JSON de sauvegarde.
-5. Cliquez sur **Restaurer** et une fois le processus de restauration terminé, cliquez sur **Terminé.**
+1. From your [UNIWeb Home page](../navigating-uniweb/the-home-page.md), go to **Profile**.
+2. In the right panel, click **Create/restore backups**.
+3. In the right panel, click **Restore from a file**.
+4. In the centre panel, click **Choose file**, and browse your computer for your backup JSON file.
+5. Click **Restore**, and after the restore process is complete, click **Done**.
 
-Cliquez sur **Terminé** pour revenir à l'écran principal des sauvegardes, où vous verrez une liste des fichiers de sauvegarde que vous avez précédemment restaurés. Une fois qu'un fichier de sauvegarde a été téléchargé, il est conservé par UNIWeb afin que vous puissiez revenir à cette sauvegarde à l'avenir si nécessaire.
+Clicking **Done** will return you to the main backups screen, where you will see a list of backup files that you have previously restored. Once a backup file has been uploaded, it is retained by UNIWeb so that you can revert to that backup in the future if necessary.
 
 ## **Sections de profil**
 
- Votre profil est divisé en sections de contenu répertoriées dans le panneau de gauche pour une navigation rapide. Certaines sections peuvent ou non être présentes sur votre profil en fonction du [type de compte et titre de poste](../uniweb-accounts/account-management/member-account-information.md#account-information-fields) - par exemple, la section Supervision académique est uniquement disponible pour les membres dont le professeur est leur type de compte.
+Your profile is divided into sections of content which are listed in the left panel for quick navigation. Certain sections may or may not be present on your profile depending on your [account type and position title](../uniweb-accounts/account-management/member-account-information.md#account-information-fields) - for instance, the Academic Supervision section is only available to members with Professor as their Account Type. 
 
-UNIWeb inclut les sections suivantes par défaut, mais votre institution peut avoir demandé l'ajout de sections personnalisées avec leurs propres associations de types de compte. Pour plus d'informations sur les sections non répertoriées ci-dessous, veuillez contacter votre administrateur système UNIWeb.
+UNIWeb includes the following sections by default, but your institution may have requested the addition of custom sections with their own Account Type associations. For information on sections that are not listed below, please contact your UNIWeb system administrator.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Section Profil</th>
-      <th style="text-align:left">Fonction</th>
-      <th style="text-align:left">Type de compte</th>
+      <th style="text-align:left">Profile Section</th>
+      <th style="text-align:left">Function</th>
+      <th style="text-align:left">Account Types</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Information sur l&apos;adh&#xE9;sion</b>
+      <td style="text-align:left"><b>Membership Information</b>
       </td>
-      <td style="text-align:left">Vos<a href="../uniweb-accounts/account-management/member-account-information.md#editing-your-membership-information"> information d&apos;adh&#xE9;sion</a> sont
-        r&#xE9;pertori&#xE9;es ici, ainsi que votre photo de profil.</td>
-      <td style="text-align:left">Tout</td>
+      <td style="text-align:left">Your <a href="../uniweb-accounts/account-management/member-account-information.md#editing-your-membership-information">membership information</a> is
+        listed here, along with your profile picture.</td>
+      <td style="text-align:left">All</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Int&#xE9;r&#xEA;ts de recherche</b>
+      <td style="text-align:left"><b>Research Interests</b>
       </td>
-      <td style="text-align:left">Ajoutez des <a href="research-themes/">Th&#xE8;mes de recherche</a> &#xE0;
-        votre profil qui d&#xE9;crivent la port&#xE9;e de votre travail dans votre
-        &#xE9;tablissement, ainsi que vos int&#xE9;r&#xEA;ts de recherche g&#xE9;n&#xE9;raux.
-        En ajoutant des th&#xE8;mes ici, votre profil sera inclus dans les clusters
-        de recherche et les r&#xE9;sultats de recherche pour ces th&#xE8;mes, et
-        cr&#xE9;era des connexions avec vos pairs que vous pouvez trouver dans
-        votre carte de connexion.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Description de la recherche</b>
-      </td>
-      <td style="text-align:left">D&#xE9;crivez le travail de recherche que vous effectuez tout au long
-        de vos r&#xF4;les acad&#xE9;miques et des nominations crois&#xE9;es dans
-        votre &#xE9;tablissement.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Current Appointments</b>
-      </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez toutes les <a href="../uniweb-accounts/academic-units/cross-appointments.md">membres par affectation </a>que
-        vous avez en dehors du r&#xF4;le acad&#xE9;mique principal r&#xE9;pertori&#xE9;
-        dans les <a href="../uniweb-accounts/account-management/member-account-information.md">informations de votre compte</a>.
-        Vous pouvez sp&#xE9;cifier un titre, une unit&#xE9; acad&#xE9;mique et
-        toute information suppl&#xE9;mentaire sur le rendez-vous.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Affiliations</b>
-      </td>
-      <td style="text-align:left">D&#xE9;crivez les postes occup&#xE9;s ou les affiliations avec des organisations
-        ext&#xE9;rieures &#xE0; votre institution, pass&#xE9;es ou pr&#xE9;sentes.</td>
-      <td
-      style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Enseignement actuel</b>
-      </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez tous les cours que vous enseignez actuellement dans
-        votre &#xE9;tablissement. Vous pouvez &#xE9;galement indiquer vos heures
-        de bureau par cours.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Heures de bureau</b>
-      </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez votre horaire et vos emplacements pour vos heures de
-        bureau.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Dipl&#xF4;mes s&#xE9;lectionn&#xE9;s</b>
-      </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez tous les dipl&#xF4;mes que vous avez obtenus tout au
-        long de votre carri&#xE8;re.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Biographie</b>
-      </td>
-      <td style="text-align:left">D&#xE9;crivez-vous, votre parcours universitaire et votre r&#xF4;le dans
-        votre &#xE9;tablissement.</td>
-      <td style="text-align:left">Tout</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Superviseurs acad&#xE9;miques</b>
-      </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez le ou les professeurs qui supervisent actuellement
-        votre recherche universitaire.</td>
-      <td style="text-align:left">
-        <ul>
-          <li>&#xC9;tudiant &#xE0; la ma&#xEE;trise</li>
-          <li>&#xC9;tudiant en m&#xE9;decine</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Supervision actuelle</b>
-      </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez les &#xE9;tudiants dont vous supervisez actuellement
-        la recherche universitaire.</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Professeur</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Lieux de recherche</b>
-      </td>
-      <td style="text-align:left">Faites la liste des r&#xE9;gions du monde o&#xF9; vous effectuez des recherches.
-        Ces lieux de recherche sont affich&#xE9;s sur votre profil, ainsi que sur
-        une carte du monde dans la page <a href="research-places-1.md">Lieux de recherche</a>.</td>
+      <td style="text-align:left">Add <a href="research-themes/">Research Themes</a> to your profile that
+        describe the scope of your work at your institution, as well as your general
+        research interests. By adding themes here, your profile will be included
+        in Research Clusters and search results for those themes, and will create
+        connections with your peers that you can find in your connection map.</td>
       <td
       style="text-align:left">All</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Informations de contact alternatives</b>
+      <td style="text-align:left"><b>Research Description</b>
       </td>
-      <td style="text-align:left">&#xC9;num&#xE9;rez toute autre information de contact en dehors de l&apos;adresse
-        e-mail et du num&#xE9;ro de t&#xE9;l&#xE9;phone r&#xE9;pertori&#xE9;s dans
-        vos informations d&apos;adh&#xE9;sion.</td>
+      <td style="text-align:left">Describe the research work that you perform throughout your academic roles
+        and cross appointments at your institution.</td>
       <td style="text-align:left">All</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Liens avec les m&#xE9;dias</b>
+      <td style="text-align:left"><b>Current Appointments</b>
+      </td>
+      <td style="text-align:left">List any <a href="../uniweb-accounts/academic-units/cross-appointments.md">cross-appointments</a> you
+        have outside of the main academic role that is listed in your <a href="../uniweb-accounts/account-management/member-account-information.md">account information</a>.
+        You may specify a title, academic unit, and any additional information
+        about the appointment.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Affiliations</b>
+      </td>
+      <td style="text-align:left">Describe any positions held or affiliations with organizations outside
+        of your institution, past or present.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Teaching</b>
+      </td>
+      <td style="text-align:left">List any courses that you are currently teaching at your institution.
+        You may also list your office hours per course.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Office Hours</b>
+      </td>
+      <td style="text-align:left">List your schedule and locations for your office hours.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Selected Degrees</b>
+      </td>
+      <td style="text-align:left">List any degrees that you have earned throughout your career.</td>
+      <td
+      style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Biography</b>
+      </td>
+      <td style="text-align:left">Describe yourself, your academic background, and your role at your institution.</td>
+      <td
+      style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Academic Supervisors</b>
+      </td>
+      <td style="text-align:left">List the professor(s) who are currently supervising your academic research.</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>Masters Student</li>
+          <li>Doctoral Student</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Current Supervision</b>
+      </td>
+      <td style="text-align:left">List the student(s) whose academic research you are currently supervising.</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>Professor</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Research Places</b>
+      </td>
+      <td style="text-align:left">List any areas around the world where you conduct research. These research
+        places are shown on your profile, and also on a world map in the <a href="research-places-1.md">Research Places</a> page.</td>
+      <td
+      style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Alternative Contact Information</b>
+      </td>
+      <td style="text-align:left">List any alternative contact information outside of the email address
+        and phone number listed in your membership information.</td>
+      <td style="text-align:left">All</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Media Links</b>
       </td>
       <td style="text-align:left">
-        <p>Int&#xE9;grez des liens vers des m&#xE9;dias en dehors d&apos;UNIWeb que
-          vous souhaitez afficher sur votre profil. Les liens peuvent provenir de
-          diverses sources:</p>
+        <p>Embed links to media outside of UNIWeb that you would like to display
+          on your profile. Links may be come from a variety of sources:</p>
         <p></p>
         <ul>
           <li>Academia.edu</li>
@@ -252,16 +242,15 @@ UNIWeb inclut les sections suivantes par défaut, mais votre institution peut av
           <li>YouTube</li>
         </ul>
       </td>
-      <td style="text-align:left">Tout</td>
+      <td style="text-align:left">All</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Publications choisies</b>
+      <td style="text-align:left"><b>Selected Publications</b>
       </td>
-      <td style="text-align:left">Dressez la liste de vos publications que vous souhaitez afficher sur votre
-        profil public. Les publications sont r&#xE9;pertori&#xE9;es ici automatiquement
-        lorsque vous les <a href="research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes">&#xE9;tiquetez avec un th&#xE8;me de recherche</a>.</td>
+      <td style="text-align:left">List any of your publications that you would like to display on your public
+        profile. Publications are listed here automatically when you <a href="research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes">tag them with a Research Theme</a>.</td>
       <td
-      style="text-align:left">Tout</td>
+      style="text-align:left">All</td>
     </tr>
   </tbody>
 </table>

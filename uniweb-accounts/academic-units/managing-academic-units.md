@@ -85,12 +85,12 @@ Le modèle de feuille de calcul comprend tous les champs d'[**information sur de
 ### Uploading your spreadsheet to UNIWeb
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
-2. Dans le panneau de droite, cliquez sur **Ajouter des unités à partir d'un fichier**
-3. Dans la boîte de dialogue _Ajouter de nouvelles unités_, cliquez sur **Choisir un fichier** et recherchez la feuille de calcul de vos unités académiques sur votre ordinateur.
-4. Cliquez sur **Soumettre.**
+2. In the right panel, click **Add units from a file**
+3. In the _Add new units_ dialog, click **Choose File**, and locate your academic units spreadsheet on your computer.
+4. Click **Submit**.
 
 {% hint style="info" %}
-**Conseil**: Si vous entrez un type ou une unité parent qui n'existe pas sur le réseau, vous recevrez un message d'erreur. Cela décrira l'erreur, indiquera où elle se trouve dans votre feuille de calcul et vous fournira une liste de remplacements appropriés. Si votre feuille de calcul contient des champs vides obligatoires ou des colonnes que UNIWeb ne reconnaît pas, vous recevrez une erreur similaire.
+**Tip:** If you enter a type or parent unit that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any blank fields that are mandatory or columns that UNIWeb does not recognize, you will receive a similar error.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Modifier une unité académique**
@@ -104,13 +104,11 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
-2. Dans le panneau central, localisez et cliquez sur l'unité scolaire que vous souhaitez modifier.
-3. Cliquez sur **Modifier** à droite de l'en-tête Informations sur l'unité.
-4. Ajoutez ou modifiez les [informations sur l'unité académique ](managing-academic-units.md#academic-unit-information-fields)dans le formulaire de saisie des informations sur l'unité selon vos besoins.
-5. **Facultatif:** si nécessaire, cliquez sur la bascule multilingue à côté des champs de saisie de données, le cas échéant, pour ajouter des informations sur l'unité dans une deuxième langue.
-6. Cliquez sur **Sauvegarder**
-
-.
+2. In the centre panel, locate and click on the academic unit that you would like to edit.
+3. Click **Edit** to the right of the _Unit Information_ heading.
+4. Add to or edit the [academic unit information ](managing-academic-units.md#academic-unit-information-fields)in the _Unit Information_ data entry form as needed.
+5. **Optional:** if necessary, click the **multilingual** toggle next to the data entry fields where applicable to add unit information in a second language. 
+6. Click **Save**.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Supprimer une unité académique**
 
@@ -123,10 +121,10 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre page [UNIWeb administrateur](../../navigating-uniweb/the-administration-page.md), allez sur **unités académiques**. 
-2. Dans le panneau central, localisez et cliquez sur la case à cocher à droite des unités universitaires que vous souhaitez supprimer.
-3. Dans le panneau de droite, cliquez sur **Supprimer la sélection**.
-4. Dans la boîte de dialogue _Supprimer les unités sélectionnées_, confirmez que vous avez sélectionné les unités académiques appropriées.
-5. Cliquez sur **Supprimer**.
+2. In the centre panel, locate and click on the checkbox to the right of the academic unit\(s\) that you would like to delete.
+3. In the right panel, click **Delete selected**.
+4. In the _Delete selected units_ dialog, confirm that you have selected the correct academic units.
+5. Click **Delete**.
 
 {% hint style="danger" %}
 **À noter:** S'il y a des membres d'UNIWeb qui ont l'unité académique que vous essayez de supprimer répertoriée comme unité académique principale, vous devrez d'abord affecter ces membres à d'autres unités académiques, sinon UNIWeb ne vous permettra pas de supprimer cette unité académique.
@@ -148,7 +146,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 2. Dans le panneau de droite, cliquez sur **Ajouter un type d'unité.**
 3. Dans la boîte de dialogue _Créer et type d'unité académique_, entrez un nom pour votre nouveau type d'unité académique.
 4. **Facultatif:** si nécessaire, cliquez sur la bascule **multilingue** à côté du champ de saisie de données pour ajouter le nom du type d'unité dans une seconde langue.
-5. Cliquez sur **Sauvegarder.**
+5. Cliquez sur **Enregistrer**.
 
 ## **Champs d'informations sur l'unité scolaire**
 
@@ -157,9 +155,9 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 | **Nom** | Le nom de l'unité scolaire. |
 | **Type** | Type d'unité de l'unité scolaire. |
 | **Unité parente** | L' unité de niveau supérieur qui contient cette unité. Par exemple, si une unité académique de la **Faculté de génie** contient l'unité universitaire du **Département de génie électrique**, la Faculté de génie est considérée comme l'unité parente. |
-| **Nom d'URL** | Vous pouvez définir la manière dont vous souhaitez que la fin de l'URL apparaisse pour la page dédiée de l'unité universitaire dans la section Membres d'UNIWeb. Il doit être en minuscules et ne contenir aucun espace. Par exemple, pour la **Faculté de génie**, vous pouvez définir le nom d'URL comme **faculté de génie**, et il apparaîtra dans UNIWeb sous la forme https://www.uniweb.network/members?unit=faculty-of-engineering. |
-| **Page d'accueil** | Un lien vers le site Web principal de cette unité universitaire - il peut s'agir d'un site Web externe à UNIWeb. Cette page Web sera liée par le nom de l'unité universitaire sur sa page dédiée dans la section Membres d'UNIWeb. |
-| **Visibilité publique** | Si vous souhaitez que cette unité universitaire apparaisse dans la version publique de votre réseau UNIWeb. Si cette case n'est pas cochée, l'unité académique ne sera visible que par les membres connectés au réseau UNIWeb. |
-| **Couleur** | La valeur de couleur hexadécimale qui représentera cette unité académique dans les cartes de connexion de recherche. Si vous ne définissez pas de valeur de couleur pour une unité scolaire, elle héritera de la couleur de son unité parent. |
-| **Modèle de CV par défaut** | Vous pouvez sélectionner un modèle de saisie qui sera présélectionné pour les membres d'UNIWeb affiliés à cette unité académique lorsqu'ils accèdent à leur [Curriculum Vitae UNIWeb](../../your-academic-information/your-uniweb-curriculum-vitae-cv.md). Ils peuvent toujours choisir parmi d'autres options**.** |
+| **Nom d'URL** | You can define how you would like the end of the URL to appear for the academic unit’s dedicated page in the Members section of UNIWeb. It must be lowercase and contain no spaces. For example, for the Faculty of Engineering, you could define the URL Name as **faculty-of-engineering**, and it would appear in UNIWeb as https://www.uniweb.network/members?unit=**faculty-of-engineering** . |
+| **Homepage** | A link to the main website for this academic unit - it can be a website that is external from UNIWeb. This webpage will be linked through the academic unit’s name on its dedicated page in the Members section of UNIWeb. |
+| **Public Visibility** | Whether you would like this academic unit to appear in the public version of your UNIWeb network. If this checkbox is deselected, the academic unit will only be visible to members who are logged in to the UNIWeb network. |
+| **Colour** | The hexadecimal colour value that will represent this academic unit in research connection maps. If you do not define a colour value for an academic unit, it will inherit the colour of its parent unit. |
+| **Default CV Template** | You can select an input template that will be preselected for UNIWeb members affiliated with this academic unit when they access their [UNIWeb Curriculum Vitae](../../your-academic-information/your-uniweb-curriculum-vitae-cv.md). They can still select from other options. |
 

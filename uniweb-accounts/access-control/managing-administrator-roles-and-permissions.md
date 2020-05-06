@@ -118,11 +118,11 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 | **Modifier les informations sur les membres** | \*\*\*\*[**Modifier les données du profil public des membres d'UNIWeb**](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile) dans votre unité académique, **affichez les informations de leur CV** et [**genérer des CVs et des rapports**](../../your-academic-information/downloading-cvs-and-reports.md#downloading-member-cvs-and-reports) en leur nom. |
 | **Modifier les rôles** | Ajoutez, modifiez ou supprimez des [**roles d'administrateur**](managing-administrator-roles-and-permissions.md). |
 | **Modifier des articles Web** | Ajoutez, modifiez ou supprimez des **articles Web.** |
-| **Recevez de nouvelles notifications de thème** | Recevez des e-mails automatiques chaque fois qu'un nouveau [**thème de recherche**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) est créé par un membre d'UNIWeb dans votre unité scolaire. |
-| **Recevoir des notifications d'inscription** | Recevez des e-mails automatiques chaque fois qu'un nouveau membre UNIWeb termine le [**processus d'inscription UNIWeb**](../account-management/account-creation.md). |
-| **Envoyer des invitations par e-mail** | Invitez les utilisateurs à rejoindre le réseau UNIWeb en [**envoyant des invitations à créer un compte**](../account-management/account-creation.md#sending-account-activation-emails) ****et des **courriels de rappel** |
-| **Mettre à jour le schéma de profil** | Acceptez les demandes de mise à jour des schémas de profil. |
-| **Afficher les analytiques** | Affichez et téléchargez les données de rapports académiques à partir d'une **unité académique**. |
+| **Recevez de nouvelles notifications de thème** | Get automatic emails whenever a new [**research theme**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) is created by a UNIWeb member in your Academic Unit. |
+| **Recevoir des notifications d'inscription** | Get automatic emails whenever a new UNIWeb member completes the [**UNIWeb signup process**](../account-management/account-creation.md). |
+| **Envoyer des invitations par e-mail** | Invite users to join the UNIWeb network by [**sending account sign-up invitations**](../account-management/account-creation.md#sending-account-activation-emails) ****and **reminder emails**. |
+| **Mettre à jour le schéma de profil** | Accept requests to update profile schemas. |
+| **Afficher les analytiques** | View and download **Academic Metrics** data from an Academic Unit. |
 
 #### 
 

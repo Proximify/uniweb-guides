@@ -5,17 +5,17 @@ Les ressources **ne sont pas** spécifiquement liées aux rôles d'administrateu
 Une fois qu'un visiteur d'UNIWeb vous a contacté afin d'utiliser votre ressource, toute autre communication se fera en dehors d'UNIWeb; UNIWeb ne propose aucun moyen de négocier des transactions pour des biens ou des services offerts via les ressources.
 
 {% hint style="danger" %}
-**Note:** Administrators who have been assigned an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the **Edit Equipment Profiles** permission may perform the procedures below for _**any**_ Resource throughout their UNIWeb network, regardless of whether they are the Resource's owner, or whether the Resource's owner is within the administrator's academic unit.
+**À noter:** Les administrateurs auxquels un [rôle d'administrateur](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) a été attribué qui inclut l'autorisation Modifier les profils d'équipement peuvent effectuer les procédures ci-dessous pour toute ressource sur leur réseau UNIWeb, qu'ils soient le propriétaire de la ressource ou que le propriétaire de la ressource se trouve dans l'unité académique de l'administrateur.
 {% endhint %}
 
-#### On this page: 
+#### Sur cette page: 
 
-* [Creating a Resource](managing-equipment-profiles.md#creating-a-resource) 
-* [Editing a Resource](managing-equipment-profiles.md#editing-a-resource)
-* [Deleting a Resource](managing-equipment-profiles.md#deleting-a-resource)
-* [Transferring ownership of a Resource](managing-equipment-profiles.md#transferring-ownership-of-a-resource)
-* [Creating a backup of a Resource](managing-equipment-profiles.md#creating-a-backup-of-a-resource)
-* [Resource Profile Information](managing-equipment-profiles.md#resource-profile-information)
+* [Création d'une ressource](managing-equipment-profiles.md#creating-a-resource) 
+* [Modification d'une ressource](managing-equipment-profiles.md#editing-a-resource)
+* [Suppression d'une ressource](managing-equipment-profiles.md#deleting-a-resource)
+* [Transfert de propriété d'une ressource](managing-equipment-profiles.md#transferring-ownership-of-a-resource)
+* [Création d'une sauvegarde d'une ressource](managing-equipment-profiles.md#creating-a-backup-of-a-resource)
+* [Information sur le profile des ressources](managing-equipment-profiles.md#resource-profile-information)
 
 ## Creating a Resource
 
