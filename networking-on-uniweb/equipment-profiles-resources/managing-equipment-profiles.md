@@ -2,7 +2,7 @@
 
 Resources are **not** tied specifically to administrator roles, and so any UNIWeb member can list their own Resources regardless of whether or not they have any administrator permissions. Certain Resources may be managed by multiple people over time, and so you can transfer ownership of your resource to a colleague so that they can manage the resource and respond to inquiries moving forward.
 
-Once a UNIWeb visitor has contacted you in order to make use of your resource, any further communications will occur outside of UNIWeb; UNIWeb does not offer any means of brokering transactions for goods or services offered via Resources.
+Once a UNIWeb visitor has contacted you in order to make use of your resource, any futher communications will occur outside of UNIWeb; UNIWeb does not offer any means of brokering transactions for goods or services offered via Resources.
 
 {% hint style="danger" %}
 **Note:** Administrators who have been assigned an [administrator role](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the **Edit Equipment Profiles** permission may perform the procedures below for _**any**_ Resource throughout their UNIWeb network, regardless of whether they are the Resource's owner, or whether the Resource's owner is within the administrator's academic unit.

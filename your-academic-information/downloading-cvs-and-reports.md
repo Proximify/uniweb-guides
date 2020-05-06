@@ -66,7 +66,7 @@ Download Options allow you to adjust the content of the CV or report that you ar
     <tr>
       <td style="text-align:left">Faculty</td>
       <td style="text-align:left">Certain Document Types may have different formatting rules and may handle
-        information differently depending on the faculty.</td>
+        information differently depending on the .</td>
     </tr>
     <tr>
       <td style="text-align:left">Layout Sections</td>
