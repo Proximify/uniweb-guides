@@ -28,7 +28,7 @@
 * [UNIWeb pour le réseautage](networking-on-uniweb/README.md)
   * [Votre profil publique](networking-on-uniweb/filling-out-your-public-profile.md)
   * [Thèmes de recherche](networking-on-uniweb/research-themes/README.md)
-    * [Managing Research Themes](networking-on-uniweb/research-themes/managing-research-themes.md)
+    * [Gestion des thèmes de recherche](networking-on-uniweb/research-themes/managing-research-themes.md)
     * [Tagging with Research Themes](networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md)
     * [Research Connections](networking-on-uniweb/research-themes/research-connections.md)
   * [Lieux de recherche](networking-on-uniweb/research-places-1.md)
