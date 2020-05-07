@@ -1,190 +1,194 @@
 # Groupes de recherche
 
-Whether you're a part of a small study group or a large research team that spans multiple academic units, you can keep a presence for your group and keep members up to date with UNIWeb's Groups. 
+Que vous fassiez partie d'un petit groupe d'étude ou d'une grande équipe de recherche qui couvre plusieurs unités académiques, vous pouvez garder une présence pour votre groupe et tenir les membres à jour avec les groupes d'UNIWeb. 
 
-Groups are profiles where you can manage multiple members and add links to pertinent files, resources, and external websites. You can also list the [Research Places](research-places-1.md) where your Group operates and [tag your Group with Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes) to help boost your Group's presence on the UNIWeb network.
+Les groupes sont des profils où vous pouvez gérer plusieurs membres et ajouter des liens vers des fichiers, des ressources et des sites Web externes pertinents. Vous pouvez également répertorier les [Lieux de recherche ](research-places-1.md)où votre groupe opère et [étiqueter votre groupe avec des thèmes recherche](research-themes/increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes) pour aider à renforcer la présence de votre groupe sur le réseau UNIWeb.
 
-You don't need to be a UNIWeb administrator to start a Group - you can create and manage as many Groups as you would like with a regular UNIWeb account. If you created a Group, you are listed as its _**owner**_, and you can enlist the help of other UNIWeb members as group administrators, who can update and edit group information along with you.
+Vous n'avez pas besoin d'être un administrateur UNIWeb pour démarrer un groupe - vous pouvez créer et gérer autant de groupes que vous le souhaitez avec un compte UNIWeb normal. Si vous avez cé un groupe, vous êtes répertorié comme son _**propriétaire**_ et vous pouvez demander l'aide d'autres membres d'UNIWeb en tant qu'administrateurs de groupe, qui peuvent mettre à jour et modifier les informations du groupe avec vous.
 
-#### On this page: 
+#### Sur cette page: 
 
-* [Creating a Group](groups-1.md#creating-a-group)
-* [Editing a Group](groups-1.md#editing-a-group)
-* [Deleting a Group](groups-1.md#deleting-a-group)
-* [Managing Group members](groups-1.md#managing-group-members)
-* [Transferring ownership of a Group](groups-1.md#transferring-ownership-of-a-group)
-* [Creating a backup of a Group](groups-1.md#creating-a-backup-of-a-group)
-* [Group Profile Information](groups-1.md#group-profile-information)
+* [Création d'un groupe](groups-1.md#creating-a-group)
+* [Modification d'un groupe](groups-1.md#editing-a-group)
+* [Supprimer un groupe](groups-1.md#deleting-a-group)
+* [Gestion des membres du groupe](groups-1.md#managing-group-members)
+* [Transfert de propriété d'un groupe](groups-1.md#transferring-ownership-of-a-group)
+* [Creation d'une sauvegarde d'un groupe](groups-1.md#creating-a-backup-of-a-group)
+* [Information sur le profil de groupe](groups-1.md#group-profile-information)
 
-## Creating a Group
+## **Création d'un groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, click **Add Group**.
-3. In the Add group dialog, enter the Group's [**general information**](groups-1.md#group-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
-4. Click **Save.**
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, cliquez sur **Ajouter un groupe.**
+3. Dans la boîte de dialogue Ajouter un groupe, saisissez les [**informations générales**](groups-1.md#group-general-information) du groupe dans le formulaire de saisie de données. Les champs marqués d'un astérisque \(\*\) sont obligatoires.
+4. Cliquez sur **Enregistrer.**
 
-## Editing a Group
+## **Modification d'un groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
-3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
-4. In the centre panel, navigate to the [group profile section](groups-1.md#group-profile-sections) that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the Group's [general information](groups-1.md#group-general-information) by clicking the **Edit** button to the right of the Group's name.
-5. Add or edit information in the data entry form for the corresponding Group profile section as needed.
-6. Click **Save.**
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** que vous souhaitez modifier. Cela vous amènera au profil public de ce groupe.
+3. Dans le panneau central, sous l'en-tête principal du groupe, **cliquez sur Modifier** le profil. Cela vous amènera à l'éditeur de profil pour ce groupe.
+4. Dans le panneau central, accédez à la [section profil de groupe](groups-1.md#group-profile-sections) que vous souhaitez modifier. Cliquez sur le bouton **Modifier** à droite du titre de la section. ****Vous pouvez modifier les [informations générales](groups-1.md#group-general-information) du Groupe en cliquant sur le bouton Modifier à droite du nom du Groupe.
+5. Ajoutez ou modifiez des informations dans le formulaire de saisie de données pour la section de profil de groupe correspondante, si nécessaire.
+6. Cliquez sur **Enregistrer.**
 
-## Deleting a Group
+## **Supprimer un groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** that you would like to edit. This will take you to the public profile of that Group.
-3. In the centre panel, under the Group's main heading, click **Menu**. 
-4. In the dropdown menu, click **Delete Group**.
-5. In the **Delete Group** dialog, click **Save.**
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** que vous souhaitez modifier. Cela vous amènera au profil public de ce groupe.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Menu.**
+4. Dans le menu déroulant, cliquez sur **Supprimer le groupe.**
+5. Dans la boîte de dialogue **Supprimer un groupe,** cliquez sur **Enregistrer.**
 
-## Managing Group members
+## **Gestion des membres du groupe**
 
-### Adding Group members
+### **Ajout de membres de groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** where you would like to add a member.
-3. In the centre panel, under the Group's main heading, click **Menu**. 
-4. In the dropdown menu, click **Add members**.
-5. In the **Add group member** select the UNIWeb member that you would like to add to your group, and click **Add.**
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** auquel vous souhaitez ajouter un membre.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Menu.**
+4. Dans le menu déroulant, cliquez sur **Ajouter des membres.**
+5. Dans le membre **Ajouter un groupe**, sélectionnez le membre UNIWeb que vous souhaitez ajouter à votre groupe, puis cliquez sur **Ajouter.**
 
-### Adding Group administrators
+### **Ajouter des administrateurs de groupe**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** where you would like to add an administrator.
-3. In the centre panel, under the Group's main heading, click **Members**. 
-4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Add to Administrators**.
-5. In the **Add to Administrators** dialog, click **Yes**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** auquel vous souhaitez ajouter un administrateur.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Membres.**
+4. Passez votre curseur sur le membre du groupe auquel vous souhaitez accorder l'accès administrateur, et dans le menu d'info-bulle qui apparaît, cliquez sur **Ajouter aux administrateurs.**
+5. Dans la boîte de dialogue **Ajouter aux administrateurs**, cliquez sur **Oui.**
 
-### Removing Group administrators
+### **Suppression des administrateurs de groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** where you would like to remove an administrator.
-3. In the centre panel, under the Group's main heading, click **Members**. 
-4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Remove from Administrators**.
-5. In the **Remove group admin** dialog, click **Yes**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** où vous souhaitez supprimer un administrateur.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Membres.** 
+4. Passez votre curseur sur le membre du groupe auquel vous souhaitez accorder l'accès administrateur, et dans le menu d'info-bulle qui apparaît, cliquez sur **Supprimer des administrateurs.**
+5. Dans la boîte de dialogue Supprimer un administrateur de groupe, cliquez sur **Oui.**
 
-### Hiding and unhiding Group members
+### **Cacher et dévoiler les membres du groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** where you would like to hide a member.
-3. In the centre panel, under the Group's main heading, click **Members**. 
-4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Hide membership**.
-5. In the **Hide membership?** dialog, click **Yes**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** où vous souhaitez masquer un membre.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Membres.** 
+4. Passez votre curseur sur le membre du groupe auquel vous souhaitez accorder l'accès administrateur, et dans le menu d'info-bulle qui apparaît, cliquez sur **Masquer l'appartenance.**
+5. Dans l'adhésion **Cacher?,** cliquez sur **Oui.**
 
-The group member will be hidden from the members list for visitors to the group, but will remain visible to group administrators, with a \[hidden\] tag next to their name.
+Le membre du groupe sera masqué dans la liste des membres pour les visiteurs du groupe, mais restera visible pour les administrateurs du groupe, avec une balise \[caché\] à côté de leur nom.
 
 {% hint style="info" %}
-Tip: to unhide group members who were previously hidden, repeat the steps above, but click the **Show membership** button, which replaces the **Hide membership** button on hidden members.
+**Conseil:** pour afficher les membres du groupe qui étaient précédemment masqués, répétez les étapes ci-dessus, mais cliquez sur le bouton Afficher l'adhésion, qui remplace le bouton **Masquer l'adhésion** sur les membres masqués.
 {% endhint %}
 
-### Removing members from a Group
+### **Supprimer des membres d'un groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** where you would like to remove a member. This will take you to the public profile of that Group.
-3. In the centre panel, under the Group's main heading, click **Members**. 
-4. Hover your cursor over the group member to whom you would like to grant administrator access, and in the tooltip menu that appears, click **Remove from group**.
-5. In the **Remove group member** dialog, click **Yes**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** où vous souhaitez supprimer un membre. Cela vous amènera au profil public de ce groupe.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Membres.**
+4. Passez votre curseur sur le membre du groupe auquel vous souhaitez accorder l'accès administrateur, et dans le menu d'info-bulle qui apparaît, cliquez sur **Supprimer du groupe.**
+5. Dans la boîte de dialogue **Supprimer le membre du groupe**, cliquez sur **Oui.**
 
-## Transferring ownership of a Group
+## **Transfert de propriété d'un groupe**
 
 {% hint style="warning" %}
-**Before you begin:** you must be the owner of a Group in order to transfer ownership of that Group to another UNIWeb member.
+**Avant de commencer:** vous devez être propriétaire d'un groupe pour transférer la propriété de ce groupe à un autre membre d'UNIWeb.
 {% endhint %}
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** that you would like to transfer to a new owner.
-3. In the centre panel, under the Group's main heading, click **Members**. 
-4. Under Members, hover your cursor over your own name, and in the tooltip menu that appears, click **Transfer ownership**.
-5. In the **Transfer Ownership** dialog, click **Yes**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et cliquez sur le groupe que vous souhaitez transférer à un nouveau propriétaire.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Membres.**
+4. Sous **Membres**, passez votre curseur sur votre propre nom et, dans le menu d'info-bulles qui apparaît, cliquez sur **Transférer la propriété.**
+5. Dans la boîte de dialogue **Transfert de propriété**, cliquez sur **Oui.**
 
-## Creating a backup of a Group
+## **Création d'une sauvegarde d'un groupe**
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md)res page, go to **Groups**.
-2. In the centre panel, locate and **click on the Group** that you would like to create a backup of. This will take you to the public profile of that Group.
-3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
-4. In the right panel, click **Make a backup copy**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** dont vous souhaitez créer une sauvegarde. Cela vous amènera au profil public de ce groupe.
+3. Dans le panneau central, sous l'en-tête principal du groupe, cliquez sur **Modifier** le profil. Cela vous amènera à l'éditeur de profil pour ce groupe.
+4. Dans le panneau de droite, cliquez sur **Créer une copie de sauvegarde.**
 
-UNIWeb will download a backup copy of the Group to your computer as a JSON file.
+UNIWeb téléchargera une copie de sauvegarde du Groupe sur votre ordinateur sous forme de fichier JSON.
 
-## Group Profile Information
+## **Informations sur le profil de groupe**
 
-### Group General Information
+### **Informations générales sur le groupe**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>Data Field</b>
+      <th style="text-align:left"><b>Champ de donn&#xE9;es</b>
       </th>
-      <th style="text-align:left"><b>Purpose</b>
+      <th style="text-align:left"><b>Objectif</b>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Group Name*</b>
+      <td style="text-align:left"><b>Nom de groupe*</b>
       </td>
-      <td style="text-align:left">A name for your Group, as you would like it to appear in UNIWeb for visitors
-        to find.</td>
+      <td style="text-align:left">Un nom pour votre groupe, tel que vous voudriez qu&apos;il apparaisse
+        dans UNIWeb pour que les visiteurs le trouvent.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Visibility*</b>
+      <td style="text-align:left"><b>Visibilit&#xE9;*</b>
       </td>
       <td style="text-align:left">
-        <p>The scope to which you would like to make this Group available to UNIWeb
-          visitors:</p>
+        <p>La port&#xE9;e &#xE0; laquelle vous souhaitez mettre ce Groupe &#xE0;
+          la disposition des visiteurs d&apos;UNIWeb:</p>
         <ul>
-          <li><b>Public:</b> the Group will be visible to all UNIWeb visitors, whether
-            or not they are members. The group&apos;s profile will list it as <b>Public</b> in
-            the main heading.</li>
-          <li><b>Network: </b>the Group will be visible only to your institution&apos;s
-            UNIWeb members, when they are logged in. The group&apos;s profile will
-            list it as <b>Closed</b> in the main heading.</li>
-          <li><b>Members: </b>the Group will be visible only to its members. The group&apos;s
-            profile will list it as <b>Private</b> in the main heading.</li>
+          <li><b>Public: </b>le Groupe sera visible par tous les visiteurs d&apos;UNIWeb,
+            qu&apos;ils soient membres ou non. Le profil du groupe le r&#xE9;pertoriera
+            comme <b>public </b>dans l&apos;en-t&#xEA;te principal.</li>
+          <li><b>R&#xE9;seau: </b>le groupe ne sera visible que par les membres d&apos;UNIWeb
+            de votre &#xE9;tablissement, lorsqu&apos;ils seront connect&#xE9;s. Le
+            profil du groupe le r&#xE9;pertoriera comme ferm&#xE9; dans l&apos;en-t&#xEA;te
+            principal.</li>
+          <li><b>Membres:</b> le Groupe ne sera visible que par ses membres. Le profil
+            du groupe le r&#xE9;pertoriera comme <b>priv&#xE9;</b> dans l&apos;en-t&#xEA;te
+            principal.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Homepage</b>
+      <td style="text-align:left"><b>Page d&apos;accueil</b>
       </td>
-      <td style="text-align:left">An associated external website that has further information on the Group.</td>
+      <td style="text-align:left">Un site Web externe associ&#xE9; contenant de plus amples informations
+        sur le Groupe.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Group Type</b>
+      <td style="text-align:left"><b>Type de groupe</b>
       </td>
       <td style="text-align:left">
-        <p>Categorize your group by its broad purpose. Group types are available
-          as filters on the Groups page, and can be used to help visitors find the
-          kinds of groups that they are looking for.</p>
+        <p>Classez votre groupe en fonction de son objectif g&#xE9;n&#xE9;ral. Les
+          types de groupes sont disponibles sous forme de filtres sur la page Groupes
+          et peuvent &#xEA;tre utilis&#xE9;s pour aider les visiteurs &#xE0; trouver
+          les types de groupes qu&apos;ils recherchent.</p>
         <ul>
-          <li>Partnership project</li>
-          <li>Research group</li>
-          <li>Research lab</li>
-          <li>Research project</li>
-          <li>Study group</li>
+          <li>Projet de partenariat</li>
+          <li>Groupe de recherche</li>
+          <li>Laboratoire de recherche</li>
+          <li>Projet de recherche</li>
+          <li>Groupe d&apos;&#xE9;tude</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Group Photo</b>
+      <td style="text-align:left"><b>Photo de groupe</b>
       </td>
-      <td style="text-align:left">A photo that portrays your group or its role within your institution.
-        It will be displayed as a banner at the top of the centre panel on your
-        group&apos;s profile.</td>
+      <td style="text-align:left">Une photo qui repr&#xE9;sente votre groupe ou son r&#xF4;le au sein de
+        votre institution. Il sera affich&#xE9; sous forme de banni&#xE8;re en
+        haut du panneau central sur le profil de votre groupe.</td>
     </tr>
   </tbody>
-</table>### Group Profile Sections
+</table>### **Sections de profil de groupe**
 
-You can use the sections of a Group's profile page to give more in-depth information pertaining to the Group itself. If you leave a section blank, it will not be visible to visitors on the Resource's profile page.
+Vous pouvez utiliser les sections de la page de profil d'un groupe pour fournir des informations plus détaillées sur le groupe lui-même. Si vous laissez une section vide, elle ne sera pas visible par les visiteurs sur la page de profil de la ressource.
 
-| **Profile Section** | **Purpose** |
+| **Section Profil** | **Objectif** |
 | :--- | :--- |
-| **Group Description** | Provide a general description of the Group, along with any information for visitors to better understand its purpose. |
-| **Research Interests** | Tag your Group with [Research Themes](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) to increase the number of keywords that visitors can use to find your Group in search results or by filtering on the Groups page. Your Group will also be displayed in the Research Cluster corresponding to the tagged Research Theme. |
-| **Research Places** | Add any locations where your group operates. These [Research Places](research-places-1.md) will be displayed on the Map page for visitors or group members to whom the group is visible. |
-| **Partners and Collaborators** | List any people or organizations, within or outside of your institution, with whom your group collaborates. |
-| **Resources** | Add any [Resources](equipment-profiles-resources/) that belong to or are managed or administered by your Group. |
+| **Description du groupe** | Fournir une description générale du Groupe, ainsi que toute information permettant aux visiteurs de mieux comprendre son objet. |
+| **Intérêts de recherche** | Marquez votre groupe avec des [Thèmes de recherche](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) pour augmenter le nombre de mots clés que les visiteurs peuvent utiliser pour trouver votre groupe dans les résultats de recherche ou en filtrant sur la page Groupes. Votre groupe sera également affiché dans le cluster de recherche correspondant au thème de recherche balisé. |
+| **Lieux de recherche** | Ajoutez tous les emplacements où votre groupe opère. Ces [Lieux de recherche](research-places-1.md) seront affichés sur la page Carte pour les visiteurs ou les membres du groupe auxquels le groupe est visible. |
+| **Partenaires et collaborateurs** | Énumérez toutes les personnes ou organisations, à l'intérieur ou à l'extérieur de votre institution, avec lesquelles votre groupe collabore. |
+| **Ressources** | Ajoutez toutes les [Ressources](equipment-profiles-resources/) qui appartiennent à ou sont gérées ou administrées par votre groupe. |
 
