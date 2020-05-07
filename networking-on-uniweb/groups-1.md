@@ -102,7 +102,7 @@ Tip: to unhide group members who were previously hidden, repeat the steps above,
 
 ## Creating a backup of a Group
 
-1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md) page, go to **Groups**.
+1. From your [UNIWeb Home](../navigating-uniweb/the-home-page.md)res page, go to **Groups**.
 2. In the centre panel, locate and **click on the Group** that you would like to create a backup of. This will take you to the public profile of that Group.
 3. In the centre panel, under the Group's main heading, click **Edit Profile**. This will take you to the profile editor for that Group.
 4. In the right panel, click **Make a backup copy**.
