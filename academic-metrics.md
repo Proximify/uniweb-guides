@@ -1,22 +1,22 @@
-# Rapports et statistiques
+# Academic Metrics
 
 The academic metrics section of UNIWeb is where the raw statistical data from the UNIWeb members' CVs is collected and translated into meaningful information. Data from ten different categories are compiled here, updated automatically as members of the network compose and modify their academic CVs. These categories can be used to monitor the achievements and engagement of an institution or faculty over time or can be exported for formal use in a report:
 
 * Publications
-* Contributions artistiques
-* Propriétés intellectuelles
-* Entrevues et relations avec les médias
-* Présentations
-* Reconnaissance
-* Supervision des étudiants
-* Activités d'enseignement
-* Développement de cours
-* Développement de programme
-* Historique du financement de la recherche
+* Artistic Contributions
+* Intellectual Properties
+* Interviews and Media Relations
+* Presentations
+* Recognition
+* Student Supervision
+* Teaching Activities
+* Course Development
+* Program Development
+* Research Funding History
 
-À l'aide d'outils de visualisation prédéfinis, UNIWeb peut vous aider à organiser cette infrastructure sous forme de graphiques à barres et à lignes ou de listes. Ces préréglages graphiques peuvent être filtrés, mais si vous avez besoin d'un contrôle granulaire des informations ou des graphiques, UNIWeb propose de puissants outils de filtrage personnalisés pour télécharger des informations métriques académiques en tant que données brutes dans une feuille Excel.
+Using preset visualization tools, UNIWeb can help you organize this infromation in the form of bar and line graphs, or lists. These graphing presets can be filtered, but if you need granular control over the information or graphing, UNIWeb offers powerful custom filtering tools to download academic metric informationas raw data in an excel sheet.
 
-#### Sur cette page:
+#### On this page:
 
 * [Visualizing academic metrics using presets within UNIWeb](academic-metrics.md#visualizing-academic-metrics-using-presets-in-uniweb)
 * [Downloading custom academic metrics reports as excel files](academic-metrics.md#downloading-custom-academic-metrics-as-excel-files)
