@@ -1,8 +1,8 @@
-# The Members Page
+# La page des membres
 
-## The Members Page
+## La page des membres
 
-The Members page is a **full, publicly-accessible list of the members of your UNIWeb network**. Members can be filtered by academic unit in the left panel, and by academic title on the right. Clicking on a member will lead to their [public profile](../networking-on-uniweb/filling-out-your-public-profile.md).
+La page des membres est une **liste, complète et accessible au publique, de membres de votre réseaux UNIWeb**. Les membres peuvent être filtrés par unité académique dans le panneau de gauche et par titre académique à droite. En cliquant sur un membre, nous pouvons voir leur[ profil publique](../networking-on-uniweb/filling-out-your-public-profile.md).
 
 ![](../.gitbook/assets/screenshots-copy-15.png)
 

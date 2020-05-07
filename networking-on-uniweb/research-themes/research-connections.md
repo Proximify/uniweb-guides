@@ -1,56 +1,54 @@
-# Research Connections
+# Connexions de recherche
 
-Research institutions can involve vast amounts of people, all conducting research into a broad spectrum of fields of study. With so many colleagues at your institution, it's possible that another researcher in a completely different department or faculty could be researching a topic that's close to or relevant to your own, and you might never know. 
+Les institutions de recherche peuvent impliquer de grandes quantités de personnes, toutes effectuant des recherches dans un large éventail de domaines d'études. Avec autant de collègues dans votre établissement, il est possible qu'un autre chercheur dans un département ou une faculté complètement différent recherche un sujet proche ou pertinent pour le vôtre, et vous ne le saurez peut-être jamais.
 
-UNIWeb aims to help you break the silo walls between faculties by making it easier to find potential collaborators within your institution who are interested in the same [Research Themes](./), even if they are approaching their work from a different research perspective. 
+UNIWeb vise à vous aider à briser les cloisonnements entre les facultés en facilitant la recherche de collaborateurs potentiels au sein de votre établissement qui s'intéressent aux mêmes [Thèmes de recherche](./), même s'ils abordent leur travail dans une perspective de recherche différente.
 
-Every time you [tag your profile with a Research Theme](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes), UNIWeb finds other members of your UNIWeb network who have tagged their profile with the same theme, and its parents and children. UNIWeb collects and displays all of your connections on a Research Connections page that's tailored specifically for you. 
+Chaque fois que vous [étiqueter votre profil avec un thème de recherche](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes), UNIWeb trouve d'autres membres de votre réseau UNIWeb qui ont marqué leur profil avec le même thème, ainsi que ses parents et ses enfants. UNIWeb recueille et affiche toutes vos connexions sur une page Research Connections spécialement conçue pour vous.
 
-**On this page:**
+**Sur cette page:**
 
-* [Accessing your research connection map](research-connections.md#accessing-your-research-connection-map)
-* [Viewing more information about a research connection](research-connections.md#viewing-more-information-about-a-specific-connection)
-* [Filtering research connections](research-connections.md#filtering-research-connections)
+* [Accéder à votre carte de connexion de recherche](research-connections.md#accessing-your-research-connection-map)
+* [Afficher plus d'information sur les connexions de recherche](research-connections.md#viewing-more-information-about-a-specific-connection)
+* [Filtrage des connexions de recherche](research-connections.md#filtering-research-connections)
 
-## Accessing your Research Connection map
+## **Accéder à votre carte de connexion de recherche**
 
-* From your [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, go to **Connections**
+* À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Connections.**
 
 ![](../../.gitbook/assets/screen-shot-2019-12-05-at-10.57.13-am.png)
 
-In the centre panel, your profile picture is displayed in the middle of a web, showing all of the connections that UNIWeb was able to generate using the Research Themes that you have [tagged to your profile](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes). Each person that you see connected to you has tagged at least one theme in common with you, or a parent or child of a theme in common with you.
+Dans le panneau central, votre photo de profil s'affiche au milieu d'un site Web, montrant toutes les connexions qu'UNIWeb a pu générer à l'aide des thèmes de recherche que vous avez [étiqueté à votre profil](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes). Chaque personne que vous voyez connectée à vous a marqué au moins un thème en commun avec vous, ou un parent ou un enfant d'un thème en commun avec vous.
 
-## Viewing more information about a specific connection
+## **Afficher plus d'information sur les connections de recherche**
 
-To view more information about a specific person, **hover your cursor over their picture**. In the window that appears while hovering, you can:
+Pour afficher plus d'informations sur une personne spécifique, **passez votre curseur sur sa photo.** Dans la fenêtre qui apparaît pendant le survol, vous pouvez:
 
-* View their name, [academic title](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), and main [academic unit](../../uniweb-accounts/academic-units/),
+* Afficher leur nom [titre académique](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), et [l'unité académique](../../uniweb-accounts/academic-units/) principale,
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-14-20.jpg)
 
-* View a selection of their profile's tagged Research Themes, and
+* Afficher une sélection des thèmes de recherche balisés de leur profil, et
 
 ![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-16-26.jpg)
 
-* Open their profile, open their own connection map, or open their [homepage](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), if they have listed one on their profile.  
+* Ouvrez leur profil, ouvrez leur propre carte de connexion ou ouvrez leur [page d'accueil](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), s'ils en ont répertorié un sur leur profil.  
 
-![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-18-03.jpg)
+## **Filtrage des connexions de recherche**
 
-## Filtering Research Connections
-
-In the right panel of your research connections map, there are options to help you filter through your connections and find potential collaborators. 
+Dans le panneau droit de votre carte de connexions de recherche, vous trouverez des options pour vous aider à filtrer vos connexions et à trouver des collaborateurs potentiels.
 
 ![](../../.gitbook/assets/screen-shot-2019-12-05-at-10.57.13-am.jpg)
 
-You can filter your connections using three different parameters:
+Vous pouvez filtrer vos connexions en utilisant trois paramètres différents:
 
-* By their [academic title](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields),
-* By their [academic unit](../../uniweb-accounts/academic-units/), or
-* By the research themes that you have in common with them.
+* par leur [titre académique](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields),
+* par leur [unité académique](../../uniweb-accounts/academic-units/),
+* Par les thèmes de recherche que vous avez en commun avec eux.
 
-**To activate a filter, click on a specific list item under that parameter. You can deactivate that filter by clicking on it again.** 
+**Pour activer un filtre, cliquez sur un élément de liste spécifique sous ce paramètre. Vous pouvez désactiver ce filtre en cliquant à nouveau dessus.**
 
 {% hint style="info" %}
-**TIp:** You can only activate one filter at a time per parameter, but to help you find specific results, **you can have one active filter from each of the three parameters at the same time**. For instance, you could filter your connections to find **professors** in **engineering** who are interested in **computer science.**
+**Conseil:** Vous ne pouvez activer qu'un seul filtre à la fois par paramètre, mais pour vous aider à trouver des résultats spécifiques, vous pouvez avoir un filtre actif à partir de chacun des trois paramètres en même temps. Par exemple, vous pouvez filtrer vos connexions pour trouver des professeurs en génie qui s'intéressent à l'informatique.
 {% endhint %}
 

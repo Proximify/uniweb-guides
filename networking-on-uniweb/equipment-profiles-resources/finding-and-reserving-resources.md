@@ -1,24 +1,24 @@
-# Finding and Reserving Resources
+# Recherche et réservation de ressources
 
-Resource profiles are listed in Research Clusters, in search results, in the Resources section of the [UNIWeb Home](../../navigating-uniweb/the-home-page.md) page, and on the Map page. Resource profiles work in much the same way as any online marketplace - if you have found a Resource that you would like to inquire about, you can contact the owner via email or by phone to inquire further about using it.
+Les profils de ressources sont répertoriés dans les groupes de recherche, dans les résultats de recherche, dans la section Ressources de la page [d'accueil d'UNIWeb](../../navigating-uniweb/the-home-page.md) et sur la page Carte. Les profils de ressources fonctionnent de la même manière que n'importe quel marché en ligne - si vous avez trouvé une ressource sur laquelle vous souhaitez vous renseigner, vous pouvez contacter le propriétaire par e-mail ou par téléphone pour en savoir plus sur son utilisation.
 
-#### On this page:
+#### Sur cette page:
 
-* [Sending a message to a Resource owner](finding-and-reserving-resources.md#sending-a-message-to-a-resource-owner)
-* [Responding to Resource inquiries](finding-and-reserving-resources.md#responding-to-resource-inquiries)
+* [Envoyer un message au propriétaire d'une ressource](finding-and-reserving-resources.md#sending-a-message-to-a-resource-owner)
+* [Répondre aux demandes de renseignements sur les resources](finding-and-reserving-resources.md#responding-to-resource-inquiries)
 
-## Sending a message to a Resource owner
+## **Envoyer un message au propriétaire d’une ressource**
 
-1. **Click on the Resource listing** that you would like to inquire about.
-2. Respond to the listing using one of the following two contact options in the right panel of the Resource profile: 
-   1. In the **About the owner** section, click **\# Click to show** to reveal the owner's listed phone number.
-   2. In the **Contact the owner** section, write your email address, your name, and compose a message to the owner outlining your request, and click the **Send email** button.
+1. **Cliquez sur la liste des ressources** sur laquelle vous souhaitez vous renseigner.
+2. Répondez à l'annonce en utilisant l'une des deux options de contact suivantes dans le panneau de droite du profil de ressource: 
+   1. Dans la section **À propos du propriétaire,** cliquez sur **\# Cliquez pour afficher** pour révéler le numéro de téléphone répertorié du propriétaire.
+   2. Dans la section **Contacter le propriétaire**, écrivez votre adresse e-mail, votre nom et composez un message au propriétaire décrivant votre demande, puis cliquez sur le bouton **Envoyer un e-mail.**
 
-If you opted to send a written message to the owner, UNIWeb will send an email to the owner containing your message and contact information.
+Si vous avez choisi d'envoyer un message écrit au propriétaire, UNIWeb enverra un e-mail au propriétaire contenant votre message et vos coordonnées.
 
-## Responding to Resource Inquiries
+## **Répondre aux demandes de renseignements sur les ressources**
 
-If a UNIWeb visitor has sent a message in response to one of your Resource listings, UNIWeb will send the response in the form of an email. The inquirer's email address will be listed in the reply-to field, and so **you can respond by replying directly to the message.**
+Si un visiteur d'UNIWeb a envoyé un message en réponse à l'une de vos listes de ressources, UNIWeb enverra la réponse sous la forme d'un e-mail. L'adresse e-mail du demandeur sera répertoriée dans le champ de réponse, et **vous pourrez donc répondre en répondant directement au message.**
 
 
 

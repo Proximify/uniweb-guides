@@ -46,41 +46,43 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the right panel, click the **Add a new member** button.
-3. In the _Add new members_ dialog, fill in the [member information fields](member-account-information.md#membership-information-fields) for the new UNIWeb member. Fields that are marked with an asterisk are mandatory.
-4. Click **Save**.
+1. À partir de votre [page d'administration](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Dans le panneau de droite, cliquez sur le bouton **Ajouter un nouveau membre**.
+3. Dans la boîte de dialogue _Ajouter un nouveau membre_, remplissez les [champs d'information des membres](member-account-information.md#membership-information-fields) pour le nouveau membre UNIWeb. Les champs marqués d'un astérisque sont obligatoires.
+4. Cliquez **Sauvegarder**.
 
 {% hint style="danger" %}
-**Note:** After following the above procedure, you must [send an account activation email ](account-creation.md#sending-account-activation-emails)in order for the new UNIWeb member to complete the account activation process.
+**À noter:** 
+
+Après avoir suivi la procédure ci-dessus, vous deve [envoyer un courriel d'invitation pour activer votre compte ](account-creation.md#sending-account-activation-emails)pour que le nouveau membre UNIWeb puisse terminer le processus d'activation de compte.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Créer des comptes pour des membres d'UNIWeb en gros avec une feuille de calcul
 
-From time to time, you may need to add many new member accounts at once. You can create member accounts in bulk by uploading a spreadsheet into UNIWeb that includes information for all of the accounts that you would like to add. UNIWeb will scan the spreadsheet for accounts that already exist in the network, and so you can maintain and upload a single spreadsheet numerous times without creating duplicates.
+De temps en temps, vous devrez peut-être ajouter plusieurs nouveaux comptes de membre à la fois. Vous pouvez créer des comptes de membre en bloc en téléchargeant une feuille de calcul dans UNIWeb qui comprend des informations pour tous les comptes que vous souhaitez ajouter. UNIWeb analysera la feuille de calcul à la recherche de comptes qui existent déjà sur le réseau, et vous pourrez donc maintenir et télécharger une seule feuille de calcul plusieurs fois sans créer de doublons.
 
 {% hint style="warning" %}
-**Avant de commencer :** If your institution has integrated UNIWeb with an existing single-sign-on system, **there is no need to create UNIWed accounts manually**. Accounts are created for users automatically when they follow the steps to [log in to their UNIWeb account](account-login.md#logging-in-to-your-uniweb-account) for the first time.
+**Avant de commencer :** Si UNIWeb est intégré avec le système d'authentification de votre institution, **il n'est pas nécessaire de créer des comptes UNIWed manuellement.** Les comptes sont créés automatiquement pour les utilisateurs lorsqu'ils suivent les étapes pour [se connecter à leur compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 {% endhint %}
 
 {% hint style="warning" %}
-**This procedure requires an** [**administrator role**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Cette procédure nécessite un**[ **rôle d'administrateur**](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following[ autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
 
-* Create new accounts
-* Edit member information
+* Créer de nouveaux comptes 
+* Modifier les informations sur les membres
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
+Modifier les informations sur les membres Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-### Creating a UNIWeb member account spreadsheet:
+### Création d'une feuille de calcul de compte de membre UNIWeb:
 
-To get your member account spreadsheet started, you can download a template spreadsheet that’s already formatted properly for UNIWeb's requirements.
+Pour démarrer la feuille de calcul de votre compte membre, vous pouvez télécharger une feuille de calcul modèle qui est déjà correctement formatée pour les exigences d'UNIWeb.
 
 {% file src="../../.gitbook/assets/accounts\_creation\_templates.zip" caption="Download a member account template spreadsheet" %}
 
-The sample spreadsheet includes all of the accepted [member information fields](member-account-information.md#membership-information-fields) that can be used when creating a UNIWeb account spreadsheet. An example record is listed below; **entries marked with an asterisk are mandatory:**
+L'exemple de feuille de calcul comprend tous les [champs d'information sur les membres](member-account-information.md#membership-information-fields) champs d'informations sur les membres acceptés qui peuvent être utilisés lors de la création d'une feuille de calcul de compte UNIWeb. Un exemple d'enregistrement est répertorié ci-dessous; **les entrées marquées d'un astérisque sont obligatoires**:
 
-| First Name\* | Middle Name | Last Name\* | Account Type\* | Position Title\* | Academic Unit\* | Email\* | Username | Telephone | Homepage | Office |
+| Prénom\* | Deuxième prénom | Nom\* | Type de compte\* | Titre du poste\* | Unité Académique\* | Courriel\* | Nom  d'utilisateur | Téléphone | Page d'accueil | Bureau |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
 
@@ -106,70 +108,66 @@ The sample spreadsheet includes all of the accepted [member information fields](
   </thead>
   <tbody></tbody>
 </table>{% hint style="success" %}
-#### Best practices for your spreadsheet:
+#### Meilleures pratiques pour votre feuille de calcul:
 
-* The order of the columns does not matter
-* Each row corresponds to one member account
-* Empty rows are ignored
-* If a row provides the same email address of an existing user in the system, the row is ignored \(this is how UNIWeb screens for duplicate entries\)
-* Columns that UNIWeb does not recognize will cause an error.
-* Acceptable entries for **account type, position title** and **academic unit** are dictated by your institution. 
+*  L'ordre des colonnes n'a pas d'importance 
+* Chaque ligne correspond à un compte membre 
+* Les lignes vides sont ignorées 
+* Si une ligne fournit la même adresse e-mail d'un utilisateur existant dans le système, la ligne est ignorée \(c'est ainsi qu'UNIWeb filtre les entrées en double\)
+* Les colonnes que UNIWeb ne reconnaît pas provoqueront une erreur. 
+* Les entrées acceptables pour le **type de compte**, le **titre du poste** et **l'unité scolaire** sont dictées par votre établissement.
 {% endhint %}
 
-### Uploading your spreadsheet to UNIWeb
+### Téléchargement de votre feuille de calcul sur UNIWeb
 
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the right panel, click **Add members from a file**
-3. In the _Add new members_ dialog, click **Choose File**, and locate your UNIWeb members spreadsheet on your computer.
-4. Click **Submit**.
+1. À partir de votre page [d'administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Dans le panneau de droite, cliquez sur **Ajouter des membres à partir d'un fichier.**
+3. Dans la boîte de dialogue _Ajouter un nouveaux membre_, cliquez sur **Choisir un fichier** et recherchez la feuille de calcul des membres UNIWeb sur votre ordinateur. 
+4. Cliquez sur **Soumettre.**
 
 {% hint style="info" %}
-**Tip:** If you enter an **Account Type, Position Title, or Academic Unit** that does not exist in the network, you will receive an error message. This will describe the error, indicate where it is located in your spreadsheet and provide you with a list of suitable replacements. If your spreadsheet contains any **blank fields that are mandatory or columns that UNIWeb does not recognize**, you will receive a similar error.
+**Conseil:** Si vous entrez un **type de compte**, un **titre de poste** ou **une unité académique** qui n'existe pas sur le réseau, vous recevrez un message d'erreur. Cela décrira l'erreur, indiquera où elle se trouve dans votre feuille de calcul et vous fournira une liste de remplacements appropriés. Si votre feuille de calcul contient des **champs vides obligatoires ou des colonnes que UNIWeb ne reconnaît pas**, vous recevrez une erreur similaire.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des courriels pour activer des comptes
 
-Once you have added new members to UNIWeb, you need to invite them to activate their accounts. This will send them a welcome email with text and information approved by your institution.
+Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inviter à activer leurs comptes. Cela leur enverra un e-mail de bienvenue avec du texte et des informations approuvés par votre institution.
 
 {% hint style="warning" %}
-**Avant de commencer :** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes : 
+
+* Créer de nouveaux comptes
+* Modifier les informations sur les membres
+* Envoyer des invitations par courriel
+
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-{% hint style="warning" %}
-* Create new accounts
-* Edit member information
-* Send email invites
-
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
-{% endhint %}
-
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. Locate the UNIWeb member\(s\) to whom you would like to send an account activation email, and **click the checkbox** on the right side of their row.
-3. In the right panel, click **Account activation**.
-4. In the _Invite selected members_ dialog, verify that you have selected the correct UNIWeb member\(s\).
-5. Click **Invite**.
+1. À partir de votre page [d'Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Localisez le \(s\) membre \(s\) UNIWeb à qui vous souhaitez envoyer un e-mail d'activation de compte, **puis cochez la case** à droite de leur ligne.
+3. Dans le panneau de droite, cliquez sur **Activation du compte**.
+4. Dans la boîte de dialogue _activation du compte_, vérifiez que vous avez sélectionné le ou les membres UNIWeb appropriés.
+5. Cliquez sur **Inviter**.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des rappels pour l'activation du compte
 
-If you have invited members previously, but they have yet to activate their accounts, you can send them a reminder email. If you’re unsure which members have already been sent invitation emails, UNIWeb can filter members for you to automatically select members who have been sent invitation and reminder emails in the past.
+Si vous avez déjà invité des membres, mais qu'ils n'ont pas encore activé leur compte, vous pouvez leur envoyer un e-mail de rappel. Si vous ne savez pas quels membres ont déjà reçu des e-mails d'invitation, UNIWeb peut filtrer les membres pour vous permettre de sélectionner automatiquement les membres qui ont déjà reçu des e-mails d'invitation et de rappel.
 
 {% hint style="warning" %}
-**Avant de commencer :** this procedure requires an [administrator role](../access-control/managing-administrator-roles-and-permissions.md) within the subject’s academic unit that includes the following [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions):
+**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md)  au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
+
+* Créer des nouveaux comptes
+* Modifier l'information des membres 
+* Modifier des invitations par courriel
+
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-{% hint style="warning" %}
-* Create new accounts
-* Edit member information
-* Send email invites
-
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task within your academic unit, please contact your system administrator.
-{% endhint %}
-
-1. From your [UNIWeb Administration ](../../navigating-uniweb/the-administration-page.md)page, go to **Members**.
-2. In the right panel, click **Unactivated accounts**. 
-3. In the _Unactivated accounts_ dialog, select the maximum number of sent activation emails to filter the UNIWeb accounts that will be selected. This will ensure that you don’t send too many emails to users who are not interested in activating their accounts. 
-4. Click **Unactivated accounts**. UNIWeb will automatically select the members who have received the specified number of account activation emails.
-5. In the right panel, click **Account activation**.
-6. In the _Invite seleted members_ dialog, verify the UNIWeb members that you have selected.
-7. Click **Invite**.
+1. À partir de votre page [d'Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+2. Dans le panneau de droite, cliquez sur **Comptes non activés**.
+3. Dans la boîte de dialogue _Comptes non activés_, sélectionnez le nombre maximal d'e-mails d'activation envoyés pour filtrer les comptes UNIWeb qui seront sélectionnés. Vous éviterez ainsi d'envoyer trop d'e-mails aux utilisateurs qui ne souhaitent pas activer leur compte.
+4. Cliquez sur **Comptes non activés**. UNIWeb sélectionnera automatiquement les membres qui ont reçu le nombre spécifié d'e-mails d'activation de compte.
+5. Dans le panneau de droite, cliquez sur **Activation du compte**.
+6. Dans la boîte de dialogue _Inviter les membres sélectionnés_, vérifiez les membres UNIWeb que vous avez sélectionnés.
+7. Cliquez **Inviter**.
 

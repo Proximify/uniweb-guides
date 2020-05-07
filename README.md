@@ -8,39 +8,41 @@ Pour commencer, choisissez un chapitre ci-dessous ou parcourez les rubriques dan
 **Conseil:** le centre d'aide comprend des documents pour tous les utilisateurs d'UNIWeb - des membres généraux ainsi que des administrateurs. Afin de maintenir une certaine clarté, nous avons inclus un **symbole clé** ![](.gitbook/assets/key.svg)à côté des en-têtes de toutes les **procédures qui nécessitent des autorisations d'administrateur**, ainsi qu'une liste des autorisations requises pour exécuter la procédure.
 {% endhint %}
 
-### Navigation de UNIWeb
+### Navigation d'UNIWeb
 
 Un aperçu général de la façon dont les différentes parties d'UNIWeb s'assemblent et de la façon dont les différents domaines d'UNIWeb sont référencés dans ces guides d'aide.
 
 {% page-ref page="navigating-uniweb/" %}
 
-### UNIWeb Accounts
+### Comptes UNIWeb
 
-This chapter covers the spectrum of account management and access control in UNIWeb. Learn about how to create your own UNIWeb account, or how to create and manages UNIWeb accounts for your colleagues. Learn how academic units inform the structure of your UNIWeb network, and how administrator permissions and roles in UNIWeb allow for fine-tuned administration of the network.
+Ce chapitre couvre le spectre de la gestion des comptes et du contrôle d'accès dans UNIWeb. Découvrez comment créer votre propre compte UNIWeb ou comment créer et gérer des comptes UNIWeb pour vos collègues. Découvrez comment les unités académiques informent la structure de votre réseau UNIWeb et comment les autorisations et les rôles d'administrateur dans UNIWeb permettent une administration affinée du réseau.
 
 {% page-ref page="uniweb-accounts/" %}
 
-### Your Academic Information
+### Votre information académique
 
-Learn the ins and outs of using UNIWeb to manage your academic curriculum vitae, a format that is based on and compatible with the Canadian Common CV \(CCV\) standard. You can use your UNIWeb CV both to apply for funding opportunities on the CCV website, and to create beautiful pre-formatted CV and annual report documents for your institution, with just a couple clicks.
+Apprenez les tenants et les aboutissants de l'utilisation d'UNIWeb pour gérer votre curriculum vitae académique, un format basé sur et compatible avec la norme du CV commun canadien \(CVC\). Vous pouvez utiliser votre CV UNIWeb à la fois pour postuler à des opportunités de financement sur le site Web du CVC et pour créer de documents de rapport annuel magnifiques et préformatés pour votre institution, en quelques clics seulement.
 
 {% page-ref page="your-academic-information/" %}
 
-### Networking on UNIWeb
+### UNIWeb pour le réseautage
 
-Managing your professional academic information is just one part of what makes UNIWeb a powerful platform for academic institutions - UNIWeb isn't just a tool, it's a network built by your own colleagues to collaborate, share resources, and foster meaningful research connections! Learn how you can easily curate your existing academic information to create a public profile and establish your presence on your institution's UNIWeb network.
+La gestion de votre information académique professionnelle n'est qu'une partie de ce qui fait d'UNIWeb une plate-forme puissante pour des institutions universitaires - UNIWeb n'est pas seulement un outil, c'est un réseau créé par vos propres collègues pour collaborer, partager des ressources et favoriser des connexions de recherche significatives! Découvrez comment vous pouvez facilement organiser vos informations académiques existantes afin de créer un profil public et d'établir votre présence sur le réseau UNIWeb de votre établissement.
 
 {% page-ref page="networking-on-uniweb/" %}
 
-### Academic Metrics
+### Rapports et statistiques 
 
-Administrators, UNIWeb can help you keep a finger on the pulse of your academic unit - learn how to use UNIWeb's metrics tools to gain various insights on how your academic unit is performing overall. UNIWeb offers robust visualization tools, as well as the ability to download raw data in spreadsheet form so that you can visualize your academic unit's data however you like best.
+Pour des administrateurs, UNIWeb peut aider à garder le pouls de leur unité académique - apprenez à utiliser les outils de mesure d'UNIWeb pour obtenir diverses informations sur les performances globales de votre unité académique. UNIWeb propose des outils de visualisation robustes, ainsi que la possibilité de télécharger des données brutes sous forme de feuille de calcul afin que vous puissiez visualiser les données de votre unité académique comme vous le souhaitez.
 
 {% page-ref page="academic-metrics.md" %}
 
-### Customizing UNIWeb
+### La personnalisation d'UNIWeb
 
-No two research institutions are exactly alike, and so UNIWeb doesn't need to be a one-size-fits-all solution. UNIWeb is a white-label service that can be customized extensively to meet the needs of its users. Explore some of the possibilities here.
+Il n'y a pas deux institutions de recherche identiques, et UNIWeb n'a donc pas besoin d'être une solution universelle. UNIWeb est un service en marque blanche qui peut être largement personnalisé pour répondre aux besoins de ses utilisateurs. Explorez des possibilités ici.
 
 {% page-ref page="customizing-data-entry-and-reports-in-uniweb.md" %}
+
+
 

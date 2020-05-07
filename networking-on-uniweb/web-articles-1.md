@@ -1,242 +1,247 @@
-# Web Articles
+# Articles Web
 
-Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. In addition to a dedicated News page, Web articles are featured prominently on your institution's [UNIWeb Network](../navigating-uniweb/the-network-page.md) page, the first page that members and visitors see when accessing UNIWeb.
+Les articles Web sont un excellent moyen de tenir les membres d'UNIWeb informés des dernières nouvelles concernant votre instance UNIWeb ou votre institution en général. En plus d'une page d'actualités dédiée, les articles Web figurent en bonne place sur la page du [Réseau UNIWeb](../navigating-uniweb/the-network-page.md) de votre institution, la première page que les membres et les visiteurs voient lorsqu'ils accèdent à UNIWeb.
 
-Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles-1.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
+Les articles Web ne sont pas classés ou limités par unité académique. Cela signifie que tant que vous avez reçu un rôle d'administrateur qui inclut l'autorisation **Modifier les articles Web**, vous pouvez créer et modifier des articles Web qui sont accessibles sur l'ensemble de votre réseau UNIWeb, bien que dans leurs [paramètres généraux](web-articles-1.md#article-general-settings), vous pouvez restreindre leur visibilité aux membres qui sont connectés, ou à des membres UNIWeb spécifiques que vous choisissez.
 
-Every web article has public profile page, which includes all of its content, divided into sections, and a private profile editor, where the web article’s general settings can be modified, and sections of content can be added, edited, or removed as needed.
+Chaque article Web a une page de profil publique, qui comprend tout son contenu, divisé en sections, et un éditeur de profil privé, où les paramètres généraux de l'article Web peuvent être modifiés et des sections de contenu peuvent être ajoutées, modifiées ou supprimées selon les besoins.
 
-#### On this page:
+#### Sur cette page:
 
-* [Creating an article](web-articles-1.md#creating-an-article)
-* [Editing an article](web-articles-1.md#editing-an-article)
-* [Deleting an article](web-articles-1.md#deleting-an-article)
-* [Web Article Information](web-articles-1.md#web-article-information)
+* [Créer un article](web-articles-1.md#creating-an-article)
+* [Modification d'un article](web-articles-1.md#editing-an-article)
+* [Supprimer un article](web-articles-1.md#deleting-an-article)
+* [Informations sur les articles web](web-articles-1.md#web-article-information)
 
-## ![](../.gitbook/assets/key.svg) Creating an article
-
-{% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
-
-* Edit web articles
-
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
-{% endhint %}
-
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, click **Add article**.
-3. In the Add article dialog, enter the article's [**general settings**](web-articles-1.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
-4. Click **Save.**
-
-## ![](../.gitbook/assets/key.svg) Editing an article
+## ![](../.gitbook/assets/key.svg) **Créer un article**
 
 {% hint style="warning" %}
-**Before you begin:** the following procedures require an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit web articles
+* Modifier des articles Web
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche, veuillez contacter votre administrateur système.
 {% endhint %}
 
-Each article has [general settings](web-articles-1.md#article-general-settings) that govern the article's title, subtitle, publishing date, visibility, and category - these parameters can be set when the article is created and [edited](web-articles-1.md#changing-an-articles-general-settings) as needed. 
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, cliquez sur **Ajouter un article.**
+3. Dans la boîte de dialogue Ajouter un article, entrez les [**paramètres généraux**](web-articles-1.md#article-general-information) de l'article dans le formulaire de saisie de données. Les champs marqués d'un astérisque \(\*\) sont obligatoires.
+4. Cliquez sur **Enregistrer.**
 
-The article's main body content is divided into sections, and each section can contain three \(optional\) main components:
+## ![](../.gitbook/assets/key.svg) **Modification d'un article**
 
-* one **heading** for the new section
-* one section of **body text content** \(this can be as long as you’d like\)
-* one piece of embedded **media** - an image or video, for example - with a caption 
+{% hint style="warning" %}
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
+
+* Modifier des articles Web
+
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche, veuillez contacter votre administrateur système.
+{% endhint %}
+
+Chaque article a des [paramètres généraux ](web-articles-1.md#article-general-settings)qui régissent le titre, le sous-titre, la date de publication, la visibilité et la catégorie de l'article - ces paramètres peuvent être définis lorsque l'article est créé et [modifié](web-articles-1.md#changing-an-articles-general-settings) selon les besoins.
+
+Le contenu du corps principal de l'article est divisé en sections, et chaque section peut contenir trois composants principaux \(facultatifs\):
+
+* une **rubrique** pour la nouvelle section
+* une section du contenu du **corps du texte** \(cela peut durer aussi longtemps que vous le souhaitez\)
+* un **média** intégré - une image ou une vidéo, par exemple - avec une légende
 
 {% hint style="info" %}
-**Tip:** because each section can only include one of each of the above components, you may need to [create a new section](web-articles-1.md#add-a-section) in order to continue the body text after inserting an image, or multiple sections, each with one image, to create a list of consecutive photos, for example.
+**Conseil:** comme chaque section ne peut inclure qu'un seul de chacun des composants ci-dessus, vous devrez peut-être [créer une nouvelle section](web-articles-1.md#add-a-section) afin de continuer le corps du texte après avoir inséré une image, ou plusieurs sections, chacune avec une image, pour créer une liste de photos consécutives, par exemple.
 {% endhint %}
 
-### Change an article's general settings
+### **Modifier les paramètres généraux d'un article**
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. Click the **Edit** button to the right of the article title.
-5. Modify the article's general information in the data entry form as needed.
-6. Click **Save.**
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, recherchez et cliquez sur l'article que vous souhaitez modifier. Cela vous amènera au profil public de cet article.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil**. Cela vous amènera à l'éditeur de profil pour cet article.
+4. Cliquez sur le bouton **Modifier** à droite du titre de l'article.
+5. Modifiez les informations générales de l'article dans le formulaire de saisie des données selon vos besoins.
+6. Cliquez sur **Enregistrer.**
 
-### Add a section
+### **Ajouter une section**
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the left panel, click the **Add article section** button.
-5. Add some [content](web-articles-1.md#article-section-content-options) for your new section in the section data entry form.
-6. Click **Save.**
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, recherchez et **cliquez sur l'article** que vous souhaitez modifier. Cela vous amènera au profil public de cet article.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil.** Cela vous amènera à l'éditeur de profil pour cet article.
+4. Dans le panneau de gauche, cliquez sur le bouton **Ajouter une section** d'article.
+5. Ajoutez du [contenu](web-articles-1.md#article-section-content-options) pour votre nouvelle section dans le formulaire de saisie de données de section.
+6. Cliquez sur **Enregistrer.**
 
-### Edit a section
+### **Modifier une section**
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](groups-1.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
-5. Add or edit [section content](web-articles-1.md#article-section-content-options) in the data entry form for the corresponding article section as needed.
-6. Click **Save.**
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, recherchez et **cliquez sur l'article** que vous souhaitez modifier. Cela vous amènera au profil public de cet article.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil.** Cela vous amènera à l'éditeur de profil pour cet article.
+4. Dans le panneau central, accédez à la section d'article que vous souhaitez modifier. Cliquez sur le bouton **Modifier** à droite du titre de la section. Vous pouvez modifier les [informations générales](groups-1.md#group-general-information),  ****de l'article, telles que la date de publication, la visibilité de l'article ou le titre et la légende, en cliquant sur le bouton **Modifier** à droite du titre de l'article.
+5. Ajoutez ou modifiez le [contenu](web-articles-1.md#article-section-content-options) de la section dans le formulaire de saisie de données pour la section d'article correspondante, si nécessaire.
+6. Cliquez sur **Enregistrer.**
 
-### Change an article's thumbnail image
+### **Modifier la vignette d'un article**
 
-Your article's thumbnail image will appear in the article preview - on the News page and in the Web Articles section of your UNIWeb Administration page. 
+L'image miniature de votre article apparaîtra dans l'aperçu de l'article - sur la page News et dans la section Web Articles de votre page d'administration UNIWeb.
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the right panel, under **Article thumbnail**, click on the thumbnail image.
-5. Click Choose file and select and image to upload. You can click the Modify Crop button to adjust how the image will appear in the predefined square crop for the thumbnail.
-6. Click **Save.**
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, recherchez et **cliquez sur l'article** que vous souhaitez modifier. Cela vous amènera au profil public de cet article.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil**. Cela vous amènera à l'éditeur de profil pour cet article.
+4. Dans le panneau de droite, sous **Vignette de l'article**, cliquez sur l'image miniature.
+5. Cliquez sur Choisir un fichier et sélectionnez et l'image à télécharger. Vous pouvez cliquer sur le bouton Modifier le recadrage pour ajuster la façon dont l'image apparaîtra dans le recadrage carré prédéfini de la miniature.
+6. Cliquez sur **Enregistrer.**
 
-### Delete a section
+### **Supprimer une section**
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the centre panel, navigate to the article section that you would like to delete. Click the **Edit** button to the right of the section heading.
-5. In the section data entry form, click **Delete**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, recherchez et **cliquez sur l'article** que vous souhaitez modifier. Cela vous amènera au profil public de cet article.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil**. Cela vous amènera à l'éditeur de profil pour cet article.
+4. Dans le panneau central, accédez à la section d'article que vous souhaitez supprimer. Cliquez sur le bouton **Modifier** à droite du titre de la section.
+5. Dans le formulaire de saisie des données de la section, cliquez sur **Supprimer.**
 
-## ![](../.gitbook/assets/key.svg) Deleting an article
+## ![](../.gitbook/assets/key.svg) **Supprimer un article**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit web articles
+* Modifier des articles Web
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, locate and **click on the article** that you would like to delete. This will take you to the public profile of that article.
-3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
-4. In the right panel, click **Delete Profile**.
-5. In the **Delete profile** dialog, click **Yes**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, recherchez et **cliquez sur l'article** que vous souhaitez supprimer. Cela vous amènera au profil public de cet article.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil**. Cela vous amènera à l'éditeur de profil pour cet article.
+4. Dans le panneau de droite, cliquez sur **Supprimer le profil.**
+5. Dans la boîte de dialogue **Supprimer le profil**, cliquez sur **Oui.**
 
-## Web Article Information
+## **Informations sur les articles Web**
 
-### Article general settings
+### **Paramètres généraux de l'article**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Data field</th>
-      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left">Champ de donn&#xE9;es</th>
+      <th style="text-align:left">Objectif</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Title*</b>
+      <td style="text-align:left"><b>Titre*</b>
       </td>
-      <td style="text-align:left">The title of your article.</td>
+      <td style="text-align:left">Le titre de votre article.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Caption</b>
+      <td style="text-align:left"><b>L&#xE9;gende</b>
       </td>
-      <td style="text-align:left">A caption for your article.</td>
+      <td style="text-align:left">Une l&#xE9;gende pour votre article.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Date</b>
       </td>
-      <td style="text-align:left">The publishing date of your article.</td>
+      <td style="text-align:left">La date de publication de votre article.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Visibility*</b>
+      <td style="text-align:left"><b>Visibilit&#xE9;*</b>
       </td>
       <td style="text-align:left">
-        <p>The scope to which you would like to make this article available to UNIWeb
-          visitors:</p>
+        <p>La port&#xE9;e &#xE0; laquelle vous souhaitez mettre cet article &#xE0;
+          la disposition des visiteurs d&apos;UNIWeb:</p>
         <ul>
-          <li><b>Public:</b> the article will be visible to all UNIWeb visitors, whether
-            or not they are members.</li>
-          <li><b>Network: </b>the article will be visible only to your institution&apos;s
-            UNIWeb members, when they are logged in.</li>
-          <li><b>Members: </b>the article will be visible only to specific UNIWeb members
-            that you choose.</li>
+          <li><b>Public:</b> l&apos;article sera visible par tous les visiteurs d&apos;UNIWeb,
+            qu&apos;ils soient membres ou non.</li>
+          <li><b>R&#xE9;seau: </b>l&apos;article ne sera visible que par les membres
+            UNIWeb de votre institution, lorsqu&apos;ils seront connect&#xE9;s.</li>
+          <li><b>Membres:</b> l&apos;article sera visible uniquement aux membres sp&#xE9;cifiques
+            d&apos;UNIWeb que vous choisirez.</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Category*</b>
+      <td style="text-align:left"><b>Cat&#xE9;gorie*</b>
       </td>
       <td style="text-align:left">
-        <p>The kind of article that you are writing. These selections are filtering
-          options on the News page in UNIWeb, and they affect where your article
-          is listed in other parts of your UNIWeb network:</p>
+        <p>Le type d&apos;article que vous &#xE9;crivez. Ces s&#xE9;lections sont
+          des options de filtrage sur la page Actualit&#xE9;s dans UNIWeb, et elles
+          affectent o&#xF9; votre article est r&#xE9;pertori&#xE9; dans d&apos;autres
+          parties de votre r&#xE9;seau UNIWeb:</p>
         <ul>
-          <li><b>News</b> articles are featured within the Newsfeed on your UNIWeb&apos;s
+          <li>Les <b>articles</b> de presse sont pr&#xE9;sent&#xE9;s dans le fil d&apos;actualit&#xE9;
+            sur la page de votre <a href="../navigating-uniweb/#the-network-page">r&#xE9;seau UNIWeb</a>.</li>
+          <li>Les articles <b>institutionnels </b>sont pr&#xE9;sent&#xE9;s sur la page
             <a
-            href="../navigating-uniweb/#the-network-page">Network page</a>.</li>
-          <li><b>Institutional</b> articles are featured on the <a href="../navigating-uniweb/#the-network-page">Network page</a>,
-            under <em>More Options</em>.</li>
-          <li><b>Tutorial</b> articles are listed on your UNIWeb&apos;s Help page</li>
+            href="../navigating-uniweb/#the-network-page">r&#xE9;seau UNIWeb</a>, sous Plus d&apos;options.</li>
+          <li>Les articles du<b> didacticiel</b> sont r&#xE9;pertori&#xE9;s sur la page
+            d&apos;aide d&apos;UNIWeb</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Cover Image</b>
+      <td style="text-align:left"><b>Image de couverture</b>
       </td>
-      <td style="text-align:left">Upload an image to act as an overhead banner that will appear above your
-        article&apos;s title.</td>
+      <td style="text-align:left">T&#xE9;l&#xE9;chargez une image pour agir comme une banni&#xE8;re de frais
+        g&#xE9;n&#xE9;raux qui appara&#xEE;tra au-dessus du titre de votre article.</td>
     </tr>
   </tbody>
-</table>### Article section content options
+</table>### **Options de contenu de la section article**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Section Option</th>
-      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left">Option de section</th>
+      <th style="text-align:left">Objectif</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Title</b>
+      <td style="text-align:left"><b>Titre</b>
       </td>
-      <td style="text-align:left">A header for your new article section.</td>
+      <td style="text-align:left">Un en-t&#xEA;te pour votre nouvelle section d&apos;article.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Header size</b>
+      <td style="text-align:left"><b>Taille de l&apos;en-t&#xEA;te</b>
       </td>
-      <td style="text-align:left">Choose the hierarchical header size for your section title. UNIWeb supports
-        5 header sizes, ranging from 2-6, with 6 being the smallest, and 2 being
-        the largest and most important. Size 1 is reserved for the main article
-        title.</td>
+      <td style="text-align:left">Choisissez la taille d&apos;en-t&#xEA;te hi&#xE9;rarchique pour le titre
+        de votre section. UNIWeb prend en charge 5 tailles d&apos;en-t&#xEA;te,
+        allant de 2 &#xE0; 6, 6 &#xE9;tant la plus petite et 2 &#xE9;tant la plus
+        grande et la plus importante. La taille 1 est r&#xE9;serv&#xE9;e au titre
+        principal de l&apos;article.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Text</b>
+      <td style="text-align:left"><b>Texte</b>
       </td>
-      <td style="text-align:left">The main text content of your new article section. This field supports
-        rich text, and so you can format the content however you would like, including
-        bold and italics, bulleted lists, indenting, and hyperlinks.</td>
+      <td style="text-align:left">Le contenu texte principal de votre nouvelle section d&apos;article. Ce
+        champ prend en charge le texte riche et vous pouvez donc mettre en forme
+        le contenu comme vous le souhaitez, y compris le gras et l&apos;italique,
+        les listes &#xE0; puces, le retrait et les hyperliens.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Inset image</b>
+      <td style="text-align:left"><b>Image en encart</b>
       </td>
-      <td style="text-align:left">Upload an image to display in your section. <b>Note that each section can have one video or image, but not both.</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Inset media URL</b>
-      </td>
-      <td style="text-align:left">Paste a URL for an video that has been uploaded to Youtube, Vimeo, or
-        other video hosting services.<b> Note that each section can have one video or image, but not both.</b>
+      <td style="text-align:left">T&#xE9;l&#xE9;chargez une image &#xE0; afficher dans votre section. <b>Notez que chaque section peut avoir une vid&#xE9;o ou une image, mais pas les deux.</b>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Inset caption</b>
+      <td style="text-align:left"><b>URL du m&#xE9;dia en encart</b>
       </td>
-      <td style="text-align:left">Write a caption for your embedded video or image.</td>
+      <td style="text-align:left">Collez une URL pour une vid&#xE9;o qui a &#xE9;t&#xE9; t&#xE9;l&#xE9;charg&#xE9;e
+        sur Youtube, Vimeo ou d&apos;autres services d&apos;h&#xE9;bergement vid&#xE9;o.<b> Notez que chaque section peut avoir une vid&#xE9;o ou une image, mais pas les deux.</b>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Layout</b>
+      <td style="text-align:left"><b>L&#xE9;gende de l&apos;encart</b>
+      </td>
+      <td style="text-align:left">&#xC9;crivez une l&#xE9;gende pour votre vid&#xE9;o ou image int&#xE9;gr&#xE9;e.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mise en page</b>
       </td>
       <td style="text-align:left">
-        <p>Choose where in the section you would like your video or image to appear:</p>
+        <p>Choisissez o&#xF9; dans la section vous souhaitez que votre vid&#xE9;o
+          ou image apparaisse:</p>
         <ul>
-          <li>Media before text</li>
-          <li>Media after text</li>
-          <li>Media on the left (text will wrap around)</li>
-          <li>Media on the right (text will wrap around)</li>
+          <li>M&#xE9;dias avant le texte</li>
+          <li>M&#xE9;dia apr&#xE8;s texte</li>
+          <li>M&#xE9;dia &#xE0; gauche (le texte s&apos;enroulera)</li>
+          <li>M&#xE9;dia &#xE0; droite (le texte s&apos;enroulera)</li>
         </ul>
       </td>
     </tr>

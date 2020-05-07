@@ -1,84 +1,86 @@
 # Publications
 
-Through various sources such as journal articles, books, book chapters, dissertations, and newspaper and magazine articles, your publications make up the bulk of the contributions listed on your academic CV. 
+Grâce à diverses sources telles que des articles de revues, des livres, des chapitres de livres, des dissertations et des articles de journaux et de magazines, vos publications constituent l'essentiel des contributions répertoriées dans votre CV académique.
 
-UNIWeb offers streamlined data entry forms to create records of your publications as per Canadian Common CV standards, but you can also import records of your publications directly from various sources that may already have them listed, such as PubMed, EndNote, BibTex, and Google Scholar.
+UNIWeb propose des formulaires de saisie de données rationalisés pour créer des enregistrements de vos publications selon les normes de CV communes canadiennes, mais vous pouvez également importer des enregistrements de vos publications directement à partir de diverses sources qui peuvent déjà les avoir répertoriées, telles que PubMed, EndNote, BibTex et Google Scholar.
 
-### On this page:
+### **Sur cette page**:
 
-* [Adding publications manually](publications-1.md#adding-publications-manually)
-* [Importing publications](publications-1.md#importing-publications)
-* [Deleting publications](publications-1.md#deleting-publications)
-* [Finding and removing duplicate publications](publications-1.md#finding-and-removing-duplicate-publications)
+* [Ajout manuel de publications](publications-1.md#adding-publications-manually)
+* [Importation de publications](publications-1.md#importing-publications)
+* [Suppression de publications](publications-1.md#deleting-publications)
+* [Recherche et suppression de and publications](publications-1.md#finding-and-removing-duplicate-publications)
 
-## Adding publications manually
+## **Ajout manuel de publications**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications.**
-2. Locate the section for the type of publication that you would like to add. You can **click on a section listed in the left panel** to navigate directly to that section.
-3. In the centre panel, click the **Add** button to the right of the section title to add a new record, or click the **Edit** button to the right of an existing record to modify it.
-4. Add or edit information in the data entry form as needed.
-5. Click **Save**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Publications.**
+2. Recherchez la section correspondant au type de publication que vous souhaitez ajouter. **Vous pouvez cliquer sur une section répertoriée** dans le panneau de gauche pour accéder directement à cette section.
+3. Dans le panneau central, cliquez sur le bouton **Ajouter** à droite du titre de la section pour ajouter un nouvel enregistrement, ou cliquez sur le bouton **Modifier** à droite d'un enregistrement existant pour le modifier.
+4. Ajoutez ou modifiez des informations dans le formulaire de saisie de données selon vos besoins.
+5. Cliquez sur **Enregistrer.**
 
 {% hint style="success" %}
-**Best practice:** Because the information that you enter will likely be used to create an exported report, or will be included in a future funding application, it’s best to be as thorough as possible as you create new records to avoid having to fill in the blanks later.
+**Meilleure pratique:** Étant donné que les informations que vous saisissez seront probablement utilisées pour créer un rapport exporté ou seront incluses dans une future demande de financement, il est préférable d'être aussi complet que possible lorsque vous créez de nouveaux enregistrements pour éviter d'avoir à remplir les blancs plus tard.
 {% endhint %}
 
 {% hint style="info" %}
-**Tip:** if you’re trying to find a particular record to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Publications page. Your publications are displayed on a single page, and so all of your publications are searchable at once.
+**Conseil:** si vous essayez de trouver un enregistrement particulier à modifier, vous pouvez le rechercher en appuyant sur **Commande + F \(Mac\)** ou **CTRL + F \(Windows\)** dans votre navigateur Web sur la page Publications. Vos publications sont affichées sur une seule page, et donc toutes vos publications sont consultables à la fois.
 {% endhint %}
 
-## Importing publications
+## **Importation de publications**
 
-UNIWeb can import publications from using XML files from EndNote, BibTex, and Google Scholar, and by using PubMed’s PMIDs.
+UNIWeb peut importer des publications à partir de fichiers XML provenant d'EndNote, BibTex et Google Scholar, et en utilisant les PMID de PubMed.
 
 {% hint style="info" %}
-**Tip:** UNIWeb automatically detects and disregards duplicates, and so you don’t need to worry about tracking which publications you have already imported.
+**Conseil:** UNIWeb détecte et ignore automatiquement les doublons. Vous n'avez donc pas à vous soucier du suivi des publications que vous avez déjà importées.
 {% endhint %}
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications**.
-2. Click **Import Publications** in the right panel.
-3. Select the source of the publications you would like to import: BibTeX, Google Scholar, EndNote, or PubMed, and click **Next**.
-4. If you are importing publications from BibTeX, Google Scholar, or EndNote, click **Choose File** and locate the relevant file in your computer. 
-5. If you are importing publications from PubMed, type the **PubMed Identifiers** of the articles you would like to import into the text box.
-6. **Optional:** if you are importing publications from BibTeX, Google Scholar, or EndNote, select **Check Author** if you would like UNIWeb to import only the publications for which you are credited as the author or editor.
-7. Click **Load**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Publications.**
+2. Cliquez sur **Importer des publications** dans le panneau de droite.
+3. Sélectionnez la source des publications que vous souhaitez importer: BibTeX, Google Scholar, EndNote ou PubMed, puis cliquez sur **Suivant.**
+4. Si vous importez des publications à partir de BibTeX, Google Scholar ou EndNote, cliquez sur **Choisir un fichier** et recherchez le fichier approprié sur votre ordinateur.
+5. Si vous importez des publications de PubMed, saisissez les **identifiants PubMed** des articles que vous souhaitez importer dans la zone de texte.
+6. **Facultatif:** si vous importez des publications depuis BibTeX, Google Scholar ou EndNote, sélectionnez **Vérifier l'auteur** si vous souhaitez qu'UNIWeb importe uniquement les publications pour lesquelles vous êtes crédité en tant qu'auteur ou éditeur.
+7. Cliquez sur **Charger.**
 
-## Deleting publications
+## **Suppression de publications**
 
-1. From your [UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications.**
-2. Locate the publication record that you would like to delete, and click the **Edit** button to the right of the record.
-3. At the bottom right of the data entry form, click **Delete**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Publications.**
+2. Recherchez l'enregistrement de publication que vous souhaitez supprimer, puis cliquez sur le bouton Modifier à droite de l'enregistrement.
+3. En bas à droite du formulaire de saisie de données, cliquez sur **Supprimer.**
 
 {% hint style="info" %}
-**Tip:** if you’re trying to find a particular record to edit, you can search for it by pressing **Command+F \(Mac\)** or **CTRL+F \(Windows\)** in your web browser while on the Publications page. Your publications are displayed on a single page, and so all of your publications are searchable at once.
+**Conseil:** si vous essayez de trouver un enregistrement particulier à modifier, vous pouvez le rechercher en appuyant sur **Commande + F \(Mac\)** ou **CTRL + F \(Windows\)** dans votre navigateur Web sur la page Publications. Vos publications sont affichées sur une seule page, et donc toutes vos publications sont consultables à la fois.
 {% endhint %}
 
-## Finding and removing duplicate publications
+## **Recherche et suppression de publications en double**
 
-UNIWeb has built-in duplicate detection features that will identify duplicates as you import new records from various sources, but it's still possible for duplicates to occur from time to time, either by inadvertently adding a duplicate record manually, or in the event that two records of the same publication from different sources might be _just_ different enough to bypass UNIWeb's duplicate detection on import. 
+UNIWeb possède des fonctionnalités intégrées de détection des doublons qui identifieront les doublons lorsque vous importez de nouveaux enregistrements à partir de diverses sources, mais il est toujours possible que des doublons se produisent de temps en temps, soit en ajoutant par inadvertance un enregistrement en double manuellement, soit dans le cas où deux enregistrements d'une même publication provenant de sources différentes peut être juste assez différente pour contourner la détection des doublons d'UNIWeb lors de l'importation.
 
-For these scenarios, UNIWeb includes an advanced duplicate detection feature that you can run even when you're not importing new information. This feature can scan your publications to identify duplicates across multiple parameters, ensuring that even if some parts of the duplicate records are slightly different, they can still be identified by other markers.
+Pour ces scénarios, UNIWeb inclut une fonction avancée de détection des doublons que vous pouvez exécuter même lorsque vous n'importez pas de nouvelles informations. Cette fonctionnalité peut analyser vos publications pour identifier les doublons sur plusieurs paramètres, garantissant que même si certaines parties des enregistrements en double sont légèrement différentes, elles peuvent toujours être identifiées par d'autres marqueurs.
 
-### Scanning for duplicate publications
+### **Recherche de publications en double**
 
-1. From your[ UNIWeb Home ](../navigating-uniweb/the-home-page.md)page, go to **Publications.**
-2. In the right panel, click **Identify Duplicates**.
-3. In the **Find Duplicates** dialog, **select the parameters** that you would like UNIWeb to use to identify duplicate entries.
-4. Click **Find**.
+1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Publications.**
+2. Dans le panneau de droite, cliquez sur **Identifier les doublons.**
+3. Dans la boîte de dialogue **Rechercher les doublons**, sélectionnez les paramètres que vous souhaitez qu'UNIWeb utilise pour identifier les entrées en double.
+4. Cliquez sur **Rechercher.**.
 
-In the Duplicate detection results dialog, UNIWeb will organize duplicate entries together to easily idenitfy which elements are common between them.
+Dans la boîte de dialogue Résultats de la détection des doublons, UNIWeb organisera les entrées en double pour identifier facilement les éléments communs entre eux.
 
-### Deleting duplicate publications
+### **Suppression de publications en double**
 
-1. After completing the procedure above, in the **Duplicate detection results** dialog, **click the checkbox** next to any duplicates that you would like to delete.
-2. Click **Delete selected**.
+1. Après avoir effectué la procédure ci-dessus, dans la boîte de dialogue **Résultats de la détection des doublons**, **cochez la case** en regard des doublons que vous souhaitez supprimer.
+2. Cliquez sur **Supprimer la sélection.**.
 
 ### Duplicate detection parameters
 
-| Parameter | Function |
+| **Paramètre** | Fonction |
 | :--- | :--- |
-| **With same title** | Look for duplicates that **have matching titles** \(this cannot be deselected\). |
-| **In same section** | Mark records with matching titles as duplicates **only when they are both listed within the same section** - newspaper articles, book reviews, or reports, for instance. |
-| **With same year** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same year.** |
-| **With same month** | Mark records with matching titles as duplicates **only when they are listed as having been published in the same month.** |
+| **Avec le même titre** | Recherchez les doublons qui ont des **titres correspondants** \(cela ne peut pas être désélectionné\). |
+| **Dans la même section** | Marquez les enregistrements avec des titres correspondants comme des doublons **uniquement lorsqu'ils sont tous deux répertoriés dans la même section** - articles de journaux, critiques de livres ou rapports, par exemple. |
+| **Avec la même année** | Ne marquez les enregistrements dont les titres correspondent que comme doublons **que lorsqu'ils sont répertoriés comme ayant été publiés la même année.** |
+| **Avec le même mois** | Ne marquez les enregistrements avec des titres correspondants comme doublons **que lorsqu'ils sont répertoriés comme ayant été publiés le même mois.** |
+
+
 

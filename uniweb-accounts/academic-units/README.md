@@ -1,19 +1,17 @@
-# Academic Units
+# Unités académiques
 
-Academic institutions are organized into various administrative bodies, such as faculties, departments, offices, and programs. Generally, these administrative bodies exist in a hierarchical structure. For instance, a **Faculty** of Arts may include **departments** for humanities, fine arts, and languages. These departments may in turn be composed of various **programs,** for classical studies, music, and English literature, respectively. In UNIWeb, each of these administrative bodies, from the faculty level down to the individual program, is an _**academic unit**_. 
+Les institutions universitaires sont organisées en divers organes administratifs, tels que les facultés, les départements, les bureaux et les programmes. Généralement, ces organes administratifs existent dans une structure hiérarchique. Par exemple, une **faculté** des arts peut comprendre des **départements** de lettres, beaux-arts et langues. Ces départements peuvent à leur tour être composés de différents **programmes**, pour les études classiques, la musique et la littérature anglaise, respectivement. À UNIWeb, chacun de ces organes administratifs, du niveau de la faculté jusqu'au programme individuel, est une _**unité académique**_.
 
 ![](../../.gitbook/assets/frame-2.png)
 
-The hierarchy of academic units defines the overall structure of the institution's UNIWeb network, and organizes its members and administrators by their real-world appointments. Every UNIWeb member account has a primary association with an academic unit, which will determine where other UNIWeb members can find them within the network. This will be reflected in areas that allow for filtering by academic unit, like the [Members page](../../navigating-uniweb/the-members-page.md) and Research Clusters, and in search results.
+La hiérarchie des unités académiques définit la structure globale du réseau UNIWeb de l'institution et organise ses membres et administrateurs selon leurs rendez-vous réels. Chaque compte membre UNIWeb a une association principale avec une unité académique, qui déterminera où les autres membres UNIWeb peuvent les trouver dans le réseau. Cela se reflétera dans les domaines qui permettent le filtrage par unité universitaire, comme la [page de membres](../../navigating-uniweb/the-members-page.md) et les groupes de recherche, et dans les résultats de recherche.
 
-Academic units also serve to set boundaries for [UNIWeb administrator access](../access-control/managing-administrator-roles-and-permissions.md). Administrators may only perform administrative tasks, like [accessing member data](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile), [downloading reports](../../your-academic-information/downloading-cvs-and-reports.md#downloading-cv-and-report-files-for-other-uniweb-members), viewing [academic metrics](../../academic-metrics.md) and helping members [reset their passwords](../account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member), within the academic unit that is assigned to their role, and the academic units that are nested below it.
+Les unités académiques servent également à fixer les limites de l'[access d'administrateur UNIWeb](../access-control/managing-administrator-roles-and-permissions.md). Les administrateurs ne peuvent effectuer que des tâches administratives, telles que l'[accès aux données des membres](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile),  le [téléchargement des rapports](../../your-academic-information/downloading-cvs-and-reports.md#downloading-cv-and-report-files-for-other-uniweb-members), l'affichage des [rapports et statistiques](../../academic-metrics.md) et offrir de l'aide aux utilisateurs avec la [réinitialisation des mots de passe](../account-management/account-login.md#sending-a-password-reset-email-to-a-uniweb-member), au sein de l'unité académique qui est affectée à leur rôle et des unités académiques imbriquées en dessous.
 
-As some UNIWeb users may hold positions within departments or faculties outside of their primary academic unit, these members can list themselves in secondary academic units through [**cross appointments**](cross-appointments.md), allowing administrators with the permissions over the secondary unit to treat the cross-appointee as a full member of that unit.
+La hiérarchie des unités académiques de chaque établissement est unique, de sorte que les unités académiques peuvent être [**créée, modifié, réorganisées, et supprimée**](cross-appointments.md) dans UNIWeb si nécessaire pour refléter la structure de votre établissement au fil du temps.
 
-Every institution's hierarchy of academic units is unique, and so academic units can be [**created, edited, rearranged, and deleted**](cross-appointments.md) in UNIWeb as necessary to reflect structure of your institution as it grows over time.
+### **Dans cette section** :
 
-### In this section:
-
-* [Managing Academic Units](managing-academic-units.md)
-* [Managing Cross-Appointments](cross-appointments.md)
+* [Gestion des unités académiques](managing-academic-units.md)
+* [Gestion de membres par affectation](cross-appointments.md)
 
