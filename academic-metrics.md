@@ -1,4 +1,4 @@
-# Academic Metrics
+# Rapports et statistiques
 
 The academic metrics section of UNIWeb is where the raw statistical data from the UNIWeb members' CVs is collected and translated into meaningful information. Data from ten different categories are compiled here, updated automatically as members of the network compose and modify their academic CVs. These categories can be used to monitor the achievements and engagement of an institution or faculty over time or can be exported for formal use in a report:
 
