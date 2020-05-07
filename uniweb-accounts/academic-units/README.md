@@ -2,7 +2,7 @@
 
 Les institutions universitaires sont organisées en divers organes administratifs, tels que les facultés, les départements, les bureaux et les programmes. Généralement, ces organes administratifs existent dans une structure hiérarchique. Par exemple, une **faculté** des arts peut comprendre des **départements** de lettres, beaux-arts et langues. Ces départements peuvent à leur tour être composés de différents **programmes**, pour les études classiques, la musique et la littérature anglaise, respectivement. À UNIWeb, chacun de ces organes administratifs, du niveau de la faculté jusqu'au programme individuel, est une _**unité académique**_.
 
-![](../../.gitbook/assets/frame-2.png)
+![](../../.gitbook/assets/presentation1.png)
 
 La hiérarchie des unités académiques définit la structure globale du réseau UNIWeb de l'institution et organise ses membres et administrateurs selon leurs rendez-vous réels. Chaque compte membre UNIWeb a une association principale avec une unité académique, qui déterminera où les autres membres UNIWeb peuvent les trouver dans le réseau. Cela se reflétera dans les domaines qui permettent le filtrage par unité universitaire, comme la [page de membres](../../navigating-uniweb/the-members-page.md) et les groupes de recherche, et dans les résultats de recherche.
 
