@@ -1,6 +1,6 @@
 # Rapports et statistiques
 
-The academic metrics section of UNIWeb is where the raw statistical data from the UNIWeb members' CVs is collected and translated into meaningful information. Data from ten different categories are compiled here, updated automatically as members of the network compose and modify their academic CVs. These categories can be used to monitor the achievements and engagement of an institution or faculty over time or can be exported for formal use in a report:
+La section des mesures académiques d'UNIWeb est l'endroit où les données statistiques brutes des CV des membres d'UNIWeb sont collectées et traduites en informations significatives. Les données de dix catégories différentes sont compilées ici, mises à jour automatiquement à mesure que les membres du réseau composent et modifient leurs CV académiques. Ces catégories peuvent être utilisées pour surveiller les réalisations et l'engagement d'une institution ou d'une faculté au fil du temps ou peuvent être exportées pour une utilisation formelle dans un rapport:
 
 * Publications
 * Contributions artistiques
@@ -78,7 +78,7 @@ Un fichier Excel contenant des données filtrées en fonction des options de té
 
 ## **Téléchargement de listes de publications**
 
-At certain institutions, from time to time, administrators may be required to submit lists of publications from across their entire academic unit to institution management, formatted in a specific citation style. UNIWeb offers a preset metrics tool that can create a properly-cited list of publications with just a few clicks.
+Dans certains établissements, de temps à autre, les administrateurs peuvent être tenus de soumettre des listes de publications de l'ensemble de leur unité scolaire à la direction de l'établissement, formatées dans un style de citation spécifique. UNIWeb propose un outil de mesure prédéfini qui peut créer une liste de publications correctement citées en quelques clics.
 
 {% hint style="warning" %}
 **Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) dans toute unité académique qui inclut les autorisations suivantes:
@@ -89,28 +89,28 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 {% endhint %}
 
 1. À partir de votre page [d'administrateur UNIWeb](navigating-uniweb/the-administration-page.md), allez dans **Rapports et statistiques**.
-2. In the right panel, click **Download publication lists**.
-3. In the **Download publications as a Word file** page, configure any ****[**download options**](academic-metrics.md#download-options)**.**
-4. Click **Download**.
+2. Dans le panneau de droite, cliquez sur **Télécharger les listes de publications.**
+3. Dans la page **Télécharger les publications au format Word**, configurez toutes les ****[**options de téléchargement**](academic-metrics.md#download-options)**.**
+4. Cliquez sur **Télécharger**.
 
-A Word file containing publications cited and filtered according to your selected download options will be downloaded to your computer
+Un fichier Word contenant les publications citées et filtrées en fonction des options de téléchargement sélectionnées sera téléchargé sur votre ordinateur.
 
-### Download options
+### Options de téléchargement
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Option</th>
-      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left">Objectif</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Citation Style</b>
+      <td style="text-align:left"><b>Style de citation</b>
       </td>
       <td style="text-align:left">
-        <p>Choose which citation style you would like UNIWeb to follow in creating
-          your publication list:</p>
+        <p>Choisissez le style de citation que vous souhaitez qu&apos;UNIWeb suive
+          lors de la cr&#xE9;ation de votre liste de publications:</p>
         <ul>
           <li>APA</li>
           <li>MLA</li>
@@ -119,33 +119,35 @@ A Word file containing publications cited and filtered according to your selecte
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Academic Unit</b>
+      <td style="text-align:left"><b>Unit&#xE9; acad&#xE9;mique </b>
       </td>
-      <td style="text-align:left">Filter the data by any or all of the academic unit(s) where you have administrator
-        access.</td>
+      <td style="text-align:left">Filtrer les donn&#xE9;es par une ou toutes les unit&#xE9;s universitaires
+        auxquelles vous avez acc&#xE8;s par l&apos;administrateur.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Academic Titles</b>
+      <td style="text-align:left"><b>Titres acad&#xE9;miques</b>
       </td>
-      <td style="text-align:left">Filter the report by specific academic titles of the UNIWeb members in
-        your academic unit(s). You may choose multiple.</td>
+      <td style="text-align:left">Filtrez le rapport par titres acad&#xE9;miques sp&#xE9;cifiques des membres
+        d&apos;UNIWeb dans vos unit&#xE9;s acad&#xE9;miques. Vous pouvez en choisir
+        plusieurs.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Date Range</b>
+      <td style="text-align:left"><b>Plage de dates</b>
       </td>
-      <td style="text-align:left">Restrict the metrics report to a specific date range.</td>
+      <td style="text-align:left">Limitez le rapport sur les mesures &#xE0; une plage de dates sp&#xE9;cifique.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Selected Sections</b>
+      <td style="text-align:left"><b>Sections s&#xE9;lectionn&#xE9;es</b>
       </td>
-      <td style="text-align:left">Choose the CV or Profile sections from which you would like to pull metrics
-        data. You may choose multiple.</td>
+      <td style="text-align:left">Choisissez les sections CV ou Profil &#xE0; partir desquelles vous souhaitez
+        extraire les donn&#xE9;es de mesure. Vous pouvez en choisir plusieurs.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>File Name</b>
+      <td style="text-align:left"><b>Nom de fichier</b>
       </td>
-      <td style="text-align:left">Indicate the name that you would like UNIWeb to assign to your downloaded
-        Excel file.</td>
+      <td style="text-align:left">Indiquez le nom que vous souhaitez qu&apos;UNIWeb attribue &#xE0; votre
+        fichier Excel t&#xE9;l&#xE9;charg&#xE9;.</td>
     </tr>
   </tbody>
 </table>
+
