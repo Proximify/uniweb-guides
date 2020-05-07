@@ -10,15 +10,15 @@ Additionally, while UNIWeb comes with a generic annual report and CV template th
 * [Creating custom report templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-report-templates)
 * [Creating custom input templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-input-templates)
 
-## Customizing UNIWeb’s data entry forms
+## **Personnalisation des formulaires de saisie de données d'UNIWeb**
 
-By default, UNIWeb’s data entry forms are matched with those of the Canadian Common CV, but the data fields in UNIWeb can be expanded to collect data beyond what is required by the CCV if needed.
+Par défaut, les formulaires de saisie de données d'UNIWeb sont mis en correspondance avec ceux du CV commun canadien, mais les champs de données d'UNIWeb peuvent être étendus pour collecter des données au-delà de ce qui est requis par le CCV si nécessaire.
 
 {% hint style="danger" %}
-**Note:** Adding new data fields or sections does not affect the interactions between UNIWeb and the CCV. Accordingly, CCV-standard data entry fields cannot be removed from UNIWeb, or reordered or otherwise modified.
+**À noter:** L'ajout de nouveaux champs ou sections de données n'affecte pas les interactions entre UNIWeb et le CCV. En conséquence, les champs de saisie de données standard CCV ne peuvent pas être supprimés d'UNIWeb, ni réorganisés ou autrement modifiés.
 {% endhint %}
 
-Contact us at **requests@proximify.ca** for further information on creating custom data entry fields in your institution’s UNIWeb instance.
+Contactez-nous à **requests@proximify.ca** pour plus d'informations sur la création de champs de saisie de données personnalisés dans l'instance UNIWeb de votre institution.
 
 ## **Création de modèles de rapports personnalisés**
 

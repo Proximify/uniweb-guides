@@ -1,12 +1,12 @@
-# Articles Web
+# Web Articles
 
-Les articles Web sont un excellent moyen de tenir les membres d'UNIWeb informés des dernières nouvelles concernant votre instance UNIWeb ou votre institution en général. En plus d'une page d'actualités dédiée, les articles Web figurent en bonne place sur la page du [Réseau UNIWeb](../navigating-uniweb/the-network-page.md) de votre institution, la première page que les membres et les visiteurs voient lorsqu'ils accèdent à UNIWeb.
+Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. In addition to a dedicated News page, Web articles are featured prominently on your institution's [UNIWeb Network](../navigating-uniweb/the-network-page.md) page, the first page that members and visitors see when accessing UNIWeb.
 
-Les articles Web ne sont pas classés ou limités par unité académique. Cela signifie que tant que vous avez reçu un rôle d'administrateur qui inclut l'autorisation **Modifier les articles Web**, vous pouvez créer et modifier des articles Web qui sont accessibles sur l'ensemble de votre réseau UNIWeb, bien que dans leurs [paramètres généraux](web-articles-1.md#article-general-settings), vous pouvez restreindre leur visibilité aux membres qui sont connectés, ou à des membres UNIWeb spécifiques que vous choisissez.
+Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles-1.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
 
-Chaque article Web a une page de profil publique, qui comprend tout son contenu, divisé en sections, et un éditeur de profil privé, où les paramètres généraux de l'article Web peuvent être modifiés et des sections de contenu peuvent être ajoutées, modifiées ou supprimées selon les besoins.
+Every web article has public profile page, which includes all of its content, divided into sections, and a private profile editor, where the web article’s general settings can be modified, and sections of content can be added, edited, or removed as needed.
 
-#### Sur cette page:
+#### On this page:
 
 * [Creating an article](web-articles-1.md#creating-an-article)
 * [Editing an article](web-articles-1.md#editing-an-article)
