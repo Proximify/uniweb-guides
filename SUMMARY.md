@@ -36,7 +36,7 @@
     * [Gestion des ressources](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
     * [Recherche et réservation de ressources](networking-on-uniweb/equipment-profiles-resources/finding-and-reserving-resources.md)
   * [Groupes de recherche](networking-on-uniweb/groups-1.md)
-  * [Web Articles](networking-on-uniweb/web-articles-1.md)
+  * [Articles Web](networking-on-uniweb/web-articles-1.md)
 * [Rapports et statistiques](academic-metrics.md)
 * [La personnalisation d'UNIWeb](customizing-data-entry-and-reports-in-uniweb.md)
 
