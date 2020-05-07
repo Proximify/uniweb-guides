@@ -14,11 +14,11 @@ The academic metrics section of UNIWeb is where the raw statistical data from th
 * Program Development
 * Research Funding History
 
-Using preset visualization tools, UNIWeb can help you organize this infromation in the form of bar and line graphs, or lists. These graphing presets can be filtered, but if you need granular control over the information or graphing, UNIWeb offers powerful custom filtering tools to download academic metric informationas raw data in an excel sheet.
+Using preset visualization tools, UNIWeb can help you organize this information in the form of bar and line graphs, or lists. These graphing presets can be filtered, but if you need granular control over the information or graphing, UNIWeb offers powerful custom filtering tools to download academic metric information's raw data in an excel sheet.
 
 #### On this page:
 
-* [Visualizing academic metrics using presets within UNIWeb](academic-metrics.md#visualizing-academic-metrics-using-presets-in-uniweb)
+* [Visualizing pre-configured academic metrics in UNIWeb](academic-metrics.md#visualizing-academic-metrics-using-presets-in-uniweb)
 * [Downloading custom academic metrics reports as excel files](academic-metrics.md#downloading-custom-academic-metrics-as-excel-files)
 * [Downloading lists of publications](academic-metrics.md#downloading-lists-of-publications)
 
@@ -47,7 +47,7 @@ If you have not been assigned a Role with the permissions listed above, and beli
 
 ## ![](.gitbook/assets/key.svg) Downloading custom academic metrics as excel files
 
-If you want access to raw metrics data in order to perform your own metrics, you can choose you own filtering parametes and export this data as an Excel file. Data can be filtered based on department, the type of staff, a date range, and what CV section\(s\) you would like to examine. 
+If you want access to raw metrics data in order to perform your own metrics, you can choose you own filtering parameters and export this data as an Excel file. Data can be filtered based on department, the type of staff, a date range, and what CV section\(s\) you would like to examine. 
 
 {% hint style="warning" %}
 **Before you begin:** this procedure requires an [administrator role](uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) in any academic unit that includes the following permissions:
