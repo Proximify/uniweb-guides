@@ -1,14 +1,14 @@
 # La personnalisation d'UNIWeb
 
-UNIWeb is a white-label product that can be customized extensively to meet the specific needs of the institution using it. While the general branding and aesthetics of the user interface will be set to the institution's preferences at time of installation, UNIWeb's functionality can also be further extended to [capture information in the UNIWeb CV](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms) that is not a default part of the Canadian Common CV. 
+UNIWeb est un produit en marque blanche qui peut être largement personnalisé pour répondre aux besoins spécifiques de l'institution qui l'utilise. Bien que la marque générale et l'esthétique de l'interface utilisateur soient définies selon les préférences de l'institution au moment de l'installation, la fonctionnalité d'UNIWeb peut également être étendue pour capturer des [informations dans le CV UNIWeb ](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms)qui ne font pas partie par défaut du CV commun canadien.
 
-Additionally, while UNIWeb comes with a generic annual report and CV template that has options that can be set at download, your academic unit or institution may want to offer more options to users. Your faculty can adjust the existing report templates in UNIWeb, or design an entirely new report to take advantage of the advanced calculations and data presentation that UNIWeb Reports can perform.
+De plus, bien qu'UNIWeb soit livré avec un rapport annuel générique et un modèle de CV comportant des options pouvant être définies lors du téléchargement, votre unité académique ou institution peut vouloir offrir plus d'options aux utilisateurs. Votre faculté peut ajuster les modèles de rapport existants dans UNIWeb ou concevoir un tout nouveau rapport pour tirer parti des calculs avancés et de la présentation des données que des rapports d'UNIWeb peut effectuer.
 
-#### On this page:
+#### Sur cette page:
 
-* [Customizing UNIWeb’s data entry forms](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms)
-* [Creating custom report templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-report-templates)
-* [Creating custom input templates](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-input-templates)
+* [Personnalisation des formulaires de saisie de données d'UNIWeb](customizing-data-entry-and-reports-in-uniweb.md#customizing-uniwebs-data-entry-forms)
+* [Création de modèles de rapports personnalisés](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-report-templates)
+* [Création de modèles d'entrée personnalisées](customizing-data-entry-and-reports-in-uniweb.md#creating-custom-input-templates)
 
 ## **Personnalisation des formulaires de saisie de données d'UNIWeb**
 
