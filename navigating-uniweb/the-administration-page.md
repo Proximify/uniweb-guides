@@ -4,7 +4,7 @@ La page d'administration est un tableau de bord qui combine des sections spécia
 
 **Vous pouvez accéder à la page d'administration en cliquant sur Administration dans la barre de navigation supérieure d'UNIWeb.** La page d'administration ne sera disponible que si vous avez reçu un rôle d'administrateur.
 
-![](../.gitbook/assets/screenshots-copy-14%20%281%29.png)
+![](../.gitbook/assets/screen-shot-2020-05-07-at-11.53.06-am.png)
 
 La page d'administration comprend huit sections principales, comme indiqué ci-dessous. Vous ne verrez que les sections qui correspondent aux autorisations qui vous ont été accordées via les [rôles d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui vous ont été attribués.
 
