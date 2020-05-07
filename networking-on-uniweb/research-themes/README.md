@@ -6,7 +6,7 @@ Les thèmes de recherche agissent comme des **mots clés** qui peuvent être [_�
 
 Comme les unités académiques, les thèmes de recherche sont imbriqués, ce qui signifie que les thèmes parents sont décomposés en thèmes plus petits et plus spécifiques. Cela signifie que, bien que les unités académiques et les thèmes de recherche puissent partager certains noms, il est important de se rappeler que les unités académiques décrivent les départements et les facultés, et que les thèmes de recherche décrivent des sujets et des domaines d'études.
 
-![](../../.gitbook/assets/frame-2.1.png)
+![](../../.gitbook/assets/presentation1-copy.png)
 
 Chaque réseau UNIWeb est accompagné d'une liste complète et prédéfinie de thèmes de recherche provenant directement du CV commun canadien. Cependant, il n'y a pas deux institutions identiques dans la portée de leurs recherches, et vous avez donc également la possibilité [ajouter d'autres thèmes de recherche](managing-research-themes.md#creating-new-research-themes) supplémentaires si la liste standard ne comprend pas un thème particulier que vous souhaitez utiliser.
 
