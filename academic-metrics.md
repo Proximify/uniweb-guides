@@ -14,7 +14,7 @@ The academic metrics section of UNIWeb is where the raw statistical data from th
 * Program Development
 * Research Funding History
 
-Using preset visualization tools, UNIWeb can help you organize this information in the form of bar and line graphs, or lists. These graphing presets can be filtered, but if you need granular control over the information or graphing, UNIWeb offers powerful custom filtering tools to download academic metric information's raw data in an excel sheet.
+Using preset visualization tools, UNIWeb can help you organize this infromation in the form of bar and line graphs, or lists. These graphing presets can be filtered, but if you need granular control over the information or graphing, UNIWeb offers powerful custom filtering tools to download academic metric informationas raw data in an excel sheet.
 
 #### On this page:
 
