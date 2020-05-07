@@ -1,41 +1,41 @@
-# Web Articles
+# Articles Web
 
-Web articles are a great way to keep UNIWeb members updated on the latest news concerning your UNIWeb instance or your institution at large. In addition to a dedicated News page, Web articles are featured prominently on your institution's [UNIWeb Network](../navigating-uniweb/the-network-page.md) page, the first page that members and visitors see when accessing UNIWeb.
+Les articles Web sont un excellent moyen de tenir les membres d'UNIWeb informés des dernières nouvelles concernant votre instance UNIWeb ou votre institution en général. En plus d'une page d'actualités dédiée, les articles Web figurent en bonne place sur la page du [Réseau UNIWeb](../navigating-uniweb/the-network-page.md) de votre institution, la première page que les membres et les visiteurs voient lorsqu'ils accèdent à UNIWeb.
 
-Web articles are not categorized or restricted by academic unit. This means that as long as you have been assigned an administrator role that includes the **Edit Web Articles** permission, you can create and edit web articles that are accessible across your entire UNIWeb network, though in their [general settings](web-articles-1.md#article-general-settings), you can restrict their visibility to members who are logged in, or to specific UNIWeb members that you choose.
+Les articles Web ne sont pas classés ou limités par unité académique. Cela signifie que tant que vous avez reçu un rôle d'administrateur qui inclut l'autorisation **Modifier les articles Web**, vous pouvez créer et modifier des articles Web qui sont accessibles sur l'ensemble de votre réseau UNIWeb, bien que dans leurs [paramètres généraux](web-articles-1.md#article-general-settings), vous pouvez restreindre leur visibilité aux membres qui sont connectés, ou à des membres UNIWeb spécifiques que vous choisissez.
 
-Every web article has public profile page, which includes all of its content, divided into sections, and a private profile editor, where the web article’s general settings can be modified, and sections of content can be added, edited, or removed as needed.
+Chaque article Web a une page de profil publique, qui comprend tout son contenu, divisé en sections, et un éditeur de profil privé, où les paramètres généraux de l'article Web peuvent être modifiés et des sections de contenu peuvent être ajoutées, modifiées ou supprimées selon les besoins.
 
-#### On this page:
+#### Sur cette page:
 
-* [Creating an article](web-articles-1.md#creating-an-article)
-* [Editing an article](web-articles-1.md#editing-an-article)
-* [Deleting an article](web-articles-1.md#deleting-an-article)
-* [Web Article Information](web-articles-1.md#web-article-information)
+* [Créer un article](web-articles-1.md#creating-an-article)
+* [Modification d'un article](web-articles-1.md#editing-an-article)
+* [Supprimer un article](web-articles-1.md#deleting-an-article)
+* [Informations sur les articles web](web-articles-1.md#web-article-information)
 
-## ![](../.gitbook/assets/key.svg) Creating an article
+## ![](../.gitbook/assets/key.svg) **Créer un article**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit web articles
+* Modifier des articles Web
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
-2. In the centre panel, click **Add article**.
-3. In the Add article dialog, enter the article's [**general settings**](web-articles-1.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
+2. Dans le panneau central, cliquez sur **Ajouter un article.**
+3. Dans la boîte de dialogue Ajouter un article, entrez les [**general settings**](web-articles-1.md#article-general-information) into the data entry form. Fields marked with an asterisk \(\*\) are mandatory.
 4. Click **Save.**
 
-## ![](../.gitbook/assets/key.svg) Editing an article
+## ![](../.gitbook/assets/key.svg) **Modification d'un article**
 
 {% hint style="warning" %}
-**Before you begin:** the following procedures require an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit web articles
+* Modifier des articles Web
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche, veuillez contacter votre administrateur système.
 {% endhint %}
 
 Each article has [general settings](web-articles-1.md#article-general-settings) that govern the article's title, subtitle, publishing date, visibility, and category - these parameters can be set when the article is created and [edited](web-articles-1.md#changing-an-articles-general-settings) as needed. 
@@ -52,7 +52,7 @@ The article's main body content is divided into sections, and each section can c
 
 ### Change an article's general settings
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. Click the **Edit** button to the right of the article title.
@@ -61,7 +61,7 @@ The article's main body content is divided into sections, and each section can c
 
 ### Add a section
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the left panel, click the **Add article section** button.
@@ -70,7 +70,7 @@ The article's main body content is divided into sections, and each section can c
 
 ### Edit a section
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the centre panel, navigate to the article section that you would like to modify. Click the **Edit** button to the right of the section heading. You can edit the article's [general information](groups-1.md#group-general-information), such as the date published, article visibility, or title and caption, by clicking the **Edit** button to the right of the article title.
@@ -81,7 +81,7 @@ The article's main body content is divided into sections, and each section can c
 
 Your article's thumbnail image will appear in the article preview - on the News page and in the Web Articles section of your UNIWeb Administration page. 
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the right panel, under **Article thumbnail**, click on the thumbnail image.
@@ -90,29 +90,29 @@ Your article's thumbnail image will appear in the article preview - on the News 
 
 ### Delete a section
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
 2. In the centre panel, locate and **click on the article** that you would like to edit. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the centre panel, navigate to the article section that you would like to delete. Click the **Edit** button to the right of the section heading.
 5. In the section data entry form, click **Delete**.
 
-## ![](../.gitbook/assets/key.svg) Deleting an article
+## ![](../.gitbook/assets/key.svg) **Supprimer un article**
 
 {% hint style="warning" %}
-**Before you begin:** this procedure requires an [administrator role](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) that includes the following permissions:
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* Edit web articles
+* Modifier des articles Web
 
-If you have not been assigned a role with the permissions listed above, and believe that you should be able to perform this task, please contact your system administrator.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. From your [UNIWeb Administration](../navigating-uniweb/the-administration-page.md) page, go to **Web Articles**.
+1. À partir de votre page d'[Administrateur UNIWeb](../navigating-uniweb/the-administration-page.md), allez dans **Articles web**.
 2. In the centre panel, locate and **click on the article** that you would like to delete. This will take you to the public profile of that article.
 3. In the right panel, click **Edit Profile**. This will take you to the profile editor for that article.
 4. In the right panel, click **Delete Profile**.
 5. In the **Delete profile** dialog, click **Yes**.
 
-## Web Article Information
+## **Informations sur les articles Web**
 
 ### Article general settings
 
