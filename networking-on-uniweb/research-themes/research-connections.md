@@ -16,7 +16,7 @@ Chaque fois que vous [étiqueter votre profil avec un thème de recherche](incre
 
 * À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Connections.**
 
-![](../../.gitbook/assets/screen-shot-2019-12-05-at-10.57.13-am.png)
+![](../../.gitbook/assets/screen-shot-2020-05-07-at-11.57.37-am.png)
 
 Dans le panneau central, votre photo de profil s'affiche au milieu d'un site Web, montrant toutes les connexions qu'UNIWeb a pu générer à l'aide des thèmes de recherche que vous avez [étiqueté à votre profil](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes). Chaque personne que vous voyez connectée à vous a marqué au moins un thème en commun avec vous, ou un parent ou un enfant d'un thème en commun avec vous.
 
@@ -26,11 +26,11 @@ Pour afficher plus d'informations sur une personne spécifique, **passez votre c
 
 * Afficher leur nom [titre académique](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), et [l'unité académique](../../uniweb-accounts/academic-units/) principale,
 
-![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-14-20.jpg)
+![](../../.gitbook/assets/screen-shot-2020-05-07-at-12.00.06-pm.png)
 
 * Afficher une sélection des thèmes de recherche balisés de leur profil, et
 
-![](../../.gitbook/assets/homepage-proximify-university-2019-12-05-11-16-26.jpg)
+![](../../.gitbook/assets/screen-shot-2020-05-07-at-12.00.06-pm%20%281%29.png)
 
 * Ouvrez leur profil, ouvrez leur propre carte de connexion ou ouvrez leur [page d'accueil](../../uniweb-accounts/account-management/member-account-information.md#membership-information-fields), s'ils en ont répertorié un sur leur profil.  
 
@@ -38,7 +38,7 @@ Pour afficher plus d'informations sur une personne spécifique, **passez votre c
 
 Dans le panneau droit de votre carte de connexions de recherche, vous trouverez des options pour vous aider à filtrer vos connexions et à trouver des collaborateurs potentiels.
 
-![](../../.gitbook/assets/screen-shot-2019-12-05-at-10.57.13-am.jpg)
+![](../../.gitbook/assets/screen-shot-2020-05-07-at-12.02.18-pm.png)
 
 Vous pouvez filtrer vos connexions en utilisant trois paramètres différents:
 
