@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenu au centre d'aide d'UNIWeb](README.md)
-* [Navigation d'UNIWeb](navigating-uniweb/README.md)
+* [Naviguer UNIWeb](navigating-uniweb/README.md)
   * [Page d'accueil](navigating-uniweb/the-home-page.md)
   * [La page du réseau](navigating-uniweb/the-network-page.md)
   * [La page des membres](navigating-uniweb/the-members-page.md)
