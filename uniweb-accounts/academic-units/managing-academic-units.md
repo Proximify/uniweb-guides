@@ -53,7 +53,7 @@ Lorsque vous configurez votre réseau UNIWeb pour la première fois, vous devrez
 {% hint style="warning" %}
 **Avant de commencer:** cette procédure nécessite un[ rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) qui inclut les autorisations suivantes:
 
-* **Modifier les unités académiques**
+* Modifier les unités académiques
 
 Avec cet ensemble d'autorisations, un utilisateur ne peut créer de nouvelles unités académiques que dans l'unité académique associée à son rôle d'administrateur.
 
