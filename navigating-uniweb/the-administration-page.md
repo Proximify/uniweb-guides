@@ -33,11 +33,11 @@ La section Membres de la page Administration vous fournit avec une liste complè
 
 ## Articles web
 
-La section articles web vous offre la possibilité de [créér des articles web](../networking-on-uniweb/web-articles-1.md) qui s'affichent sur la page [Réseau UNIWeb](./#the-network-page), dans le newsfeed.
+La section articles web vous offre la possibilité de [créer des articles web](../networking-on-uniweb/web-articles-1.md) qui s'affichent sur la page [Réseau UNIWeb](./#the-network-page), dans le newsfeed.
 
 ## Thèmes de recherche
 
-La section Thèmes de recherche vous offre un survol de votre des [Thèmes de recherche](../networking-on-uniweb/research-themes/) de votre instance UNIWeb, et la structure de leur hierarchie. 
+La section Thèmes de recherche vous offre un survol des [Thèmes de recherche](../networking-on-uniweb/research-themes/) de votre instance UNIWeb, et de la structure de leur hiérarchie. 
 
 À partir de la section Thèmes de recherche, vous pouvez : 
 
@@ -76,5 +76,5 @@ La section API vous permet de gérer les intégrations personnalisées de votre 
 
 ## Modèles de données et rapports
 
-La section Modèles de données et rapports vous permet **de voir les ensembles de règles de mapping, appelés schémas, qui génèrent les formulaires de saisie de données d'UNIWeb et indiquent à UNIWeb comment générer un CV et des documents de rapport.** En général, si un utilisateur UNIWeb indique qu'il/elle manque un enregistrement dans son CV ou document de rapport, le croisement du schéma de ce rapport vous aidera à identifier pourquoi cet enregistrement n'a pas été inclus dans le fichier exporté.
+La section Modèles de données et rapports vous permet **de voir l'ensemble de règles de mapping, appelés schémas, qui génèrent les formulaires de saisie de données d'UNIWeb et indiquent à UNIWeb comment générer un CV et des documents de rapport.** En général, si un utilisateur UNIWeb indique qu'il/elle manque un enregistrement dans son CV ou document de rapport, le croisement du schéma de ce rapport vous aidera à identifier pourquoi cet enregistrement n'a pas été inclus dans le fichier exporté.
 
