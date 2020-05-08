@@ -4,7 +4,7 @@ Les administrateurs d'UNIWeb sont différenciés des membres d'UNIWeb en génér
 
 Tous les administrateurs UNIWeb n'auront pas besoin d'accéder à toutes les autorisations sur l'ensemble du réseau UNIWeb. En règle générale, un petit nombre d'utilisateurs devront disposer d'un ensemble particulier d'autorisations pour effectuer des tâches administratives au sein de leur unité académique. En conséquence, UNIWeb délègue les autorisations d'administrateur par la création de **rôles** d'administrateur, de regroupements d'autorisations qui sont limités à une [unité académique](../academic-units/) and its sub-units. Les rôles peuvent être attribués, modifiés et supprimés de plusieurs membres UNIWeb à la fois.
 
-Par exemple, un département des sciences de la santé peut avoir 3 professeurs qui se consacrent à l'exécution de tâches administratives au sein de l'unité scolaire des sciences de la santé. Ces trois administrateurs pourraient se voir attribuer un rôle unique qui ressemble à ceci:
+Par exemple, un département des sciences de la santé peut avoir 3 professeurs qui se consacrent à l'exécution de tâches administratives au sein de l'unité académique des sciences de la santé. Ces trois administrateurs pourraient se voir attribuer un rôle unique qui ressemble à ceci:
 
 <table>
   <thead>
@@ -32,7 +32,7 @@ Par exemple, un département des sciences de la santé peut avoir 3 professeurs 
       </td>
     </tr>
   </tbody>
-</table>Étant donné que le rôle dans l'exemple ci-dessus ne s'applique qu'à l'unité scolaire des sciences de la santé, les administrateurs qui ont reçu le rôle ci-dessus ne pourraient effectuer ces tâches **qu'au sein de l'unité scolaire des sciences de la santé et de ses sous-unités**. Si le rôle ci-dessus est modifié - si des autorisations sont ajoutées ou supprimées - ces modifications seront appliquées aux trois comptes d'administrateur en même temps.
+</table>Étant donné que le rôle dans l'exemple ci-dessus ne s'applique qu'à l'unité académique des sciences de la santé, les administrateurs qui ont reçu le rôle ci-dessus ne pourraient effectuer ces tâches **qu'au sein de l'unité académique des sciences de la santé et de ses sous-unités**. Si le rôle ci-dessus est modifié - si des autorisations sont ajoutées ou supprimées - ces modifications seront appliquées aux trois comptes d'administrateur en même temps.
 
 Lorsque votre institution met en place son réseau, l'équipe Proximify créera vos premiers comptes administrateur. En tant qu'administrateur, il est de votre responsabilité de créer et d'attribuer des rôles aux futurs utilisateurs.
 
@@ -50,7 +50,7 @@ Lorsque votre institution met en place son réseau, l'équipe Proximify créera 
 
 * Modifier les rôles
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre page d'[Administrateur UNIWeb ](../../navigating-uniweb/the-administration-page.md)allez sur **Contrôle d'accès**. 
@@ -60,7 +60,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 5. Cliquez sur **Enregistrer.**
 
 {% hint style="info" %}
-**Conseil:** les autorisations que vous attribuez à un rôle sont appliquées au sein de l'unité scolaire sélectionnée du rôle et de toutes ses sous-unités. Si vous souhaitez qu'un rôle ait accès à tous les membres et unités académiques du réseau, choisissez le nom de votre établissement comme unité académique pour le rôle.
+**Conseil:** les autorisations que vous attribuez à un rôle sont appliquées au sein de l'unité académique sélectionnée du rôle et de toutes ses sous-unités. Si vous souhaitez qu'un rôle ait accès à tous les membres et unités académiques du réseau, choisissez le nom de votre établissement comme unité académique pour le rôle.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Modification des rôles d'administrateur**
@@ -70,7 +70,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 
 * Modifier les rôles
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre page d'[Administrateur UNIWeb ](../../navigating-uniweb/the-administration-page.md)allez sur **Contrôle d'accès**. 
@@ -92,7 +92,7 @@ Les rôles ne peuvent pas être supprimés, mais leurs [permissions](managing-ad
 
 * Modifier les rôles
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre page d'[Administrateur UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Contrôle d'accès.**
@@ -108,7 +108,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 
 | Nom de la permission | Fonction de la permission  |
 | :--- | :--- |
-| **Approuver de nouveaux thèmes** | Modifiez, supprimez ou approuvez les [**thèmes de recherche**](../../networking-on-uniweb/research-themes/managing-research-themes.md) proposés par les membres d'UNIWeb au sein de votre unité scolaire. |
+| **Approuver de nouveaux thèmes** | Modifiez, supprimez ou approuvez les [**thèmes de recherche**](../../networking-on-uniweb/research-themes/managing-research-themes.md) proposés par les membres d'UNIWeb au sein de votre unité académique. |
 | **Attribuer des rôles aux membres** | \*\*\*\*[**Attribuez des rôles**](managing-administrators.md) pour accorder aux autres membres d'UNIWeb un accès administrateur à votre **unité académique** ou à ses sous-unités. |
 | **Créer des clients API** | Accordez à d'autres systèmes logiciels un accès sécurisé en lecture / écriture aux informations stockées par UNIWeb. Voir **Accès API** pour plus d'informations. |
 | **Créer de nouveaux comptes** | \*\*\*\*[**Créez**](../account-management/account-creation.md#creating-uniweb-member-accounts-manually) ****des comptes de membre UNIWeb. |
@@ -118,7 +118,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 | **Modifier les informations sur les membres** | \*\*\*\*[**Modifier les données du profil public des membres d'UNIWeb**](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile) dans votre unité académique, **affichez les informations de leur CV** et [**genérer des CVs et des rapports**](../../your-academic-information/downloading-cvs-and-reports.md#downloading-member-cvs-and-reports) en leur nom. |
 | **Modifier les rôles** | Ajoutez, modifiez ou supprimez des [**roles d'administrateur**](managing-administrator-roles-and-permissions.md). |
 | **Modifier des articles Web** | Ajoutez, modifiez ou supprimez des **articles Web.** |
-| **Recevez de nouvelles notifications de thème** | Recevez des e-mails automatiques chaque fois qu'un nouveau [**thème de recherche**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) est créé par un membre d'UNIWeb dans votre unité scolaire. |
+| **Recevez de nouvelles notifications de thème** | Recevez des e-mails automatiques chaque fois qu'un nouveau [**thème de recherche**](../../networking-on-uniweb/research-themes/managing-research-themes.md#approving-research-themes) est créé par un membre d'UNIWeb dans votre unité académique. |
 | **Recevoir des notifications d'inscription** | Recevez des e-mails automatiques chaque fois qu'un nouveau membre UNIWeb termine le [**processus d'inscription UNIWeb**](../account-management/account-creation.md). |
 | **Envoyer des invitations par e-mail** | Invitez les utilisateurs à rejoindre le réseau UNIWeb en [**envoyant des invitations à créer un compte**](../account-management/account-creation.md#sending-account-activation-emails) ****et des **courriels de rappel** |
 | **Mettre à jour le schéma de profil** | Acceptez les demandes de mise à jour des schémas de profil. |
