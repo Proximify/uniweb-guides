@@ -21,10 +21,10 @@ La section Profil vous permet de [**créer un profil publique sur UNIWeb**](../n
 À partir de la section profil, vous pouvez :
 
 * [Remplir votre profil publique](../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv) 
-* [Creation d'un nouveau thème de recherche](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
+* [Créer un nouveau thème de recherche](../networking-on-uniweb/research-themes/managing-research-themes.md#creating-new-research-themes)
 * [Ajouter des publications à votre profil publique ](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes)
 * [Ajouter des lieux de recherche à votre profil publique ](../networking-on-uniweb/research-places-1.md)
-* [Modifications sur votre information de membre](../uniweb-accounts/account-management/member-account-information.md)
+* [Modifier votre information de membre](../uniweb-accounts/account-management/member-account-information.md)
 * [Rejoindre une unité académique secondaire \(nomination croisée\)](../uniweb-accounts/academic-units/cross-appointments.md) 
 * [Changer votre mot de passe](../uniweb-accounts/account-management/account-login.md#updating-your-uniweb-account-password)
 
@@ -49,8 +49,8 @@ La section Publications vous offre un endroit dédié à la ****[**création d'a
 
 À partir de la section Publications, vous pouvez :
 
-* [Créer, modifier et suprimer des archives des publications](../your-academic-information/publications-1.md#adding-publications-manually)
-* [Marquer des publications avec des interets de recherche, afin de les inclure dans votre profil publique](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
+* [Créer, modifier et supprimer des archives des publications](../your-academic-information/publications-1.md#adding-publications-manually)
+* [Marquer des publications avec des intérêts de recherche, afin de les inclure dans votre profil publique](../networking-on-uniweb/research-themes/increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 
 ## Groupes
 
