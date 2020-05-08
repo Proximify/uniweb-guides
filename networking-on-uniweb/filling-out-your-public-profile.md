@@ -6,7 +6,7 @@ UNIWeb comprend des outils intuitifs pour ajouter rapidement de nouvelles inform
 
 * [Affichage de votre propre profil public](filling-out-your-public-profile.md#viewing-your-public-profile)
 * [Ajout d'une photo de profil](filling-out-your-public-profile.md#adding-a-profile-picture)
-* Remplir manuellement votre profil public
+* \*\*\*\*[Remplir manuellement votre profil publ**ic**](filling-out-your-public-profile.md#remplir-manuellement-votre-profil-public)\*\*\*\*
 * [Remplir automatiquement votre profil public à l'aide de votre CV](filling-out-your-public-profile.md#filling-out-your-public-profile-manually)
 * [Remplir le profil public d'un autre membre d'UNIWeb](filling-out-your-public-profile.md#filling-out-your-public-profile-automatically-using-your-cv)
 * [Création et restauration d'une sauvegarde de votre profil](filling-out-your-public-profile.md#creating-and-restoring-a-backup-of-your-profile)
