@@ -19,9 +19,9 @@
 2. Sur l'écran de création de compte, sélectionnez votre rôle au sein de votre institution. Cela correspondra à votre [type de compte](member-account-information.md#membership-information-fields). Cliquez sur **Suivant**.
 3. Remplissez les détails de votre [information de compte](member-account-information.md#account-information-fields). Les champs marqués d'un astérisque sont obligatoires. Remplissez les détails de vos informations de compte de membre. Les champs marqués d'un astérisque sont obligatoires. Cliquez sur **Suivant**.
 4. Sélectionnez le nom de votre superviseur principal et co-superviseur \(le cas échéant\) dans votre établissement et indiquez la date de fin prévue de votre contrôle dans l'établissement. Le ou les superviseurs sélectionnés seront invités à valider ces informations afin d'activer votre compte.
-5. Un courriel de confirmation sera envoyé à l'adresse que vous avez choisie. **Cliquez sur le lien «Vérifier mon e-mail»** dans l'e-mail de confirmation.
+5. Un courriel de confirmation sera envoyé à l'adresse que vous avez choisie. **Cliquez sur le lien «Vérifier mon courriel »** dans l'e-mail de confirmation.
 
-Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera si vos superviseurs ont validé votre compte. Si vos superviseurs vérifient que les informations de votre compte sont correctes, vous recevrez un  [courriel d'invitation](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) pour terminer la création de votre compte.
+Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera si vos superviseurs ont validé votre compte. Si vos superviseurs vérifient que les informations de votre compte sont correctes, vous recevrez un [courriel d'invitation](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) pour terminer la création de votre compte.
 
 ## Créer votre compte UNIWeb à partir d'un courriel d'invitation
 
@@ -131,19 +131,19 @@ L'exemple de feuille de calcul comprend tous les [champs d'information sur les m
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Envoyer des courriels pour activer des comptes
 
-Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inviter à activer leurs comptes. Cela leur enverra un e-mail de bienvenue avec du texte et des informations approuvés par votre institution.
+Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inviter à activer leurs comptes. Cela leur enverra un courriel de bienvenue avec du texte et des informations approuvés par votre institution.
 
 {% hint style="warning" %}
 **Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes : 
 
 * Créer de nouveaux comptes
-* Modifier les informations sur les membres
+* Modifier les informations sur le membre
 * Envoyer des invitations par courriel
 
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. À partir de votre page [d'Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
+1. À partir de votre page [d'administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
 2. Localisez le \(s\) membre \(s\) UNIWeb à qui vous souhaitez envoyer un e-mail d'activation de compte, **puis cochez la case** à droite de leur ligne.
 3. Dans le panneau de droite, cliquez sur **Activation du compte**.
 4. Dans la boîte de dialogue _activation du compte_, vérifiez que vous avez sélectionné le ou les membres UNIWeb appropriés.
