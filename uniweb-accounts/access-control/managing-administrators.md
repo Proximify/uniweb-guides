@@ -61,7 +61,7 @@ Vous pouvez révoquer l'accès administrateur d'un membre UNIWeb en supprimant t
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. À partir de votre page [Administrateur d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
+1. À partir de votre page [Administration d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
 2. Dans le panneau central, cliquez sur le nom de l'administrateur UNIWeb dont vous souhaitez supprimer leur accès.
 3. Dans la boîte de dialogue du profil d'administrateur du membre, **désélectionnez tous les rôles** qui leur ont été attribués.
 4. Cliquez sur **Enregistrer.**
