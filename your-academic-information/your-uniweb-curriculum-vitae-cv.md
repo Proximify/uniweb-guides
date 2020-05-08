@@ -41,7 +41,7 @@ Vous pouvez réimporter des informations dans votre CV UNIWeb à partir du site 
 | \[Pas de correspondance\] | Enregistrement D | UNIWeb **importe** le record D |
 
 {% hint style="danger" %}
-**Remarque:** comme UNIWeb remplacera les enregistrements dont les copies importées ont été modifiées, il est important de noter que le CCV ne capture pas toujours autant d'informations que UNIWeb dans chaque enregistrement. Notamment, **le CCV ne capture pas les informations de mois et de date, et le CCV ne capture pas les champs personnalisés que votre institution a demandés dans les sections,** et ainsi toutes les informations saisies dans ces champs **peuvent être perdues** si elles sont remplacées par des copies qui ont été modifiées le le site Web du CCV.
+**À noter:** comme UNIWeb remplacera les enregistrements dont les copies importées ont été modifiées, il est important de noter que le CCV ne capture pas toujours autant d'informations que UNIWeb dans chaque enregistrement. Notamment, **le CCV ne capture pas les informations de mois et de date, et le CCV ne capture pas les champs personnalisés que votre institution a demandés dans les sections,** et ainsi toutes les informations saisies dans ces champs **peuvent être perdues** si elles sont remplacées par des copies qui ont été modifiées le le site Web du CCV.
 {% endhint %}
 
 ## **Remplir manuellement votre curriculum vitae**
