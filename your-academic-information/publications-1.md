@@ -64,7 +64,7 @@ Pour ces scénarios, UNIWeb inclut une fonction avancée de détection des doubl
 1. À partir de votre page [d'accueil UNIWeb](../navigating-uniweb/the-home-page.md), allez dans **Publications.**
 2. Dans le panneau de droite, cliquez sur **Identifier les doublons.**
 3. Dans la boîte de dialogue **Rechercher les doublons**, sélectionnez les paramètres que vous souhaitez qu'UNIWeb utilise pour identifier les entrées en double.
-4. Cliquez sur **Rechercher.**.
+4. Cliquez sur **Rechercher.**
 
 Dans la boîte de dialogue Résultats de la détection des doublons, UNIWeb organisera les entrées en double pour identifier facilement les éléments communs entre eux.
 
