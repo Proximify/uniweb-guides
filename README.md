@@ -1,8 +1,8 @@
 # Bienvenu au centre d'aide d'UNIWeb
 
-UNIWeb est un logiciel de productivité de la recherche conçu pour augmenter la productivité du personnel et des professeurs des institutions de recherche. Cette solution au niveau de l'entreprise fournit un réseau sécurisé et privé permettant aux chercheurs de se connecter, de collaborer et de compiler leurs informations académiques.
+UNIWeb est un logiciel de productivité de la recherche conçu pour augmenter la productivité du personnel et des professeurs des institutions de recherche. Cette solution fournit un réseau sécurisé et privé permettant aux chercheurs de se connecter, de collaborer et de compiler leurs informations académiques.
 
-Pour commencer, choisissez un chapitre ci-dessous ou parcourez les rubriques dans les chapitres sur le côté gauche de la page. Si vous recherchez de l'aide sur un sujet spécifique, vous pouvez rechercher le centre d'aide à l'aide de l'outil de recherche en haut à droite de la page.
+Pour commencer, choisissez un chapitre ci-dessous ou parcourez les rubriques dans les chapitres sur le côté gauche de la page. Si vous cherchez de l'aide sur un sujet spécifique, vous pouvez parcourir le centre d'aide au travers l'outil de recherche en haut à droite de la page.
 
 {% hint style="info" %}
 **Conseil:** le centre d'aide comprend des documents pour tous les utilisateurs d'UNIWeb - des membres généraux ainsi que des administrateurs. Afin de maintenir une certaine clarté, nous avons inclus un **symbole clé** ![](.gitbook/assets/key.svg)à côté des en-têtes de toutes les **procédures qui nécessitent des autorisations d'administrateur**, ainsi qu'une liste des autorisations requises pour exécuter la procédure.
@@ -22,7 +22,7 @@ Ce chapitre couvre le spectre de la gestion des comptes et du contrôle d'accès
 
 ### Votre information académique
 
-Apprenez les tenants et les aboutissants de l'utilisation d'UNIWeb pour gérer votre curriculum vitae académique, un format basé sur et compatible avec la norme du CV commun canadien \(CVC\). Vous pouvez utiliser votre CV UNIWeb à la fois pour postuler à des opportunités de financement sur le site Web du CVC et pour créer de documents de rapport annuel magnifiques et préformatés pour votre institution, en quelques clics seulement.
+Apprenez les tenants et les aboutissants de l'utilisation d'UNIWeb pour gérer votre curriculum vitae académique, un format basé sur et compatible avec la norme du CV commun canadien \(CVC\). Vous pouvez utiliser votre CV UNIWeb à la fois pour postuler à des opportunités de financement sur le site Web du CVC et pour créer des documents de rapport annuel magnifiques et préformatés pour votre institution, en quelques clics seulement.
 
 {% page-ref page="your-academic-information/" %}
 
