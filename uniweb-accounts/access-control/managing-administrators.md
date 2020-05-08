@@ -22,7 +22,7 @@ L'accès aux administrateurs dans UNIWeb est accordé en attribuant des **rôles
 Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
 {% endhint %}
 
-1. À partir de votre page [Administrateur d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
+1. À partir de votre page [Administration d'UNIWeb](../../navigating-uniweb/the-administration-page.md), allez dans **Contrôle d'accès**. 
 2. Dans le panneau central, cliquez sur le bouton **Ajouter un membre** à droite de l'en-tête Administrateurs.
 3. Dans la boîte de dialogue _Nouveau membre_, parcourez ou recherchez dans le menu déroulant Nouveau membre le membre UNIWeb auquel vous souhaitez attribuer un rôle d'administrateur, puis **cliquez sur son nom.**
 4. **Cochez la case** en regard du ou des rôles que vous souhaitez attribuer au membre UNIWeb sélectionné.
