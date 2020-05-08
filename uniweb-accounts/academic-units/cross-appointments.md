@@ -27,8 +27,8 @@ Les membres d'UNIWeb peuvent ajouter ou supprimer leurs propres nominations croi
 ## **Modifier ou supprimer un rendez-vous croisé de votre compte UNIWeb**
 
 1. A partir de votre page d'accueil UNIWeb, [page d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil.**
-2. Dans le panneau central, allez à la section **Affectuations en cours** et cliquez sur le bouton **Modifier** à côté du rendez-vous croisé que vous souhaitez modifier.
-3. Modifiez les informations dans le formulaire de saisie des données des _Affectuations en cours_ si nécessaire.
+2. Dans le panneau central, allez à la section **Affectations en cours** et cliquez sur le bouton **Modifier** à côté du rendez-vous croisé que vous souhaitez modifier.
+3. Modifiez les informations dans le formulaire de saisie des données des _Affectations en cours_ si nécessaire.
 4. Cliquez sur _Enregistrer_ pour enregistrer vos modifications ou sur _Supprimer_ pour supprimer le rendez-vous croisé de votre compte.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) **Ajout des membre par affectation aux unités académiques**
