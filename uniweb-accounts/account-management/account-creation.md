@@ -19,17 +19,17 @@
 2. Sur l'écran de création de compte, sélectionnez votre rôle au sein de votre institution. Cela correspondra à votre [type de compte](member-account-information.md#membership-information-fields). Cliquez sur **Suivant**.
 3. Remplissez les détails de votre [information de compte](member-account-information.md#account-information-fields). Les champs marqués d'un astérisque sont obligatoires. Remplissez les détails de vos informations de compte de membre. Les champs marqués d'un astérisque sont obligatoires. Cliquez sur **Suivant**.
 4. Sélectionnez le nom de votre superviseur principal et co-superviseur \(le cas échéant\) dans votre établissement et indiquez la date de fin prévue de votre contrôle dans l'établissement. Le ou les superviseurs sélectionnés seront invités à valider ces informations afin d'activer votre compte.
-5. Un courriel de confirmation sera envoyé à l'adresse que vous avez choisie. **Cliquez sur le lien «Vérifier mon e-mail»** dans l'e-mail de confirmation
+5. Un courriel de confirmation sera envoyé à l'adresse que vous avez choisie. **Cliquez sur le lien «Vérifier mon e-mail»** dans l'e-mail de confirmation.
 
 Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera si vos superviseurs ont validé votre compte. Si vos superviseurs vérifient que les informations de votre compte sont correctes, vous recevrez un  [courriel d'invitation](account-creation.md#creating-your-uniweb-account-from-an-invitation-email) pour terminer la création de votre compte.
 
-## Créer votre compte UNIWeb à partir d'un courriel d'invitationl
+## Créer votre compte UNIWeb à partir d'un courriel d'invitation
 
 {% hint style="warning" %}
-**Avant de commencer :** vous recevrez un e-mail d'invitation d'UNIWeb soit lorsque vous créez votre propre compte via la page Réseau UNIWeb de votre institution, soit si un administrateur UNIWeb crée un compte pour vous. Si vous pensez que vous auriez dû recevoir un courriel d'invitation et que vous ne l'avez pas fait, veuillez contacter un administrateur système pour l'instance UNIWeb de votre institution.
+**Avant de commencer :** vous recevrez un courriel d'invitation d'UNIWeb, soit lorsque vous créez votre propre compte via la page Réseau UNIWeb de votre institution, soit si un administrateur d'UNIWeb avait crée un compte pour vous. Si vous pensez que vous auriez dû recevoir un courriel d'invitation et que vous ne l'avez pas fait, veuillez contacter un administrateur système pour l'instance UNIWeb de votre institution.
 {% endhint %}
 
-1. Cliquez sur le lien **Activer mon compte UNIWeb** dans le corps de l'e-mail.
+1. Cliquez sur le lien **Activer mon compte UNIWeb** dans le corps de le courriel.
 2. Lisez les termes de la licence du logiciel et, si vous êtes d'accord, **cliquez sur le bouton «J'accepte»** pour continuer
 3. **Créez un mot de passe** pour votre nouveau compte UNIWeb et **cliquez sur le bouton «Soumettre».**
 
@@ -38,7 +38,7 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 {% hint style="warning" %}
 **Avant de commencer :** Si votre institution a intégré UNIWeb avec un système d'authentification unique existant, **il n'y aura pas de besoin pour créer un compte UNIWeb manuellement.** Les comptes sont créés automatiquement pour les utilisateurs lorsqu'ils suivent les étapes pour [se connecter à leur compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 
-**Cette procédure nécessite un**[ **role administrateur**](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
+**Cette procédure nécessite un**[ **rôle d'administrateur**](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
 
 * Créer des nouveaux comptes
 * Modifier l'information des membres 
