@@ -38,12 +38,12 @@ Une fois que vous aurez vérifié votre adresse courriel, UNIWeb vous indiquera 
 {% hint style="warning" %}
 **Avant de commencer :** Si votre institution a intégré UNIWeb avec un système d'authentification unique existant, **il n'y aura pas de besoin pour créer un compte UNIWeb manuellement.** Les comptes sont créés automatiquement pour les utilisateurs lorsqu'ils suivent les étapes pour [se connecter à leur compte UNIWeb](account-login.md#logging-in-to-your-uniweb-account) pour la première fois.
 
-**Cette procédure nécessite un**[ **rôle d'administrateur**](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
+**Cette procédure nécessite un**[ **rôle d'administrateur**](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité académique du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes :
 
 * Créer des nouveaux comptes
 * Modifier l'information des membres 
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité académique veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre [page d'administration](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
@@ -71,7 +71,7 @@ De temps en temps, vous devrez peut-être ajouter plusieurs nouveaux comptes de 
 * Créer de nouveaux comptes 
 * Modifier les informations sur les membres
 
-Modifier les informations sur les membres Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Modifier les informations sur les membres Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 ### Création d'une feuille de calcul de compte de membre UNIWeb:
@@ -115,7 +115,7 @@ L'exemple de feuille de calcul comprend tous les [champs d'information sur les m
 * Les lignes vides sont ignorées 
 * Si une ligne fournit la même adresse e-mail d'un utilisateur existant dans le système, la ligne est ignorée \(c'est ainsi qu'UNIWeb filtre les entrées en double\)
 * Les colonnes que UNIWeb ne reconnaît pas provoqueront une erreur. 
-* Les entrées acceptables pour le **type de compte**, le **titre du poste** et **l'unité scolaire** sont dictées par votre établissement.
+* Les entrées acceptables pour le **type de compte**, le **titre du poste** et **l'unité académique** sont dictées par votre établissement.
 {% endhint %}
 
 ### Téléchargement de votre feuille de calcul sur UNIWeb
@@ -134,13 +134,13 @@ L'exemple de feuille de calcul comprend tous les [champs d'information sur les m
 Une fois que vous avez ajouté de nouveaux membres à UNIWeb, vous devez les inviter à activer leurs comptes. Cela leur enverra un courriel de bienvenue avec du texte et des informations approuvés par votre institution.
 
 {% hint style="warning" %}
-**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes : 
+**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité académique du sujet qui inclut les [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes : 
 
 * Créer de nouveaux comptes
 * Modifier les informations sur le membre
 * Envoyer des invitations par courriel
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre page [d'administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
@@ -154,13 +154,13 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 Si vous avez déjà invité des membres, mais qu'ils n'ont pas encore activé leur compte, vous pouvez leur envoyer un e-mail de rappel. Si vous ne savez pas quels membres ont déjà reçu des e-mails d'invitation, UNIWeb peut filtrer les membres pour vous permettre de sélectionner automatiquement les membres qui ont déjà reçu des e-mails d'invitation et de rappel.
 
 {% hint style="warning" %}
-**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md)  au sein de l'unité scolaire du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
+**Avant de commencer :** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md)  au sein de l'unité académique du sujet qui inclut les [autorisations](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
 * Créer des nouveaux comptes
 * Modifier l'information des membres 
 * Modifier des invitations par courriel
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre page [d'Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), cliquez sur **Membres**.
