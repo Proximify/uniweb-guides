@@ -6,5 +6,5 @@ Ce chapitre couvre le spectre de la gestion des comptes et du contrôle d'accès
 
 * [Gestion de comptes ](account-management/)
 * [Unités académiques](academic-units/) 
-* [Contrôles d'accès](access-control/)
+* [Contrôle d'accès](access-control/)
 
