@@ -20,12 +20,12 @@ L'information sur votre adhésion sert deux objectifs importants dans UNIWeb:
 4. Cliquez sur **Sauvegarder.**
 
 {% hint style="danger" %}
-**À noter:** Comme membre général d'UNIWeb, vous pouvez modifier toutes les informations de votre compte à l'exception de votre type de compte, car ce champ peut affecter plusieurs domaines d'UNIWeb. Si vous devez modifier votre type de compte, contactez un administrateur système pour votre unité scolaire.
+**À noter:** Comme membre général d'UNIWeb, vous pouvez modifier toutes les informations de votre compte à l'exception de votre type de compte, car ce champ peut affecter plusieurs domaines d'UNIWeb. Si vous devez modifier votre type de compte, contactez un administrateur système pour votre unité académique.
 {% endhint %}
 
 ## Changer votre adresse de compte et de courriel
 
-Par défaut, l'adresse courriel utilisée pour créer votre compte UNIWeb est automatiquement répertoriée dans votre information d'adhésion, et donc sur votre [profil public](../../networking-on-uniweb/filling-out-your-public-profile.md). Si vous préférez, vous pouvez modifier ou supprimer l'adresse courriel qui est publiquement répertoriée dans vos informations d'adhésion, ou vous pouvez définir une adresse e-mail privée à utiliser pour vous connecter à votre compte et recevoir des alertes par e-mail du système.
+Par défaut, l'adresse courriel utilisée pour créer votre compte UNIWeb est automatiquement répertoriée dans votre information d'adhésion, et donc sur votre [profil public](../../networking-on-uniweb/filling-out-your-public-profile.md). Si vous préférez, vous pouvez modifier ou supprimer l'adresse courriel qui est publiquement répertoriée dans vos informations d'adhésion, ou vous pouvez définir une adresse courriel privée à utiliser pour vous connecter à votre compte et recevoir des alertes par courriel du système.
 
 ### Changer votre adresse courriel publique
 
@@ -42,17 +42,17 @@ Par défaut, l'adresse courriel utilisée pour créer votre compte UNIWeb est au
 
 1. À partir de votre [Page d'acceuil UNIWeb](../../navigating-uniweb/the-home-page.md), allez sur **Profil.**
 2. Sur le panneau à droite, cliquez sur **Adresse courriel privée.**
-3. Dans la boîte de dialogue **Définir une adresse e-mail privée**, entrez une nouvelle adresse e-mail. Votre adresse e-mail actuelle sera affichée à gauche du champ de saisie de texte.
+3. Dans la boîte de dialogue **Définir une adresse courriel privée**, entrez une nouvelle adresse courriel. Votre adresse courriel actuelle sera affichée à gauche du champ de saisie de texte.
 4. Cliquez sur **Enregistrer**.
 
 ## ![](../../.gitbook/assets/key%20%281%29.svg) Modification des informations d'adhésion des autres membres d'UNIWeb
 
 {% hint style="warning" %}
-**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité scolaire du sujet qui inclut des [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
+**Avant de commencer:** cette procédure nécessite un [rôle d'administrateur](../access-control/managing-administrator-roles-and-permissions.md) au sein de l'unité académique du sujet qui inclut des [permissions](../access-control/managing-administrator-roles-and-permissions.md#administrator-permissions) suivantes:
 
 * Modifier les informations sur les membres
 
-Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité scolaire, veuillez contacter votre administrateur système.
+Si aucun rôle ne vous a été attribué avec les autorisations répertoriées ci-dessus et que vous pensez que vous devriez pouvoir effectuer cette tâche au sein de votre unité académique, veuillez contacter votre administrateur système.
 {% endhint %}
 
 1. À partir de votre page [Administration UNIWeb](../../navigating-uniweb/the-administration-page.md), allez sur **Membres**.
@@ -166,9 +166,9 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
       <td style="text-align:left"><b>Nom d&apos;utilisateur</b>
       </td>
       <td style="text-align:left">Un nom d&apos;utilisateur qu&apos;un membre UNIWeb peut utiliser pour
-        se connecter &#xE0; son compte UNIWeb au lieu d&apos;une adresse e-mail.
+        se connecter &#xE0; son compte UNIWeb au lieu d&apos;une adresse courriel.
         Si un nom d&apos;utilisateur n&apos;est pas renseign&#xE9; lors de la cr&#xE9;ation
-        d&apos;un nouveau compte UNIWeb, l&apos;e-mail de l&apos;utilisateur est
+        d&apos;un nouveau compte UNIWeb, le courriel de l&apos;utilisateur est
         utilis&#xE9; &#xE0; la place comme nom d&apos;utilisateur. Cela ne peut
         pas &#xEA;tre modifi&#xE9; ult&#xE9;rieurement.
         <br />
