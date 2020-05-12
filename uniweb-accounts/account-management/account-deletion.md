@@ -27,8 +27,6 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 4. Dans la boîte de dialogue Supprimer les membres sélectionnés, vérifiez que vous avez sélectionné le ou les membres UNIWeb appropriés, puis cliquez sur **Supprimer.**
 
 {% hint style="danger" %}
-**À noter:** la suppression du compte d'un membre UNIWeb ne supprimera pas les thèmes de recherche, les articles, les équipements ou les groupes qu'ils ont créés, mais ces équipements n'afficheront plus le propriétaire ou l'auteur.
+**À noter:** la suppression du compte d'un membre UNIWeb ne supprimera pas les thèmes de recherche, les articles, les ressources ou les groupes qu'ils ont créés, mais ces ressources n'afficheront plus le propriétaire ou l'auteur.
 {% endhint %}
-
-
 
