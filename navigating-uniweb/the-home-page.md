@@ -1,6 +1,6 @@
 # Page d'accueil
 
-La page d'accueil d'UNIWeb est le premier écran que vous verrez lorsque vous vous connectez à votre compte UNIWeb. Il s'agit d'un tableau de bord qui combine des sections spécialisées où vous pouvez remplir et gérer les informations de votre compte, votre profil et votre curriculum vitae. La page d'accueil comprend également des outils pour créer et gérer de nouveaux groupes de recherche et profils de ressources.
+La page d'accueil d'UNIWeb est le premier écran que vous verrez lorsque vous vous connectez à votre compte UNIWeb. Il s'agit d'un tableau de bord qui combine des sections spécialisées où vous pouvez remplir et gérer les informations de votre compte, votre profil et votre curriculum vitae. La page d'accueil comprend également des outils pour créer et gérer de nouveaux groupes de recherche et profils de équipements.
 
 ![](../.gitbook/assets/screen-shot-2020-05-07-at-11.47.01-am.png)
 
@@ -11,7 +11,7 @@ La page d'accueil d'UNIWeb est le premier écran que vous verrez lorsque vous vo
 * [Curriculum Vitae](the-home-page.md#curriculum-vitae)
 * [Publications](the-home-page.md#publications)
 * [Groupes](the-home-page.md#groups)
-* [Resources](the-home-page.md#resources)
+* [Équipements](the-home-page.md#resources)
 * [Tutoriels](the-home-page.md#tutorials)
 
 ## **Profil**
@@ -56,9 +56,9 @@ La section Publications vous offre un endroit dédié à la ****[**création d'a
 
 La section Groupes vous permet d'accéder rapidement aux [Groupes de recherche](../networking-on-uniweb/groups-1.md) que vous avez rejoints et de créer et gérer de nouveaux groupes de recherche
 
-## Resources
+## Équipements
 
-La section Resources vous permet de créer et de gérer les [Resources](../networking-on-uniweb/equipment-profiles-resources/) que vous avez mis à disposition au sein de votre réseau UNIWeb. 
+La section Équipements vous permet de créer et de gérer les [Resources](../networking-on-uniweb/equipment-profiles-resources/) que vous avez mis à disposition au sein de votre réseau UNIWeb. 
 
 ## Tutoriels
 
