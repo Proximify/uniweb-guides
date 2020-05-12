@@ -1,6 +1,6 @@
 # Étiqueter avec des thèmes de recherche
 
-Les thèmes de recherche sont les liens qui lient les différentes composantes d'UNIWeb et créent un réseau de recherche cohérent. Les thèmes de recherche constituent l'épine dorsale des outils de mise en réseau d'UNIWeb - résultats de recherche, [Connections de recherche](research-connections.md), et grappes de recherche. Vous pouvez créer une présence puissante pour vous-même sur UNIWeb avec votre [profil](../filling-out-your-public-profile.md), [publications](../../your-academic-information/publications-1.md), [lieux de recherche](../research-places-1.md), [équipements](../equipment-profiles-resources/), et [groupes](../groups-1.md), et en marquant ces éléments avec les thèmes de recherche pertinents, vous vous assurez que ces composants apparaîtront dans les résultats de recherche d'autres utilisateurs, la connexion des cartes et des groupes de recherche liés à ces thèmes.
+Les thèmes de recherche sont les liens qui lient les différentes composantes d'UNIWeb et créent un réseau de recherche cohérent. Les thèmes de recherche constituent l'épine dorsale des outils de mise en réseau d'UNIWeb - résultats de recherche, [Connections de recherche](research-connections.md), et grappes de recherche. Vous pouvez créer une présence puissante pour vous-même sur UNIWeb avec votre [profil](../filling-out-your-public-profile.md), [publications](../../your-academic-information/publications-1.md), [lieux de recherche](../research-places-1.md), [ressources](../equipment-profiles-resources/), et [groupes](../groups-1.md), et en marquant ces éléments avec les thèmes de recherche pertinents, vous vous assurez que ces composants apparaîtront dans les résultats de recherche d'autres utilisateurs, la connexion des cartes et des groupes de recherche liés à ces thèmes.
 
 En bref, en étiquetant avec les thèmes de recherche, vous pouvez faire de l'instance UNIWeb de votre institution un réseau plus connecté et utile, pour vous et pour vos pairs.
 
@@ -9,7 +9,7 @@ En bref, en étiquetant avec les thèmes de recherche, vous pouvez faire de l'in
 * [Étiqueter votre profil public avec des thèmes de recherche](increasing-discoverability-with-research-themes.md#tagging-your-public-profile-with-research-themes)
 * [Étiqueter vos publications avec des thèmes de recherche](increasing-discoverability-with-research-themes.md#tagging-your-publications-with-research-themes)
 * [Étiqueter vos lieux de recherche avec des thèmes de recherche](increasing-discoverability-with-research-themes.md#tagging-your-research-places-with-research-themes)
-* [Étiqueter des équipements avec des thèmes de recherche](increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes)
+* [Étiqueter des ressources avec des thèmes de recherche](increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes)
 * [Étiqueter des groupes avec des thèmes de recherche](increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes)
 
 ## **Étiqueter votre profil public avec des thèmes de recherche**
@@ -76,25 +76,25 @@ En marquant vos lieux de recherche avec des thèmes de recherche, vous augmentez
 3. Dans le formulaire de saisie de données pour le lieu de recherche sélectionné, **cliquez sur le bouton Modifier** à droite du thème de recherche que vous souhaitez supprimer.
 4. Dans la boîte de dialogue Thèmes de recherche, cliquez sur **Supprimer.**
 
-## **Étiqueter des équipements avec des thèmes de recherche**
+## **Étiqueter des ressources avec des thèmes de recherche**
 
-En étiquetant vos [équipements](../equipment-profiles-resources/) avec des thèmes de recherche, vous augmentez le nombre de mots clés que les visiteurs peuvent utiliser pour trouver votre équipement dans les résultats de recherche ou en filtrant sur la page Équipements. Votre équipement sera également affichée dans la grappe de recherche correspondant au thème de recherche étiqueté.
+En étiquetant vos [Ressources](../equipment-profiles-resources/) avec des thèmes de recherche, vous augmentez le nombre de mots clés que les visiteurs peuvent utiliser pour trouver votre ressource dans les résultats de recherche ou en filtrant sur la page Ressources. Votre ressource sera également affichée dans la grappe de recherche correspondant au thème de recherche étiqueté.
 
-### **Ajout d'étiquettes à vos** équipements
+### **Ajout d'étiquettes à vos ressources**
 
-1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Équipements**. 
-2. Dans le panneau central, recherchez et cliquez sur l'équipement que vous souhaitez étiqueter. Cela vous amènera au profil public de cet équipement.
-3. Dans le panneau de droite, cliquez sur **Modifier le profil**. Cela vous amènera à l'éditeur de profil pour cet équipement.
+1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Ressources**. 
+2. Dans le panneau central, recherchez et cliquez sur la ressource que vous souhaitez étiqueter. Cela vous amènera au profil public de cette ressource.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil**. Cela vous amènera à l'éditeur de profil pour cette ressource.
 4. Dans le panneau central, accédez à la section Thèmes de recherche et cliquez sur le bouton **Modifier** à droite du titre de la section.
-5. Parcourez et / ou recherchez dans les listes déroulantes des thèmes de recherche sur le côté gauche du panneau central, puis cochez la case à côté de tous les thèmes de recherche que vous souhaitez ajouter à votre équipement. Les thèmes de recherche que vous avez déjà ajoutés seront déjà cochés.
-6. Passez en revue votre liste actuelle des thèmes de recherche sélectionnés sur le côté droit du panneau central, sous **Sélection actuelle**. Vous pouvez cliquer dessus et les faire glisser pour réorganiser leur affichage sur la page de profil de votre équipement.
+5. Parcourez et / ou recherchez dans les listes déroulantes des thèmes de recherche sur le côté gauche du panneau central, puis cochez la case à côté de tous les thèmes de recherche que vous souhaitez ajouter à votre ressource. Les thèmes de recherche que vous avez déjà ajoutés seront déjà cochés.
+6. Passez en revue votre liste actuelle des thèmes de recherche sélectionnés sur le côté droit du panneau central, sous **Sélection actuelle**. Vous pouvez cliquer dessus et les faire glisser pour réorganiser leur affichage sur la page de profil de votre ressource.
 7. Cliquez sur **Enregistrer.**
 
-### **Supprimer des étiquettes de vos** équipements
+### **Supprimer des étiquettes de vos ressources**
 
-1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Équipements.** 
-2. Dans le panneau central, recherchez et **cliquez sur l'équipement** que vous souhaitez étiqueter. Cela vous amènera au profil public de cet équipement.
-3. Dans le panneau de droite, cliquez sur **Modifier le profil.** Cela vous amènera à l'éditeur de profil pour cet équipement.
+1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Ressources**. 
+2. Dans le panneau central, recherchez et **cliquez sur la ressource** que vous souhaitez étiqueter. Cela vous amènera au profil public de cette ressource.
+3. Dans le panneau de droite, cliquez sur **Modifier le profil.** Cela vous amènera à l'éditeur de profil pour cette ressource..
 4. Dans le panneau central, accédez à la section Thèmes de recherche et cliquez sur le bouton **Modifier** à droite du titre de la section.
 5. Passez en revue votre liste actuelle des thèmes de recherche sélectionnés sur le côté droit du panneau central, sous **Sélection actuelle**. Cliquez sur le **X** à droite de n'importe quel thème de recherche pour le supprimer.
 6. Cliquez sur **Enregistrer.**
@@ -106,7 +106,7 @@ En étiquetant votre [Groupe](../groups-1.md) avec des thèmes de recherche, vou
 ### **Ajout des étiquettes à vos groupes**
 
 1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Groupes**. 
-2. Dans le panneau central, recherchez et **cliquez sur le groupe** que vous souhaitez étiqueter. Cela vous amènera au profil public de cet équipement.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** que vous souhaitez étiqueter. Cela vous amènera au profil public de cette ressource.
 3. Dans le panneau de droite, cliquez sur **Modifier le profil.** Cela vous amènera à l'éditeur de profil pour ce groupe.
 4. Dans le panneau central, accédez à la section Thèmes de recherche et cliquez sur le bouton **Modifier** à droite du titre de la section.
 5. Parcourez et / ou recherchez dans les listes déroulantes des thèmes de recherche sur le côté gauche du panneau central, puis **cochez la case à côté** _****_de tous les thèmes de recherche que vous souhaitez ajouter à votre groupe. Les thèmes de recherche que vous avez déjà ajoutés seront déjà cochés.
@@ -116,7 +116,7 @@ En étiquetant votre [Groupe](../groups-1.md) avec des thèmes de recherche, vou
 ### **Supprimer des étiquettes de vos groupes**
 
 1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Groupes**.
-2. Dans le panneau central, recherchez et **cliquez sur le groupe** que vous souhaitez étiqueter. Cela vous amènera au profil public de cet équipement.
+2. Dans le panneau central, recherchez et **cliquez sur le groupe** que vous souhaitez étiqueter. Cela vous amènera au profil public de cette ressource.
 3. Dans le panneau de droite, cliquez sur **Modifier le profil.** Cela vous amènera à l'éditeur de profil pour ce groupe.
 4. Dans le panneau central, accédez à la section Thèmes de recherche et cliquez sur le bouton **Modifier** à droite du titre de la section.
 5. Parcourez et / ou recherchez dans les listes déroulantes des thèmes de recherche sur le côté gauche du panneau central, puis cochez la case à côté de tous les thèmes de recherche que vous souhaitez ajouter à votre groupe. Les thèmes de recherche que vous avez déjà ajoutés seront déjà cochés.
