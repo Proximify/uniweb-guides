@@ -2,7 +2,7 @@
 
 Que vous fassiez partie d'un petit groupe d'étude ou d'une grande équipe de recherche qui couvre plusieurs unités académiques, vous pouvez garder une présence pour votre groupe et tenir les membres à jour avec les groupes d'UNIWeb. 
 
-Les groupes sont des profils où vous pouvez gérer plusieurs membres et ajouter des liens vers des fichiers, des ressources et des sites Web externes pertinents. Vous pouvez également répertorier les [Lieux de recherche ](research-places-1.md)où votre groupe opère et [étiqueter votre groupe avec des thèmes recherche](research-themes/increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes) pour aider à renforcer la présence de votre groupe sur le réseau UNIWeb.
+Les groupes sont des profils où vous pouvez gérer plusieurs membres et ajouter des liens vers des fichiers, d'équipements et des sites Web externes pertinents. Vous pouvez également répertorier les [Lieux de recherche ](research-places-1.md)où votre groupe opère et [étiqueter votre groupe avec des thèmes recherche](research-themes/increasing-discoverability-with-research-themes.md#tagging-groups-with-research-themes) pour aider à renforcer la présence de votre groupe sur le réseau UNIWeb.
 
 Vous n'avez pas besoin d'être un administrateur UNIWeb pour démarrer un groupe - vous pouvez créer et gérer autant de groupes que vous le souhaitez avec un compte UNIWeb normal. Si vous avez cé un groupe, vous êtes répertorié comme son _**propriétaire**_ et vous pouvez demander l'aide d'autres membres d'UNIWeb en tant qu'administrateurs de groupe, qui peuvent mettre à jour et modifier les informations du groupe avec vous.
 
@@ -182,7 +182,7 @@ UNIWeb téléchargera une copie de sauvegarde du Groupe sur votre ordinateur sou
   </tbody>
 </table>### **Sections de profil de groupe**
 
-Vous pouvez utiliser les sections de la page de profil d'un groupe pour fournir des informations plus détaillées sur le groupe lui-même. Si vous laissez une section vide, elle ne sera pas visible par les visiteurs sur la page de profil de la ressource.
+Vous pouvez utiliser les sections de la page de profil d'un groupe pour fournir des informations plus détaillées sur le groupe lui-même. Si vous laissez une section vide, elle ne sera pas visible par les visiteurs sur la page de profil de l'équipement.
 
 | **Section Profil** | **Objectif** |
 | :--- | :--- |
@@ -190,5 +190,5 @@ Vous pouvez utiliser les sections de la page de profil d'un groupe pour fournir 
 | **Intérêts de recherche** | Marquez votre groupe avec des [Thèmes de recherche](research-themes/increasing-discoverability-with-research-themes.md#tagging-resources-with-research-themes) pour augmenter le nombre de mots clés que les visiteurs peuvent utiliser pour trouver votre groupe dans les résultats de recherche ou en filtrant sur la page Groupes. Votre groupe sera également affiché dans le cluster de recherche correspondant au thème de recherche balisé. |
 | **Lieux de recherche** | Ajoutez tous les emplacements où votre groupe opère. Ces [Lieux de recherche](research-places-1.md) seront affichés sur la page Carte pour les visiteurs ou les membres du groupe auxquels le groupe est visible. |
 | **Partenaires et collaborateurs** | Énumérez toutes les personnes ou organisations, à l'intérieur ou à l'extérieur de votre institution, avec lesquelles votre groupe collabore. |
-| **Ressources** | Ajoutez toutes les [Ressources](equipment-profiles-resources/) qui appartiennent à ou sont gérées ou administrées par votre groupe. |
+| **Équipements** | Ajoutez toutes les [Équipements](equipment-profiles-resources/) qui appartiennent à ou sont gérées ou administrées par votre groupe. |
 
