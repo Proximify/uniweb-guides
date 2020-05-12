@@ -114,7 +114,7 @@ Si aucun rôle ne vous a été attribué avec les autorisations répertoriées c
 | **Créer de nouveaux comptes** | \*\*\*\*[**Créez**](../account-management/account-creation.md#creating-uniweb-member-accounts-manually) ****des comptes de membre UNIWeb. |
 | **Supprimer les comptes existants** | \*\*\*\*[**Suprimer**](../account-management/account-deletion.md#deleting-a-uniweb-members-account) les comptes des membres UNIWeb. |
 | **Modifier les unités académiques** | Créez, modifiez ou supprimez [**unités académiques**](../academic-units/managing-academic-units.md#create-an-academic-unit-manually) ****et des ****[**types d'unités**](../academic-units/managing-academic-units.md#add-a-unit-type). |
-| **Modifier les informations sur l'équipement** | Créez, modifiez ou supprimez des **profils d'équipement / des ressources.** |
+| **Modifier les informations sur l'équipement** | Créez, modifiez ou supprimez des **profils d'équipements.** |
 | **Modifier les informations sur les membres** | \*\*\*\*[**Modifier les données du profil public des membres d'UNIWeb**](../../networking-on-uniweb/filling-out-your-public-profile.md#filling-out-another-uniweb-members-public-profile) dans votre unité académique, **affichez les informations de leur CV** et [**genérer des CVs et des rapports**](../../your-academic-information/downloading-cvs-and-reports.md#downloading-member-cvs-and-reports) en leur nom. |
 | **Modifier les rôles** | Ajoutez, modifiez ou supprimez des [**roles d'administrateur**](managing-administrator-roles-and-permissions.md). |
 | **Modifier des articles Web** | Ajoutez, modifiez ou supprimez des **articles Web.** |
