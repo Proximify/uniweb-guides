@@ -1,8 +1,8 @@
-# Gestion des ressources
+# Gestion d'équipements
 
-Les ressources **ne sont pas** spécifiquement liées aux rôles d'administrateur, et tout membre d'UNIWeb peut donc répertorier ses propres ressources, qu'il dispose ou non d'autorisations d'administrateur. Certaines ressources peuvent être gérées par plusieurs personnes au fil du temps, et vous pouvez donc transférer la propriété de votre ressource à un collègue afin qu'il puisse gérer la ressource et répondre aux demandes à l'avenir.
+Les équipements **ne sont pas** spécifiquement liées aux rôles d'administrateur, et tout membre d'UNIWeb peut donc répertorier ses propres équipements, qu'il dispose ou non d'autorisations d'administrateur. Certaines équipements peuvent être gérées par plusieurs personnes au fil du temps, et vous pouvez donc transférer la propriété de votre ressource à un collègue afin qu'il puisse gérer la ressource et répondre aux demandes à l'avenir.
 
-Une fois qu'un visiteur d'UNIWeb vous a contacté afin d'utiliser votre ressource, toute autre communication se fera en dehors d'UNIWeb; UNIWeb ne propose aucun moyen de négocier des transactions pour des biens ou des services offerts via les ressources.
+Une fois qu'un visiteur d'UNIWeb vous a contacté afin d'utiliser votre ressource, toute autre communication se fera en dehors d'UNIWeb; UNIWeb ne propose aucun moyen de négocier des transactions pour des biens ou des services offerts via les équipements.
 
 {% hint style="danger" %}
 **À noter:** Les administrateurs auxquels un [rôle d'administrateur](../../uniweb-accounts/access-control/managing-administrator-roles-and-permissions.md) a été attribué qui inclut l'autorisation Modifier les profils d'équipement peuvent effectuer les procédures ci-dessous pour toute ressource sur leur réseau UNIWeb, qu'ils soient le propriétaire de la ressource ou que le propriétaire de la ressource se trouve dans l'unité académique de l'administrateur.
@@ -15,11 +15,11 @@ Une fois qu'un visiteur d'UNIWeb vous a contacté afin d'utiliser votre ressourc
 * [Suppression d'une ressource](managing-equipment-profiles.md#deleting-a-resource)
 * [Transfert de propriété d'une ressource](managing-equipment-profiles.md#transferring-ownership-of-a-resource)
 * [Création d'une sauvegarde d'une ressource](managing-equipment-profiles.md#creating-a-backup-of-a-resource)
-* [Information sur le profile des ressources](managing-equipment-profiles.md#resource-profile-information)
+* [Information sur le profile des équipements](managing-equipment-profiles.md#resource-profile-information)
 
 ## **Création d'une ressource**
 
-1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans **Ressources**.
+1. À partir de votre page [d'accueil UNIWeb](../../navigating-uniweb/the-home-page.md), allez dans équipements**.**
 2. Dans le panneau central, cliquez sur **Ajouter une ressource.**
 3. Dans la boîte de dialogue Ajouter une ressource, entrez les [**information générales**](managing-equipment-profiles.md#resource-general-information) de la ressource dans le formulaire de saisie de données. Les champs marqués d'un astérisque \(\*\) sont obligatoires.
 4. Cliquez sur **Enregistrer.**

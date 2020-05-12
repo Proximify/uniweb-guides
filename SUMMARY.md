@@ -33,7 +33,7 @@
     * [Connexions de recherche](networking-on-uniweb/research-themes/research-connections.md)
   * [Lieux de recherche](networking-on-uniweb/research-places-1.md)
   * [Équipements](networking-on-uniweb/equipment-profiles-resources/README.md)
-    * [Gestion des ressources](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
+    * [Gestion d'équipements](networking-on-uniweb/equipment-profiles-resources/managing-equipment-profiles.md)
     * [Recherche et réservation de ressources](networking-on-uniweb/equipment-profiles-resources/finding-and-reserving-resources.md)
   * [Groupes de recherche](networking-on-uniweb/groups-1.md)
   * [Articles Web](networking-on-uniweb/web-articles-1.md)
